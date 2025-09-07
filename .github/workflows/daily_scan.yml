@@ -2,7 +2,7 @@ name: Daily NASDAQ Scan & Publish
 
 on:
   schedule:
-    - cron: '30 23 * * 1-5'  # Runs 23:30 UTC Mon-Fri (market close). Adjust as needed.
+    - cron: '30 23 * * 1-5'  # Runs 23:30 UTC Mon-Fri (market close)
   workflow_dispatch: {}     # allow manual runs
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        index: [0,1,2,3]   # 4 parallel workers by default. Change list to modify parallelism.
+        index: [0,1,2,3]   # 4 parallel workers by default. Change as needed.
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -33,7 +33,7 @@ try:
     print("IMPORT CHECK OK: pandas", pandas.__version__, "numpy", numpy.__version__)
 except Exception as e:
     print("IMPORT ERROR:", e)
-    raise
+    sys.exit(2)
 PY
 
       - name: Download NASDAQ list (best-effort)
@@ -53,8 +53,7 @@ PY
         uses: actions/upload-artifact@v4
         with:
           name: raw-results-${{ matrix.index }}
-          path: |
-            raw-results-${{ matrix.index }}.json
+          path: raw-results-${{ matrix.index }}.json
 
   aggregate_and_deploy:
     needs: worker
