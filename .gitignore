@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Artifacts & logs
+*.log
+public/top_picks.json
+raw-results-*.json
