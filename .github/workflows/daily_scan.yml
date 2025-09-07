@@ -1,22 +1,62 @@
-name: Daily Stock Scan
+# .github/workflows/daily_scan.yml
+name: Daily NASDAQ Scan & Publish
+
 on:
   schedule:
-    - cron: '30 23 * * 1-5'   # 23:30 UTC Mon-Fri
+    - cron: '30 23 * * 1-5'  # 23:30 UTC Mon-Fri
+  workflow_dispatch: {}  # allow manual runs
+
 jobs:
-  scan:
+  worker:
+    name: worker-${{ matrix.index }}
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        index: [0,1,2,3]  # 4 parallel workers; change if you want a different split
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Install deps
-        run: pip install yfinance pandas pandas_ta scikit-learn
-      - name: Fetch Tickers via FTP
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Download NASDAQ list
         run: python download_nasdaq_list.py
-      - name: Run Analysis
-        run: python analyze.py
+      - name: Run worker (process chunk)
+        env:
+          JOB_TOTAL: 4
+          JOB_INDEX: ${{ matrix.index }}
+        run: |
+          python worker.py
+      - name: Upload raw results artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-results-${{ matrix.index }}
+          path: raw-results-${{ matrix.index }}.json
+
+  aggregate_and_deploy:
+    needs: worker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: .
+      - name: Merge and finalize results
+        run: |
+          python finalize.py
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
