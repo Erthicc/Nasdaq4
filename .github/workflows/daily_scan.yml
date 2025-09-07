@@ -1,10 +1,9 @@
-# .github/workflows/daily_scan.yml
 name: Daily NASDAQ Scan & Publish
 
 on:
   schedule:
-    - cron: '30 23 * * 1-5'  # 23:30 UTC Mon-Fri
-  workflow_dispatch: {}  # allow manual runs
+    - cron: '30 23 * * 1-5'  # Runs 23:30 UTC Mon-Fri (market close). Adjust as needed.
+  workflow_dispatch: {}     # allow manual runs
 
 jobs:
   worker:
@@ -12,51 +11,80 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        index: [0,1,2,3]  # 4 parallel workers; change if you want a different split
+        index: [0,1,2,3]   # 4 parallel workers by default. Change list to modify parallelism.
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Install dependencies
+
+      - name: Install dependencies (robust)
         run: |
-          python -m pip install --upgrade pip
+          python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
-      - name: Download NASDAQ list
-        run: python download_nasdaq_list.py
+          # quick import test to fail fast with a clear error message in logs
+          python - <<'PY'
+import sys
+try:
+    import pandas, numpy, yfinance, pandas_ta, sklearn, requests
+    print("IMPORT CHECK OK: pandas", pandas.__version__, "numpy", numpy.__version__)
+except Exception as e:
+    print("IMPORT ERROR:", e)
+    raise
+PY
+
+      - name: Download NASDAQ list (best-effort)
+        run: |
+          python download_nasdaq_list.py || echo "download script exited non-zero; worker will attempt fallback"
+
       - name: Run worker (process chunk)
         env:
           JOB_TOTAL: 4
           JOB_INDEX: ${{ matrix.index }}
         run: |
+          echo "Starting worker index=${JOB_INDEX} / total=${JOB_TOTAL}"
           python worker.py
+
       - name: Upload raw results artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: raw-results-${{ matrix.index }}
-          path: raw-results-${{ matrix.index }}.json
+          path: |
+            raw-results-${{ matrix.index }}.json
 
   aggregate_and_deploy:
     needs: worker
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Install dependencies
+
+      - name: Install dependencies (robust)
         run: |
-          python -m pip install --upgrade pip
+          python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
-      - name: Download artifacts
+
+      - name: Download raw-result artifacts
         uses: actions/download-artifact@v4
         with:
           path: .
+
       - name: Merge and finalize results
         run: |
+          ls -la
+          echo "Found raw-results files:"
+          ls raw-results-*.json || true
           python finalize.py
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
