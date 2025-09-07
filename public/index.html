@@ -1,0 +1,20 @@
+<!-- public/index.html -->
+<!DOCTYPE html><html><head><title>Top Stock Picks</title></head><body>
+<h1>Top NASDAQ Stocks (Daily Scan)</h1>
+<table id="picks">
+  <tr><th>Rank</th><th>Ticker</th><th>Score</th><th>Signals</th></tr>
+</table>
+<script>
+fetch('top_picks.json').then(r => r.json()).then(data => {
+  const table = document.getElementById('picks');
+  data.top.forEach((item, i) => {
+    let tr = document.createElement('tr');
+    tr.innerHTML = `<td>${i+1}</td>
+                    <td>${item.ticker}</td>
+                    <td>${item.score_0_100}</td>
+                    <td>${item.explanation}</td>`;
+    table.appendChild(tr);
+  });
+});
+</script>
+</body></html>
