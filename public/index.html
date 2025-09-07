@@ -1,20 +1,47 @@
 <!-- public/index.html -->
-<!DOCTYPE html><html><head><title>Top Stock Picks</title></head><body>
-<h1>Top NASDAQ Stocks (Daily Scan)</h1>
-<table id="picks">
-  <tr><th>Rank</th><th>Ticker</th><th>Score</th><th>Signals</th></tr>
-</table>
-<script>
-fetch('top_picks.json').then(r => r.json()).then(data => {
-  const table = document.getElementById('picks');
-  data.top.forEach((item, i) => {
-    let tr = document.createElement('tr');
-    tr.innerHTML = `<td>${i+1}</td>
-                    <td>${item.ticker}</td>
-                    <td>${item.score_0_100}</td>
-                    <td>${item.explanation}</td>`;
-    table.appendChild(tr);
-  });
-});
-</script>
-</body></html>
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>NASDAQ Top Picks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>NASDAQ — Daily Top Picks</h1>
+    <div id="meta"></div>
+    <input id="filter" placeholder="Filter ticker or signal..." />
+    <table id="picks" class="striped">
+      <thead>
+        <tr><th>Rank</th><th>Ticker</th><th>Score (0-100)</th><th>Signals</th><th>Avg Vol(20)</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+  <script>
+    async function load() {
+      const r = await fetch('top_picks.json');
+      const data = await r.json();
+      document.getElementById('meta').innerText = `Generated at: ${data.generated_at} • Processed: ${data.count_results}`;
+      const tbody = document.querySelector('#picks tbody');
+      tbody.innerHTML = '';
+      data.top.forEach((it, i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${i+1}</td>
+                        <td>${it.ticker}</td>
+                        <td>${it.score_0_100}</td>
+                        <td>${it.explanation}</td>
+                        <td>${it.avg_vol20 ? Math.round(it.avg_vol20).toLocaleString() : ''}</td>`;
+        tbody.appendChild(tr);
+      });
+    }
+    document.getElementById('filter').addEventListener('input', function(e){
+      const q = e.target.value.toLowerCase();
+      [...document.querySelectorAll('#picks tbody tr')].forEach(tr=>{
+        tr.style.display = (q === '' || tr.innerText.toLowerCase().includes(q)) ? '' : 'none';
+      });
+    });
+    load();
+  </script>
+</body>
+</html>
