@@ -1,0 +1,24 @@
+name: Daily Stock Scan
+on:
+  schedule:
+    - cron: '30 23 * * 1-5'   # 23:30 UTC Mon-Fri
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install deps
+        run: pip install yfinance pandas pandas_ta scikit-learn
+      - name: Fetch Tickers via FTP
+        run: python download_nasdaq_list.py
+      - name: Run Analysis
+        run: python analyze.py
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
