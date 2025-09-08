@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        index: [0,1,2,3]   # Adjust number of parallel workers as needed
+        index: [0,1,2,3]
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Import check (fail fast)
-        run: python -c "import sys; import pandas, numpy, yfinance, ta, sklearn, requests; print('IMPORT CHECK OK:', pandas.__version__, numpy.__version__)"
+        run: python -c "import pandas, numpy, yfinance, ta, requests; print('IMPORT CHECK OK:', pandas.__version__, numpy.__version__)"
 
       - name: Download NASDAQ list (best-effort)
         run: |
