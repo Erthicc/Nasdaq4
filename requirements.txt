@@ -1,17 +1,8 @@
-# Core data and math
-pandas>=2.3
-numpy>=2.2
-
-# Data source
-yfinance>=0.2
-
-# Technical analysis ('ta' library)
-ta>=0.12
-
-# ML / utils
-scikit-learn>=1.2
-scipy>=1.10
-
-# Visualization / HTTP
-matplotlib>=3.6
-requests>=2.30
+pandas==2.3.2
+numpy==2.3.2
+yfinance==0.2.65
+ta==0.11.0
+scikit-learn==1.2.2
+scipy==1.10.1
+matplotlib==3.7.2
+requests==2.31.0
