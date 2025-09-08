@@ -1,8 +1,17 @@
-pandas>=2.0
-numpy>=1.25
+# Core data and math
+pandas>=2.3
+numpy>=2.2
+
+# Data source
 yfinance>=0.2
-pandas_ta>=0.3
+
+# Technical analysis (PyPI package name is 'pandas-ta')
+pandas-ta>=0.3
+
+# ML / utils
 scikit-learn>=1.2
 scipy>=1.10
+
+# Visualization / HTTP
 matplotlib>=3.6
 requests>=2.30
