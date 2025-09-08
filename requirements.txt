@@ -1,5 +1,5 @@
-# Minimal, pinned dependencies for Python 3.11 (stable, compatible)
-numpy==1.25.3
+# Minimal, pinned dependencies known to install on GH Actions Python 3.11
+numpy==1.25.2
 pandas==2.2.3
 yfinance==0.2.65
 ta==0.11.0
