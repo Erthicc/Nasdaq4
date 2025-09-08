@@ -1,16 +1,14 @@
 name: Daily NASDAQ Scan & Publish
 
-# schedule + manual trigger
 on:
   schedule:
-    - cron: '30 23 * * 1-5'  # 23:30 UTC Mon-Fri (market close)
+    - cron: '30 23 * * 1-5'
   workflow_dispatch: {}
 
-# IMPORTANT: grant pages permission so GITHUB_TOKEN can publish Pages
 permissions:
-  contents: read        # needed to checkout repository content
-  pages: write          # needed to publish to GitHub Pages
-  id-token: write       # not strictly required, but safe to include
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   worker:
@@ -18,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        index: [0,1,2,3]   # change parallelism if desired
+        index: [0,1,2,3]
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -40,7 +38,7 @@ jobs:
 
       - name: Download NASDAQ list (best-effort)
         run: |
-          python download_nasdaq_list.py || echo "download script exited non-zero; worker will attempt fallback"
+          python download_nasdaq_list.py || echo "download script failed; worker will attempt fallback"
 
       - name: Run worker (process chunk)
         env:
@@ -96,18 +94,16 @@ jobs:
           ls -la public || true
           find public -maxdepth 2 -type f -print | sed -n '1,200p' || true
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages (using PAT)
         id: deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAGES_PAT }}
           publish_dir: ./public
-          # optional: custom commit message
           commit_message: "Publish site from GitHub Action - ${{ github.run_number }}"
 
       - name: Show deploy output & status
         run: |
           echo "Deploy step outcome: ${{ steps.deploy.outcome || 'UNKNOWN' }}"
           echo "Deploy step conclusion: ${{ steps.deploy.conclusion || 'UNKNOWN' }}"
-          # if action published, show Pages url from repo metadata
-          echo "Pages URL (expected): https://$GITHUB_REPOSITORY_OWNER.github.io/${{ github.event.repository.name }}/"
+          echo "Pages URL: https://$GITHUB_REPOSITORY_OWNER.github.io/${{ github.event.repository.name }}/"
