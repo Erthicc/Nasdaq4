@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Import check (fail fast)
-        run: python -c "import sys; import pandas, numpy, yfinance, pandas_ta, sklearn, requests; print('IMPORT CHECK OK:', pandas.__version__, numpy.__version__)"
+        run: python -c "import sys; import pandas, numpy, yfinance, ta, sklearn, requests; print('IMPORT CHECK OK:', pandas.__version__, numpy.__version__)"
 
       - name: Download NASDAQ list (best-effort)
         run: |
