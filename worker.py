@@ -1,15 +1,7 @@
 # worker.py
 """
 Resilient worker: processes a chunk of NASDAQ tickers and ALWAYS writes
-raw-results-{JOB_INDEX}.json (even on error). Designed so missing/failed
-workers don't cancel the entire matrix.
-
-Outputs a JSON with keys:
- - results: list of per-ticker indicator dicts
- - attempted_count: how many tickers this worker attempted
- - processed_count: how many tickers produced indicators
- - errors: list of error messages / tracebacks (strings)
- - job_index: JOB_INDEX
+raw-results-{JOB_INDEX}.json (even on error). Uses 'ta' library (not pandas-ta).
 """
 import os
 import sys
@@ -25,12 +17,14 @@ try:
     import pandas as pd
     import numpy as np
     import yfinance as yf
-    import pandas_ta as ta
+    # 'ta' provides ADX/ATR/OBV utilities
+    from ta.trend import ADXIndicator
+    from ta.volatility import AverageTrueRange
+    from ta.volume import OnBalanceVolumeIndicator
     import requests
 except Exception as e:
     print("[worker] IMPORT ERROR:", e)
     traceback.print_exc()
-    # If imports fail, still write an artifact saying nothing processed
     JOB_INDEX = int(os.environ.get("JOB_INDEX", "0"))
     out = {
         "results": [],
@@ -43,7 +37,6 @@ except Exception as e:
     Path(".").mkdir(parents=True, exist_ok=True)
     with open(f"raw-results-{JOB_INDEX}.json", "w", encoding="utf-8") as fh:
         json.dump(out, fh, indent=2, ensure_ascii=False)
-    # Exit 0 so other workers continue; aggregator will detect empty results.
     sys.exit(0)
 
 # Config
@@ -60,13 +53,11 @@ NASDAQLIST = "nasdaqlisted.txt"
 def ensure_nasdaq_list():
     if Path(NASDAQLIST).exists():
         return True
-    # Try to run download script if present
     if Path("download_nasdaq_list.py").exists():
         try:
             subprocess.run([sys.executable, "download_nasdaq_list.py"], check=False, timeout=120)
         except Exception:
             pass
-    # HTTP fallback
     try:
         url = "https://ftp.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
         r = requests.get(url, timeout=30)
@@ -126,7 +117,7 @@ def compute_indicators(df):
         vol = df['Volume'] if 'Volume' in df.columns else pd.Series([0]*len(df), index=df.index)
 
         out = {}
-        # MACD
+        # MACD (manual)
         ema12 = close.ewm(span=12, adjust=False).mean()
         ema26 = close.ewm(span=26, adjust=False).mean()
         macd_line = ema12 - ema26
@@ -137,7 +128,7 @@ def compute_indicators(df):
         m_recent = macd_line.tail(RECENT_DAYS_CROSSOVER); s_recent = signal.tail(RECENT_DAYS_CROSSOVER)
         out['macd_bull'] = int((m_recent> s_recent).any() and (m_recent.iloc[-1] > s_recent.iloc[-1]) if len(m_recent)>0 and len(s_recent)>0 else False)
 
-        # RSI
+        # RSI (manual)
         delta = close.diff()
         up = delta.clip(lower=0); down = -1*delta.clip(upper=0)
         roll_up = up.rolling(window=14).mean(); roll_down = down.rolling(window=14).mean()
@@ -152,28 +143,28 @@ def compute_indicators(df):
         out['ema50'] = safe_float(ema50.iloc[-1], safe_float(close.iloc[-1],0.0))
         out['above_trend'] = int((close.iloc[-1] > out['sma20']) and (close.iloc[-1] > out['ema50']))
 
-        # Bollinger
+        # Bollinger (simple)
         std20 = close.rolling(window=20).std()
         out['bb_breakout'] = int(close.iloc[-1] > safe_float((sma20+2*std20).iloc[-1], 1e12))
 
-        # ADX
+        # ADX (ta)
         try:
-            adx_df = ta.adx(high=high, low=low, close=close, length=14)
-            adx_col = next((c for c in adx_df.columns if str(c).upper().startswith("ADX")), None)
-            out['adx'] = safe_float(adx_df[adx_col].iloc[-1], 0.0) if adx_col else 0.0
+            adx_ind = ADXIndicator(high=high, low=low, close=close, window=14)
+            out['adx'] = safe_float(adx_ind.adx().iloc[-1], 0.0)
         except Exception:
             out['adx'] = 0.0
 
-        # ATR
+        # ATR (ta)
         try:
-            atr = ta.atr(high=high, low=low, close=close, length=14)
-            out['atr'] = safe_float(atr.iloc[-1], 0.0)
+            atr_ind = AverageTrueRange(high=high, low=low, close=close, window=14)
+            out['atr'] = safe_float(atr_ind.average_true_range().iloc[-1], 0.0)
         except Exception:
             out['atr'] = safe_float((high-low).rolling(14).mean().iloc[-1], 0.0)
 
-        # OBV slope
+        # OBV slope (ta)
         try:
-            obv = ta.obv(close=close, volume=vol)
+            obv_ind = OnBalanceVolumeIndicator(close=close, volume=vol)
+            obv = obv_ind.on_balance_volume()
             out['obv_slope'] = safe_float((obv.iloc[-1] - obv.iloc[-(HISTORY_DAYS_FOR_SLOPE+1)])/HISTORY_DAYS_FOR_SLOPE, 0.0) if len(obv)>=HISTORY_DAYS_FOR_SLOPE+1 else 0.0
         except Exception:
             out['obv_slope'] = 0.0
@@ -225,10 +216,8 @@ def main():
     attempted = len(assigned)
     for i, ticker in enumerate(assigned, 1):
         try:
-            # fetch data
             df = yf.download(ticker, period="14mo", interval="1d", progress=False, threads=False)
             if df is None or df.empty or df.shape[0] < 30:
-                # skip but count as attempted
                 continue
             df = df[['Open','High','Low','Close','Volume']].dropna()
             indicators = compute_indicators(df)
@@ -244,7 +233,6 @@ def main():
             errors.append(f"{ticker}: {str(e)}\n{tb}")
             continue
 
-    # Always write an artifact, even if empty or errors occurred
     out = {
         "results": results,
         "attempted_count": attempted,
@@ -262,14 +250,12 @@ def main():
     except Exception as e:
         print("[worker] Failed to write artifact:", e)
         print(traceback.format_exc())
-        # try to write minimal fallback file
         try:
             with open(OUT_FN, "w", encoding="utf-8") as fh:
                 json.dump({"results": [], "attempted_count": attempted, "processed_count": processed, "errors": ["write failed: "+str(e)]}, fh)
         except Exception:
             pass
 
-    # Exit 0 so other workers and aggregator continue.
     sys.exit(0)
 
 if __name__ == "__main__":
