@@ -1,13 +1,1 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>NASDAQ Scan — no results</title>
-</head>
-<body>
-<h2>NASDAQ Scan — No Results</h2>
-<p>The analysis ran but produced no results. Check the workflow logs and artifacts.</p>
-<p>Generated at: 2025-09-09T01:12:49Z</p>
-</body>
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NASDAQ Daily Scan</title><link rel="stylesheet" href="style.css" /></head><body><div class="container"><header><h1>NASDAQ Daily Scan</h1><div id="meta"></div></header><main><div id="controls"><input id="search" placeholder="Filter tickers (symbol or explanation)" /><label>Top: <input id="topN" type="number" value="50" min="1" max="500" /></label></div><div id="summary"></div><table id="results"><thead><tr><th>Rank</th><th>Ticker</th><th>Score (0-100)</th><th>Last Close</th><th>Avg Vol(20)</th><th>Explanation</th></tr></thead><tbody></tbody></table><footer><p>Generated at <span id="generated_at"></span>. JSON: <a href="top_picks.json">top_picks.json</a></p></footer></main></div><script src="app.js"></script></body></html>
