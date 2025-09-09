@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # finalize.py
 """
-Robust finalizer:
-- recursively finds raw-results-*.json produced by workers (handles download-artifact subfolders)
-- aggregates results, normalizes and scores, writes public/top_picks.json
-- generates a small static dashboard (index.html, app.js, style.css) in public/
+Robust finalizer that prioritizes low RSI (<40) instead of high RSI.
+- Recursively finds raw-results-*.json produced by workers (handles download-artifact subfolders)
+- Aggregates results, normalizes and scores, writes public/top_picks.json
+- Generates a small static dashboard (index.html, app.js, style.css) in public/
+Note: ONLY the RSI scoring logic was changed to prefer RSI < 40.
 """
 import json
 import glob
@@ -152,12 +153,32 @@ def aggregate_and_write():
             'rsi': safe_float(r.get('rsi', 50.0))
         })
 
+    # --- RSI transformation: prioritize RSI < 40 (undervalued) ---
+    # Transform raw RSI (0..100) into a positive preference value where:
+    #  - RSI <= 40 -> higher transformed score (max 1 when RSI==0, 0 when RSI==40)
+    #  - RSI > 40 -> 0 (no reward)
+    # This makes low RSI (undersold/cheaper) score higher before normalization.
+    if 'rsi' in numeric:
+        raw_rsi = numeric['rsi']
+        transformed_rsi = []
+        for r in raw_rsi:
+            # clamp and compute
+            rclamped = max(0.0, min(100.0, float(r)))
+            if rclamped <= 40.0:
+                # linear mapping: r=0 -> 1.0, r=40 -> 0.0
+                transformed = (40.0 - rclamped) / 40.0
+            else:
+                transformed = 0.0
+            transformed_rsi.append(transformed)
+        numeric['rsi'] = transformed_rsi
+        print(f"[finalize] transformed RSI (prefers <40): sample first values: {numeric['rsi'][:5]}")
+
     # normalize numeric features
     norm_numeric = {}
     for f in NUMERIC_FEATURES:
         norm_numeric[f] = min_max_scale(numeric[f])
 
-    # invert atr
+    # invert atr (lower is better)
     if 'atr' in norm_numeric:
         norm_numeric['atr'] = [1.0 - v for v in norm_numeric['atr']]
 
@@ -241,7 +262,7 @@ def write_placeholder_page(ts):
         fh.write("body{font-family:Arial;padding:20px}")
 
 def write_dashboard_files():
-    # same minimal single-file dashboard as previously provided
+    # minimal single-file dashboard (same as previous)
     html = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NASDAQ Daily Scan</title><link rel="stylesheet" href="style.css" /></head><body><div class="container"><header><h1>NASDAQ Daily Scan</h1><div id="meta"></div></header><main><div id="controls"><input id="search" placeholder="Filter tickers (symbol or explanation)" /><label>Top: <input id="topN" type="number" value="50" min="1" max="500" /></label></div><div id="summary"></div><table id="results"><thead><tr><th>Rank</th><th>Ticker</th><th>Score (0-100)</th><th>Last Close</th><th>Avg Vol(20)</th><th>Explanation</th></tr></thead><tbody></tbody></table><footer><p>Generated at <span id="generated_at"></span>. JSON: <a href="top_picks.json">top_picks.json</a></p></footer></main></div><script src="app.js"></script></body></html>"""
     css = """:root{--bg:#f7f8fb;--card:#fff;--accent:#0b5fff;--muted:#666}body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial;background:var(--bg);color:#111;margin:0}.container{max-width:1100px;margin:28px auto;padding:18px}header h1{margin:0 0 6px 0}#controls{margin:12px 0 18px 0;display:flex;gap:10px;align-items:center}#search{padding:8px 10px;border-radius:6px;border:1px solid #ddd}#topN{width:80px;padding:6px}table{width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden}thead th{background:#fafafa;text-align:left;padding:12px;border-bottom:1px solid #eee}tbody td{padding:10px;border-bottom:1px solid #f1f1f1}tbody tr:hover{background:#fcfdff}footer{margin-top:14px;color:var(--muted)}"""
     js = r"""(async function(){const metaEl=document.getElementById('meta');const genEl=document.getElementById('generated_at');const summaryEl=document.getElementById('summary');const tbody=document.querySelector('#results tbody');const search=document.getElementById('search');const topN=document.getElementById('topN');async function loadData(){try{const res=await fetch('top_picks.json',{cache:'no-store'});if(!res.ok)throw new Error('Fetch error '+res.status);const j=await res.json();metaEl.textContent=`Scores: ${j.count_results||0} results (attempted ${j.count_total||0})`;genEl.textContent=j.generated_at||'';render(j.top||[]);}catch(err){metaEl.textContent='Error loading top_picks.json: '+err;console.error(err);}}function render(items){const limit=Math.max(1,Math.min(500,parseInt(topN.value||50)));const q=(search.value||'').toLowerCase().trim();let shown=0;tbody.innerHTML='';for(let i=0;i<items.length&&shown<limit;i++){const it=items[i];const txt=(it.ticker+' '+(it.explanation||'')).toLowerCase();if(q&& !txt.includes(q)) continue;const tr=document.createElement('tr');const rankTd=document.createElement('td');rankTd.textContent=(i+1);const tickerTd=document.createElement('td');tickerTd.textContent=it.ticker;const scoreTd=document.createElement('td');scoreTd.textContent=it.score_0_100;const lastTd=document.createElement('td');lastTd.textContent=(it.last_close||'').toString();const volTd=document.createElement('td');volTd.textContent=(it.avg_vol20||'').toString();const explTd=document.createElement('td');explTd.textContent=it.explanation||'';tr.appendChild(rankTd);tr.appendChild(tickerTd);tr.appendChild(scoreTd);tr.appendChild(lastTd);tr.appendChild(volTd);tr.appendChild(explTd);tbody.appendChild(tr);shown++;}summaryEl.textContent=`Showing ${shown} of ${items.length} tickers`;}search.addEventListener('input',()=>loadData());topN.addEventListener('change',()=>loadData());await loadData();})();"""
