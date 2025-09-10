@@ -1,20 +1,20 @@
 {
   "ticker": "AVGG",
   "indicators": {
-    "score_0_100": 91.13,
-    "score_0_10": 9.11,
+    "score_0_100": 91.21,
+    "score_0_10": 9.12,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.9548359684471663,
-    "macd_slope": 0.09146522034566228,
+    "macd_hist": 0.984026249285394,
+    "macd_slope": 0.09355024040553568,
     "rsi": 0.0,
-    "rsi_slope": 2.3603257401179336,
-    "wave_strength": 1.2241936914433627,
+    "rsi_slope": 2.39149706111464,
+    "wave_strength": 1.2230787560420697,
     "adx": 23.938764690693368,
     "atr": 2.2525734190405737,
-    "obv_slope": 74692.28571428571,
+    "obv_slope": 76760.28571428571,
     "mom14": 0.0,
-    "avg_vol20": 79444.6,
-    "last_close": 34.529998779296875,
+    "avg_vol20": 80892.2,
+    "last_close": 34.98740005493164,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -658,8 +658,8 @@
       "Open": 31.68000030517578,
       "High": 35.41899871826172,
       "Low": 31.68000030517578,
-      "Close": 34.529998779296875,
-      "Volume": 132078.0
+      "Close": 34.98740005493164,
+      "Volume": 160744.0
     }
   ]
 }

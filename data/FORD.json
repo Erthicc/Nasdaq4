@@ -1,23 +1,23 @@
 {
   "ticker": "FORD",
   "indicators": {
-    "score_0_100": 84.28,
-    "score_0_10": 8.43,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 1.5783742486366805,
-    "macd_slope": 0.14585546787816023,
+    "score_0_100": 82.69,
+    "score_0_10": 8.27,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 1.4864769004393246,
+    "macd_slope": 0.13929137156579127,
     "rsi": 0.0,
-    "rsi_slope": 3.341331461555487,
-    "wave_strength": 1.9168926944628728,
-    "adx": 38.36389450813165,
-    "atr": 3.014902927628526,
-    "obv_slope": 263772.35714285716,
+    "rsi_slope": 2.99158331638233,
+    "wave_strength": 1.9260686895192969,
+    "adx": 38.363893391882925,
+    "atr": 3.1211600938353823,
+    "obv_slope": 252153.2142857143,
     "mom14": 0.0,
-    "avg_vol20": 239444.35,
-    "last_close": 26.639999389648438,
+    "avg_vol20": 248067.75,
+    "last_close": 25.200000762939453,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
+    "bb_breakout": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 30.43000030517578,
       "Low": 24.5,
       "Close": 28.969999313354492,
-      "Volume": 681800
+      "Volume": 686700
     },
     {
       "Date": "2025-09-10",
       "Open": 31.0,
       "High": 31.53459930419922,
-      "Low": 26.01020050048828,
-      "Close": 26.5,
-      "Volume": 230730
+      "Low": 24.522600173950195,
+      "Close": 25.200000762939453,
+      "Volume": 382355
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "ALAB",
   "indicators": {
-    "score_0_100": 80.74,
-    "score_0_10": 8.07,
+    "score_0_100": 80.9,
+    "score_0_10": 8.09,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 2.308760000177667,
-    "macd_slope": 0.2025349076517833,
+    "macd_hist": 2.435118701746335,
+    "macd_slope": 0.21156052922006133,
     "rsi": 0.0,
-    "rsi_slope": 0.8068541853484764,
-    "wave_strength": 1.1528469462592104,
-    "adx": 43.61629221682626,
-    "atr": 12.435208166931924,
-    "obv_slope": 2223735.5714285714,
+    "rsi_slope": 0.8372989390553077,
+    "wave_strength": 1.1522384001689867,
+    "adx": 43.66741849996947,
+    "atr": 12.55235098054661,
+    "obv_slope": 2418625.0,
     "mom14": 0.0,
-    "avg_vol20": 4815694.9,
-    "last_close": 228.38999938964844,
+    "avg_vol20": 4953647.5,
+    "last_close": 230.3699951171875,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -2971,15 +2971,15 @@
       "High": 217.9199981689453,
       "Low": 208.27999877929688,
       "Close": 214.49000549316406,
-      "Volume": 4654400.0
+      "Volume": 4669700.0
     },
     {
       "Date": "2025-09-10",
       "Open": 225.43499755859375,
-      "High": 229.24000549316406,
+      "High": 230.8800048828125,
       "Low": 217.0,
-      "Close": 227.49000549316406,
-      "Volume": 3504020.0
+      "Close": 230.3699951171875,
+      "Volume": 6191950.0
     }
   ]
 }

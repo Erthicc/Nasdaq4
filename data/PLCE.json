@@ -1,23 +1,23 @@
 {
   "ticker": "PLCE",
   "indicators": {
-    "score_0_100": 81.05,
-    "score_0_10": 8.1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.271266959241371,
-    "macd_slope": 0.022641112279298402,
+    "score_0_100": 92.98,
+    "score_0_10": 9.3,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.3031757912290012,
+    "macd_slope": 0.02492031454759738,
     "rsi": 0.0,
-    "rsi_slope": 4.0397599284127015,
-    "wave_strength": 1.0409368015992368,
-    "adx": 29.458474610554557,
-    "atr": 0.4861736822354684,
-    "obv_slope": 756428.4285714285,
+    "rsi_slope": 4.115477154306732,
+    "wave_strength": 1.035753369678921,
+    "adx": 29.643202006724966,
+    "atr": 0.5090379558482913,
+    "obv_slope": 802499.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 796764.9,
-    "last_close": 7.150000095367432,
+    "avg_vol20": 829014.8,
+    "last_close": 7.650000095367432,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 6.800000190734863,
       "Low": 6.099999904632568,
       "Close": 6.46999979019165,
-      "Volume": 1324300
+      "Volume": 1325600
     },
     {
       "Date": "2025-09-10",
       "Open": 6.489999771118164,
-      "High": 7.359899997711182,
+      "High": 7.679999828338623,
       "Low": 6.414999961853027,
-      "Close": 7.135000228881836,
-      "Volume": 966634
+      "Close": 7.650000095367432,
+      "Volume": 1597296
     }
   ]
 }

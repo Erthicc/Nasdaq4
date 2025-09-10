@@ -1,23 +1,23 @@
 {
   "ticker": "BCAB",
   "indicators": {
-    "score_0_100": 81.66,
-    "score_0_10": 8.17,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.031409700373496545,
-    "macd_slope": 0.0019992097502376936,
+    "score_0_100": 93.41,
+    "score_0_10": 9.34,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.030471581015062914,
+    "macd_slope": 0.0019322012217740275,
     "rsi": 0.0,
-    "rsi_slope": 2.0498189095189803,
-    "wave_strength": 1.5778350680511697,
-    "adx": 34.4321477985363,
-    "atr": 0.05175116404894694,
-    "obv_slope": 577398.6428571428,
+    "rsi_slope": 1.8738187240658952,
+    "wave_strength": 1.5804056286655073,
+    "adx": 34.432148125869,
+    "atr": 0.051751164044267176,
+    "obv_slope": 531406.0,
     "mom14": 0.0,
-    "avg_vol20": 874705.95,
-    "last_close": 0.682699978351593,
+    "avg_vol20": 908250.8,
+    "last_close": 0.6679999828338623,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 0.7300000190734863,
       "Low": 0.6000000238418579,
       "Close": 0.7129999995231628,
-      "Volume": 2142200
+      "Volume": 2155700
     },
     {
       "Date": "2025-09-10",
       "Open": 0.7099999785423279,
       "High": 0.7400000095367432,
       "Low": 0.6500999927520752,
-      "Close": 0.6834999918937683,
-      "Volume": 1207955
+      "Close": 0.6679999828338623,
+      "Volume": 1862816
     }
   ]
 }

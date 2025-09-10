@@ -1,20 +1,20 @@
 {
   "ticker": "MEGL",
   "indicators": {
-    "score_0_100": 90.96,
-    "score_0_10": 9.1,
+    "score_0_100": 90.83,
+    "score_0_10": 9.08,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.02968634583601301,
-    "macd_slope": 0.0019254462450746395,
+    "macd_hist": 0.025187207111020973,
+    "macd_slope": 0.001604079193051054,
     "rsi": 0.0,
-    "rsi_slope": 2.1804811520873897,
-    "wave_strength": 0.9603925815569548,
-    "adx": 28.970591981829052,
-    "atr": 0.11922726853190073,
-    "obv_slope": 96576.28571428571,
+    "rsi_slope": 1.9634902782951476,
+    "wave_strength": 0.9627716668702112,
+    "adx": 28.970591884152434,
+    "atr": 0.11922726853425399,
+    "obv_slope": 103205.71428571429,
     "mom14": 0.0,
-    "avg_vol20": 96023.4,
-    "last_close": 1.6799999475479126,
+    "avg_vol20": 100664.0,
+    "last_close": 1.6095000505447388,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.649999976158142,
       "Low": 1.3799999952316284,
       "Close": 1.5499999523162842,
-      "Volume": 232300
+      "Volume": 233300
     },
     {
       "Date": "2025-09-10",
       "Open": 1.5,
       "High": 1.7999999523162842,
       "Low": 1.4900000095367432,
-      "Close": 1.690000057220459,
-      "Volume": 379809
+      "Close": 1.6095000505447388,
+      "Volume": 469780
     }
   ]
 }

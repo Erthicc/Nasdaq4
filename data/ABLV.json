@@ -1,20 +1,20 @@
 {
   "ticker": "ABLV",
   "indicators": {
-    "score_0_100": 89.14,
-    "score_0_10": 8.91,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.021715555418834794,
-    "macd_slope": 0.002026645327832964,
+    "score_0_100": 89.72,
+    "score_0_10": 8.97,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.032545414662150884,
+    "macd_slope": 0.002800206702037622,
     "rsi": 0.0,
-    "rsi_slope": 1.4223707914325172,
-    "wave_strength": 0.9988167345834615,
-    "adx": 20.14318952490587,
-    "atr": 0.12113188672761778,
-    "obv_slope": 30990.35714285714,
+    "rsi_slope": 2.0955716876647164,
+    "wave_strength": 0.9894887270334082,
+    "adx": 20.143189585273905,
+    "atr": 0.12113188673157017,
+    "obv_slope": 34426.21428571428,
     "mom14": 0.0,
-    "avg_vol20": 25428.25,
-    "last_close": 1.0602999925613403,
+    "avg_vol20": 27833.35,
+    "last_close": 1.2300000190734863,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.0399999618530273,
       "Low": 0.7919999957084656,
       "Close": 1.0399999618530273,
-      "Volume": 86500
+      "Volume": 88100
     },
     {
       "Date": "2025-09-10",
       "Open": 0.9887999892234802,
       "High": 1.7699999809265137,
       "Low": 0.916700005531311,
-      "Close": 1.2699999809265137,
-      "Volume": 353212
+      "Close": 1.2300000190734863,
+      "Volume": 388867
     }
   ]
 }

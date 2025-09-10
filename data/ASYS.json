@@ -1,20 +1,20 @@
 {
   "ticker": "ASYS",
   "indicators": {
-    "score_0_100": 81.22,
-    "score_0_10": 8.12,
+    "score_0_100": 81.34,
+    "score_0_10": 8.13,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.19927642228272446,
-    "macd_slope": 0.006765994852125639,
+    "macd_hist": 0.20294593065949595,
+    "macd_slope": 0.007028102591098117,
     "rsi": 0.0,
-    "rsi_slope": 0.6933740340751352,
-    "wave_strength": 1.0412041306387867,
-    "adx": 49.71136484323098,
-    "atr": 0.4909745891838301,
-    "obv_slope": 208624.2857142857,
+    "rsi_slope": 0.7167936698266593,
+    "wave_strength": 1.0407165970986618,
+    "adx": 49.71136481773682,
+    "atr": 0.5002603116320757,
+    "obv_slope": 217665.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 221997.0,
-    "last_close": 8.012499809265137,
+    "avg_vol20": 228326.05,
+    "last_close": 8.069999694824219,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 8.100000381469727,
-      "High": 8.119999885559082,
+      "High": 8.239999771118164,
       "Low": 7.869999885559082,
-      "Close": 8.119999885559082,
-      "Volume": 193103
+      "Close": 8.069999694824219,
+      "Volume": 301121
     }
   ]
 }

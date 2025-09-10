@@ -1,20 +1,20 @@
 {
   "ticker": "JCSE",
   "indicators": {
-    "score_0_100": 95.75,
-    "score_0_10": 9.57,
+    "score_0_100": 95.83,
+    "score_0_10": 9.58,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.03724145550797009,
-    "macd_slope": 0.003046755463657412,
+    "macd_hist": 0.04202778333750161,
+    "macd_slope": 0.003388636022879591,
     "rsi": 0.0,
-    "rsi_slope": 3.964037640244448,
-    "wave_strength": 1.0494166973873955,
-    "adx": 49.596983106923176,
-    "atr": 0.10473793919288939,
-    "obv_slope": 193672.07142857142,
+    "rsi_slope": 4.045493007416385,
+    "wave_strength": 1.0454908043973588,
+    "adx": 49.59698312193978,
+    "atr": 0.10473793919726984,
+    "obv_slope": 267364.35714285716,
     "mom14": 0.0,
-    "avg_vol20": 143575.45,
-    "last_close": 1.375,
+    "avg_vol20": 195160.05,
+    "last_close": 1.4500000476837158,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.1399999856948853,
       "Low": 1.0199999809265137,
       "Close": 1.11899995803833,
-      "Volume": 51900
+      "Volume": 765400
     },
     {
       "Date": "2025-09-10",
       "Open": 1.0750000476837158,
       "High": 1.5700000524520874,
       "Low": 1.0300999879837036,
-      "Close": 1.350100040435791,
-      "Volume": 1617453
+      "Close": 1.4500000476837158,
+      "Volume": 1925601
     }
   ]
 }

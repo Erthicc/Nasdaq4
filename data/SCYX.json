@@ -1,20 +1,20 @@
 {
   "ticker": "SCYX",
   "indicators": {
-    "score_0_100": 91.33,
-    "score_0_10": 9.13,
+    "score_0_100": 91.6,
+    "score_0_10": 9.16,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.013566973368378886,
-    "macd_slope": 0.0007223566079330391,
+    "macd_hist": 0.01654725453246548,
+    "macd_slope": 0.0009352338299652457,
     "rsi": 0.0,
-    "rsi_slope": 1.169634121160774,
-    "wave_strength": 0.9991595591990888,
-    "adx": 36.38941403067976,
-    "atr": 0.04670733484992186,
-    "obv_slope": 93345.07142857143,
+    "rsi_slope": 1.360342146781276,
+    "wave_strength": 0.9964246261462754,
+    "adx": 36.872469271788596,
+    "atr": 0.05116447226758234,
+    "obv_slope": 119636.21428571429,
     "mom14": 0.0,
-    "avg_vol20": 119166.55,
-    "last_close": 0.9933000206947327,
+    "avg_vol20": 137570.35,
+    "last_close": 1.0399999618530273,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 0.984000027179718,
       "Low": 0.9100000262260437,
       "Close": 0.9580000042915344,
-      "Volume": 296400
+      "Volume": 299500
     },
     {
       "Date": "2025-09-10",
       "Open": 0.9800000190734863,
-      "High": 1.0,
+      "High": 1.059999942779541,
       "Low": 0.9652000069618225,
-      "Close": 1.0,
-      "Volume": 294727
+      "Close": 1.0399999618530273,
+      "Volume": 601407
     }
   ]
 }

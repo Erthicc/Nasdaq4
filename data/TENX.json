@@ -1,20 +1,20 @@
 {
   "ticker": "TENX",
   "indicators": {
-    "score_0_100": 89.55,
-    "score_0_10": 8.95,
+    "score_0_100": 89.61,
+    "score_0_10": 8.96,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike",
-    "macd_hist": 0.013290102805171705,
-    "macd_slope": 0.001954581803914185,
+    "macd_hist": 0.012013750751347793,
+    "macd_slope": 0.0018634137989569555,
     "rsi": 0.0,
-    "rsi_slope": 2.499998711729294,
-    "wave_strength": 1.0091053392442075,
-    "adx": 16.70988819471063,
-    "atr": 0.15171335872534783,
-    "obv_slope": -14421.357142857143,
+    "rsi_slope": 2.4096867234056796,
+    "wave_strength": 1.0092739589090824,
+    "adx": 17.271441511723545,
+    "atr": 0.15708479305486625,
+    "obv_slope": -13646.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 34045.05,
-    "last_close": 6.139999866485596,
+    "avg_vol20": 34587.35,
+    "last_close": 6.119999885559082,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 6.008999824523926,
-      "High": 6.142499923706055,
+      "High": 6.217700004577637,
       "Low": 6.0,
-      "Close": 6.139999866485596,
-      "Volume": 107801
+      "Close": 6.119999885559082,
+      "Volume": 118647
     }
   ]
 }

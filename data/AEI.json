@@ -1,20 +1,20 @@
 {
   "ticker": "AEI",
   "indicators": {
-    "score_0_100": 83.56,
-    "score_0_10": 8.36,
+    "score_0_100": 83.67,
+    "score_0_10": 8.37,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.08761104551978091,
-    "macd_slope": 0.0065824147463691375,
+    "macd_hist": 0.08634108389428502,
+    "macd_slope": 0.0064917032015637055,
     "rsi": 0.0,
-    "rsi_slope": 1.3475977115596471,
-    "wave_strength": 1.4271859758257006,
-    "adx": 53.757156525363044,
-    "atr": 0.24119635602599038,
-    "obv_slope": 1308193.5,
+    "rsi_slope": 1.3322219013163838,
+    "wave_strength": 1.4281077797761725,
+    "adx": 53.757156473678144,
+    "atr": 0.24119635602864312,
+    "obv_slope": 1317927.142857143,
     "mom14": 0.0,
-    "avg_vol20": 1111520.45,
-    "last_close": 2.399899959564209,
+    "avg_vol20": 1119044.0,
+    "last_close": 2.380000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 2.259999990463257,
       "Low": 2.0199999809265137,
       "Close": 2.0199999809265137,
-      "Volume": 357300
+      "Volume": 364400
     },
     {
       "Date": "2025-09-10",
       "Open": 2.0,
       "High": 2.440000057220459,
       "Low": 2.0,
-      "Close": 2.375,
-      "Volume": 401001
+      "Close": 2.380000114440918,
+      "Volume": 541780
     }
   ]
 }

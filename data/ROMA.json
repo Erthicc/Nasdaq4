@@ -1,20 +1,20 @@
 {
   "ticker": "ROMA",
   "indicators": {
-    "score_0_100": 89.73,
-    "score_0_10": 8.97,
+    "score_0_100": 89.79,
+    "score_0_10": 8.98,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.09896973478063079,
-    "macd_slope": 0.01094791510809877,
+    "macd_hist": 0.09992700643293834,
+    "macd_slope": 0.011016291654628576,
     "rsi": 0.0,
-    "rsi_slope": 2.0549718506790566,
-    "wave_strength": 0.9930370898185624,
-    "adx": 20.715651108548858,
-    "atr": 0.36100292035545045,
-    "obv_slope": 24153.5,
+    "rsi_slope": 2.070646564524807,
+    "wave_strength": 0.99274826869505,
+    "adx": 20.71565109537105,
+    "atr": 0.3610029203578838,
+    "obv_slope": 25862.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 31022.45,
-    "last_close": 3.1549999713897705,
+    "avg_vol20": 32218.55,
+    "last_close": 3.1700000762939453,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3370,8 +3370,8 @@
       "Open": 3.25,
       "High": 3.3984999656677246,
       "Low": 2.900099992752075,
-      "Close": 3.1549999713897705,
-      "Volume": 71849.0
+      "Close": 3.1700000762939453,
+      "Volume": 95771.0
     }
   ]
 }

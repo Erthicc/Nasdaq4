@@ -1,20 +1,20 @@
 {
   "ticker": "GSRTR",
   "indicators": {
-    "score_0_100": 88.65,
-    "score_0_10": 8.87,
+    "score_0_100": 88.61,
+    "score_0_10": 8.86,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.053679894278522204,
-    "macd_slope": 0.00625698403740358,
+    "macd_hist": 0.0472981339828817,
+    "macd_slope": 0.005801144016286401,
     "rsi": 0.0,
-    "rsi_slope": 1.8138560003197344,
-    "wave_strength": 1.0213164602306548,
+    "rsi_slope": 1.6936378286080458,
+    "wave_strength": 1.0221145500048958,
     "adx": 14.261097001482351,
     "atr": 0.3074939007141917,
-    "obv_slope": 15185.5,
+    "obv_slope": 16187.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 21004.85,
-    "last_close": 7.0,
+    "avg_vol20": 21706.45,
+    "last_close": 6.900000095367432,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1458,8 +1458,8 @@
       "Open": 6.537199974060059,
       "High": 7.113999843597412,
       "Low": 6.489999771118164,
-      "Close": 7.0,
-      "Volume": 41597.0
+      "Close": 6.900000095367432,
+      "Volume": 55629.0
     }
   ]
 }

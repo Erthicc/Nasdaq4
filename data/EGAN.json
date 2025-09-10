@@ -1,20 +1,20 @@
 {
   "ticker": "EGAN",
   "indicators": {
-    "score_0_100": 81.57,
-    "score_0_10": 8.16,
+    "score_0_100": 81.47,
+    "score_0_10": 8.15,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.21702330398293462,
-    "macd_slope": 0.015447628652037618,
+    "macd_hist": 0.20936519165468576,
+    "macd_slope": 0.014900620623027662,
     "rsi": 0.0,
-    "rsi_slope": 2.4628662366776872,
-    "wave_strength": 1.26498110415237,
-    "adx": 37.86640511303617,
-    "atr": 0.4473453304780128,
-    "obv_slope": 51153.71428571428,
+    "rsi_slope": 2.235760316105858,
+    "wave_strength": 1.266155917152044,
+    "adx": 37.6439160460029,
+    "atr": 0.46020246107892365,
+    "obv_slope": 47812.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 63582.4,
-    "last_close": 8.0,
+    "avg_vol20": 65921.5,
+    "last_close": 7.880000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 8.210000038146973,
       "High": 8.210000038146973,
-      "Low": 7.880000114440918,
+      "Low": 7.760000228881836,
       "Close": 7.880000114440918,
-      "Volume": 45233
+      "Volume": 90230
     }
   ]
 }

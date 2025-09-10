@@ -1,20 +1,20 @@
 {
   "ticker": "NVFY",
   "indicators": {
-    "score_0_100": 80.76,
+    "score_0_100": 80.84,
     "score_0_10": 8.08,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.36393905834130313,
-    "macd_slope": 0.030522242577780596,
+    "macd_hist": 0.363619962722651,
+    "macd_slope": 0.030499450032796367,
     "rsi": 0.0,
-    "rsi_slope": 3.7284900320070524,
-    "wave_strength": 0.8153331176565186,
-    "adx": 32.89422248900333,
-    "atr": 0.5314508129584549,
-    "obv_slope": 2127369.214285714,
+    "rsi_slope": 3.727510107399798,
+    "wave_strength": 0.8154158105340089,
+    "adx": 32.89422246504857,
+    "atr": 0.5314508129561551,
+    "obv_slope": 2138953.8571428573,
     "mom14": 0.0,
-    "avg_vol20": 2085403.45,
-    "last_close": 4.835000038146973,
+    "avg_vol20": 2093512.7,
+    "last_close": 4.829999923706055,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 5.389999866485596,
       "Low": 4.570000171661377,
       "Close": 4.820000171661377,
-      "Volume": 2315300
+      "Volume": 2322200
     },
     {
       "Date": "2025-09-10",
       "Open": 4.71999979019165,
       "High": 4.940000057220459,
       "Low": 4.639999866485596,
-      "Close": 4.835000038146973,
-      "Volume": 843786
+      "Close": 4.829999923706055,
+      "Volume": 998054
     }
   ]
 }

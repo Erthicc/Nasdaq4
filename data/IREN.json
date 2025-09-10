@@ -1,20 +1,20 @@
 {
   "ticker": "IREN",
   "indicators": {
-    "score_0_100": 82.94,
-    "score_0_10": 8.29,
+    "score_0_100": 83.18,
+    "score_0_10": 8.32,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.6715341811748328,
-    "macd_slope": 0.042244315063551384,
+    "macd_hist": 0.7242156936884787,
+    "macd_slope": 0.04600728027012037,
     "rsi": 0.0,
-    "rsi_slope": 1.0202919464241356,
-    "wave_strength": 1.2296073284739348,
-    "adx": 47.286639427175764,
-    "atr": 2.333823304872026,
-    "obv_slope": 16195616.642857144,
+    "rsi_slope": 1.0712538109668412,
+    "wave_strength": 1.2274672904247463,
+    "adx": 47.408176980759556,
+    "atr": 2.3881088992923694,
+    "obv_slope": 17390789.14285714,
     "mom14": 0.0,
-    "avg_vol20": 30700186.65,
-    "last_close": 32.804500579833984,
+    "avg_vol20": 31536807.4,
+    "last_close": 33.630001068115234,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 30.5,
       "Low": 27.049999237060547,
       "Close": 30.190000534057617,
-      "Volume": 49945600
+      "Volume": 50274600
     },
     {
       "Date": "2025-09-10",
       "Open": 30.68000030517578,
-      "High": 32.880001068115234,
+      "High": 33.63999938964844,
       "Low": 30.469999313354492,
-      "Close": 32.70610046386719,
-      "Volume": 27442734
+      "Close": 33.630001068115234,
+      "Volume": 43338948
     }
   ]
 }

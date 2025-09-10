@@ -1,23 +1,23 @@
 {
   "ticker": "ENGN",
   "indicators": {
-    "score_0_100": 80.27,
-    "score_0_10": 8.03,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.14750813687725972,
-    "macd_slope": 0.009983736104289206,
+    "score_0_100": 92.17,
+    "score_0_10": 9.22,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.16697251338661856,
+    "macd_slope": 0.011374048712100552,
     "rsi": 0.0,
-    "rsi_slope": 2.826292719721603,
-    "wave_strength": 1.059026805371094,
-    "adx": 30.98530282407983,
-    "atr": 0.4222996723283818,
-    "obv_slope": 221189.5,
+    "rsi_slope": 2.880533247994427,
+    "wave_strength": 1.0554382819512205,
+    "adx": 31.015655991539365,
+    "atr": 0.4244496629832473,
+    "obv_slope": 235431.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 183662.65,
-    "last_close": 5.985000133514404,
+    "avg_vol20": 193632.2,
+    "last_close": 6.289999961853027,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 5.980000019073486,
-      "High": 6.369900226593018,
+      "High": 6.400000095367432,
       "Low": 5.664000034332275,
-      "Close": 5.994999885559082,
-      "Volume": 187479
+      "Close": 6.289999961853027,
+      "Volume": 384244
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "BENF",
   "indicators": {
-    "score_0_100": 83.65,
-    "score_0_10": 8.36,
+    "score_0_100": 83.72,
+    "score_0_10": 8.37,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.017845986744822462,
-    "macd_slope": 0.0014543994597187308,
+    "macd_hist": 0.017718353079383138,
+    "macd_slope": 0.0014452827653562341,
     "rsi": 0.0,
-    "rsi_slope": 2.8974230912741943,
-    "wave_strength": 1.0805763074169659,
-    "adx": 47.58953648942285,
-    "atr": 0.06836517311189935,
-    "obv_slope": 10215397.42857143,
+    "rsi_slope": 2.889983297342518,
+    "wave_strength": 1.080864688091795,
+    "adx": 47.589536401021746,
+    "atr": 0.06836517309726099,
+    "obv_slope": 10242050.0,
     "mom14": 0.0,
-    "avg_vol20": 7569238.2,
-    "last_close": 0.5419999957084656,
+    "avg_vol20": 7587895.0,
+    "last_close": 0.5400000214576721,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 0.6650000214576721,
       "Low": 0.4519999921321869,
       "Close": 0.5070000290870667,
-      "Volume": 6384600
+      "Volume": 6557300
     },
     {
       "Date": "2025-09-10",
       "Open": 0.5024999976158142,
       "High": 0.5600000023841858,
       "Low": 0.5024999976158142,
-      "Close": 0.531000018119812,
-      "Volume": 830133
+      "Close": 0.5400000214576721,
+      "Volume": 1020400
     }
   ]
 }

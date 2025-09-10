@@ -1,20 +1,20 @@
 {
   "ticker": "BTSG",
   "indicators": {
-    "score_0_100": 90.91,
-    "score_0_10": 9.09,
+    "score_0_100": 91.03,
+    "score_0_10": 9.1,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.2836727409165747,
-    "macd_slope": -0.006913744804759564,
+    "macd_hist": 0.3072853301021805,
+    "macd_slope": -0.005227131294681081,
     "rsi": 0.0,
-    "rsi_slope": 0.5349076309620691,
-    "wave_strength": 1.033773295484887,
-    "adx": 35.810534442507915,
-    "atr": 0.9269633198694993,
-    "obv_slope": 1295532.9285714286,
+    "rsi_slope": 0.6060164872510673,
+    "wave_strength": 1.032978942208651,
+    "adx": 35.810534424917456,
+    "atr": 0.9269633198741467,
+    "obv_slope": 1527005.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 2457483.05,
-    "last_close": 27.709999084472656,
+    "avg_vol20": 2619514.0,
+    "last_close": 28.079999923706055,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3267,15 +3267,15 @@
       "High": 26.420000076293945,
       "Low": 25.059999465942383,
       "Close": 26.239999771118164,
-      "Volume": 5224900.0
+      "Volume": 5225800.0
     },
     {
       "Date": "2025-09-10",
       "Open": 26.43000030517578,
       "High": 28.325000762939453,
       "Low": 25.920000076293945,
-      "Close": 27.844999313354492,
-      "Volume": 4420319.0
+      "Close": 28.079999923706055,
+      "Volume": 7593980.0
     }
   ]
 }

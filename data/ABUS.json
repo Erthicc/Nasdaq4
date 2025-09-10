@@ -1,23 +1,23 @@
 {
   "ticker": "ABUS",
   "indicators": {
-    "score_0_100": 82.24,
-    "score_0_10": 8.22,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.07651956336483279,
-    "macd_slope": 0.004617813809784326,
+    "score_0_100": 94.18,
+    "score_0_10": 9.42,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.08577312340874588,
+    "macd_slope": 0.005278782382759928,
     "rsi": 0.0,
-    "rsi_slope": 1.1248778587492885,
-    "wave_strength": 1.1248744056101898,
-    "adx": 52.00043806599842,
-    "atr": 0.18413291663305023,
-    "obv_slope": 1173442.5714285714,
+    "rsi_slope": 1.222630470992302,
+    "wave_strength": 1.122694416736844,
+    "adx": 52.05102081822593,
+    "atr": 0.18856147362470685,
+    "obv_slope": 1274966.5,
     "mom14": 0.0,
-    "avg_vol20": 1209194.8,
-    "last_close": 4.474999904632568,
+    "avg_vol20": 1280261.55,
+    "last_close": 4.619999885559082,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 4.360000133514404,
       "Low": 4.010000228881836,
       "Close": 4.329999923706055,
-      "Volume": 2849200
+      "Volume": 2858000
     },
     {
       "Date": "2025-09-10",
       "Open": 4.440000057220459,
-      "High": 4.618000030517578,
+      "High": 4.679999828338623,
       "Low": 4.389999866485596,
-      "Close": 4.545000076293945,
-      "Volume": 1296451
+      "Close": 4.619999885559082,
+      "Volume": 2603831
     }
   ]
 }

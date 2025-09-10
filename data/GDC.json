@@ -1,20 +1,20 @@
 {
   "ticker": "GDC",
   "indicators": {
-    "score_0_100": 93.65,
-    "score_0_10": 9.36,
+    "score_0_100": 93.72,
+    "score_0_10": 9.37,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.17265692622004938,
-    "macd_slope": 0.01416732964036148,
+    "macd_hist": 0.18519072596465813,
+    "macd_slope": 0.015062601049577948,
     "rsi": 0.0,
-    "rsi_slope": 2.9951526526767394,
-    "wave_strength": 1.0661374577628853,
-    "adx": 40.54597510657607,
-    "atr": 0.4081218286447217,
-    "obv_slope": 65424.71428571428,
+    "rsi_slope": 3.0529435531762585,
+    "wave_strength": 1.0633817516583841,
+    "adx": 40.54597508554599,
+    "atr": 0.4081218286453048,
+    "obv_slope": 68230.5,
     "mom14": 0.0,
-    "avg_vol20": 62912.3,
-    "last_close": 5.553599834442139,
+    "avg_vol20": 64876.35,
+    "last_close": 5.75,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 5.460000038146973,
       "Low": 4.300000190734863,
       "Close": 5.28000020980835,
-      "Volume": 378800
+      "Volume": 379400
     },
     {
       "Date": "2025-09-10",
       "Open": 5.449999809265137,
       "High": 5.957900047302246,
       "Low": 5.389999866485596,
-      "Close": 5.553599834442139,
-      "Volume": 211846
+      "Close": 5.75,
+      "Volume": 250427
     }
   ]
 }

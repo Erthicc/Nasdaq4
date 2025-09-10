@@ -1,20 +1,20 @@
 {
   "ticker": "YJ",
   "indicators": {
-    "score_0_100": 89.94,
-    "score_0_10": 8.99,
+    "score_0_100": 90.33,
+    "score_0_10": 9.03,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.014503973454929042,
-    "macd_slope": 0.0018226771952427185,
+    "macd_hist": 0.02024755771070055,
+    "macd_slope": 0.0022329332156739564,
     "rsi": 0.0,
-    "rsi_slope": 1.7211544932751852,
-    "wave_strength": 1.0101596488164257,
-    "adx": 23.659773863995294,
-    "atr": 0.09528728435890763,
-    "obv_slope": 31317.214285714286,
+    "rsi_slope": 2.1319878409282382,
+    "wave_strength": 1.0075275040230374,
+    "adx": 23.76100867875869,
+    "atr": 0.09957299454437496,
+    "obv_slope": 32636.64285714286,
     "mom14": 0.0,
-    "avg_vol20": 25547.05,
-    "last_close": 1.8200000524520874,
+    "avg_vol20": 26470.65,
+    "last_close": 1.909999966621399,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 1.8005000352859497,
-      "High": 1.850000023841858,
+      "High": 1.909999966621399,
       "Low": 1.7201000452041626,
-      "Close": 1.8200000524520874,
-      "Volume": 47741
+      "Close": 1.909999966621399,
+      "Volume": 66213
     }
   ]
 }

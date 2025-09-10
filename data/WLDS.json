@@ -1,20 +1,20 @@
 {
   "ticker": "WLDS",
   "indicators": {
-    "score_0_100": 91.91,
-    "score_0_10": 9.19,
+    "score_0_100": 92.29,
+    "score_0_10": 9.23,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.3867772419422515,
-    "macd_slope": 0.031328310128010635,
+    "macd_hist": 0.27318178699369944,
+    "macd_slope": 0.023214349052626905,
     "rsi": 0.0,
-    "rsi_slope": 4.991100868696961,
-    "wave_strength": 0.7891688539755698,
-    "adx": 14.719276417100827,
-    "atr": 0.790378879677809,
-    "obv_slope": 15247884.857142856,
+    "rsi_slope": 4.920825580914125,
+    "wave_strength": 0.843522697039961,
+    "adx": 14.719276414497106,
+    "atr": 0.7903788797415608,
+    "obv_slope": 18725727.14285714,
     "mom14": 0.0,
-    "avg_vol20": 13111384.4,
-    "last_close": 6.960000038146973,
+    "avg_vol20": 15700194.0,
+    "last_close": 5.179999828338623,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.059999942779541,
       "Low": 1.0,
       "Close": 1.0199999809265137,
-      "Volume": 22926200
+      "Volume": 24469400
     },
     {
       "Date": "2025-09-10",
       "Open": 7.079999923706055,
       "High": 10.890000343322754,
       "Low": 4.409999847412109,
-      "Close": 7.117499828338623,
-      "Volume": 237153018
+      "Close": 5.179999828338623,
+      "Volume": 286256980
     }
   ]
 }

@@ -1,23 +1,23 @@
 {
   "ticker": "BNGO",
   "indicators": {
-    "score_0_100": 79.37,
-    "score_0_10": 7.94,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.08129392520208356,
-    "macd_slope": 0.002394251461749129,
+    "score_0_100": 91.34,
+    "score_0_10": 9.13,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.08959022871081168,
+    "macd_slope": 0.00298684458859053,
     "rsi": 0.0,
-    "rsi_slope": 0.34970177977348577,
-    "wave_strength": 1.075042740423036,
-    "adx": 38.490205961254446,
-    "atr": 0.2870876766076191,
-    "obv_slope": 82822.14285714286,
+    "rsi_slope": 0.4289999006054371,
+    "wave_strength": 1.0732091576693918,
+    "adx": 38.81572240498338,
+    "atr": 0.30446624518952214,
+    "obv_slope": 95416.28571428571,
     "mom14": 0.0,
-    "avg_vol20": 195380.5,
-    "last_close": 4.789999961853027,
+    "avg_vol20": 204196.4,
+    "last_close": 4.920000076293945,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 4.389999866485596,
       "Low": 4.150000095367432,
       "Close": 4.380000114440918,
-      "Volume": 184500
+      "Volume": 189100
     },
     {
       "Date": "2025-09-10",
       "Open": 4.440000057220459,
-      "High": 4.840000152587891,
+      "High": 5.0833001136779785,
       "Low": 4.400000095367432,
-      "Close": 4.794899940490723,
-      "Volume": 214410
+      "Close": 4.920000076293945,
+      "Volume": 384228
     }
   ]
 }

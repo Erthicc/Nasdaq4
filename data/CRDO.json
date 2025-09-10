@@ -1,20 +1,20 @@
 {
   "ticker": "CRDO",
   "indicators": {
-    "score_0_100": 81.67,
-    "score_0_10": 8.17,
+    "score_0_100": 81.82,
+    "score_0_10": 8.18,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 3.325317374500994,
-    "macd_slope": 0.38526070628249565,
+    "macd_hist": 3.506878705923011,
+    "macd_slope": 0.39822937282138243,
     "rsi": 0.0,
-    "rsi_slope": 3.0538684888216996,
-    "wave_strength": 1.052127533827598,
-    "adx": 36.62156542995804,
-    "atr": 8.073261456586293,
-    "obv_slope": 4964212.714285715,
+    "rsi_slope": 3.0863393622075144,
+    "wave_strength": 1.0509343287451849,
+    "adx": 36.72198590416609,
+    "atr": 8.247189853696835,
+    "obv_slope": 5217555.428571428,
     "mom14": 0.0,
-    "avg_vol20": 5266873.9,
-    "last_close": 161.11500549316406,
+    "avg_vol20": 5444213.8,
+    "last_close": 163.9600067138672,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 151.72000122070312,
       "Low": 147.22000122070312,
       "Close": 149.02999877929688,
-      "Volume": 4265500
+      "Volume": 4277000
     },
     {
       "Date": "2025-09-10",
       "Open": 156.10400390625,
-      "High": 161.64999389648438,
+      "High": 164.0449981689453,
       "Low": 154.5800018310547,
-      "Close": 160.54110717773438,
-      "Volume": 4033160
+      "Close": 163.9600067138672,
+      "Volume": 7430476
     }
   ]
 }

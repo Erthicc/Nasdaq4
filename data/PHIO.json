@@ -1,23 +1,23 @@
 {
   "ticker": "PHIO",
   "indicators": {
-    "score_0_100": 79.19,
-    "score_0_10": 7.92,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI overbought; rising OBV",
-    "macd_hist": 0.05296409378243037,
-    "macd_slope": 0.006097929288375514,
+    "score_0_100": 91.08,
+    "score_0_10": 9.11,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.05424044581617629,
+    "macd_slope": 0.006189097296111051,
     "rsi": 0.0,
-    "rsi_slope": 3.7490809858777916,
-    "wave_strength": 1.0040255252524204,
-    "adx": 19.637505355129974,
-    "atr": 0.15242936116647404,
-    "obv_slope": 59664.42857142857,
+    "rsi_slope": 3.790378684780675,
+    "wave_strength": 1.00355024734785,
+    "adx": 19.637505124103487,
+    "atr": 0.152429361175518,
+    "obv_slope": 65182.71428571428,
     "mom14": 0.0,
-    "avg_vol20": 146600.1,
-    "last_close": 2.450000047683716,
+    "avg_vol20": 150462.9,
+    "last_close": 2.4700000286102295,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 2.4600000381469727,
       "Low": 2.109999895095825,
       "Close": 2.440000057220459,
-      "Volume": 355200
+      "Volume": 361700
     },
     {
       "Date": "2025-09-10",
       "Open": 2.569999933242798,
       "High": 2.569999933242798,
       "Low": 2.3299999237060547,
-      "Close": 2.434999942779541,
-      "Volume": 164327
+      "Close": 2.4700000286102295,
+      "Volume": 226458
     }
   ]
 }

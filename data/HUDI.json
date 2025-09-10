@@ -1,20 +1,20 @@
 {
   "ticker": "HUDI",
   "indicators": {
-    "score_0_100": 93.11,
-    "score_0_10": 9.31,
+    "score_0_100": 92.88,
+    "score_0_10": 9.29,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.07702518314164836,
-    "macd_slope": 0.00501367255620786,
+    "macd_hist": 0.0460736076717768,
+    "macd_slope": 0.0028028457364544295,
     "rsi": 0.0,
-    "rsi_slope": 2.5763621878735044,
-    "wave_strength": 1.094847069836716,
-    "adx": 37.13051272488307,
-    "atr": 0.402763410532376,
-    "obv_slope": 3031631.6428571427,
+    "rsi_slope": 2.1397551732860327,
+    "wave_strength": 1.11632421655813,
+    "adx": 37.13051271434393,
+    "atr": 0.40276341054205117,
+    "obv_slope": 3342709.5,
     "mom14": 0.0,
-    "avg_vol20": 2137832.15,
-    "last_close": 2.2850000858306885,
+    "avg_vol20": 2355586.65,
+    "last_close": 1.7999999523162842,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3538,8 +3538,8 @@
       "Open": 1.350000023841858,
       "High": 5.460000038146973,
       "Low": 1.350000023841858,
-      "Close": 2.180000066757202,
-      "Volume": 42438021
+      "Close": 1.7999999523162842,
+      "Volume": 46536433
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "TBHC",
   "indicators": {
-    "score_0_100": 82.05,
-    "score_0_10": 8.2,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.04823645973466989,
-    "macd_slope": 0.0026618283574185143,
+    "score_0_100": 82.83,
+    "score_0_10": 8.28,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.04512854871730773,
+    "macd_slope": 0.0024398347115726767,
     "rsi": 0.0,
-    "rsi_slope": 2.0666687370337846,
-    "wave_strength": 0.9485311823684779,
-    "adx": 49.44018766258843,
-    "atr": 0.15773018464359348,
-    "obv_slope": 134673.7142857143,
+    "rsi_slope": 1.806751675635075,
+    "wave_strength": 1.2582573056938278,
+    "adx": 49.44018770935646,
+    "atr": 0.15773018464487706,
+    "obv_slope": 95770.0,
     "mom14": 0.0,
-    "avg_vol20": 217671.6,
-    "last_close": 2.018699884414673,
+    "avg_vol20": 223241.0,
+    "last_close": 1.9700000286102295,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,7 +3531,7 @@
       "High": 2.049999952316284,
       "Low": 1.840000033378601,
       "Close": 2.0,
-      "Volume": 387500
+      "Volume": 390000
     },
     {
       "Date": "2025-09-10",
@@ -3539,7 +3539,7 @@
       "High": 2.0199999809265137,
       "Low": 1.8300000429153442,
       "Close": 1.9700000286102295,
-      "Volume": 225846
+      "Volume": 328020
     }
   ]
 }

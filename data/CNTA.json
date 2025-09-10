@@ -1,20 +1,20 @@
 {
   "ticker": "CNTA",
   "indicators": {
-    "score_0_100": 91.13,
-    "score_0_10": 9.11,
+    "score_0_100": 91.16,
+    "score_0_10": 9.12,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.4518697338403256,
-    "macd_slope": 0.0359368173252395,
+    "macd_hist": 0.4448497518441659,
+    "macd_slope": 0.03543539004504514,
     "rsi": 0.0,
-    "rsi_slope": 1.7996614304745802,
-    "wave_strength": 0.9875060976112011,
-    "adx": 31.64000675976721,
-    "atr": 1.1775586656384667,
-    "obv_slope": 210597.7142857143,
+    "rsi_slope": 1.781789943166089,
+    "wave_strength": 0.987816760178307,
+    "adx": 31.643366403350278,
+    "atr": 1.1783872723977995,
+    "obv_slope": 287999.35714285716,
     "mom14": 0.0,
-    "avg_vol20": 1407303.4,
-    "last_close": 22.81999969482422,
+    "avg_vol20": 1461484.55,
+    "last_close": 22.709999084472656,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 20.8700008392334,
       "Low": 18.030000686645508,
       "Close": 20.850000381469727,
-      "Volume": 3395800
+      "Volume": 3396300
     },
     {
       "Date": "2025-09-10",
       "Open": 20.84000015258789,
       "High": 22.950000762939453,
       "Low": 20.84000015258789,
-      "Close": 22.795000076293945,
-      "Volume": 2328386
+      "Close": 22.709999084472656,
+      "Volume": 3387691
     }
   ]
 }

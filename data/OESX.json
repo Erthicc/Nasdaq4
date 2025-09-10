@@ -1,20 +1,20 @@
 {
   "ticker": "OESX",
   "indicators": {
-    "score_0_100": 80.36,
-    "score_0_10": 8.04,
+    "score_0_100": 80.7,
+    "score_0_10": 8.07,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.1158434744305119,
-    "macd_slope": 0.010525495297126196,
+    "macd_hist": 0.15383411191887147,
+    "macd_slope": 0.013239112252632553,
     "rsi": 0.0,
-    "rsi_slope": 2.183098543021931,
-    "wave_strength": 1.0766768650245648,
-    "adx": 34.95401294102027,
-    "atr": 0.4968239527915222,
-    "obv_slope": 9708.642857142857,
+    "rsi_slope": 2.3824743425652852,
+    "wave_strength": 1.0720341932964843,
+    "adx": 35.52105767581689,
+    "atr": 0.5396811228948983,
+    "obv_slope": 10900.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 19900.05,
-    "last_close": 8.170000076293945,
+    "avg_vol20": 20734.1,
+    "last_close": 8.765299797058105,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 8.010000228881836,
-      "High": 8.5,
+      "High": 8.850000381469727,
       "Low": 8.010000228881836,
-      "Close": 8.498200416564941,
-      "Volume": 10280
+      "Close": 8.765299797058105,
+      "Volume": 22742
     }
   ]
 }

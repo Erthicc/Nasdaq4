@@ -1,20 +1,20 @@
 {
   "ticker": "OCTO",
   "indicators": {
-    "score_0_100": 83.6,
-    "score_0_10": 8.36,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 3.840704040321076,
-    "macd_slope": 0.2756277125699294,
+    "score_0_100": 84.28,
+    "score_0_10": 8.43,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV",
+    "macd_hist": 3.6015920514192588,
+    "macd_slope": 0.2585482847906718,
     "rsi": 0.0,
-    "rsi_slope": 1.7077268837538726,
-    "wave_strength": 6.49887073713965,
-    "adx": 36.8090198248728,
-    "atr": 7.15091473318598,
-    "obv_slope": 12928274.5,
+    "rsi_slope": 1.4139015113511892,
+    "wave_strength": 6.679260893789432,
+    "adx": 36.19566454818861,
+    "atr": 7.4127005128738315,
+    "obv_slope": 12800870.714285715,
     "mom14": 0.0,
-    "avg_vol20": 11461782.85,
-    "last_close": 27.856800079345703,
+    "avg_vol20": 11550965.5,
+    "last_close": 24.110000610351562,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 49.470001220703125,
       "Low": 32.529998779296875,
       "Close": 40.16999816894531,
-      "Volume": 19274900
+      "Volume": 19337300
     },
     {
       "Date": "2025-09-10",
       "Open": 37.709999084472656,
       "High": 38.939998626708984,
-      "Low": 27.610000610351562,
-      "Close": 27.655000686645508,
-      "Volume": 4655944
+      "Low": 23.954999923706055,
+      "Close": 24.110000610351562,
+      "Volume": 6283310
     }
   ]
 }

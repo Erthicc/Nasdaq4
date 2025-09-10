@@ -1,20 +1,20 @@
 {
   "ticker": "WXM",
   "indicators": {
-    "score_0_100": 88.57,
+    "score_0_100": 88.61,
     "score_0_10": 8.86,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.037141732231218534,
-    "macd_slope": 0.003009750623708889,
+    "macd_hist": 0.036937512250082204,
+    "macd_slope": 0.002995163482199151,
     "rsi": 0.0,
-    "rsi_slope": 0.5590121424569665,
-    "wave_strength": 0.9444597520151347,
+    "rsi_slope": 0.5545536311659751,
+    "wave_strength": 0.9445100093005726,
     "adx": 22.206214104448527,
     "atr": 0.3564110831038691,
-    "obv_slope": 5488.571428571428,
+    "obv_slope": 6335.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 15737.0,
-    "last_close": 3.5532000064849854,
+    "avg_vol20": 16329.75,
+    "last_close": 3.549999952316284,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -914,8 +914,8 @@
       "Open": 3.2100000381469727,
       "High": 3.690000057220459,
       "Low": 3.200000047683716,
-      "Close": 3.5532000064849854,
-      "Volume": 55340.0
+      "Close": 3.549999952316284,
+      "Volume": 67195.0
     }
   ]
 }

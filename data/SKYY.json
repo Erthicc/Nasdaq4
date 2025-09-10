@@ -1,20 +1,20 @@
 {
   "ticker": "SKYY",
   "indicators": {
-    "score_0_100": 90.66,
+    "score_0_100": 90.68,
     "score_0_10": 9.07,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 1.1285692726486731,
-    "macd_slope": 0.10363236548811261,
+    "macd_hist": 1.0838971027247934,
+    "macd_slope": 0.10044149620942518,
     "rsi": 0.0,
-    "rsi_slope": 2.914663228285808,
-    "wave_strength": 1.0328744220547073,
-    "adx": 21.33574414818859,
-    "atr": 2.411929841068832,
-    "obv_slope": 106515.35714285714,
+    "rsi_slope": 2.8794985531025294,
+    "wave_strength": 1.0331639742531438,
+    "adx": 21.335744105962654,
+    "atr": 2.411929841084075,
+    "obv_slope": 124400.71428571429,
     "mom14": 0.0,
-    "avg_vol20": 168250.75,
-    "last_close": 135.39999389648438,
+    "avg_vol20": 180770.5,
+    "last_close": 134.6999969482422,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 135.60000610351562,
       "High": 136.6999969482422,
-      "Low": 135.07000732421875,
-      "Close": 135.2550048828125,
-      "Volume": 317221
+      "Low": 134.22000122070312,
+      "Close": 134.6999969482422,
+      "Volume": 562610
     }
   ]
 }

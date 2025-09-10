@@ -1,20 +1,20 @@
 {
   "ticker": "LYEL",
   "indicators": {
-    "score_0_100": 80.36,
-    "score_0_10": 8.04,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI overbought; rising OBV",
-    "macd_hist": 0.24276208969014895,
-    "macd_slope": 0.026541038240641003,
+    "score_0_100": 80.77,
+    "score_0_10": 8.08,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.21978769194641984,
+    "macd_slope": 0.024900009792224398,
     "rsi": 0.0,
-    "rsi_slope": 4.256678223740489,
-    "wave_strength": 0.9909731608093045,
-    "adx": 24.99026022544455,
-    "atr": 0.7075217660285933,
-    "obv_slope": 13203.92857142857,
+    "rsi_slope": 4.034952096569314,
+    "wave_strength": 1.1570865764130778,
+    "adx": 25.031014136515246,
+    "atr": 0.7125217443003863,
+    "obv_slope": 10973.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 24202.75,
-    "last_close": 13.430000305175781,
+    "avg_vol20": 25078.35,
+    "last_close": 13.069999694824219,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 13.029999732971191,
-      "High": 13.489999771118164,
+      "High": 13.5,
       "Low": 12.890000343322754,
-      "Close": 13.489999771118164,
-      "Volume": 7917
+      "Close": 13.069999694824219,
+      "Volume": 24367
     }
   ]
 }

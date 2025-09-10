@@ -1,20 +1,20 @@
 {
   "ticker": "CLLS",
   "indicators": {
-    "score_0_100": 88.17,
+    "score_0_100": 88.23,
     "score_0_10": 8.82,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.0032547868304502597,
-    "macd_slope": 0.0014321220071694743,
+    "macd_hist": 0.0019784347751108516,
+    "macd_slope": 0.0013409540024218666,
     "rsi": 0.0,
-    "rsi_slope": 0.24069595669459837,
-    "wave_strength": 0.9692701804388937,
-    "adx": 20.800614296053975,
-    "atr": 0.18052507443677931,
-    "obv_slope": 16602.428571428572,
+    "rsi_slope": 0.18835353811222127,
+    "wave_strength": 0.9696221747973884,
+    "adx": 21.083281351825043,
+    "atr": 0.18628221895950065,
+    "obv_slope": 22106.5,
     "mom14": 0.0,
-    "avg_vol20": 73101.7,
-    "last_close": 3.069999933242798,
+    "avg_vol20": 76954.55,
+    "last_close": 3.049999952316284,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 2.9000000953674316,
-      "High": 3.099400043487549,
+      "High": 3.180000066757202,
       "Low": 2.9000000953674316,
-      "Close": 3.075000047683716,
-      "Volume": 121134
+      "Close": 3.049999952316284,
+      "Volume": 197191
     }
   ]
 }

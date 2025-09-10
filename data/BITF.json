@@ -1,20 +1,20 @@
 {
   "ticker": "BITF",
   "indicators": {
-    "score_0_100": 91.52,
-    "score_0_10": 9.15,
+    "score_0_100": 91.65,
+    "score_0_10": 9.17,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.031535152900641045,
-    "macd_slope": 0.0027105793149235597,
+    "macd_hist": 0.03121606488661692,
+    "macd_slope": 0.0026877873137628808,
     "rsi": 0.0,
-    "rsi_slope": 2.0676694319610442,
-    "wave_strength": 0.9715684160429802,
-    "adx": 25.52092058665959,
-    "atr": 0.11712429360167653,
-    "obv_slope": 14125713.07142857,
+    "rsi_slope": 2.058823797028068,
+    "wave_strength": 0.9717513854386917,
+    "adx": 25.52092054915527,
+    "atr": 0.11712429360912671,
+    "obv_slope": 15622178.42857143,
     "mom14": 0.0,
-    "avg_vol20": 31630184.15,
-    "last_close": 1.7549999952316284,
+    "avg_vol20": 32677709.9,
+    "last_close": 1.75,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.6200000047683716,
       "Low": 1.2999999523162842,
       "Close": 1.590000033378601,
-      "Volume": 113133500
+      "Volume": 113559800
     },
     {
       "Date": "2025-09-10",
       "Open": 1.6959999799728394,
       "High": 1.8600000143051147,
       "Low": 1.6200000047683716,
-      "Close": 1.7706999778747559,
-      "Volume": 73699650
+      "Close": 1.75,
+      "Volume": 93176398
     }
   ]
 }

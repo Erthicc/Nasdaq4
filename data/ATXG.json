@@ -1,20 +1,20 @@
 {
   "ticker": "ATXG",
   "indicators": {
-    "score_0_100": 90.84,
-    "score_0_10": 9.08,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.01312541115123536,
-    "macd_slope": 0.0003373417996058253,
+    "score_0_100": 91.02,
+    "score_0_10": 9.1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.014389001364593416,
+    "macd_slope": 0.00042759824317868233,
     "rsi": 0.0,
-    "rsi_slope": 2.4172685471587028,
-    "wave_strength": 1.0655351185283182,
-    "adx": 24.644287742929208,
-    "atr": 0.06321472077325933,
-    "obv_slope": 280768.64285714284,
+    "rsi_slope": 2.5149619321850554,
+    "wave_strength": 1.0635494243864105,
+    "adx": 25.001563230921043,
+    "atr": 0.06535757586862437,
+    "obv_slope": 306212.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 270383.05,
-    "last_close": 0.6399999856948853,
+    "avg_vol20": 288193.7,
+    "last_close": 0.6597999930381775,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 0.5950000286102295,
       "Low": 0.5080000162124634,
       "Close": 0.5950000286102295,
-      "Volume": 1529200
+      "Volume": 1555000
     },
     {
       "Date": "2025-09-10",
       "Open": 0.6200000047683716,
-      "High": 0.6700000166893005,
+      "High": 0.699999988079071,
       "Low": 0.550000011920929,
-      "Close": 0.6299999952316284,
-      "Volume": 1029907
+      "Close": 0.6597999930381775,
+      "Volume": 1355574
     }
   ]
 }

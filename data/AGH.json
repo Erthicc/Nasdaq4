@@ -1,20 +1,20 @@
 {
   "ticker": "AGH",
   "indicators": {
-    "score_0_100": 91.54,
-    "score_0_10": 9.15,
+    "score_0_100": 91.59,
+    "score_0_10": 9.16,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.02997417360660365,
-    "macd_slope": 0.00904463579949705,
+    "macd_hist": 0.029335982361722746,
+    "macd_slope": 0.008999050710576986,
     "rsi": 0.0,
-    "rsi_slope": 0.974533370018389,
-    "wave_strength": 1.1333605420432298,
+    "rsi_slope": 0.9707667781042824,
+    "wave_strength": 1.1335149543718643,
     "adx": 36.34960158233542,
     "atr": 0.803239818465595,
-    "obv_slope": 138362.35714285713,
+    "obv_slope": 149934.5,
     "mom14": 0.0,
-    "avg_vol20": 317423.65,
-    "last_close": 4.880000114440918,
+    "avg_vol20": 325524.15,
+    "last_close": 4.869999885559082,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1178,8 +1178,8 @@
       "Open": 3.990000009536743,
       "High": 5.889999866485596,
       "Low": 3.990000009536743,
-      "Close": 4.875,
-      "Volume": 732721.0
+      "Close": 4.869999885559082,
+      "Volume": 893483.0
     }
   ]
 }

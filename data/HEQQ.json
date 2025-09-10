@@ -1,20 +1,20 @@
 {
   "ticker": "HEQQ",
   "indicators": {
-    "score_0_100": 81.82,
-    "score_0_10": 8.18,
+    "score_0_100": 81.87,
+    "score_0_10": 8.19,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought",
-    "macd_hist": 0.06426148808394261,
-    "macd_slope": 0.0048870213300109865,
+    "macd_hist": 0.05960292326912742,
+    "macd_slope": 0.00455426670038133,
     "rsi": 0.0,
-    "rsi_slope": 0.7484638859037318,
-    "wave_strength": 1.002276978538017,
+    "rsi_slope": 0.7014289498863714,
+    "wave_strength": 1.0023430645879814,
     "adx": 54.27624021658216,
     "atr": 0.2340687716587175,
-    "obv_slope": -405.14285714285717,
+    "obv_slope": -405.0,
     "mom14": 0.0,
-    "avg_vol20": 2456.4,
-    "last_close": 56.29999923706055,
+    "avg_vol20": 2456.5,
+    "last_close": 56.22700119018555,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -937,9 +937,9 @@
       "Date": "2025-09-10",
       "Open": 56.26499938964844,
       "High": 56.29999923706055,
-      "Low": 56.26499938964844,
-      "Close": 56.29999923706055,
-      "Volume": 228.0
+      "Low": 56.22700119018555,
+      "Close": 56.22700119018555,
+      "Volume": 230.0
     }
   ]
 }

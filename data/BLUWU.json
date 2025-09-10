@@ -1,8 +1,8 @@
 {
   "ticker": "BLUWU",
   "indicators": {
-    "score_0_100": 90.41,
-    "score_0_10": 9.04,
+    "score_0_100": 90.46,
+    "score_0_10": 9.05,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
     "macd_hist": 0.007804689198866034,
     "macd_slope": 0.0009684301845324852,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0019709871629934,
     "adx": 17.145306620456676,
     "atr": 0.016732399852797127,
-    "obv_slope": 15086.0,
+    "obv_slope": 14964.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 26140.2,
+    "avg_vol20": 26055.0,
     "last_close": 10.09000015258789,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -521,9 +521,9 @@
       "Date": "2025-09-09",
       "Open": 10.079999923706055,
       "High": 10.09000015258789,
-      "Low": 10.09000015258789,
+      "Low": 10.079999923706055,
       "Close": 10.09000015258789,
-      "Volume": 63304.0
+      "Volume": 61600.0
     }
   ]
 }

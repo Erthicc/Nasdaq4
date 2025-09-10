@@ -1,8 +1,8 @@
 {
   "ticker": "DTSQ",
   "indicators": {
-    "score_0_100": 80.56,
-    "score_0_10": 8.06,
+    "score_0_100": 80.66,
+    "score_0_10": 8.07,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
     "macd_hist": 0.0005042242262092815,
     "macd_slope": -0.00028957517571995907,

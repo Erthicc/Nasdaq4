@@ -1,20 +1,20 @@
 {
   "ticker": "ZKIN",
   "indicators": {
-    "score_0_100": 91.21,
-    "score_0_10": 9.12,
+    "score_0_100": 91.35,
+    "score_0_10": 9.14,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.045158716484155426,
-    "macd_slope": 0.00454718116417728,
+    "macd_hist": 0.05090230074992783,
+    "macd_slope": 0.004957437183224568,
     "rsi": 0.0,
-    "rsi_slope": 3.509466951346407,
-    "wave_strength": 0.9930589680726738,
-    "adx": 22.598647083657067,
-    "atr": 0.23417497793955747,
-    "obv_slope": 106912.57142857143,
+    "rsi_slope": 3.631669321605424,
+    "wave_strength": 0.9907409655809634,
+    "adx": 22.598647061097022,
+    "atr": 0.23417497794054157,
+    "obv_slope": 120644.28571428571,
     "mom14": 0.0,
-    "avg_vol20": 98578.8,
-    "last_close": 2.380000114440918,
+    "avg_vol20": 108191.0,
+    "last_close": 2.4700000286102295,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3538,8 +3538,8 @@
       "Open": 1.899999976158142,
       "High": 3.0,
       "Low": 1.899999976158142,
-      "Close": 2.380000114440918,
-      "Volume": 1329109
+      "Close": 2.4700000286102295,
+      "Volume": 1521220
     }
   ]
 }

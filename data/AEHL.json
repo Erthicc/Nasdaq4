@@ -1,20 +1,20 @@
 {
   "ticker": "AEHL",
   "indicators": {
-    "score_0_100": 93.3,
-    "score_0_10": 9.33,
+    "score_0_100": 92.81,
+    "score_0_10": 9.28,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.18644370364123752,
-    "macd_slope": 0.011683886319871878,
+    "macd_hist": 0.08752631406694766,
+    "macd_slope": 0.004618358175218782,
     "rsi": 0.0,
-    "rsi_slope": 2.678921062259499,
-    "wave_strength": 1.0722943060965462,
-    "adx": 38.71261027716623,
-    "atr": 0.7349522966222582,
-    "obv_slope": 2248457.0714285714,
+    "rsi_slope": 1.9458231361412193,
+    "wave_strength": 1.0965295989052741,
+    "adx": 38.71260677151146,
+    "atr": 0.734952293160826,
+    "obv_slope": 2391713.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 1616034.95,
-    "last_close": 5.880000114440918,
+    "avg_vol20": 1716314.5,
+    "last_close": 4.329999923706055,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 3.8499999046325684,
       "Low": 3.549999952316284,
       "Close": 3.700000047683716,
-      "Volume": 31800
+      "Volume": 38700
     },
     {
       "Date": "2025-09-10",
       "Open": 8.239999771118164,
       "High": 8.420700073242188,
-      "Low": 4.369999885559082,
-      "Close": 5.190000057220459,
-      "Volume": 31841443
+      "Low": 4.0,
+      "Close": 4.329999923706055,
+      "Volume": 33347490
     }
   ]
 }

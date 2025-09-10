@@ -1,23 +1,23 @@
 {
   "ticker": "NKTR",
   "indicators": {
-    "score_0_100": 82.01,
-    "score_0_10": 8.2,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 2.1216356297124235,
-    "macd_slope": 0.13226492434476514,
+    "score_0_100": 95.49,
+    "score_0_10": 9.55,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 2.084940424362342,
+    "macd_slope": 0.12964383824117776,
     "rsi": 0.0,
-    "rsi_slope": 1.228572961012768,
-    "wave_strength": 0.9395033594921846,
-    "adx": 53.46619172042916,
-    "atr": 2.8341042301753565,
-    "obv_slope": 773344.4285714285,
+    "rsi_slope": 1.128494593248071,
+    "wave_strength": 1.5295710590450509,
+    "adx": 53.46619182174801,
+    "atr": 2.8341042301673354,
+    "obv_slope": 591349.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 995246.1,
-    "last_close": 48.755001068115234,
+    "avg_vol20": 1033220.2,
+    "last_close": 48.18000030517578,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 48.849998474121094,
       "Low": 43.45000076293945,
       "Close": 48.56999969482422,
-      "Volume": 1881700
+      "Volume": 1885100
     },
     {
       "Date": "2025-09-10",
       "Open": 48.41999816894531,
       "High": 49.0,
       "Low": 45.7400016784668,
-      "Close": 48.88999938964844,
-      "Volume": 909465
+      "Close": 48.18000030517578,
+      "Volume": 1653704
     }
   ]
 }

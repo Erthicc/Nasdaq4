@@ -1,20 +1,20 @@
 {
   "ticker": "SPPL",
   "indicators": {
-    "score_0_100": 90.32,
-    "score_0_10": 9.03,
+    "score_0_100": 90.4,
+    "score_0_10": 9.04,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.04187721655912001,
-    "macd_slope": 0.0016688481432032558,
+    "macd_hist": 0.044238466348187455,
+    "macd_slope": 0.0018375088421680298,
     "rsi": 0.0,
-    "rsi_slope": 1.383866210840856,
-    "wave_strength": 0.9905839238128787,
-    "adx": 28.538156101956044,
-    "atr": 0.2573595327603342,
-    "obv_slope": 2794.3571428571427,
+    "rsi_slope": 1.4321286767806936,
+    "wave_strength": 0.9900052121336593,
+    "adx": 28.538156078579814,
+    "atr": 0.2573595327635005,
+    "obv_slope": 3920.5714285714284,
     "mom14": 0.0,
-    "avg_vol20": 19401.05,
-    "last_close": 3.763000011444092,
+    "avg_vol20": 20189.4,
+    "last_close": 3.799999952316284,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3538,8 +3538,8 @@
       "Open": 3.200000047683716,
       "High": 3.799999952316284,
       "Low": 3.180000066757202,
-      "Close": 3.763000011444092,
-      "Volume": 44821
+      "Close": 3.799999952316284,
+      "Volume": 60588
     }
   ]
 }

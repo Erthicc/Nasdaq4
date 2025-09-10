@@ -1,20 +1,20 @@
 {
   "ticker": "VSTL",
   "indicators": {
-    "score_0_100": 89.07,
+    "score_0_100": 89.05,
     "score_0_10": 8.91,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.23394459629964992,
-    "macd_slope": 0.04729290275080687,
+    "macd_hist": 0.20592869446783124,
+    "macd_slope": 0.04529176690567697,
     "rsi": 0.0,
-    "rsi_slope": 2.243860866326692,
-    "wave_strength": 0.9522909088507182,
-    "adx": 16.105199811943088,
-    "atr": 1.692395916823624,
-    "obv_slope": 6790.857142857143,
+    "rsi_slope": 2.146231072019681,
+    "wave_strength": 0.9533058171104508,
+    "adx": 16.21519346887781,
+    "atr": 1.7113244446556553,
+    "obv_slope": 9205.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 31078.6,
-    "last_close": 24.108999252319336,
+    "avg_vol20": 32769.0,
+    "last_close": 23.670000076293945,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -304,10 +304,10 @@
     {
       "Date": "2025-09-10",
       "Open": 21.93000030517578,
-      "High": 24.110000610351562,
+      "High": 24.375,
       "Low": 21.709999084472656,
-      "Close": 23.780000686645508,
-      "Volume": 74373.0
+      "Close": 23.670000076293945,
+      "Volume": 108080.0
     }
   ]
 }

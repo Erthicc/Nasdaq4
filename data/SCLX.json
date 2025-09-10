@@ -1,20 +1,20 @@
 {
   "ticker": "SCLX",
   "indicators": {
-    "score_0_100": 82.95,
-    "score_0_10": 8.3,
+    "score_0_100": 82.77,
+    "score_0_10": 8.28,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.42533098566923444,
-    "macd_slope": 0.0322560978017861,
+    "macd_hist": 0.4473480361844344,
+    "macd_slope": 0.03382874420039487,
     "rsi": 0.0,
-    "rsi_slope": 1.311039272241035,
-    "wave_strength": 1.2862443651149034,
-    "adx": 53.42116846496059,
-    "atr": 2.006905882567722,
-    "obv_slope": 44215.28571428572,
+    "rsi_slope": 1.3666012083033523,
+    "wave_strength": 1.165957089110566,
+    "adx": 53.520842571475896,
+    "atr": 2.053334563011043,
+    "obv_slope": 64908.357142857145,
     "mom14": 0.0,
-    "avg_vol20": 253129.3,
-    "last_close": 25.079999923706055,
+    "avg_vol20": 256235.85,
+    "last_close": 25.424999237060547,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 25.229999542236328,
       "Low": 21.59000015258789,
       "Close": 25.1299991607666,
-      "Volume": 243500
+      "Volume": 245800
     },
     {
       "Date": "2025-09-10",
       "Open": 24.899999618530273,
-      "High": 25.329999923706055,
+      "High": 25.790000915527344,
       "Low": 24.0,
-      "Close": 25.219999313354492,
-      "Volume": 115868
+      "Close": 25.424999237060547,
+      "Volume": 173617
     }
   ]
 }

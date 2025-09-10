@@ -1,23 +1,23 @@
 {
   "ticker": "CCCXU",
   "indicators": {
-    "score_0_100": 79.17,
-    "score_0_10": 7.92,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI overbought; rising OBV",
-    "macd_hist": 0.04081757201932932,
-    "macd_slope": 0.002823349907266197,
+    "score_0_100": 91.0,
+    "score_0_10": 9.1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.04017938077444912,
+    "macd_slope": 0.0027777648183461823,
     "rsi": 0.0,
-    "rsi_slope": 3.0627959395482547,
-    "wave_strength": 0.9953238511154537,
+    "rsi_slope": 3.03758524454948,
+    "wave_strength": 0.995372085789713,
     "adx": 23.475722009040997,
     "atr": 0.057342784459668734,
-    "obv_slope": 50545.92857142857,
+    "obv_slope": 54555.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 48867.15,
-    "last_close": 10.619999885559082,
+    "avg_vol20": 51673.6,
+    "last_close": 10.609999656677246,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -682,8 +682,8 @@
       "Open": 10.579999923706055,
       "High": 10.649999618530273,
       "Low": 10.579999923706055,
-      "Close": 10.619999885559082,
-      "Volume": 34336.0
+      "Close": 10.609999656677246,
+      "Volume": 81172.0
     }
   ]
 }

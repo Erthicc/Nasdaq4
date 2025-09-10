@@ -1,20 +1,20 @@
 {
   "ticker": "NTHI",
   "indicators": {
-    "score_0_100": 92.62,
-    "score_0_10": 9.26,
+    "score_0_100": 92.69,
+    "score_0_10": 9.27,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.2819025767245721,
-    "macd_slope": 0.01616319333128214,
+    "macd_hist": 0.3099823828866535,
+    "macd_slope": 0.01816889377143081,
     "rsi": 0.0,
-    "rsi_slope": 2.3925632395591783,
-    "wave_strength": 1.1242940000256594,
+    "rsi_slope": 2.4362298932358035,
+    "wave_strength": 1.1205561182678798,
     "adx": 35.835663177916324,
     "atr": 0.7576576608831141,
-    "obv_slope": 65947.5,
+    "obv_slope": 72312.5,
     "mom14": 0.0,
-    "avg_vol20": 70648.25,
-    "last_close": 9.489999771118164,
+    "avg_vol20": 75103.75,
+    "last_close": 9.930000305175781,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -946,8 +946,8 @@
       "Open": 8.399999618530273,
       "High": 10.210000038146973,
       "Low": 8.25,
-      "Close": 9.600000381469727,
-      "Volume": 221602.0
+      "Close": 9.930000305175781,
+      "Volume": 310475.0
     }
   ]
 }

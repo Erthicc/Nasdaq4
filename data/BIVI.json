@@ -1,20 +1,20 @@
 {
   "ticker": "BIVI",
   "indicators": {
-    "score_0_100": 82.58,
-    "score_0_10": 8.26,
+    "score_0_100": 82.67,
+    "score_0_10": 8.27,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.2741348018569756,
-    "macd_slope": 0.026278066147142294,
+    "macd_hist": 0.2741284190619142,
+    "macd_slope": 0.026277610226850965,
     "rsi": 0.0,
-    "rsi_slope": 4.391999557402363,
-    "wave_strength": 1.0922296691071922,
-    "adx": 57.15831620669626,
-    "atr": 0.2899292846259331,
-    "obv_slope": 120573.21428571429,
+    "rsi_slope": 4.391770625460066,
+    "wave_strength": 1.0922329834606985,
+    "adx": 57.15831633702044,
+    "atr": 0.28992928477087226,
+    "obv_slope": 127352.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 309491.25,
-    "last_close": 1.910099983215332,
+    "avg_vol20": 314286.7,
+    "last_close": 1.909999966621399,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.850000023841858,
       "Low": 1.6950000524520874,
       "Close": 1.7899999618530273,
-      "Volume": 338700
+      "Volume": 339200
     },
     {
       "Date": "2025-09-10",
       "Open": 1.8300000429153442,
       "High": 1.940000057220459,
       "Low": 1.7799999713897705,
-      "Close": 1.9048999547958374,
-      "Volume": 642404
+      "Close": 1.909999966621399,
+      "Volume": 732834
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "NBIS",
   "indicators": {
-    "score_0_100": 91.18,
-    "score_0_10": 9.12,
+    "score_0_100": 91.0,
+    "score_0_10": 9.1,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 1.8644350364972961,
-    "macd_slope": 0.10866167008896747,
+    "macd_hist": 1.7533924377838028,
+    "macd_slope": 0.10073005589514653,
     "rsi": 0.0,
-    "rsi_slope": 0.9095947265679943,
-    "wave_strength": 1.3475142436728031,
+    "rsi_slope": 0.719326982920139,
+    "wave_strength": 1.34916664290126,
     "adx": 29.149306443205575,
     "atr": 6.416535298256647,
-    "obv_slope": 2472724.285714286,
+    "obv_slope": 1324898.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 15079733.0,
-    "last_close": 95.12999725341797,
+    "avg_vol20": 15900731.2,
+    "last_close": 93.38999938964844,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1787,15 +1787,15 @@
       "High": 98.68000030517578,
       "Low": 86.12000274658203,
       "Close": 95.72000122070312,
-      "Volume": 88203100.0
+      "Volume": 88378300.0
     },
     {
       "Date": "2025-09-10",
       "Open": 91.64019775390625,
       "High": 100.51000213623047,
       "Low": 91.0,
-      "Close": 94.9000015258789,
-      "Volume": 28797676.0
+      "Close": 93.38999938964844,
+      "Volume": 44535824.0
     }
   ]
 }

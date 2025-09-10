@@ -1,20 +1,20 @@
 {
   "ticker": "ATRO",
   "indicators": {
-    "score_0_100": 91.8,
+    "score_0_100": 91.81,
     "score_0_10": 9.18,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.601852019326101,
-    "macd_slope": 0.0398578977809093,
+    "macd_hist": 0.5520743195174198,
+    "macd_slope": 0.03630234778058716,
     "rsi": 0.0,
-    "rsi_slope": 2.7659847227407246,
-    "wave_strength": 1.0668924997452423,
-    "adx": 29.267063590568807,
-    "atr": 2.0519731782326422,
-    "obv_slope": 365395.28571428574,
+    "rsi_slope": 2.7039830430775345,
+    "wave_strength": 1.0680302210137873,
+    "adx": 29.267063586118276,
+    "atr": 2.051973178252271,
+    "obv_slope": 534433.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 830651.7,
-    "last_close": 44.68000030517578,
+    "avg_vol20": 948978.65,
+    "last_close": 43.900001525878906,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3538,8 +3538,8 @@
       "Open": 39.7599983215332,
       "High": 46.599998474121094,
       "Low": 39.654998779296875,
-      "Close": 44.790000915527344,
-      "Volume": 3426928
+      "Close": 43.900001525878906,
+      "Volume": 5734773
     }
   ]
 }

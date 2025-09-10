@@ -1,20 +1,20 @@
 {
   "ticker": "SNDK",
   "indicators": {
-    "score_0_100": 81.46,
-    "score_0_10": 8.15,
+    "score_0_100": 81.57,
+    "score_0_10": 8.16,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 2.639065834509167,
-    "macd_slope": 0.17612776943154004,
+    "macd_hist": 2.6639546844468462,
+    "macd_slope": 0.17790554442708856,
     "rsi": 0.0,
-    "rsi_slope": 2.960623198158675,
-    "wave_strength": 0.9898366037619458,
-    "adx": 37.43950889371495,
-    "atr": 2.889383105097455,
-    "obv_slope": 3365413.0,
+    "rsi_slope": 2.9644023481928334,
+    "wave_strength": 0.9894726131810477,
+    "adx": 37.46749490655128,
+    "atr": 2.9243829525095646,
+    "obv_slope": 3524551.5,
     "mom14": 0.0,
-    "avg_vol20": 3551049.1,
-    "last_close": 73.52999877929688,
+    "avg_vol20": 3662446.05,
+    "last_close": 73.91999816894531,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1163,15 +1163,15 @@
       "High": 71.4000015258789,
       "Low": 69.56999969482422,
       "Close": 70.51000213623047,
-      "Volume": 3363200.0
+      "Volume": 3364300.0
     },
     {
       "Date": "2025-09-10",
       "Open": 72.45999908447266,
-      "High": 74.0,
+      "High": 74.48999786376953,
       "Low": 72.03450012207031,
-      "Close": 73.32499694824219,
-      "Volume": 1798764.0
+      "Close": 73.91999816894531,
+      "Volume": 4006021.0
     }
   ]
 }

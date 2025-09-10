@@ -1,7 +1,7 @@
 {
   "ticker": "WLAC",
   "indicators": {
-    "score_0_100": 95.16,
+    "score_0_100": 95.18,
     "score_0_10": 9.52,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
     "macd_hist": 0.001981269519652366,
@@ -11,9 +11,9 @@
     "wave_strength": 1.001498821321737,
     "adx": 52.69407463339163,
     "atr": 0.028512753883430945,
-    "obv_slope": 11425.5,
+    "obv_slope": 12682.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 9942.85,
+    "avg_vol20": 10822.5,
     "last_close": 10.300000190734863,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -1411,7 +1411,7 @@
       "High": 10.300000190734863,
       "Low": 10.300000190734863,
       "Close": 10.300000190734863,
-      "Volume": 102557.0
+      "Volume": 120150.0
     }
   ]
 }

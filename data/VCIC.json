@@ -1,22 +1,22 @@
 {
   "ticker": "VCIC",
   "indicators": {
-    "score_0_100": 82.95,
-    "score_0_10": 8.29,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.009825708542821849,
-    "macd_slope": 0.0022072661865349874,
+    "score_0_100": 96.37,
+    "score_0_10": 9.64,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.011102091032582258,
+    "macd_slope": 0.0022984363643750168,
     "rsi": 0.0,
-    "rsi_slope": 2.310928665636424,
-    "wave_strength": 1.0079786106150175,
+    "rsi_slope": 2.4436161933730682,
+    "wave_strength": 1.0078821294272782,
     "adx": 63.02769297940626,
-    "atr": 0.05171217303064157,
-    "obv_slope": 101026.14285714286,
+    "atr": 0.052426475093629854,
+    "obv_slope": 111477.5,
     "mom14": 0.0,
-    "avg_vol20": 84473.3,
-    "last_close": 10.529999732971191,
+    "avg_vol20": 91789.25,
+    "last_close": 10.550000190734863,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1
   },
@@ -1752,10 +1752,10 @@
     {
       "Date": "2025-09-10",
       "Open": 10.529999732971191,
-      "High": 10.539999961853027,
+      "High": 10.550000190734863,
       "Low": 10.515000343322754,
-      "Close": 10.529999732971191,
-      "Volume": 682366.0
+      "Close": 10.550000190734863,
+      "Volume": 828685.0
     }
   ]
 }

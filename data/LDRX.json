@@ -1,20 +1,20 @@
 {
   "ticker": "LDRX",
   "indicators": {
-    "score_0_100": 88.87,
-    "score_0_10": 8.89,
+    "score_0_100": 88.84,
+    "score_0_10": 8.88,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.08180244350902682,
-    "macd_slope": 0.007561476612460108,
+    "macd_hist": 0.06959416025582243,
+    "macd_slope": 0.006689456380088366,
     "rsi": 0.0,
-    "rsi_slope": 1.6460154554163213,
-    "wave_strength": 1.0063507957723787,
+    "rsi_slope": 1.5345315804549458,
+    "wave_strength": 1.0066655964029358,
     "adx": 16.95723295670351,
     "atr": 0.2116866555261573,
-    "obv_slope": 2593.9285714285716,
+    "obv_slope": 2629.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 1985.75,
-    "last_close": 31.829999923706055,
+    "avg_vol20": 2010.85,
+    "last_close": 31.638700485229492,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -729,9 +729,9 @@
       "Date": "2025-09-10",
       "Open": 31.81999969482422,
       "High": 31.829999923706055,
-      "Low": 31.81999969482422,
-      "Close": 31.829999923706055,
-      "Volume": 20915.0
+      "Low": 31.59000015258789,
+      "Close": 31.638700485229492,
+      "Volume": 21417.0
     }
   ]
 }

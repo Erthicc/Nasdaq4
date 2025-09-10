@@ -1,20 +1,20 @@
 {
   "ticker": "VERI",
   "indicators": {
-    "score_0_100": 92.12,
+    "score_0_100": 92.05,
     "score_0_10": 9.21,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.07233159356625651,
-    "macd_slope": 0.008825627266316654,
+    "macd_hist": 0.06626892887487346,
+    "macd_slope": 0.00839257979217574,
     "rsi": 0.0,
-    "rsi_slope": 1.6104975632694354,
-    "wave_strength": 1.3774549090513832,
-    "adx": 31.23896841803559,
-    "atr": 0.34917139052829843,
-    "obv_slope": 1346060.9285714286,
+    "rsi_slope": 1.4477208166937419,
+    "wave_strength": 1.379805931817401,
+    "adx": 31.238968377311796,
+    "atr": 0.3491713905237203,
+    "obv_slope": 1189180.357142857,
     "mom14": 0.0,
-    "avg_vol20": 3539897.35,
-    "last_close": 3.734999895095825,
+    "avg_vol20": 3654733.75,
+    "last_close": 3.640000104904175,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 3.940000057220459,
       "Low": 2.8299999237060547,
       "Close": 3.8399999141693115,
-      "Volume": 18103300
+      "Volume": 18153500
     },
     {
       "Date": "2025-09-10",
       "Open": 3.890000104904175,
       "High": 4.130000114440918,
       "Low": 3.590100049972534,
-      "Close": 3.7399001121520996,
-      "Volume": 6581245
+      "Close": 3.640000104904175,
+      "Volume": 8818275
     }
   ]
 }

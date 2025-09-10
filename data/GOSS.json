@@ -1,20 +1,20 @@
 {
   "ticker": "GOSS",
   "indicators": {
-    "score_0_100": 94.62,
-    "score_0_10": 9.46,
+    "score_0_100": 94.68,
+    "score_0_10": 9.47,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.0474529295886576,
-    "macd_slope": 0.004961145851711077,
+    "macd_hist": 0.047133833970763206,
+    "macd_slope": 0.0049383533066220025,
     "rsi": 0.0,
-    "rsi_slope": 2.2429614921850276,
-    "wave_strength": 1.2341274219924199,
-    "adx": 47.23256875154412,
-    "atr": 0.23868442725958885,
-    "obv_slope": 1700127.9285714286,
+    "rsi_slope": 2.2391490176894027,
+    "wave_strength": 1.234256951344781,
+    "adx": 47.232568675824574,
+    "atr": 0.23868442725695221,
+    "obv_slope": 1940310.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 3761479.55,
-    "last_close": 3.115000009536743,
+    "avg_vol20": 3929607.55,
+    "last_close": 3.109999895095825,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 2.815000057220459,
       "Low": 2.609999895095825,
       "Close": 2.7699999809265137,
-      "Volume": 2712600
+      "Volume": 2715100
     },
     {
       "Date": "2025-09-10",
       "Open": 2.9800000190734863,
       "High": 3.4000000953674316,
       "Low": 2.940000057220459,
-      "Close": 3.1050000190734863,
-      "Volume": 7954196
+      "Close": 3.109999895095825,
+      "Volume": 11213751
     }
   ]
 }

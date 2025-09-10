@@ -1,20 +1,20 @@
 {
   "ticker": "NDAA",
   "indicators": {
-    "score_0_100": 89.06,
-    "score_0_10": 8.91,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought",
-    "macd_hist": 0.018218021104296767,
-    "macd_slope": 0.0012259082142639635,
+    "score_0_100": 89.03,
+    "score_0_10": 8.9,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike",
+    "macd_hist": 0.014063509302078253,
+    "macd_slope": 0.0009291573712483554,
     "rsi": 0.0,
-    "rsi_slope": 0.5128513297193287,
-    "wave_strength": 1.0036194651350387,
+    "rsi_slope": 0.40171431755329884,
+    "wave_strength": 1.0037749537263678,
     "adx": 24.65222268058633,
     "atr": 0.0865346893956797,
-    "obv_slope": -21.428571428571427,
+    "obv_slope": -14.285714285714286,
     "mom14": 0.0,
-    "avg_vol20": 145.0,
-    "last_close": 21.359899520874023,
+    "avg_vol20": 150.0,
+    "last_close": 21.2947998046875,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1801,9 +1801,9 @@
       "Date": "2025-09-10",
       "Open": 21.360000610351562,
       "High": 21.360000610351562,
-      "Low": 21.359899520874023,
-      "Close": 21.359899520874023,
-      "Volume": 400.0
+      "Low": 21.2947998046875,
+      "Close": 21.2947998046875,
+      "Volume": 500.0
     }
   ]
 }

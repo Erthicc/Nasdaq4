@@ -1,19 +1,19 @@
 {
   "ticker": "LPAAU",
   "indicators": {
-    "score_0_100": 92.63,
-    "score_0_10": 9.26,
+    "score_0_100": 92.24,
+    "score_0_10": 9.22,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
     "macd_hist": 0.001679329560797209,
     "macd_slope": 0.000292460219722268,
     "rsi": 0.0,
     "rsi_slope": 5.041991160114158,
     "wave_strength": 1.0183974448416897,
-    "adx": 23.15079693170093,
-    "atr": 0.0046102895793781965,
-    "obv_slope": 18.571428571428573,
+    "adx": 20.237395571642768,
+    "atr": 0.006181672374439581,
+    "obv_slope": 7.142857142857143,
     "mom14": 0.0,
-    "avg_vol20": 93.0,
+    "avg_vol20": 85.0,
     "last_close": 10.574000358581543,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -2345,9 +2345,9 @@
       "Date": "2025-09-09",
       "Open": 10.574000358581543,
       "High": 10.574000358581543,
-      "Low": 10.574000358581543,
+      "Low": 10.550000190734863,
       "Close": 10.574000358581543,
-      "Volume": 760.0
+      "Volume": 600.0
     }
   ]
 }

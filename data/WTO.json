@@ -1,23 +1,23 @@
 {
   "ticker": "WTO",
   "indicators": {
-    "score_0_100": 79.52,
-    "score_0_10": 7.95,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.03729073031651906,
-    "macd_slope": 0.004515185124941945,
+    "score_0_100": 91.71,
+    "score_0_10": 9.17,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.04314281604798679,
+    "macd_slope": 0.004933191030049504,
     "rsi": 0.0,
-    "rsi_slope": 2.5946222082481136,
-    "wave_strength": 1.1559345383061188,
-    "adx": 25.36908105680507,
-    "atr": 0.10729480993566623,
-    "obv_slope": 21801.214285714286,
+    "rsi_slope": 2.833050352151513,
+    "wave_strength": 1.1505853616125126,
+    "adx": 26.368254117238255,
+    "atr": 0.11800909463689517,
+    "obv_slope": 37946.78571428572,
     "mom14": 0.0,
-    "avg_vol20": 44185.85,
-    "last_close": 1.2282999753952026,
+    "avg_vol20": 55487.75,
+    "last_close": 1.3200000524520874,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 1.1399999856948853,
-      "High": 1.25,
+      "High": 1.399999976158142,
       "Low": 1.0801000595092773,
-      "Close": 1.2282999753952026,
-      "Volume": 64817
+      "Close": 1.3200000524520874,
+      "Volume": 290855
     }
   ]
 }

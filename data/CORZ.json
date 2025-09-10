@@ -1,20 +1,20 @@
 {
   "ticker": "CORZ",
   "indicators": {
-    "score_0_100": 87.73,
-    "score_0_10": 8.77,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.10288649295270397,
-    "macd_slope": 0.007282799668903215,
+    "score_0_100": 87.97,
+    "score_0_10": 8.8,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.11916000452501357,
+    "macd_slope": 0.008445193353593408,
     "rsi": 0.0,
-    "rsi_slope": 1.0548806190450501,
-    "wave_strength": 1.031410802753483,
-    "adx": 9.864175489300171,
-    "atr": 0.7973355802957084,
-    "obv_slope": 4132264.285714286,
+    "rsi_slope": 1.178270520553291,
+    "wave_strength": 1.0304781601700481,
+    "adx": 9.913799094306402,
+    "atr": 0.8012640373163127,
+    "obv_slope": 5156503.142857143,
     "mom14": 0.0,
-    "avg_vol20": 16515820.0,
-    "last_close": 15.734999656677246,
+    "avg_vol20": 17232787.2,
+    "last_close": 15.989999771118164,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3283,15 +3283,15 @@
       "High": 14.835000038146973,
       "Low": 14.369999885559082,
       "Close": 14.529999732971191,
-      "Volume": 20678800.0
+      "Volume": 20720100.0
     },
     {
       "Date": "2025-09-10",
       "Open": 15.244099617004395,
-      "High": 16.075000762939453,
+      "High": 16.1299991607666,
       "Low": 15.210000038146973,
-      "Close": 15.720000267028809,
-      "Volume": 26817826.0
+      "Close": 15.989999771118164,
+      "Volume": 40910344.0
     }
   ]
 }

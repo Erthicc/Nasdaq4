@@ -1,20 +1,20 @@
 {
   "ticker": "BLZE",
   "indicators": {
-    "score_0_100": 92.63,
-    "score_0_10": 9.26,
+    "score_0_100": 92.68,
+    "score_0_10": 9.27,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.07006887170854403,
-    "macd_slope": -0.005357392780493265,
+    "macd_hist": 0.07198977503009885,
+    "macd_slope": -0.0052201854035614425,
     "rsi": 0.0,
-    "rsi_slope": 0.23639732657197193,
-    "wave_strength": 1.0158428766802343,
-    "adx": 49.919885480440044,
-    "atr": 0.41254417475876753,
-    "obv_slope": 431643.71428571426,
+    "rsi_slope": 0.24576196164225397,
+    "wave_strength": 1.0156580224544438,
+    "adx": 49.96214043737886,
+    "atr": 0.4164727679879891,
+    "obv_slope": 492566.85714285716,
     "mom14": 0.0,
-    "avg_vol20": 668545.6,
-    "last_close": 9.789899826049805,
+    "avg_vol20": 711191.8,
+    "last_close": 9.819999694824219,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 9.199999809265137,
-      "High": 9.878999710083008,
+      "High": 9.885000228881836,
       "Low": 9.1850004196167,
-      "Close": 9.79990005493164,
-      "Volume": 1164070
+      "Close": 9.819999694824219,
+      "Volume": 1975636
     }
   ]
 }

@@ -1,23 +1,23 @@
 {
   "ticker": "WGMI",
   "indicators": {
-    "score_0_100": 79.42,
-    "score_0_10": 7.94,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.4090665492084624,
-    "macd_slope": 0.02357798702567106,
+    "score_0_100": 91.29,
+    "score_0_10": 9.13,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.4122576271017111,
+    "macd_slope": 0.02380592117216579,
     "rsi": 0.0,
-    "rsi_slope": 1.4329481360315672,
-    "wave_strength": 1.0848247685417145,
-    "adx": 32.63569501127209,
-    "atr": 1.7798121804574916,
-    "obv_slope": 264724.85714285716,
+    "rsi_slope": 1.4382486795167786,
+    "wave_strength": 1.0847317837320065,
+    "adx": 32.65108094507681,
+    "atr": 1.7840979929193017,
+    "obv_slope": 285132.21428571426,
     "mom14": 0.0,
-    "avg_vol20": 464667.4,
-    "last_close": 35.439998626708984,
+    "avg_vol20": 478952.55,
+    "last_close": 35.4900016784668,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 34.040000915527344,
-      "High": 35.56999969482422,
+      "High": 35.630001068115234,
       "Low": 33.52000045776367,
-      "Close": 35.40999984741211,
-      "Volume": 599403
+      "Close": 35.4900016784668,
+      "Volume": 875251
     }
   ]
 }

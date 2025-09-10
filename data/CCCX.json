@@ -1,9 +1,9 @@
 {
   "ticker": "CCCX",
   "indicators": {
-    "score_0_100": 81.94,
-    "score_0_10": 8.19,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
+    "score_0_100": 93.79,
+    "score_0_10": 9.38,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
     "macd_hist": 0.018054857837990088,
     "macd_slope": 0.0013070960160760658,
     "rsi": 0.0,
@@ -11,13 +11,13 @@
     "wave_strength": 0.9984707149391193,
     "adx": 44.948202401854495,
     "atr": 0.04063146289611414,
-    "obv_slope": 501349.14285714284,
+    "obv_slope": 548627.1428571428,
     "mom14": 0.0,
-    "avg_vol20": 397794.4,
+    "avg_vol20": 430889.0,
     "last_close": 10.260000228881836,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -395,7 +395,7 @@
       "High": 10.300000190734863,
       "Low": 10.239999771118164,
       "Close": 10.260000228881836,
-      "Volume": 339001.0
+      "Volume": 968480.0
     }
   ]
 }

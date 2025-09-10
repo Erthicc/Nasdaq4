@@ -1,20 +1,20 @@
 {
   "ticker": "OMH",
   "indicators": {
-    "score_0_100": 87.86,
+    "score_0_100": 87.88,
     "score_0_10": 8.79,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.023338099034729075,
-    "macd_slope": 0.0003661939991248942,
+    "macd_hist": 0.02230425630234692,
+    "macd_slope": 0.0002923480894464927,
     "rsi": 0.0,
-    "rsi_slope": 1.402756685068049,
-    "wave_strength": 0.9547467005024605,
-    "adx": 12.39607979556036,
-    "atr": 0.11073190852839263,
-    "obv_slope": 110403.35714285714,
+    "rsi_slope": 1.3552626942806738,
+    "wave_strength": 0.9554005515053653,
+    "adx": 12.396079741690821,
+    "atr": 0.11073190852792728,
+    "obv_slope": 158972.64285714287,
     "mom14": 0.0,
-    "avg_vol20": 100952.35,
-    "last_close": 1.4661999940872192,
+    "avg_vol20": 134950.85,
+    "last_close": 1.4500000476837158,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.1299999952316284,
       "Low": 1.0809999704360962,
       "Close": 1.1100000143051147,
-      "Volume": 39400
+      "Volume": 45500
     },
     {
       "Date": "2025-09-10",
       "Open": 1.1100000143051147,
       "High": 1.600000023841858,
       "Low": 1.1100000143051147,
-      "Close": 1.4900000095367432,
-      "Volume": 1466992
+      "Close": 1.4500000476837158,
+      "Volume": 2117717
     }
   ]
 }

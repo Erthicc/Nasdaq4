@@ -1,20 +1,20 @@
 {
   "ticker": "CWD",
   "indicators": {
-    "score_0_100": 87.23,
-    "score_0_10": 8.72,
+    "score_0_100": 91.7,
+    "score_0_10": 9.17,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.7152818032383575,
-    "macd_slope": 0.05665344706517645,
+    "macd_hist": 0.6923074661285947,
+    "macd_slope": 0.05501242299544524,
     "rsi": 0.0,
-    "rsi_slope": 3.5357105004032476,
-    "wave_strength": 1.4992856669600858,
-    "adx": 53.41974888894299,
-    "atr": 3.7188453592315662,
-    "obv_slope": 23191852.0,
+    "rsi_slope": 3.4913749483621492,
+    "wave_strength": 3.081085517224087,
+    "adx": 53.419748885673016,
+    "atr": 3.718845359208355,
+    "obv_slope": 20327332.214285713,
     "mom14": 0.0,
-    "avg_vol20": 17443151.4,
-    "last_close": 9.460000038146973,
+    "avg_vol20": 17516692.45,
+    "last_close": 9.100000381469727,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 48.0,
       "Low": 8.899999618530273,
       "Close": 9.109999656677246,
-      "Volume": 133104800
+      "Volume": 133425600
     },
     {
       "Date": "2025-09-10",
       "Open": 9.819999694824219,
       "High": 10.390000343322754,
       "Low": 8.520000457763672,
-      "Close": 9.489999771118164,
-      "Volume": 19690710
+      "Close": 9.100000381469727,
+      "Volume": 20787049
     }
   ]
 }

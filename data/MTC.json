@@ -1,20 +1,20 @@
 {
   "ticker": "MTC",
   "indicators": {
-    "score_0_100": 88.63,
-    "score_0_10": 8.86,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.00879213555738427,
-    "macd_slope": 0.0005005866462988048,
+    "score_0_100": 89.33,
+    "score_0_10": 8.93,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.01136398815901729,
+    "macd_slope": 0.0006842904020322927,
     "rsi": 0.0,
-    "rsi_slope": 1.282186442712084,
-    "wave_strength": 0.9948841820309118,
-    "adx": 17.542971227570398,
-    "atr": 0.07360153487155406,
-    "obv_slope": 82343.0,
+    "rsi_slope": 1.4942951792651438,
+    "wave_strength": 0.9927891959384553,
+    "adx": 20.347364858881637,
+    "atr": 0.12288724473253258,
+    "obv_slope": 879061.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 93130.1,
-    "last_close": 1.069700002670288,
+    "avg_vol20": 650832.9,
+    "last_close": 1.1100000143051147,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 1.0,
       "Low": 0.9599999785423279,
       "Close": 0.9800000190734863,
-      "Volume": 76200
+      "Volume": 78100
     },
     {
       "Date": "2025-09-10",
       "Open": 1.0099999904632568,
-      "High": 1.100000023841858,
+      "High": 1.7899999618530273,
       "Low": 0.9108999967575073,
-      "Close": 1.0642999410629272,
-      "Volume": 1036093
+      "Close": 1.1100000143051147,
+      "Volume": 12186958
     }
   ]
 }

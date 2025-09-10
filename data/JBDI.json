@@ -1,20 +1,20 @@
 {
   "ticker": "JBDI",
   "indicators": {
-    "score_0_100": 89.95,
-    "score_0_10": 8.99,
+    "score_0_100": 90.21,
+    "score_0_10": 9.02,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.06774360886870545,
-    "macd_slope": 0.004925119113338853,
+    "macd_hist": 0.08816525703006912,
+    "macd_slope": 0.006383808267721973,
     "rsi": 0.0,
-    "rsi_slope": 2.907931024112917,
-    "wave_strength": 0.9644194589857115,
-    "adx": 15.96867885432373,
-    "atr": 0.16084783672702244,
-    "obv_slope": 3719109.4285714286,
+    "rsi_slope": 3.0292671840588383,
+    "wave_strength": 0.9501844882000096,
+    "adx": 16.168029016984324,
+    "atr": 0.19584783740821837,
+    "obv_slope": 5355522.214285715,
     "mom14": 0.0,
-    "avg_vol20": 2621181.6,
-    "last_close": 2.049999952316284,
+    "avg_vol20": 3766670.55,
+    "last_close": 2.369999885559082,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -2091,15 +2091,15 @@
       "High": 1.1699999570846558,
       "Low": 1.0049999952316284,
       "Close": 1.0750000476837158,
-      "Volume": 3479400.0
+      "Volume": 5292800.0
     },
     {
       "Date": "2025-09-10",
       "Open": 2.0399999618530273,
-      "High": 2.509999990463257,
+      "High": 3.0,
       "Low": 1.7000999450683594,
-      "Close": 2.134999990463257,
-      "Volume": 48854579.0
+      "Close": 2.369999885559082,
+      "Volume": 69675311.0
     }
   ]
 }

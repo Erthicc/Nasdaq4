@@ -1,23 +1,23 @@
 {
   "ticker": "EDRY",
   "indicators": {
-    "score_0_100": 80.37,
-    "score_0_10": 8.04,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; rising OBV",
-    "macd_hist": 0.04450309757402024,
-    "macd_slope": 0.0061003162183028365,
+    "score_0_100": 92.2,
+    "score_0_10": 9.22,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; rising OBV",
+    "macd_hist": 0.043226715156235856,
+    "macd_slope": 0.006009146030502825,
     "rsi": 0.0,
-    "rsi_slope": 1.1707787703175272,
-    "wave_strength": 1.020877350881632,
-    "adx": 41.76351181804652,
-    "atr": 0.35414336324098566,
-    "obv_slope": 622.8571428571429,
+    "rsi_slope": 1.153366410185588,
+    "wave_strength": 1.0209721926709996,
+    "adx": 41.763511845072,
+    "atr": 0.3541433632684972,
+    "obv_slope": 875.5,
     "mom14": 0.0,
-    "avg_vol20": 1706.0,
-    "last_close": 11.5,
+    "avg_vol20": 1882.85,
+    "last_close": 11.479999542236328,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 11.5,
       "High": 11.5,
-      "Low": 11.5,
-      "Close": 11.5,
-      "Volume": 820
+      "Low": 11.239999771118164,
+      "Close": 11.479999542236328,
+      "Volume": 4257
     }
   ]
 }

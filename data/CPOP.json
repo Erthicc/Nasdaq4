@@ -1,22 +1,22 @@
 {
   "ticker": "CPOP",
   "indicators": {
-    "score_0_100": 84.34,
-    "score_0_10": 8.43,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; volume spike; strong wave vs SMA20",
-    "macd_hist": 0.012893108061644037,
-    "macd_slope": 0.0019574221195808664,
+    "score_0_100": 97.63,
+    "score_0_10": 9.76,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.02661390790728227,
+    "macd_slope": 0.0029374792525248853,
     "rsi": 0.0,
-    "rsi_slope": 2.8106338758592213,
-    "wave_strength": 1.2520106624089142,
-    "adx": 65.3710741447928,
-    "atr": 0.20958629323442768,
-    "obv_slope": -705982.7857142857,
+    "rsi_slope": 3.4754555020696154,
+    "wave_strength": 1.0078387116483465,
+    "adx": 65.37107410406021,
+    "atr": 0.20958629322595593,
+    "obv_slope": 1078191.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 1273802.95,
-    "last_close": 1.4049999713897705,
+    "avg_vol20": 1314438.9,
+    "last_close": 1.6200000047683716,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1
   },
@@ -3531,15 +3531,15 @@
       "High": 1.4800000190734863,
       "Low": 1.149999976158142,
       "Close": 1.440000057220459,
-      "Volume": 633200
+      "Volume": 635200
     },
     {
       "Date": "2025-09-10",
       "Open": 2.0899999141693115,
       "High": 2.1298999786376953,
       "Low": 1.309999942779541,
-      "Close": 1.4881999492645264,
-      "Volume": 12105630
+      "Close": 1.6200000047683716,
+      "Volume": 12893578
     }
   ]
 }

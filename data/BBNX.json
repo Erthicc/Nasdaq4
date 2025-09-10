@@ -1,20 +1,20 @@
 {
   "ticker": "BBNX",
   "indicators": {
-    "score_0_100": 82.02,
-    "score_0_10": 8.2,
+    "score_0_100": 82.19,
+    "score_0_10": 8.22,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.6878302371830984,
-    "macd_slope": 0.0443472422338219,
+    "macd_hist": 0.6954884103991332,
+    "macd_slope": 0.04489425460639581,
     "rsi": 0.0,
-    "rsi_slope": 3.922763627972757,
-    "wave_strength": 1.3318771481932508,
+    "rsi_slope": 4.001545912084137,
+    "wave_strength": 1.331451546043631,
     "adx": 31.143898165412736,
-    "atr": 1.3283732627705418,
-    "obv_slope": 517762.0714285714,
+    "atr": 1.352658987955391,
+    "obv_slope": 474733.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 651376.55,
-    "last_close": 24.75,
+    "avg_vol20": 681496.85,
+    "last_close": 24.8700008392334,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1249,9 +1249,9 @@
       "Date": "2025-09-10",
       "Open": 24.75,
       "High": 25.299999237060547,
-      "Low": 24.350000381469727,
-      "Close": 24.530000686645508,
-      "Volume": 293608.0
+      "Low": 24.010000228881836,
+      "Close": 24.8700008392334,
+      "Volume": 885537.0
     }
   ]
 }

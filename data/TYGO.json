@@ -1,23 +1,23 @@
 {
   "ticker": "TYGO",
   "indicators": {
-    "score_0_100": 80.26,
-    "score_0_10": 8.03,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.0356205084152412,
-    "macd_slope": 0.0026299581246122983,
+    "score_0_100": 91.76,
+    "score_0_10": 9.18,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.039545291749490855,
+    "macd_slope": 0.0029102997930929666,
     "rsi": 0.0,
-    "rsi_slope": 2.4251149180794016,
-    "wave_strength": 1.233833036951904,
-    "adx": 29.71536633060128,
-    "atr": 0.10829739195630098,
-    "obv_slope": 211172.64285714287,
+    "rsi_slope": 2.7789855178947596,
+    "wave_strength": 1.0079193589743105,
+    "adx": 29.715366283247317,
+    "atr": 0.10829739193667268,
+    "obv_slope": 266815.78571428574,
     "mom14": 0.0,
-    "avg_vol20": 289519.15,
-    "last_close": 1.6785000562667847,
+    "avg_vol20": 295571.05,
+    "last_close": 1.7400000095367432,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 1.7200000286102295,
       "Low": 1.4800000190734863,
       "Close": 1.7100000381469727,
-      "Volume": 860800
+      "Volume": 862200
     },
     {
       "Date": "2025-09-10",
       "Open": 1.7000000476837158,
       "High": 1.7799999713897705,
       "Low": 1.649999976158142,
-      "Close": 1.6785000562667847,
-      "Volume": 328988
+      "Close": 1.7400000095367432,
+      "Volume": 448621
     }
   ]
 }

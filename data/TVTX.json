@@ -1,20 +1,20 @@
 {
   "ticker": "TVTX",
   "indicators": {
-    "score_0_100": 91.7,
-    "score_0_10": 9.17,
+    "score_0_100": 91.76,
+    "score_0_10": 9.18,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.7303512039161395,
-    "macd_slope": 0.04320868328728363,
+    "macd_hist": 0.7188640049730544,
+    "macd_slope": 0.0423881690729302,
     "rsi": 0.0,
-    "rsi_slope": 1.092619931961855,
-    "wave_strength": 1.1289354644307117,
-    "adx": 35.85200376404105,
-    "atr": 1.3895922253614128,
-    "obv_slope": 1791642.2857142857,
+    "rsi_slope": 1.0800941202503782,
+    "wave_strength": 1.1294657724472297,
+    "adx": 35.852003729286096,
+    "atr": 1.389592225375532,
+    "obv_slope": 2024564.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 2356574.6,
-    "last_close": 27.489999771118164,
+    "avg_vol20": 2519620.0,
+    "last_close": 27.309999465942383,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3538,8 +3538,8 @@
       "Open": 25.270000457763672,
       "High": 28.692699432373047,
       "Low": 24.91010093688965,
-      "Close": 27.610000610351562,
-      "Volume": 9244315
+      "Close": 27.309999465942383,
+      "Volume": 12378600
     }
   ]
 }

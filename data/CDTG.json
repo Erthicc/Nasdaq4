@@ -1,20 +1,20 @@
 {
   "ticker": "CDTG",
   "indicators": {
-    "score_0_100": 91.33,
-    "score_0_10": 9.13,
+    "score_0_100": 91.43,
+    "score_0_10": 9.14,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.049700944724537004,
-    "macd_slope": 0.004027924219293734,
+    "macd_hist": 0.05352362570088023,
+    "macd_slope": 0.004300972856964008,
     "rsi": 0.0,
-    "rsi_slope": 3.9551648212589217,
-    "wave_strength": 0.9532665321283247,
-    "adx": 18.74842683175786,
-    "atr": 0.17896290679047305,
-    "obv_slope": 5417739.357142857,
+    "rsi_slope": 4.043366943899501,
+    "wave_strength": 0.9488256619386033,
+    "adx": 18.74842699353233,
+    "atr": 0.1789629067971424,
+    "obv_slope": 5540639.928571428,
     "mom14": 0.0,
-    "avg_vol20": 3842722.55,
-    "last_close": 1.0400999784469604,
+    "avg_vol20": 3928752.95,
+    "last_close": 1.100000023841858,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -2803,15 +2803,15 @@
       "High": 2.130000114440918,
       "Low": 0.5419999957084656,
       "Close": 1.0399999618530273,
-      "Volume": 65070500.0
+      "Volume": 65883300.0
     },
     {
       "Date": "2025-09-10",
       "Open": 1.159999966621399,
       "High": 1.25,
       "Low": 0.9258999824523926,
-      "Close": 1.0499999523162842,
-      "Volume": 10376419.0
+      "Close": 1.100000023841858,
+      "Volume": 11270159.0
     }
   ]
 }

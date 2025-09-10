@@ -1,20 +1,20 @@
 {
   "ticker": "SOTK",
   "indicators": {
-    "score_0_100": 81.74,
-    "score_0_10": 8.17,
+    "score_0_100": 81.8,
+    "score_0_10": 8.18,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.09579977279022273,
-    "macd_slope": 0.005562586630705474,
+    "macd_hist": 0.09260890787287328,
+    "macd_slope": 0.005334667704858491,
     "rsi": 0.0,
-    "rsi_slope": 2.0842412298649813,
-    "wave_strength": 1.152522938347009,
-    "adx": 43.29974327893724,
-    "atr": 0.1626407315426232,
-    "obv_slope": 25139.285714285714,
+    "rsi_slope": 2.0323123485635057,
+    "wave_strength": 1.15334958900464,
+    "adx": 43.29974319890855,
+    "atr": 0.16264073154396022,
+    "obv_slope": 26355.35714285714,
     "mom14": 0.0,
-    "avg_vol20": 25227.5,
-    "last_close": 4.159999847412109,
+    "avg_vol20": 26078.75,
+    "last_close": 4.110000133514404,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 4.039999961853027,
       "High": 4.230000019073486,
       "Low": 4.011600017547607,
-      "Close": 4.159999847412109,
-      "Volume": 18650
+      "Close": 4.110000133514404,
+      "Volume": 35675
     }
   ]
 }

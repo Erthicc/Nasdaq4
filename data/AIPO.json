@@ -1,20 +1,20 @@
 {
   "ticker": "AIPO",
   "indicators": {
-    "score_0_100": 88.75,
-    "score_0_10": 8.87,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.07903845467875824,
-    "macd_slope": 0.012158163589508941,
+    "score_0_100": 88.76,
+    "score_0_10": 8.88,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
+    "macd_hist": 0.07341609084106195,
+    "macd_slope": 0.011756566172530637,
     "rsi": 0.0,
-    "rsi_slope": 2.5105972861810133,
-    "wave_strength": 0.9927877017170474,
+    "rsi_slope": 2.4590421506278437,
+    "wave_strength": 0.9930045635706444,
     "adx": 11.550036276531145,
     "atr": 0.45679910094942233,
-    "obv_slope": 10892.0,
+    "obv_slope": 12494.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 35249.4,
-    "last_close": 21.1825008392334,
+    "avg_vol20": 36371.2,
+    "last_close": 21.09440040588379,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -282,8 +282,8 @@
       "Open": 20.6200008392334,
       "High": 21.22960090637207,
       "Low": 20.6200008392334,
-      "Close": 21.190000534057617,
-      "Volume": 72938.0
+      "Close": 21.09440040588379,
+      "Volume": 95124.0
     }
   ]
 }

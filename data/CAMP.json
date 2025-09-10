@@ -1,20 +1,20 @@
 {
   "ticker": "CAMP",
   "indicators": {
-    "score_0_100": 90.55,
-    "score_0_10": 9.06,
+    "score_0_100": 90.51,
+    "score_0_10": 9.05,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.11800014074686167,
-    "macd_slope": 0.007321492969223987,
+    "macd_hist": 0.1007693727333179,
+    "macd_slope": 0.006090723825399433,
     "rsi": 0.0,
-    "rsi_slope": 2.9053370430732484,
-    "wave_strength": 0.9397590104476997,
+    "rsi_slope": 2.7641225675364125,
+    "wave_strength": 0.9474642918670025,
     "adx": 21.127344413717626,
     "atr": 0.28730768273516566,
-    "obv_slope": 2680065.3571428573,
+    "obv_slope": 2892875.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 1972745.75,
-    "last_close": 3.059999942779541,
+    "avg_vol20": 2121712.9,
+    "last_close": 2.7899999618530273,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1842,8 +1842,8 @@
       "Open": 3.119999885559082,
       "High": 3.700000047683716,
       "Low": 2.5199999809265137,
-      "Close": 3.1500000953674316,
-      "Volume": 37243871.0
+      "Close": 2.7899999618530273,
+      "Volume": 39921758.0
     }
   ]
 }

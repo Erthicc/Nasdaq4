@@ -1,20 +1,20 @@
 {
   "ticker": "FMUB",
   "indicators": {
-    "score_0_100": 83.51,
-    "score_0_10": 8.35,
+    "score_0_100": 83.58,
+    "score_0_10": 8.36,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.08404238876028552,
-    "macd_slope": 0.005929164534304712,
+    "macd_hist": 0.08180876087285721,
+    "macd_slope": 0.005769619724213449,
     "rsi": 0.0,
-    "rsi_slope": 1.1514740349957069,
-    "wave_strength": 1.0126188719943823,
-    "adx": 63.312559588814274,
-    "atr": 0.2612486057731259,
-    "obv_slope": 4354.857142857143,
+    "rsi_slope": 1.127055956492693,
+    "wave_strength": 1.012654315400707,
+    "adx": 63.312471536849046,
+    "atr": 0.26124861164427476,
+    "obv_slope": 4567.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 19198.4,
-    "last_close": 50.810001373291016,
+    "avg_vol20": 19346.95,
+    "last_close": 50.775001525878906,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -882,8 +882,8 @@
       "Open": 50.6609992980957,
       "High": 51.0,
       "Low": 50.6609992980957,
-      "Close": 50.810001373291016,
-      "Volume": 4568.0
+      "Close": 50.775001525878906,
+      "Volume": 7539.0
     }
   ]
 }

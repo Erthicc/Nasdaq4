@@ -1,23 +1,23 @@
 {
   "ticker": "ESHA",
   "indicators": {
-    "score_0_100": 83.52,
-    "score_0_10": 8.35,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.04296899445547829,
-    "macd_slope": 0.0031247334674529116,
+    "score_0_100": 95.13,
+    "score_0_10": 9.51,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought",
+    "macd_hist": 0.04761324873594662,
+    "macd_slope": 0.0035479706530531416,
     "rsi": 0.0,
-    "rsi_slope": 2.5510169539180967,
+    "rsi_slope": 1.7573718105525782,
     "wave_strength": 1.0,
-    "adx": 55.75422709115531,
-    "atr": 0.05740011244488039,
-    "obv_slope": 300.0,
+    "adx": 58.66794810823673,
+    "atr": 0.13830014256117226,
+    "obv_slope": -285.42857142857144,
     "mom14": 0.0,
-    "avg_vol20": 215.0,
-    "last_close": 11.65999984741211,
+    "avg_vol20": 619.8,
+    "last_close": 11.600000381469727,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 11.760000228881836,
-      "High": 11.760000228881836,
-      "Low": 11.760000228881836,
-      "Close": 11.760000228881836,
-      "Volume": 400
+      "High": 12.600000381469727,
+      "Low": 11.40999984741211,
+      "Close": 11.600000381469727,
+      "Volume": 8196
     }
   ]
 }

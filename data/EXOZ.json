@@ -1,22 +1,22 @@
 {
   "ticker": "EXOZ",
   "indicators": {
-    "score_0_100": 80.28,
-    "score_0_10": 8.03,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.2910059326949703,
-    "macd_slope": 0.018905555151069987,
+    "score_0_100": 93.76,
+    "score_0_10": 9.38,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.3254993600259223,
+    "macd_slope": 0.02136937138899513,
     "rsi": 0.0,
-    "rsi_slope": 3.073504896720894,
-    "wave_strength": 1.1800773379497378,
+    "rsi_slope": 3.2687446257788895,
+    "wave_strength": 1.1769494406698775,
     "adx": 37.35502707124215,
     "atr": 0.5522678215802388,
-    "obv_slope": 510.0,
+    "obv_slope": 733.4285714285714,
     "mom14": 0.0,
-    "avg_vol20": 2077.0,
-    "last_close": 11.85949993133545,
+    "avg_vol20": 2233.4,
+    "last_close": 12.399999618530273,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1
   },
@@ -1658,8 +1658,8 @@
       "Open": 13.029999732971191,
       "High": 13.029999732971191,
       "Low": 11.85949993133545,
-      "Close": 11.85949993133545,
-      "Volume": 3440.0
+      "Close": 12.399999618530273,
+      "Volume": 6568.0
     }
   ]
 }

@@ -1,23 +1,23 @@
 {
   "ticker": "ENGS",
   "indicators": {
-    "score_0_100": 80.0,
-    "score_0_10": 8.0,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.11340386358336502,
-    "macd_slope": 0.005431260486377763,
+    "score_0_100": 91.35,
+    "score_0_10": 9.13,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 0.1395691264414377,
+    "macd_slope": 0.007300207833382955,
     "rsi": 0.0,
-    "rsi_slope": 1.4402644133361744,
-    "wave_strength": 1.387774960233583,
-    "adx": 30.521124163125986,
-    "atr": 0.5925014803865677,
-    "obv_slope": 180474.0,
+    "rsi_slope": 1.6829966734624224,
+    "wave_strength": 1.110036315156958,
+    "adx": 31.07980066076083,
+    "atr": 0.6646443198183304,
+    "obv_slope": 238830.42857142858,
     "mom14": 0.0,
-    "avg_vol20": 303298.2,
-    "last_close": 5.619999885559082,
+    "avg_vol20": 324391.3,
+    "last_close": 6.03000020980835,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -912,10 +912,10 @@
     {
       "Date": "2025-09-10",
       "Open": 5.300000190734863,
-      "High": 5.800000190734863,
+      "High": 6.809999942779541,
       "Low": 5.250100135803223,
-      "Close": 5.620500087738037,
-      "Volume": 233506.0
+      "Close": 6.03000020980835,
+      "Volume": 619426.0
     }
   ]
 }

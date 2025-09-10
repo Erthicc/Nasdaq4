@@ -1,20 +1,20 @@
 {
   "ticker": "CCTG",
   "indicators": {
-    "score_0_100": 92.35,
-    "score_0_10": 9.23,
+    "score_0_100": 92.22,
+    "score_0_10": 9.22,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.060972512732284705,
-    "macd_slope": 0.004279054539815346,
+    "macd_hist": 0.041827209024966706,
+    "macd_slope": 0.002911532845895025,
     "rsi": 0.0,
-    "rsi_slope": 3.096089463116589,
-    "wave_strength": 0.9912715313704948,
-    "adx": 31.629599307949018,
-    "atr": 0.13889040713155473,
-    "obv_slope": 1889773.2857142857,
+    "rsi_slope": 2.8289953072843526,
+    "wave_strength": 1.0044890756070726,
+    "adx": 31.654916485152444,
+    "atr": 0.14103326223214507,
+    "obv_slope": 2092996.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 1331931.3,
-    "last_close": 1.940000057220459,
+    "avg_vol20": 1474187.5,
+    "last_close": 1.6399999856948853,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3315,15 +3315,15 @@
       "High": 1.25,
       "Low": 1.1200000047683716,
       "Close": 1.25,
-      "Volume": 264900.0
+      "Volume": 269200.0
     },
     {
       "Date": "2025-09-10",
       "Open": 1.4700000286102295,
       "High": 2.3299999237060547,
       "Low": 1.440000057220459,
-      "Close": 2.0608999729156494,
-      "Volume": 27206693.0
+      "Close": 1.6399999856948853,
+      "Volume": 29070550.0
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "XOVR",
   "indicators": {
-    "score_0_100": 88.89,
+    "score_0_100": 88.88,
     "score_0_10": 8.89,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.06539711092462411,
-    "macd_slope": 0.0119503494003386,
+    "macd_hist": 0.05741990293340285,
+    "macd_slope": 0.011380548832477732,
     "rsi": 0.0,
-    "rsi_slope": 2.4737785686539744,
-    "wave_strength": 1.0093528542199035,
-    "adx": 12.337676366283704,
-    "atr": 0.33996378888825074,
-    "obv_slope": 73759.42857142857,
+    "rsi_slope": 2.3985571109051,
+    "wave_strength": 1.0096697425958885,
+    "adx": 12.337676350024637,
+    "atr": 0.3399637888997015,
+    "obv_slope": 86054.71428571429,
     "mom14": 0.0,
-    "avg_vol20": 174251.6,
-    "last_close": 20.844999313354492,
+    "avg_vol20": 182858.3,
+    "last_close": 20.719999313354492,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 20.760000228881836,
       "High": 20.899999618530273,
-      "Low": 20.760000228881836,
-      "Close": 20.834999084472656,
-      "Volume": 387748
+      "Low": 20.649999618530273,
+      "Close": 20.719999313354492,
+      "Volume": 540166
     }
   ]
 }

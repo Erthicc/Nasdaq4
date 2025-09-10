@@ -1,20 +1,20 @@
 {
   "ticker": "SPHL",
   "indicators": {
-    "score_0_100": 91.17,
-    "score_0_10": 9.12,
+    "score_0_100": 91.33,
+    "score_0_10": 9.13,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; rising OBV",
-    "macd_hist": 0.011610487599523111,
-    "macd_slope": 0.001459220118259271,
+    "macd_hist": 0.01305276649140984,
+    "macd_slope": 0.0015622400391083232,
     "rsi": 0.0,
-    "rsi_slope": 1.9859604822501729,
-    "wave_strength": 1.031218780313072,
+    "rsi_slope": 2.0851635811933105,
+    "wave_strength": 1.028695170193028,
     "adx": 28.36116573434041,
     "atr": 0.08541518704885283,
-    "obv_slope": 3237304.714285714,
+    "obv_slope": 3762189.285714286,
     "mom14": 0.0,
-    "avg_vol20": 2314433.3,
-    "last_close": 0.6323999762535095,
+    "avg_vol20": 2681852.5,
+    "last_close": 0.6549999713897705,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1795,15 +1795,15 @@
       "High": 0.4790000021457672,
       "Low": 0.4000000059604645,
       "Close": 0.4399999976158142,
-      "Volume": 309100.0
+      "Volume": 5945200.0
     },
     {
       "Date": "2025-09-10",
       "Open": 0.6194000244140625,
       "High": 0.8700000047683716,
       "Low": 0.5011000037193298,
-      "Close": 0.6223000288009644,
-      "Volume": 45085543.0
+      "Close": 0.6549999713897705,
+      "Volume": 46774950.0
     }
   ]
 }

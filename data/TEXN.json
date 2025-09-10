@@ -1,20 +1,20 @@
 {
   "ticker": "TEXN",
   "indicators": {
-    "score_0_100": 88.43,
-    "score_0_10": 8.84,
+    "score_0_100": 88.46,
+    "score_0_10": 8.85,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.04571841979009117,
-    "macd_slope": 0.004576904405405928,
+    "macd_hist": 0.04260414876200083,
+    "macd_slope": 0.004354456474828046,
     "rsi": 0.0,
-    "rsi_slope": 1.9624250551992708,
-    "wave_strength": 0.9990519692491548,
+    "rsi_slope": 1.93284215538761,
+    "wave_strength": 0.9991451650360522,
     "adx": 12.339717891098525,
     "atr": 0.26717682203892473,
-    "obv_slope": 461.85714285714283,
+    "obv_slope": 548.9285714285714,
     "mom14": 0.0,
-    "avg_vol20": 2048.3,
-    "last_close": 27.25,
+    "avg_vol20": 2109.25,
+    "last_close": 27.201200485229492,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -458,8 +458,8 @@
       "Open": 26.979999542236328,
       "High": 27.33839988708496,
       "Low": 26.979999542236328,
-      "Close": 27.25,
-      "Volume": 3666.0
+      "Close": 27.201200485229492,
+      "Volume": 4885.0
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "AVGU",
   "indicators": {
-    "score_0_100": 90.42,
-    "score_0_10": 9.04,
+    "score_0_100": 90.5,
+    "score_0_10": 9.05,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 1.245858953843682,
-    "macd_slope": 0.10915912647434942,
+    "macd_hist": 1.2676207518872182,
+    "macd_slope": 0.11071354062031628,
     "rsi": 0.0,
-    "rsi_slope": 2.4453929296231953,
-    "wave_strength": 1.2242404622990626,
+    "rsi_slope": 2.4636766590329,
+    "wave_strength": 1.223566783230946,
     "adx": 18.708468990925173,
     "atr": 2.758646025106129,
-    "obv_slope": 35204.78571428572,
+    "obv_slope": 36558.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 34373.35,
-    "last_close": 42.850101470947266,
+    "avg_vol20": 35320.8,
+    "last_close": 43.19110107421875,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -346,8 +346,8 @@
       "Open": 39.25,
       "High": 43.66999816894531,
       "Low": 39.25,
-      "Close": 42.31999969482422,
-      "Volume": 59840.0
+      "Close": 43.19110107421875,
+      "Volume": 78516.0
     }
   ]
 }

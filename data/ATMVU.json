@@ -1,23 +1,23 @@
 {
   "ticker": "ATMVU",
   "indicators": {
-    "score_0_100": 85.06,
-    "score_0_10": 8.51,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.7628780328640713,
-    "macd_slope": 0.05188349093559207,
+    "score_0_100": 96.99,
+    "score_0_10": 9.7,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; rising OBV",
+    "macd_hist": 0.874558944544985,
+    "macd_slope": 0.05986069891280019,
     "rsi": 0.0,
-    "rsi_slope": -0.5281058088857975,
-    "wave_strength": 0.9986859595966626,
-    "adx": 83.28252053709359,
-    "atr": 0.5572596580233234,
-    "obv_slope": 39.357142857142854,
+    "rsi_slope": -0.43312270332381886,
+    "wave_strength": 0.992167121703186,
+    "adx": 83.57346035746585,
+    "atr": 0.6822596580238047,
+    "obv_slope": 50.07142857142857,
     "mom14": 0.0,
-    "avg_vol20": 242.55,
-    "last_close": 19.0,
+    "avg_vol20": 250.05,
+    "last_close": 20.75,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 19.0,
-      "High": 19.0,
+      "High": 20.75,
       "Low": 19.0,
-      "Close": 19.0,
-      "Volume": 251
+      "Close": 20.75,
+      "Volume": 401
     }
   ]
 }

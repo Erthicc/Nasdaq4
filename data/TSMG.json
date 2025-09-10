@@ -1,20 +1,20 @@
 {
   "ticker": "TSMG",
   "indicators": {
-    "score_0_100": 90.14,
-    "score_0_10": 9.01,
+    "score_0_100": 90.15,
+    "score_0_10": 9.02,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.36197973554801194,
-    "macd_slope": 0.04413801508279713,
+    "macd_hist": 0.34666351083847813,
+    "macd_slope": 0.04304399903211615,
     "rsi": 0.0,
-    "rsi_slope": 3.044698177819071,
-    "wave_strength": 1.0068803307960525,
+    "rsi_slope": 2.9996183281370556,
+    "wave_strength": 1.0075727069519336,
     "adx": 17.661135676781686,
     "atr": 0.8803115259953184,
-    "obv_slope": 16782.5,
+    "obv_slope": 17638.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 30022.75,
-    "last_close": 20.93000030517578,
+    "avg_vol20": 30621.75,
+    "last_close": 20.690000534057617,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -1338,8 +1338,8 @@
       "Open": 20.3700008392334,
       "High": 21.260000228881836,
       "Low": 20.260000228881836,
-      "Close": 20.83340072631836,
-      "Volume": 56160.0
+      "Close": 20.690000534057617,
+      "Volume": 67835.0
     }
   ]
 }

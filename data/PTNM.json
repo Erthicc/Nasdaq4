@@ -1,20 +1,20 @@
 {
   "ticker": "PTNM",
   "indicators": {
-    "score_0_100": 93.92,
+    "score_0_100": 93.94,
     "score_0_10": 9.39,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.6495745126155983,
-    "macd_slope": 0.03318767234668096,
+    "macd_hist": 0.6948850563605903,
+    "macd_slope": 0.03642413975703753,
     "rsi": 0.0,
-    "rsi_slope": 3.9004524845873294,
-    "wave_strength": 1.090601939665246,
+    "rsi_slope": 3.940421597783348,
+    "wave_strength": 1.0711322904387364,
     "adx": 32.766795626938254,
     "atr": 0.8126466018621951,
-    "obv_slope": 7450924.428571428,
+    "obv_slope": 7597441.5,
     "mom14": 0.0,
-    "avg_vol20": 5318897.1,
-    "last_close": 7.21999979019165,
+    "avg_vol20": 5421459.05,
+    "last_close": 7.929999828338623,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -579,15 +579,15 @@
       "High": 5.760000228881836,
       "Low": 2.799999952316284,
       "Close": 4.53000020980835,
-      "Volume": 26769500.0
+      "Volume": 26785300.0
     },
     {
       "Date": "2025-09-10",
       "Open": 5.340000152587891,
       "High": 8.199999809265137,
       "Low": 5.269999980926514,
-      "Close": 7.119999885559082,
-      "Volume": 12010959.0
+      "Close": 7.929999828338623,
+      "Volume": 14016881.0
     }
   ]
 }

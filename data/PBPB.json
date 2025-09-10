@@ -1,20 +1,20 @@
 {
   "ticker": "PBPB",
   "indicators": {
-    "score_0_100": 89.66,
+    "score_0_100": 89.74,
     "score_0_10": 8.97,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.26255380235329895,
-    "macd_slope": 0.019544167680725977,
+    "macd_hist": 0.26223464589535384,
+    "macd_slope": 0.01952137078546815,
     "rsi": 0.0,
-    "rsi_slope": 2.409950631025717,
-    "wave_strength": 1.01541395133856,
-    "adx": 17.298419820101504,
-    "atr": 0.7091134454729696,
-    "obv_slope": 1033753.7142857143,
+    "rsi_slope": 2.409197243215537,
+    "wave_strength": 1.0154336930263292,
+    "adx": 17.298419767364333,
+    "atr": 0.7091134454592778,
+    "obv_slope": 1431987.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 863237.6,
-    "last_close": 16.985000610351562,
+    "avg_vol20": 1142000.95,
+    "last_close": 16.979999542236328,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3538,8 +3538,8 @@
       "Open": 17.0049991607666,
       "High": 17.040000915527344,
       "Low": 16.979999542236328,
-      "Close": 16.989999771118164,
-      "Volume": 13684869
+      "Close": 16.979999542236328,
+      "Volume": 19241519
     }
   ]
 }

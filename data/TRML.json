@@ -1,23 +1,23 @@
 {
   "ticker": "TRML",
   "indicators": {
-    "score_0_100": 84.37,
-    "score_0_10": 8.44,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 2.418744007448946,
-    "macd_slope": 0.17732995582066174,
+    "score_0_100": 96.26,
+    "score_0_10": 9.63,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
+    "macd_hist": 2.4200201465292506,
+    "macd_slope": 0.17742110860464072,
     "rsi": 0.0,
-    "rsi_slope": 3.053441434129127,
-    "wave_strength": 1.8231917156045514,
-    "adx": 41.337472806877074,
-    "atr": 2.5134237374494184,
-    "obv_slope": 1624477.2857142857,
+    "rsi_slope": 3.0584169036939097,
+    "wave_strength": 1.8231219560960763,
+    "adx": 41.33747281511218,
+    "atr": 2.5134237374956916,
+    "obv_slope": 1549957.5,
     "mom14": 0.0,
-    "avg_vol20": 1433800.9,
-    "last_close": 47.58000183105469,
+    "avg_vol20": 1486054.75,
+    "last_close": 47.599998474121094,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1
   },
   "history": [
@@ -3531,15 +3531,15 @@
       "High": 47.689998626708984,
       "Low": 47.56999969482422,
       "Close": 47.63999938964844,
-      "Volume": 22670200
+      "Volume": 22671100
     },
     {
       "Date": "2025-09-10",
       "Open": 47.619998931884766,
       "High": 47.63999938964844,
       "Low": 47.58000183105469,
-      "Close": 47.58000183105469,
-      "Volume": 2009497
+      "Close": 47.599998474121094,
+      "Volume": 3047895
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "PENG",
   "indicators": {
-    "score_0_100": 88.63,
-    "score_0_10": 8.86,
+    "score_0_100": 88.79,
+    "score_0_10": 8.88,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; RSI overbought; rising OBV",
-    "macd_hist": 0.04675061560768978,
-    "macd_slope": 0.010844290793952724,
+    "macd_hist": 0.0658958660048774,
+    "macd_slope": 0.012211808691864926,
     "rsi": 0.0,
-    "rsi_slope": 1.6653855803823865,
-    "wave_strength": 1.0237938758201248,
-    "adx": 14.96320621843637,
-    "atr": 0.8751794591675719,
-    "obv_slope": 19859.85714285714,
+    "rsi_slope": 1.7837633035586182,
+    "wave_strength": 1.0231620878947556,
+    "adx": 14.963206173026707,
+    "atr": 0.8751794589510611,
+    "obv_slope": 90318.28571428571,
     "mom14": 0.0,
-    "avg_vol20": 694911.9,
-    "last_close": 25.34000015258789,
+    "avg_vol20": 744432.8,
+    "last_close": 25.639999389648438,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 25.030000686645508,
       "Low": 24.190000534057617,
       "Close": 24.450000762939453,
-      "Volume": 815300
+      "Volume": 817300
     },
     {
       "Date": "2025-09-10",
       "Open": 24.68000030517578,
       "High": 26.15999984741211,
       "Low": 24.68000030517578,
-      "Close": 25.440000534057617,
-      "Volume": 1253913
+      "Close": 25.639999389648438,
+      "Volume": 2235156
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "PGACU",
   "indicators": {
-    "score_0_100": 85.29,
-    "score_0_10": 8.53,
+    "score_0_100": 85.73,
+    "score_0_10": 8.57,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI overbought; rising OBV",
-    "macd_hist": 0.019731003725278057,
-    "macd_slope": 0.0011410946097904961,
+    "macd_hist": 0.0227254663886882,
+    "macd_slope": 0.0013662027540948813,
     "rsi": 0.0,
     "rsi_slope": 7.142856587302573,
-    "wave_strength": 1.0129184325461702,
-    "adx": 41.77233140346588,
-    "atr": 0.016457941910949715,
+    "wave_strength": 1.0120270390311572,
+    "adx": 44.28701461846015,
+    "atr": 0.015282374631596164,
     "obv_slope": 910.1428571428571,
     "mom14": 0.0,
     "avg_vol20": 637.1,
@@ -1527,6 +1527,14 @@
     },
     {
       "Date": "2025-09-09",
+      "Open": 10.380000114440918,
+      "High": 10.380000114440918,
+      "Low": 10.380000114440918,
+      "Close": 10.380000114440918,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-10",
       "Open": 10.380000114440918,
       "High": 10.380000114440918,
       "Low": 10.380000114440918,

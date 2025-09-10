@@ -1,20 +1,20 @@
 {
   "ticker": "IMPP",
   "indicators": {
-    "score_0_100": 92.16,
-    "score_0_10": 9.22,
+    "score_0_100": 92.28,
+    "score_0_10": 9.23,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.06870807934619062,
-    "macd_slope": 0.005413950729902883,
+    "macd_hist": 0.07413258320362726,
+    "macd_slope": 0.005801415291466294,
     "rsi": 0.0,
-    "rsi_slope": 2.9085827966277393,
-    "wave_strength": 1.1423376980555204,
-    "adx": 29.38016398642075,
-    "atr": 0.1696610465594608,
-    "obv_slope": 205986.42857142858,
+    "rsi_slope": 2.9655833380889094,
+    "wave_strength": 1.1408685083439523,
+    "adx": 29.572304103061253,
+    "atr": 0.17466104179918124,
+    "obv_slope": 266323.9285714286,
     "mom14": 0.0,
-    "avg_vol20": 222835.5,
-    "last_close": 3.9149999618530273,
+    "avg_vol20": 265191.75,
+    "last_close": 4.0,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 3.8559999465942383,
       "Low": 3.7200000286102295,
       "Close": 3.740000009536743,
-      "Volume": 263200
+      "Volume": 264400
     },
     {
       "Date": "2025-09-10",
       "Open": 3.8299999237060547,
-      "High": 3.930000066757202,
+      "High": 4.0,
       "Low": 3.799999952316284,
-      "Close": 3.930000066757202,
-      "Volume": 633456
+      "Close": 4.0,
+      "Volume": 1470335
     }
   ]
 }

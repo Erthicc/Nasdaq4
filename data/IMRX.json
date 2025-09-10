@@ -1,20 +1,20 @@
 {
   "ticker": "IMRX",
   "indicators": {
-    "score_0_100": 92.68,
+    "score_0_100": 92.65,
     "score_0_10": 9.27,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; RSI overbought; strong wave vs SMA20; rising OBV",
-    "macd_hist": 0.29500323924710536,
-    "macd_slope": 0.02279994011244887,
+    "macd_hist": 0.23724827053100128,
+    "macd_slope": 0.018674585204632593,
     "rsi": 0.0,
-    "rsi_slope": 2.411544667866473,
-    "wave_strength": 1.1675843835920976,
-    "adx": 34.70392379160287,
-    "atr": 0.6750069637528833,
-    "obv_slope": 1124444.7857142857,
+    "rsi_slope": 2.268953036993591,
+    "wave_strength": 1.177974389048113,
+    "adx": 34.78011848333493,
+    "atr": 0.6895141212074863,
+    "obv_slope": 1198174.0,
     "mom14": 0.0,
-    "avg_vol20": 1155181.35,
-    "last_close": 9.045000076293945,
+    "avg_vol20": 1206791.8,
+    "last_close": 8.140000343322754,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
@@ -3531,15 +3531,15 @@
       "High": 7.159999847412109,
       "Low": 5.96999979019165,
       "Close": 7.050000190734863,
-      "Volume": 1658200
+      "Volume": 1667500
     },
     {
       "Date": "2025-09-10",
       "Open": 7.989999771118164,
-      "High": 9.133299827575684,
+      "High": 9.336400032043457,
       "Low": 7.5,
-      "Close": 8.904999732971191,
-      "Volume": 2320665
+      "Close": 8.140000343322754,
+      "Volume": 3318536
     }
   ]
 }
