@@ -1,1 +1,47 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NASDAQ Daily Scan</title><link rel="stylesheet" href="style.css" /></head><body><div class="container"><header><h1>NASDAQ Daily Scan</h1><div id="meta"></div></header><main><div id="controls"><input id="search" placeholder="Filter tickers (symbol or explanation)" /><label>Top: <input id="topN" type="number" value="50" min="1" max="500" /></label></div><div id="summary"></div><table id="results"><thead><tr><th>Rank</th><th>Ticker</th><th>Score (0-100)</th><th>Last Close</th><th>Avg Vol(20)</th><th>Explanation</th></tr></thead><tbody></tbody></table><footer><p>Generated at <span id="generated_at"></span>. JSON: <a href="top_picks.json">top_picks.json</a></p></footer></main></div><script src="app.js"></script></body></html>
+<!-- public/index.html -->
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>NASDAQ Top Picks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>NASDAQ — Daily Top Picks</h1>
+    <div id="meta"></div>
+    <input id="filter" placeholder="Filter ticker or signal..." />
+    <table id="picks" class="striped">
+      <thead>
+        <tr><th>Rank</th><th>Ticker</th><th>Score (0-100)</th><th>Signals</th><th>Avg Vol(20)</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+  <script>
+    async function load() {
+      const r = await fetch('top_picks.json');
+      const data = await r.json();
+      document.getElementById('meta').innerText = `Generated at: ${data.generated_at} • Processed: ${data.count_results}`;
+      const tbody = document.querySelector('#picks tbody');
+      tbody.innerHTML = '';
+      data.top.forEach((it, i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${i+1}</td>
+                        <td>${it.ticker}</td>
+                        <td>${it.score_0_100}</td>
+                        <td>${it.explanation}</td>
+                        <td>${it.avg_vol20 ? Math.round(it.avg_vol20).toLocaleString() : ''}</td>`;
+        tbody.appendChild(tr);
+      });
+    }
+    document.getElementById('filter').addEventListener('input', function(e){
+      const q = e.target.value.toLowerCase();
+      [...document.querySelectorAll('#picks tbody tr')].forEach(tr=>{
+        tr.style.display = (q === '' || tr.innerText.toLowerCase().includes(q)) ? '' : 'none';
+      });
+    });
+    load();
+  </script>
+</body>
+</html>
