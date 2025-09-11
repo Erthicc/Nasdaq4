@@ -1,20 +1,20 @@
 {
   "ticker": "NTRP",
   "indicators": {
-    "score_0_100": 66.12,
-    "score_0_10": 6.61,
+    "score_0_100": 69.06,
+    "score_0_10": 6.91,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.010035501689448514,
-    "macd_slope": 0.003731995454653067,
-    "rsi": 52.968905967932436,
-    "rsi_slope": 0.23571655238773812,
-    "wave_strength": 1.0645450324483974,
-    "adx": 12.390972246984456,
-    "atr": 0.28840580299291524,
-    "obv_slope": 5799.571428571428,
+    "macd_hist": 0.012907301448329259,
+    "macd_slope": 0.00393712400504381,
+    "rsi": 53.718393320637226,
+    "rsi_slope": 0.2892513632952231,
+    "wave_strength": 1.063912696001093,
+    "adx": 12.390972239106048,
+    "atr": 0.2884058028790949,
+    "obv_slope": 5931.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 18044.7,
-    "last_close": 3.8949999809265137,
+    "avg_vol20": 18136.75,
+    "last_close": 3.940000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 3.9700000286102295,
       "High": 3.9700000286102295,
       "Low": 3.8301000595092773,
-      "Close": 3.8949999809265137,
-      "Volume": 7134
+      "Close": 3.940000057220459,
+      "Volume": 8935
     }
   ]
 }

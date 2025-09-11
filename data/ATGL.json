@@ -1,20 +1,20 @@
 {
   "ticker": "ATGL",
   "indicators": {
-    "score_0_100": 66.48,
-    "score_0_10": 6.65,
+    "score_0_100": 72.48,
+    "score_0_10": 7.25,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.1495075129294121,
-    "macd_slope": -0.0788293907996109,
-    "rsi": 57.98408528311023,
-    "rsi_slope": -0.5815826847988846,
-    "wave_strength": 1.1973635724076586,
-    "adx": 55.53716422367459,
-    "atr": 3.569139474388091,
-    "obv_slope": 4600.642857142857,
+    "macd_hist": 0.04420839200205062,
+    "macd_slope": -0.08635075658585947,
+    "rsi": 53.317074622982396,
+    "rsi_slope": -0.9149405890937301,
+    "wave_strength": 1.20086488285007,
+    "adx": 55.53716424812111,
+    "atr": 3.5691537795244552,
+    "obv_slope": 4273.285714285715,
     "mom14": 0.0,
-    "avg_vol20": 14749.55,
-    "last_close": 31.0,
+    "avg_vol20": 14978.7,
+    "last_close": 29.350000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-11",
       "Open": 31.549999237060547,
       "High": 31.549999237060547,
-      "Low": 29.000200271606445,
-      "Close": 31.0,
-      "Volume": 3063
+      "Low": 29.0,
+      "Close": 29.350000381469727,
+      "Volume": 7574
     }
   ]
 }

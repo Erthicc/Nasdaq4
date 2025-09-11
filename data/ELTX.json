@@ -1,20 +1,20 @@
 {
   "ticker": "ELTX",
   "indicators": {
-    "score_0_100": 68.56,
-    "score_0_10": 6.86,
+    "score_0_100": 71.13,
+    "score_0_10": 7.11,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.037774034087471875,
-    "macd_slope": -0.009528677112887974,
-    "rsi": 50.98522115192973,
-    "rsi_slope": -0.7799678789007675,
-    "wave_strength": 1.0704225137297796,
-    "adx": 29.87514821275032,
-    "atr": 0.6322931034064193,
-    "obv_slope": 16275.42857142857,
+    "macd_hist": 0.042241251082134945,
+    "macd_slope": -0.009209590185333572,
+    "rsi": 51.87969529214544,
+    "rsi_slope": -0.7160768688853594,
+    "wave_strength": 1.0700821892096695,
+    "adx": 29.45821475692057,
+    "atr": 0.6444359660042568,
+    "obv_slope": 13622.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 140512.2,
-    "last_close": 11.510000228881836,
+    "avg_vol20": 142369.05,
+    "last_close": 11.579999923706055,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-11",
       "Open": 11.890000343322754,
       "High": 11.890000343322754,
-      "Low": 11.489999771118164,
-      "Close": 11.5600004196167,
-      "Volume": 23461
+      "Low": 11.319999694824219,
+      "Close": 11.579999923706055,
+      "Volume": 59781
     }
   ]
 }

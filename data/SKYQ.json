@@ -1,20 +1,20 @@
 {
   "ticker": "SKYQ",
   "indicators": {
-    "score_0_100": 68.51,
-    "score_0_10": 6.85,
+    "score_0_100": 71.72,
+    "score_0_10": 7.17,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.019457786719359813,
-    "macd_slope": 0.0010634014128337577,
-    "rsi": 57.88302382991191,
-    "rsi_slope": 0.876356642920835,
-    "wave_strength": 1.4365236710257074,
+    "macd_hist": 0.018551577670298032,
+    "macd_slope": 0.0009986721950436307,
+    "rsi": 56.91056871631094,
+    "rsi_slope": 0.8068955633779085,
+    "wave_strength": 1.4385614928123185,
     "adx": 29.896255183405675,
-    "atr": 0.10078363909392073,
-    "obv_slope": 16627522.642857144,
+    "atr": 0.10514792524417184,
+    "obv_slope": 16686829.57142857,
     "mom14": 0.0,
-    "avg_vol20": 12266310.85,
-    "last_close": 0.5741999745368958,
+    "avg_vol20": 12324415.7,
+    "last_close": 0.5600000023841858,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1851,15 +1851,15 @@
       "High": 0.6399999856948853,
       "Low": 0.5220000147819519,
       "Close": 0.5590000152587891,
-      "Volume": 1494100.0
+      "Volume": 1660000.0
     },
     {
       "Date": "2025-09-11",
       "Open": 0.5099999904632568,
-      "High": 0.5997999906539917,
+      "High": 0.6608999967575073,
       "Low": 0.5,
-      "Close": 0.5741999745368958,
-      "Volume": 429897.0
+      "Close": 0.5600000023841858,
+      "Volume": 1420114.0
     }
   ]
 }

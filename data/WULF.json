@@ -1,20 +1,20 @@
 {
   "ticker": "WULF",
   "indicators": {
-    "score_0_100": 71.57,
-    "score_0_10": 7.16,
+    "score_0_100": 75.18,
+    "score_0_10": 7.52,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.04119047883726812,
-    "macd_slope": -0.026033741582913623,
-    "rsi": 72.30393489828842,
-    "rsi_slope": -0.8223462826348141,
-    "wave_strength": 1.028132191041274,
-    "adx": 49.88150610768505,
-    "atr": 0.7291937394623147,
-    "obv_slope": 11600982.92857143,
+    "macd_hist": 0.017577950570514256,
+    "macd_slope": -0.0277203507537263,
+    "rsi": 69.54179381790678,
+    "rsi_slope": -1.0196420740906456,
+    "wave_strength": 1.030166897903104,
+    "adx": 49.881506068131884,
+    "atr": 0.7291937394538105,
+    "obv_slope": 13201642.285714285,
     "mom14": 0.0,
-    "avg_vol20": 67995463.05,
-    "last_close": 11.010000228881836,
+    "avg_vol20": 69115924.6,
+    "last_close": 10.640000343322754,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 11.039999961853027,
       "Low": 10.239999771118164,
       "Close": 10.550000190734863,
-      "Volume": 61969800
+      "Volume": 62191900
     },
     {
       "Date": "2025-09-11",
       "Open": 10.472000122070312,
       "High": 11.229999542236328,
       "Low": 10.180000305175781,
-      "Close": 11.079999923706055,
-      "Volume": 22603573
+      "Close": 10.640000343322754,
+      "Volume": 44435692
     }
   ]
 }

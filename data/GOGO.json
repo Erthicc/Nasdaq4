@@ -1,20 +1,20 @@
 {
   "ticker": "GOGO",
   "indicators": {
-    "score_0_100": 67.08,
-    "score_0_10": 6.71,
+    "score_0_100": 70.13,
+    "score_0_10": 7.01,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.021688731000909955,
-    "macd_slope": 0.02134803132113943,
-    "rsi": 33.4711034982645,
-    "rsi_slope": 0.6392884803578228,
-    "wave_strength": 0.961830713687803,
-    "adx": 38.02651406387525,
-    "atr": 0.5164551184594849,
-    "obv_slope": 223710.14285714287,
+    "macd_hist": 0.02232686139664719,
+    "macd_slope": 0.02139361206114876,
+    "rsi": 33.74486497847688,
+    "rsi_slope": 0.6588428718015648,
+    "wave_strength": 0.9617877299559183,
+    "adx": 37.94763075966637,
+    "atr": 0.5321694232236711,
+    "obv_slope": 331354.64285714284,
     "mom14": 0.0,
-    "avg_vol20": 1565302.1,
-    "last_close": 10.350000381469727,
+    "avg_vol20": 1640653.25,
+    "last_close": 10.359999656677246,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-11",
       "Open": 10.140000343322754,
-      "High": 10.399999618530273,
+      "High": 10.619999885559082,
       "Low": 10.140000343322754,
-      "Close": 10.369999885559082,
-      "Volume": 445025
+      "Close": 10.359999656677246,
+      "Volume": 1929665
     }
   ]
 }

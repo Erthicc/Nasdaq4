@@ -1,20 +1,20 @@
 {
   "ticker": "NEPH",
   "indicators": {
-    "score_0_100": 65.84,
-    "score_0_10": 6.58,
+    "score_0_100": 69.79,
+    "score_0_10": 6.98,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.007020904797710864,
-    "macd_slope": -0.0027271577273018884,
-    "rsi": 55.203618778752286,
-    "rsi_slope": -0.29795571643996105,
-    "wave_strength": 1.0727782692490617,
-    "adx": 28.595951146171792,
-    "atr": 0.38763551509823346,
-    "obv_slope": -3437.785714285714,
+    "macd_hist": 0.004468200690061,
+    "macd_slope": -0.00290949373721661,
+    "rsi": 54.22222226159972,
+    "rsi_slope": -0.36805546766514446,
+    "wave_strength": 1.0733016390452825,
+    "adx": 28.595951365402282,
+    "atr": 0.3947783654193438,
+    "obv_slope": -5405.428571428572,
     "mom14": 0.0,
-    "avg_vol20": 42776.45,
-    "last_close": 4.25,
+    "avg_vol20": 44153.8,
+    "last_close": 4.210000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-11",
       "Open": 4.170000076293945,
       "High": 4.25,
-      "Low": 4.159999847412109,
-      "Close": 4.25,
-      "Volume": 7979
+      "Low": 4.059999942779541,
+      "Close": 4.210000038146973,
+      "Volume": 35376
     }
   ]
 }

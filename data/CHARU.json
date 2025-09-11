@@ -1,8 +1,8 @@
 {
   "ticker": "CHARU",
   "indicators": {
-    "score_0_100": 73.04,
-    "score_0_10": 7.3,
+    "score_0_100": 75.72,
+    "score_0_10": 7.57,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.009309821843774144,
     "macd_slope": -0.0054244060567432565,

@@ -1,8 +1,8 @@
 {
   "ticker": "GIGGU",
   "indicators": {
-    "score_0_100": 94.18,
-    "score_0_10": 9.42,
+    "score_0_100": 94.76,
+    "score_0_10": 9.48,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0009919956433373112,
     "macd_slope": 0.0003782356878779903,

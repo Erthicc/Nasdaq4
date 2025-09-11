@@ -1,20 +1,20 @@
 {
   "ticker": "GMHS",
   "indicators": {
-    "score_0_100": 65.65,
-    "score_0_10": 6.57,
+    "score_0_100": 69.46,
+    "score_0_10": 6.95,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.05712467649839938,
-    "macd_slope": 0.006248946618448518,
-    "rsi": 62.730628978737144,
-    "rsi_slope": 1.5707064966043502,
-    "wave_strength": 1.5041050629011241,
-    "adx": 36.27263456121105,
-    "atr": 0.3117161824254159,
-    "obv_slope": 12908352.357142856,
+    "macd_hist": 0.053295612713357254,
+    "macd_slope": 0.005975442062374081,
+    "rsi": 61.37184132668066,
+    "rsi_slope": 1.4736502357431729,
+    "wave_strength": 1.5070746712280165,
+    "adx": 36.27263468169289,
+    "atr": 0.31171618241584237,
+    "obv_slope": 12879651.92857143,
     "mom14": 0.0,
-    "avg_vol20": 9346596.65,
-    "last_close": 1.8600000143051147,
+    "avg_vol20": 9350803.65,
+    "last_close": 1.7999999523162842,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 2.190000057220459,
       "Low": 1.809999942779541,
       "Close": 1.8600000143051147,
-      "Volume": 682200
+      "Volume": 707500
     },
     {
       "Date": "2025-09-11",
       "Open": 1.8250000476837158,
       "High": 1.899999976158142,
       "Low": 1.7899999618530273,
-      "Close": 1.8600000143051147,
-      "Volume": 162084
+      "Close": 1.7999999523162842,
+      "Volume": 217673
     }
   ]
 }

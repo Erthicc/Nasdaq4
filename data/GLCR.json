@@ -1,22 +1,22 @@
 {
   "ticker": "GLCR",
   "indicators": {
-    "score_0_100": 66.69,
-    "score_0_10": 6.67,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.021942190145135064,
-    "macd_slope": 0.0027280036525880874,
-    "rsi": 51.372731416153,
-    "rsi_slope": -0.14192769387283174,
-    "wave_strength": 1.011335338319349,
-    "adx": 10.150646016513662,
-    "atr": 0.1569502918211386,
-    "obv_slope": 35.642857142857146,
+    "score_0_100": 69.95,
+    "score_0_10": 7.0,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.07174780713833365,
+    "macd_slope": 0.0065069441519255335,
+    "rsi": 62.08651669881767,
+    "rsi_slope": 0.5806340289382744,
+    "wave_strength": 1.0103356408698072,
+    "adx": 11.20665708206282,
+    "atr": 0.18887035347388176,
+    "obv_slope": 52.642857142857146,
     "mom14": 0.0,
-    "avg_vol20": 175.05,
-    "last_close": 25.6200008392334,
+    "avg_vol20": 186.85,
+    "last_close": 26.26490020751953,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -936,10 +936,18 @@
     {
       "Date": "2025-09-10",
       "Open": 25.934999465942383,
-      "High": 25.6200008392334,
-      "Low": 25.6200008392334,
-      "Close": 25.6200008392334,
-      "Volume": 1.0
+      "High": 25.934999465942383,
+      "Low": 25.934999465942383,
+      "Close": 25.934999465942383,
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 26.249000549316406,
+      "High": 26.26490020751953,
+      "Low": 26.249000549316406,
+      "Close": 26.26490020751953,
+      "Volume": 237.0
     }
   ]
 }

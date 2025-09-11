@@ -1,15 +1,15 @@
 {
   "ticker": "SPKLU",
   "indicators": {
-    "score_0_100": 93.72,
-    "score_0_10": 9.37,
+    "score_0_100": 94.34,
+    "score_0_10": 9.43,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0009975582282460314,
     "macd_slope": -0.0001289523580251598,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 27.587130025295558,
+    "adx": 27.587129982616343,
     "atr": 0.0007667080606116497,
     "obv_slope": 0.0,
     "mom14": 0.0,

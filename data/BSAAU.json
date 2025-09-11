@@ -1,8 +1,8 @@
 {
   "ticker": "BSAAU",
   "indicators": {
-    "score_0_100": 70.12,
-    "score_0_10": 7.01,
+    "score_0_100": 73.09,
+    "score_0_10": 7.31,
     "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
     "macd_hist": 0.0015305331320492775,
     "macd_slope": 0.000398677264217209,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0016315011656118,
     "adx": 27.469429977015384,
     "atr": 0.019629515587668542,
-    "obv_slope": 6836.642857142857,
+    "obv_slope": 6836.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 6030.65,
+    "avg_vol20": 6030.8,
     "last_close": 10.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -515,7 +515,7 @@
       "High": 10.130000114440918,
       "Low": 10.130000114440918,
       "Close": 10.130000114440918,
-      "Volume": 113.0
+      "Volume": 116.0
     }
   ]
 }

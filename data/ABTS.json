@@ -1,20 +1,20 @@
 {
   "ticker": "ABTS",
   "indicators": {
-    "score_0_100": 65.88,
-    "score_0_10": 6.59,
+    "score_0_100": 69.67,
+    "score_0_10": 6.97,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.05381672060626716,
-    "macd_slope": 0.004492340228424729,
-    "rsi": 53.51758545601028,
-    "rsi_slope": -0.42919129669416073,
-    "wave_strength": 1.038380602368883,
-    "adx": 17.956634600176088,
-    "atr": 0.3671550055534019,
-    "obv_slope": 4134.142857142857,
+    "macd_hist": 0.05190220773736237,
+    "macd_slope": 0.004355589308279405,
+    "rsi": 52.8061261058441,
+    "rsi_slope": -0.48000982170603074,
+    "wave_strength": 1.0387854991772179,
+    "adx": 17.956634592690552,
+    "atr": 0.3671550055529633,
+    "obv_slope": 4541.714285714285,
     "mom14": 0.0,
-    "avg_vol20": 13773.9,
-    "last_close": 4.119999885559082,
+    "avg_vol20": 14059.2,
+    "last_close": 4.090000152587891,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 3.858799934387207,
       "High": 4.150000095367432,
       "Low": 3.858799934387207,
-      "Close": 4.119999885559082,
-      "Volume": 6383
+      "Close": 4.090000152587891,
+      "Volume": 12084
     }
   ]
 }

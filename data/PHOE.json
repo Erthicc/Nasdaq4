@@ -1,22 +1,22 @@
 {
   "ticker": "PHOE",
   "indicators": {
-    "score_0_100": 65.66,
-    "score_0_10": 6.57,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.08057972682888437,
-    "macd_slope": 0.011630812154739078,
-    "rsi": 57.762552195315486,
-    "rsi_slope": 1.1467655511067305,
-    "wave_strength": 1.1696726380647204,
+    "score_0_100": 69.21,
+    "score_0_10": 6.92,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.12269937521073918,
+    "macd_slope": 0.014639358467728708,
+    "rsi": 68.01073985522308,
+    "rsi_slope": 1.8787789553858443,
+    "wave_strength": 1.1647751030061066,
     "adx": 35.535588788076346,
     "atr": 0.9436526469417945,
-    "obv_slope": 11601.857142857143,
+    "obv_slope": 11092.5,
     "mom14": 0.0,
-    "avg_vol20": 14483.7,
-    "last_close": 8.329999923706055,
+    "avg_vol20": 14840.25,
+    "last_close": 8.989999771118164,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -784,10 +784,10 @@
     {
       "Date": "2025-09-11",
       "Open": 8.3100004196167,
-      "High": 8.329999923706055,
+      "High": 8.989999771118164,
       "Low": 8.3100004196167,
-      "Close": 8.329999923706055,
-      "Volume": 1000.0
+      "Close": 8.989999771118164,
+      "Volume": 8105.0
     }
   ]
 }

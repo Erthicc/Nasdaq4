@@ -1,20 +1,20 @@
 {
   "ticker": "GTBP",
   "indicators": {
-    "score_0_100": 72.39,
-    "score_0_10": 7.24,
+    "score_0_100": 75.27,
+    "score_0_10": 7.53,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.008070071269211998,
-    "macd_slope": 0.003682033508667532,
-    "rsi": 27.71200727930301,
-    "rsi_slope": 0.5601643535733812,
-    "wave_strength": 0.7615457489735775,
-    "adx": 51.037787441607875,
-    "atr": 0.1465429370189284,
-    "obv_slope": 192389.5,
+    "macd_hist": 0.007757366083586015,
+    "macd_slope": 0.0036596974231851687,
+    "rsi": 27.524195001971066,
+    "rsi_slope": 0.5467491909068138,
+    "wave_strength": 0.7617233999066648,
+    "adx": 51.03778745119171,
+    "atr": 0.1465429370206826,
+    "obv_slope": 181723.92857142858,
     "mom14": 0.0,
-    "avg_vol20": 415222.35,
-    "last_close": 0.7498999834060669,
+    "avg_vol20": 423098.25,
+    "last_close": 0.7450000047683716,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 0.949999988079071,
       "Low": 0.7350000143051147,
       "Close": 0.800000011920929,
-      "Volume": 1074700
+      "Volume": 1078800
     },
     {
       "Date": "2025-09-11",
       "Open": 0.800000011920929,
       "High": 0.800000011920929,
       "Low": 0.630299985408783,
-      "Close": 0.75,
-      "Volume": 448896
+      "Close": 0.7450000047683716,
+      "Volume": 593265
     }
   ]
 }

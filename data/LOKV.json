@@ -1,8 +1,8 @@
 {
   "ticker": "LOKV",
   "indicators": {
-    "score_0_100": 67.18,
-    "score_0_10": 6.72,
+    "score_0_100": 70.44,
+    "score_0_10": 7.04,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
     "macd_hist": 0.00805998769718319,
     "macd_slope": 0.0011267675013692628,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9998282464087528,
     "adx": 7.621557765343999,
     "atr": 0.07134524740602995,
-    "obv_slope": -18712.5,
+    "obv_slope": -18258.35714285714,
     "mom14": 0.0,
-    "avg_vol20": 39811.25,
+    "avg_vol20": 40129.15,
     "last_close": 10.170000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -819,7 +819,7 @@
       "High": 10.186400413513184,
       "Low": 10.149999618530273,
       "Close": 10.170000076293945,
-      "Volume": 31325.0
+      "Volume": 37683.0
     }
   ]
 }

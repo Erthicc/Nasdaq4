@@ -1,8 +1,8 @@
 {
   "ticker": "DTSQU",
   "indicators": {
-    "score_0_100": 66.71,
-    "score_0_10": 6.67,
+    "score_0_100": 70.01,
+    "score_0_10": 7.0,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.00031240671242239396,
     "macd_slope": 4.101554016334764e-05,

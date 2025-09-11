@@ -1,8 +1,8 @@
 {
   "ticker": "COLAU",
   "indicators": {
-    "score_0_100": 66.48,
-    "score_0_10": 6.65,
+    "score_0_100": 69.81,
+    "score_0_10": 6.98,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.008988040530822958,
     "macd_slope": -0.00031940125518555614,

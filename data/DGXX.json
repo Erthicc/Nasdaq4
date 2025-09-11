@@ -1,20 +1,20 @@
 {
   "ticker": "DGXX",
   "indicators": {
-    "score_0_100": 68.89,
-    "score_0_10": 6.89,
+    "score_0_100": 72.2,
+    "score_0_10": 7.22,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.06288905831196147,
-    "macd_slope": 0.010589237151055503,
-    "rsi": 60.30927772524804,
-    "rsi_slope": 1.410231318118452,
-    "wave_strength": 1.0387434686727848,
-    "adx": 16.64131506897454,
-    "atr": 0.24720095309143159,
-    "obv_slope": 164711.2857142857,
+    "macd_hist": 0.0616127062558644,
+    "macd_slope": 0.010498069146412742,
+    "rsi": 59.895832961267935,
+    "rsi_slope": 1.3806995492627305,
+    "wave_strength": 1.0391787263651473,
+    "adx": 16.641315051315768,
+    "atr": 0.24720095309547485,
+    "obv_slope": 205032.85714285713,
     "mom14": 0.0,
-    "avg_vol20": 878022.9,
-    "last_close": 2.7899999618530273,
+    "avg_vol20": 906248.0,
+    "last_close": 2.7699999809265137,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 2.690000057220459,
       "Low": 2.509999990463257,
       "Close": 2.640000104904175,
-      "Volume": 1266700
+      "Volume": 1280000
     },
     {
       "Date": "2025-09-11",
       "Open": 2.7200000286102295,
       "High": 2.859800100326538,
       "Low": 2.6500000953674316,
-      "Close": 2.795799970626831,
-      "Volume": 594699
+      "Close": 2.7699999809265137,
+      "Volume": 1133460
     }
   ]
 }

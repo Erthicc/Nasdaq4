@@ -1,20 +1,20 @@
 {
   "ticker": "SNSE",
   "indicators": {
-    "score_0_100": 66.48,
-    "score_0_10": 6.65,
+    "score_0_100": 69.18,
+    "score_0_10": 6.92,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06954536700131841,
-    "macd_slope": 0.004766631416143758,
-    "rsi": 66.44525265786893,
-    "rsi_slope": 2.7861234670335255,
-    "wave_strength": 1.0742819685902023,
-    "adx": 28.85779107783385,
-    "atr": 0.7175636795904127,
-    "obv_slope": 2070.5714285714284,
+    "macd_hist": 0.08039437475710509,
+    "macd_slope": 0.005541560533609207,
+    "rsi": 67.55547250604678,
+    "rsi_slope": 2.8654248847605146,
+    "wave_strength": 1.073170152538628,
+    "adx": 29.017410762527536,
+    "atr": 0.7297065422151414,
+    "obv_slope": 2147.6428571428573,
     "mom14": 0.0,
-    "avg_vol20": 10554.4,
-    "last_close": 9.180000305175781,
+    "avg_vol20": 10608.35,
+    "last_close": 9.350000381469727,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-11",
       "Open": 8.958000183105469,
-      "High": 9.180000305175781,
+      "High": 9.350000381469727,
       "Low": 8.958000183105469,
-      "Close": 9.180000305175781,
-      "Volume": 3888
+      "Close": 9.350000381469727,
+      "Volume": 4967
     }
   ]
 }

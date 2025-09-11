@@ -1,8 +1,8 @@
 {
   "ticker": "BACCU",
   "indicators": {
-    "score_0_100": 73.77,
-    "score_0_10": 7.38,
+    "score_0_100": 76.37,
+    "score_0_10": 7.64,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.00015708956684727096,
     "macd_slope": 0.00010101640152260187,

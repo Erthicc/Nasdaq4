@@ -1,22 +1,22 @@
 {
   "ticker": "DVXV",
   "indicators": {
-    "score_0_100": 66.6,
-    "score_0_10": 6.66,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.02655929627823836,
-    "macd_slope": -0.008922365177692751,
-    "rsi": 47.28193089101049,
-    "rsi_slope": -1.7293052442858152,
-    "wave_strength": 1.0178333376650963,
-    "adx": 7.075782766339872,
-    "atr": 0.19418961584027547,
-    "obv_slope": 14.214285714285714,
+    "score_0_100": 69.66,
+    "score_0_10": 6.97,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.054944569239835206,
+    "macd_slope": -0.0069110413466007565,
+    "rsi": 61.43443666985053,
+    "rsi_slope": -0.4451274683748636,
+    "wave_strength": 1.015050488334094,
+    "adx": 8.034226156779932,
+    "atr": 0.23159745203095333,
+    "obv_slope": 7.214285714285714,
     "mom14": 0.0,
     "avg_vol20": 50.05,
-    "last_close": 25.509000778198242,
+    "last_close": 26.226900100708008,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -299,6 +299,14 @@
       "High": 25.509000778198242,
       "Low": 25.509000778198242,
       "Close": 25.509000778198242,
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 26.226900100708008,
+      "High": 26.226900100708008,
+      "Low": 26.226900100708008,
+      "Close": 26.226900100708008,
       "Volume": 1.0
     }
   ]

@@ -1,19 +1,19 @@
 {
   "ticker": "GLBS",
   "indicators": {
-    "score_0_100": 71.11,
-    "score_0_10": 7.11,
+    "score_0_100": 73.98,
+    "score_0_10": 7.4,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.008303170214339024,
-    "macd_slope": 0.00014396776165798226,
+    "macd_hist": 0.00830317021282369,
+    "macd_slope": 0.00014396776186764628,
     "rsi": 56.52175822482559,
     "rsi_slope": 0.31056059693954047,
     "wave_strength": 1.0246495605460915,
-    "adx": 20.583984922446657,
-    "atr": 0.04174843856784651,
-    "obv_slope": 3824.9285714285716,
+    "adx": 20.58398491595271,
+    "atr": 0.041748438569825394,
+    "obv_slope": 4837.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 34307.45,
+    "avg_vol20": 35016.5,
     "last_close": 1.0800000429153442,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -3538,8 +3538,8 @@
       "Open": 1.0440000295639038,
       "High": 1.0851000547409058,
       "Low": 1.0440000295639038,
-      "Close": 1.0573999881744385,
-      "Volume": 7210
+      "Close": 1.0800000429153442,
+      "Volume": 21030
     }
   ]
 }

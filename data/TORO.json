@@ -1,20 +1,20 @@
 {
   "ticker": "TORO",
   "indicators": {
-    "score_0_100": 65.79,
-    "score_0_10": 6.58,
+    "score_0_100": 68.8,
+    "score_0_10": 6.88,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.01034402775380592,
-    "macd_slope": 0.003738337584143245,
-    "rsi": 65.06075389518784,
-    "rsi_slope": 1.6173092376886393,
-    "wave_strength": 0.9985149319363823,
-    "adx": 18.88881330823654,
-    "atr": 0.11253432974656441,
-    "obv_slope": -5360.428571428572,
+    "macd_hist": 0.010931156391198656,
+    "macd_slope": 0.0037802753449107697,
+    "rsi": 65.74467813719804,
+    "rsi_slope": 1.666160969260796,
+    "wave_strength": 0.9983481817719577,
+    "adx": 18.888813273040277,
+    "atr": 0.11253432974533432,
+    "obv_slope": -4472.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 25772.7,
-    "last_close": 2.910799980163574,
+    "avg_vol20": 26394.35,
+    "last_close": 2.9200000762939453,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 2.9000000953674316,
       "High": 2.930000066757202,
       "Low": 2.8399999141693115,
-      "Close": 2.910799980163574,
-      "Volume": 17174
+      "Close": 2.9200000762939453,
+      "Volume": 29587
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "IMTE",
   "indicators": {
-    "score_0_100": 72.27,
+    "score_0_100": 72.26,
     "score_0_10": 7.23,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.018482689750229788,
-    "macd_slope": 0.0013509164802618674,
-    "rsi": 54.237292670375744,
-    "rsi_slope": 0.11729587800886065,
-    "wave_strength": 1.064495911366761,
-    "adx": 16.276579522062256,
-    "atr": 0.09784295259600043,
-    "obv_slope": 38299.42857142857,
+    "macd_hist": 0.02294992196323886,
+    "macd_slope": 0.0016700044942051218,
+    "rsi": 59.09090865846618,
+    "rsi_slope": 0.46398273430103437,
+    "wave_strength": 1.0606218007766892,
+    "adx": 16.658794392232437,
+    "atr": 0.10280009208508843,
+    "obv_slope": 43093.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 67674.6,
-    "last_close": 1.0700000524520874,
+    "avg_vol20": 71030.3,
+    "last_close": 1.1399999856948853,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 1.149999976158142,
       "Low": 0.8809999823570251,
       "Close": 1.0700000524520874,
-      "Volume": 203400
+      "Volume": 206900
     },
     {
       "Date": "2025-09-11",
       "Open": 1.0800000429153442,
-      "High": 1.1299999952316284,
+      "High": 1.1993999481201172,
       "Low": 1.0200999975204468,
-      "Close": 1.0700000524520874,
-      "Volume": 40274
+      "Close": 1.1399999856948853,
+      "Volume": 103806
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "CSCS",
   "indicators": {
-    "score_0_100": 67.11,
-    "score_0_10": 6.71,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.042910653423376674,
-    "macd_slope": -0.0047911291070361,
-    "rsi": 51.32742994442541,
-    "rsi_slope": -0.10097238636553486,
-    "wave_strength": 1.0148902329618108,
-    "adx": 14.297786905290234,
-    "atr": 0.2299398789386091,
-    "obv_slope": 15.142857142857142,
+    "score_0_100": 71.03,
+    "score_0_10": 7.1,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.012116176512876609,
+    "macd_slope": -0.007062768661291699,
+    "rsi": 46.86092717037391,
+    "rsi_slope": -0.22021828114790004,
+    "wave_strength": 1.0136487665798657,
+    "adx": 13.09937514508097,
+    "atr": 0.24029303476092004,
+    "obv_slope": 1.4285714285714286,
     "mom14": 0.0,
-    "avg_vol20": 440.6,
-    "last_close": 25.31999969482422,
+    "avg_vol20": 256.0,
+    "last_close": 25.110599517822266,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -447,11 +447,19 @@
     },
     {
       "Date": "2025-09-10",
-      "Open": 24.940099716186523,
-      "High": 25.31999969482422,
-      "Low": 25.31999969482422,
-      "Close": 25.31999969482422,
-      "Volume": 12.0
+      "Open": 24.940000534057617,
+      "High": 24.940000534057617,
+      "Low": 24.940000534057617,
+      "Close": 24.940000534057617,
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 25.110599517822266,
+      "High": 25.110599517822266,
+      "Low": 25.110599517822266,
+      "Close": 25.110599517822266,
+      "Volume": 20.0
     }
   ]
 }

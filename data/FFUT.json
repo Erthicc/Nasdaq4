@@ -1,20 +1,20 @@
 {
   "ticker": "FFUT",
   "indicators": {
-    "score_0_100": 66.36,
-    "score_0_10": 6.64,
+    "score_0_100": 69.41,
+    "score_0_10": 6.94,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.04523080357420316,
-    "macd_slope": 0.00029230106409439474,
-    "rsi": 65.0137029655788,
-    "rsi_slope": 0.11929145326003063,
-    "wave_strength": 1.0064652662406786,
-    "adx": 32.63497383390138,
-    "atr": 0.3182750280127113,
-    "obv_slope": 432.07142857142856,
+    "macd_hist": 0.05613045074019592,
+    "macd_slope": 0.0007053471645139452,
+    "rsi": 65.30053626629004,
+    "rsi_slope": -0.10891815077894458,
+    "wave_strength": 1.0057324054206014,
+    "adx": 32.39521650480041,
+    "atr": 0.29946969066721624,
+    "obv_slope": 305.7857142857143,
     "mom14": 0.0,
-    "avg_vol20": 1987.45,
-    "last_close": 51.63999938964844,
+    "avg_vol20": 1944.05,
+    "last_close": 51.69499969482422,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -555,7 +555,15 @@
       "High": 51.63999938964844,
       "Low": 51.63999938964844,
       "Close": 51.63999938964844,
-      "Volume": 59.0
+      "Volume": 200.0
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 51.69499969482422,
+      "High": 51.69499969482422,
+      "Low": 51.69499969482422,
+      "Close": 51.69499969482422,
+      "Volume": 181.0
     }
   ]
 }

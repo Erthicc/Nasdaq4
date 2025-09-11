@@ -1,8 +1,8 @@
 {
   "ticker": "VACHU",
   "indicators": {
-    "score_0_100": 65.75,
-    "score_0_10": 6.57,
+    "score_0_100": 69.15,
+    "score_0_10": 6.91,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.01633826176460753,
     "macd_slope": 0.0013536695126020167,

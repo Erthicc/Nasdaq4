@@ -1,8 +1,8 @@
 {
   "ticker": "SVCCU",
   "indicators": {
-    "score_0_100": 94.05,
-    "score_0_10": 9.4,
+    "score_0_100": 94.64,
+    "score_0_10": 9.46,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.002766465941540109,
     "macd_slope": 0.00013358473852545887,

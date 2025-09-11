@@ -1,19 +1,19 @@
 {
   "ticker": "GNFT",
   "indicators": {
-    "score_0_100": 66.19,
-    "score_0_10": 6.62,
+    "score_0_100": 69.55,
+    "score_0_10": 6.95,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.004227277277125345,
-    "macd_slope": -0.0030598563878716,
+    "macd_hist": 0.004227277265457449,
+    "macd_slope": -0.003059856386257043,
     "rsi": 52.147242674542845,
     "rsi_slope": -0.5134031510218046,
     "wave_strength": 1.0337606318218462,
-    "adx": 11.775743521945234,
-    "atr": 0.20057679326373973,
-    "obv_slope": 70.42857142857143,
+    "adx": 11.775743458851096,
+    "atr": 0.20057679327559694,
+    "obv_slope": 93.78571428571429,
     "mom14": 0.0,
-    "avg_vol20": 2739.3,
+    "avg_vol20": 2755.65,
     "last_close": 4.190000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 4.223999977111816,
       "Low": 4.190000057220459,
       "Close": 4.190000057220459,
-      "Volume": 1886
+      "Volume": 2213
     }
   ]
 }

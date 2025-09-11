@@ -1,20 +1,20 @@
 {
   "ticker": "CCIIU",
   "indicators": {
-    "score_0_100": 67.8,
-    "score_0_10": 6.78,
+    "score_0_100": 70.76,
+    "score_0_10": 7.08,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00017160674578034236,
-    "macd_slope": 0.00040905549288370273,
-    "rsi": 51.470610865112384,
-    "rsi_slope": 0.42971071994195903,
-    "wave_strength": 1.0052605524298606,
-    "adx": 20.355921598436026,
-    "atr": 0.035312055752185385,
-    "obv_slope": 36985.71428571428,
+    "macd_hist": 0.0012612089786413015,
+    "macd_slope": 0.0003726868399531744,
+    "rsi": 51.79659275127589,
+    "rsi_slope": 0.45299514038220934,
+    "wave_strength": 1.0049305162916522,
+    "adx": 19.757348033902957,
+    "atr": 0.032954002396804676,
+    "obv_slope": 36877.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 89225.0,
-    "last_close": 10.270000457763672,
+    "avg_vol20": 89029.3,
+    "last_close": 10.272299766540527,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -427,7 +427,7 @@
       "High": 10.272299766540527,
       "Low": 10.272299766540527,
       "Close": 10.272299766540527,
-      "Volume": 314.0
+      "Volume": 514.0
     }
   ]
 }

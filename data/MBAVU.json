@@ -1,8 +1,8 @@
 {
   "ticker": "MBAVU",
   "indicators": {
-    "score_0_100": 92.5,
-    "score_0_10": 9.25,
+    "score_0_100": 93.24,
+    "score_0_10": 9.32,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
     "macd_hist": 0.03901940957265834,
     "macd_slope": 0.0008506477420426377,

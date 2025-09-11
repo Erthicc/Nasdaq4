@@ -1,20 +1,20 @@
 {
   "ticker": "ILAG",
   "indicators": {
-    "score_0_100": 68.91,
-    "score_0_10": 6.89,
+    "score_0_100": 70.13,
+    "score_0_10": 7.01,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.017513947221264668,
-    "macd_slope": 0.0009009975425736325,
-    "rsi": 55.26249715769143,
-    "rsi_slope": -0.7020288324348231,
-    "wave_strength": 1.5766945913604733,
-    "adx": 50.6135184168225,
-    "atr": 0.09713164173036308,
-    "obv_slope": 192119.0,
+    "macd_hist": 0.020270871322627004,
+    "macd_slope": 0.0010979206922576506,
+    "rsi": 58.43293652114599,
+    "rsi_slope": -0.47556887790235436,
+    "wave_strength": 1.5705676477868942,
+    "adx": 50.61351833026358,
+    "atr": 0.0971316417369201,
+    "obv_slope": 177689.5,
     "mom14": 0.0,
-    "avg_vol20": 731861.7,
-    "last_close": 0.6367999911308289,
+    "avg_vol20": 748032.35,
+    "last_close": 0.6800000071525574,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 0.9559999704360962,
       "Low": 0.5199999809265137,
       "Close": 0.8730000257492065,
-      "Volume": 3632700
+      "Volume": 3693400
     },
     {
       "Date": "2025-09-11",
       "Open": 0.6496000289916992,
-      "High": 0.7167999744415283,
+      "High": 0.7200000286102295,
       "Low": 0.6201000213623047,
-      "Close": 0.6430000066757202,
-      "Volume": 269554
+      "Close": 0.6800000071525574,
+      "Volume": 529047
     }
   ]
 }

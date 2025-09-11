@@ -1,20 +1,20 @@
 {
   "ticker": "SNTG",
   "indicators": {
-    "score_0_100": 73.22,
-    "score_0_10": 7.32,
+    "score_0_100": 74.93,
+    "score_0_10": 7.49,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.22417697521919888,
-    "macd_slope": 0.016291358425713665,
-    "rsi": 54.61816861028716,
-    "rsi_slope": 0.6957946551816475,
-    "wave_strength": 2.8424742703261328,
-    "adx": 41.6222955958567,
-    "atr": 1.2838593043298954,
-    "obv_slope": 6001365.5,
+    "macd_hist": 0.23821684789006392,
+    "macd_slope": 0.017294206469340705,
+    "rsi": 55.78681142330554,
+    "rsi_slope": 0.7792691418258174,
+    "wave_strength": 2.8294830841459824,
+    "adx": 41.62229377987099,
+    "atr": 1.2838593043217603,
+    "obv_slope": 5985297.357142857,
     "mom14": 0.0,
-    "avg_vol20": 4582309.15,
-    "last_close": 2.630000114440918,
+    "avg_vol20": 4593556.85,
+    "last_close": 2.8499999046325684,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 6.900000095367432,
       "Low": 3.869999885559082,
       "Close": 4.03000020980835,
-      "Volume": 629100
+      "Volume": 640200
     },
     {
       "Date": "2025-09-11",
       "Open": 3.759999990463257,
       "High": 3.839600086212158,
       "Low": 2.4800000190734863,
-      "Close": 2.6431000232696533,
-      "Volume": 406384
+      "Close": 2.8499999046325684,
+      "Volume": 616837
     }
   ]
 }

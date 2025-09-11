@@ -1,20 +1,20 @@
 {
   "ticker": "CJMB",
   "indicators": {
-    "score_0_100": 68.15,
-    "score_0_10": 6.81,
+    "score_0_100": 71.79,
+    "score_0_10": 7.18,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.03368943554511716,
-    "macd_slope": 0.0017089203049778473,
-    "rsi": 62.27449343395081,
-    "rsi_slope": 0.9863305722534425,
-    "wave_strength": 0.9873346976963998,
+    "macd_hist": 0.030906980144252576,
+    "macd_slope": 0.0015101734906303767,
+    "rsi": 61.43657426264872,
+    "rsi_slope": 0.9264792028747217,
+    "wave_strength": 0.9877757936150794,
     "adx": 28.074890620358627,
-    "atr": 0.35185555782490757,
-    "obv_slope": 6857.285714285715,
+    "atr": 0.3523127084204363,
+    "obv_slope": 7455.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 10805.1,
-    "last_close": 5.243599891662598,
+    "avg_vol20": 11223.55,
+    "last_close": 5.199999809265137,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1224,10 +1224,10 @@
     {
       "Date": "2025-09-11",
       "Open": 5.119999885559082,
-      "High": 5.243599891662598,
+      "High": 5.25,
       "Low": 5.119999885559082,
-      "Close": 5.243599891662598,
-      "Volume": 6703.0
+      "Close": 5.199999809265137,
+      "Volume": 14871.0
     }
   ]
 }

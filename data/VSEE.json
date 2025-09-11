@@ -1,20 +1,20 @@
 {
   "ticker": "VSEE",
   "indicators": {
-    "score_0_100": 68.97,
-    "score_0_10": 6.9,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.010936976357819095,
-    "macd_slope": 0.0035644476599883293,
-    "rsi": 30.16453425024811,
-    "rsi_slope": -0.23099272046404756,
-    "wave_strength": 0.9397869613653413,
-    "adx": 35.61470030513486,
-    "atr": 0.08036678056186568,
-    "obv_slope": -24803.071428571428,
+    "score_0_100": 70.22,
+    "score_0_10": 7.02,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.012506892729581748,
+    "macd_slope": 0.003676584545434219,
+    "rsi": 33.258431367977906,
+    "rsi_slope": -0.010000069197633568,
+    "wave_strength": 1.124567512338435,
+    "adx": 35.614700090936324,
+    "atr": 0.08036678054869277,
+    "obv_slope": -22092.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 83672.15,
-    "last_close": 0.696399986743927,
+    "avg_vol20": 84215.05,
+    "last_close": 0.7210000157356262,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 0.7400000095367432,
       "High": 0.7426000237464905,
       "Low": 0.6951000094413757,
-      "Close": 0.7161999940872192,
-      "Volume": 16011
+      "Close": 0.7210000157356262,
+      "Volume": 24401
     }
   ]
 }

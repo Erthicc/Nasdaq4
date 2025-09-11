@@ -1,20 +1,20 @@
 {
   "ticker": "DOYU",
   "indicators": {
-    "score_0_100": 68.0,
-    "score_0_10": 6.8,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.011602116089542175,
-    "macd_slope": -0.0010992505332351515,
-    "rsi": 49.62962113066636,
-    "rsi_slope": -0.38953979284461376,
-    "wave_strength": 1.0095670226481532,
-    "adx": 15.944629971710068,
-    "atr": 0.45198433972592184,
-    "obv_slope": 1885.0,
+    "score_0_100": 71.16,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover",
+    "macd_hist": 0.006496707849820524,
+    "macd_slope": -0.0014639225496846757,
+    "rsi": 48.18840067012518,
+    "rsi_slope": -0.49248411145469767,
+    "wave_strength": 1.020151177256739,
+    "adx": 15.944629952848222,
+    "atr": 0.45198433973289404,
+    "obv_slope": -7227.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 80679.5,
-    "last_close": 8.109999656677246,
+    "avg_vol20": 85298.95,
+    "last_close": 8.029999732971191,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 8.1899995803833,
       "High": 8.1899995803833,
       "Low": 7.789999961853027,
-      "Close": 8.109999656677246,
-      "Volume": 19970
+      "Close": 8.029999732971191,
+      "Volume": 109979
     }
   ]
 }

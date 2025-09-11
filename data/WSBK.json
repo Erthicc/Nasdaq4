@@ -1,20 +1,20 @@
 {
   "ticker": "WSBK",
   "indicators": {
-    "score_0_100": 66.9,
-    "score_0_10": 6.69,
+    "score_0_100": 70.71,
+    "score_0_10": 7.07,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.005765991769571346,
-    "macd_slope": 0.0012560312071880938,
-    "rsi": 55.03357723237358,
-    "rsi_slope": 0.3905978957201732,
-    "wave_strength": 1.0078209692498248,
+    "macd_hist": 0.005127800524691143,
+    "macd_slope": 0.0012104461182680794,
+    "rsi": 54.12541440710352,
+    "rsi_slope": 0.3257291224865974,
+    "wave_strength": 1.0078743751464612,
     "adx": 37.35053587665915,
-    "atr": 0.1008525067889732,
-    "obv_slope": 1005.6428571428571,
+    "atr": 0.10228111091494976,
+    "obv_slope": 739.5714285714286,
     "mom14": 0.0,
-    "avg_vol20": 6081.05,
-    "last_close": 9.5,
+    "avg_vol20": 6267.3,
+    "last_close": 9.489999771118164,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -744,10 +744,10 @@
     {
       "Date": "2025-09-11",
       "Open": 9.5,
-      "High": 9.5,
-      "Low": 9.5,
-      "Close": 9.5,
-      "Volume": 1021.0
+      "High": 9.520000457763672,
+      "Low": 9.489999771118164,
+      "Close": 9.489999771118164,
+      "Volume": 4746.0
     }
   ]
 }

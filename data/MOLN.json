@@ -1,20 +1,20 @@
 {
   "ticker": "MOLN",
   "indicators": {
-    "score_0_100": 67.18,
-    "score_0_10": 6.72,
+    "score_0_100": 69.99,
+    "score_0_10": 7.0,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.007330118150386427,
-    "macd_slope": 0.0011277918814725253,
-    "rsi": 53.990611550300216,
-    "rsi_slope": 0.23761443206154048,
-    "wave_strength": 1.048617704244159,
-    "adx": 32.31822547256635,
-    "atr": 0.20080460437012,
-    "obv_slope": -37.57142857142857,
+    "macd_hist": 0.009244646199679813,
+    "macd_slope": 0.001264543893259345,
+    "rsi": 54.76190520777291,
+    "rsi_slope": 0.2927068361667331,
+    "wave_strength": 1.048189464370625,
+    "adx": 32.31822576202779,
+    "atr": 0.20080460439294123,
+    "obv_slope": -59.714285714285715,
     "mom14": 0.0,
-    "avg_vol20": 5161.3,
-    "last_close": 3.7200000286102295,
+    "avg_vol20": 5176.8,
+    "last_close": 3.75,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-11",
       "Open": 3.7100000381469727,
-      "High": 3.7200000286102295,
+      "High": 3.75,
       "Low": 3.7100000381469727,
-      "Close": 3.7200000286102295,
-      "Volume": 1226
+      "Close": 3.75,
+      "Volume": 1536
     }
   ]
 }

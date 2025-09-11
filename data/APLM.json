@@ -1,20 +1,20 @@
 {
   "ticker": "APLM",
   "indicators": {
-    "score_0_100": 67.73,
-    "score_0_10": 6.77,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.1330309709807416,
-    "macd_slope": 0.008063235694707394,
-    "rsi": 50.69613556244204,
-    "rsi_slope": -0.2733205339005167,
-    "wave_strength": 1.1276175334008003,
-    "adx": 14.346915460004945,
-    "atr": 0.6270981423286706,
-    "obv_slope": -1431.9285714285713,
+    "score_0_100": 69.96,
+    "score_0_10": 7.0,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.14196543534917655,
+    "macd_slope": 0.008701411730561758,
+    "rsi": 51.90773280549762,
+    "rsi_slope": -0.18677787368226056,
+    "wave_strength": 0.9970071656984059,
+    "adx": 14.346915360336848,
+    "atr": 0.6270981423875022,
+    "obv_slope": 1671.5,
     "mom14": 0.0,
-    "avg_vol20": 35862.35,
-    "last_close": 6.130000114440918,
+    "avg_vol20": 36150.05,
+    "last_close": 6.269999980926514,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 6.260000228881836,
       "High": 6.400000095367432,
       "Low": 5.96999979019165,
-      "Close": 6.130000114440918,
-      "Volume": 18852
+      "Close": 6.269999980926514,
+      "Volume": 24601
     }
   ]
 }

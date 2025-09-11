@@ -1,8 +1,8 @@
 {
   "ticker": "RIBBU",
   "indicators": {
-    "score_0_100": 95.74,
-    "score_0_10": 9.57,
+    "score_0_100": 96.16,
+    "score_0_10": 9.62,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.0013110770193383936,
     "macd_slope": 0.00014064374397032694,

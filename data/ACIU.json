@@ -1,20 +1,20 @@
 {
   "ticker": "ACIU",
   "indicators": {
-    "score_0_100": 67.86,
-    "score_0_10": 6.79,
+    "score_0_100": 70.68,
+    "score_0_10": 7.07,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.026966223478827045,
-    "macd_slope": 0.0031898122651827098,
-    "rsi": 63.636358357786904,
-    "rsi_slope": 1.0298291029233073,
-    "wave_strength": 1.1098266275779272,
-    "adx": 31.191190638063087,
-    "atr": 0.13896940544749908,
-    "obv_slope": 48290.5,
+    "macd_hist": 0.02760441473052723,
+    "macd_slope": 0.003235397353159234,
+    "rsi": 64.2857237938151,
+    "rsi_slope": 1.0762123483538926,
+    "wave_strength": 1.1095700737135015,
+    "adx": 31.283640332521795,
+    "atr": 0.14039797552111286,
+    "obv_slope": 40189.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 121731.65,
-    "last_close": 2.369999885559082,
+    "avg_vol20": 127402.5,
+    "last_close": 2.380000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-11",
       "Open": 2.380000114440918,
-      "High": 2.39490008354187,
+      "High": 2.4200000762939453,
       "Low": 2.3036999702453613,
-      "Close": 2.365000009536743,
-      "Volume": 59279
+      "Close": 2.380000114440918,
+      "Volume": 170650
     }
   ]
 }

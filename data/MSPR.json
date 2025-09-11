@@ -1,20 +1,20 @@
 {
   "ticker": "MSPR",
   "indicators": {
-    "score_0_100": 69.31,
-    "score_0_10": 6.93,
+    "score_0_100": 72.53,
+    "score_0_10": 7.25,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.003391444179162706,
-    "macd_slope": 0.01056407444978587,
-    "rsi": 30.1033577429412,
-    "rsi_slope": 1.6557338063461395,
-    "wave_strength": 0.6629872238472584,
-    "adx": 35.7789583880545,
-    "atr": 0.5677588891249172,
-    "obv_slope": 271676.14285714284,
+    "macd_hist": 0.0014769167666929262,
+    "macd_slope": 0.010427322349881363,
+    "rsi": 29.871793651629133,
+    "rsi_slope": 1.6391935141095633,
+    "wave_strength": 0.6633272576601573,
+    "adx": 35.778961282965824,
+    "atr": 0.5677588897520076,
+    "obv_slope": 264102.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 462359.55,
-    "last_close": 1.75,
+    "avg_vol20": 470741.05,
+    "last_close": 1.7200000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 2.200000047683716,
       "Low": 1.7899999618530273,
       "Close": 1.940000057220459,
-      "Volume": 831400
+      "Volume": 862200
     },
     {
       "Date": "2025-09-11",
       "Open": 1.75,
-      "High": 1.7699999809265137,
+      "High": 1.809999942779541,
       "Low": 1.6100000143051147,
-      "Close": 1.75,
-      "Volume": 118084
+      "Close": 1.7200000286102295,
+      "Volume": 252306
     }
   ]
 }

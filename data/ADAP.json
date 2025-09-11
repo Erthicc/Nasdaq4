@@ -1,20 +1,20 @@
 {
   "ticker": "ADAP",
   "indicators": {
-    "score_0_100": 68.54,
-    "score_0_10": 6.85,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.00520193747348412,
-    "macd_slope": 0.00022768918280398416,
-    "rsi": 44.2567466095221,
-    "rsi_slope": 0.3323422175571546,
-    "wave_strength": 1.2071378374463504,
-    "adx": 28.88603467892906,
-    "atr": 0.011238713284509773,
-    "obv_slope": 6044507.0,
+    "score_0_100": 70.11,
+    "score_0_10": 7.01,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.0050934475134506475,
+    "macd_slope": 0.00021993989930861477,
+    "rsi": 42.7350331609846,
+    "rsi_slope": 0.22364839980447623,
+    "wave_strength": 0.8935610930039012,
+    "adx": 28.88603494970012,
+    "atr": 0.011317284714040659,
+    "obv_slope": 4666190.142857143,
     "mom14": 0.0,
-    "avg_vol20": 59652869.9,
-    "last_close": 0.05220000073313713,
+    "avg_vol20": 60155591.9,
+    "last_close": 0.05050000175833702,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 0.052000001072883606,
       "Low": 0.04800000041723251,
       "Close": 0.050999999046325684,
-      "Volume": 22257900
+      "Volume": 22978000
     },
     {
       "Date": "2025-09-11",
       "Open": 0.052000001072883606,
       "High": 0.05290000140666962,
-      "Low": 0.050200000405311584,
-      "Close": 0.05130000039935112,
-      "Volume": 5512837
+      "Low": 0.04910000041127205,
+      "Close": 0.05050000175833702,
+      "Volume": 14675438
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ticker": "TENX",
   "indicators": {
-    "score_0_100": 68.43,
-    "score_0_10": 6.84,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.01121375656585143,
-    "macd_slope": 0.0014003874655976517,
-    "rsi": 50.847476968015954,
-    "rsi_slope": 1.0649976626262847,
-    "wave_strength": 1.0214470356019008,
-    "adx": 19.17471318412302,
-    "atr": 0.15588433451136033,
-    "obv_slope": -16347.5,
+    "score_0_100": 72.75,
+    "score_0_10": 7.27,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.01695732561229232,
+    "macd_slope": 0.0018106423983923555,
+    "rsi": 59.259257722906675,
+    "rsi_slope": 1.665839145118479,
+    "wave_strength": 1.0073382264916555,
+    "adx": 19.174713178318033,
+    "atr": 0.15588433450913558,
+    "obv_slope": -11710.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 35813.25,
-    "last_close": 6.050000190734863,
+    "avg_vol20": 36202.85,
+    "last_close": 6.139999866485596,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -3538,8 +3538,8 @@
       "Open": 6.139699935913086,
       "High": 6.150000095367432,
       "Low": 6.010000228881836,
-      "Close": 6.050000190734863,
-      "Volume": 28574
+      "Close": 6.139999866485596,
+      "Volume": 36357
     }
   ]
 }

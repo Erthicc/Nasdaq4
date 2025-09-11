@@ -1,22 +1,22 @@
 {
   "ticker": "TSLA",
   "indicators": {
-    "score_0_100": 68.76,
-    "score_0_10": 6.88,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.43299667444486545,
-    "macd_slope": 0.00918457184390542,
-    "rsi": 64.05789604949658,
-    "rsi_slope": 0.21869234506185212,
-    "wave_strength": 1.0355815015115428,
-    "adx": 15.250743127320884,
-    "atr": 11.99260979210089,
-    "obv_slope": 16972064.285714287,
+    "score_0_100": 72.1,
+    "score_0_10": 7.21,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 1.7264450174518355,
+    "macd_slope": 0.1599347294755074,
+    "rsi": 73.8258205896554,
+    "rsi_slope": 0.799959424810222,
+    "wave_strength": 1.0311029520510278,
+    "adx": 16.893170238525208,
+    "atr": 12.663850815099261,
+    "obv_slope": 28277753.57142857,
     "mom14": 0.0,
-    "avg_vol20": 73649395.0,
-    "last_close": 347.7900085449219,
+    "avg_vol20": 75384212.5,
+    "last_close": 368.80999755859375,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -3531,15 +3531,15 @@
       "High": 356.3299865722656,
       "Low": 346.07000732421875,
       "Close": 347.7900085449219,
-      "Volume": 71933500
+      "Volume": 72121700
     },
     {
       "Date": "2025-09-11",
       "Open": 350.2200012207031,
-      "High": 362.8800964355469,
+      "High": 368.989990234375,
       "Low": 347.6000061035156,
-      "Close": 362.7799987792969,
-      "Volume": 40866641
+      "Close": 368.80999755859375,
+      "Volume": 102347050
     }
   ]
 }

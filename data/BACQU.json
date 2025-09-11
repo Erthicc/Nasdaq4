@@ -1,8 +1,8 @@
 {
   "ticker": "BACQU",
   "indicators": {
-    "score_0_100": 68.7,
-    "score_0_10": 6.87,
+    "score_0_100": 71.81,
+    "score_0_10": 7.18,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.004209324178197471,
     "macd_slope": -0.0016634427591485812,

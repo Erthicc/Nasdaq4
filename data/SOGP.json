@@ -1,20 +1,20 @@
 {
   "ticker": "SOGP",
   "indicators": {
-    "score_0_100": 66.08,
-    "score_0_10": 6.61,
+    "score_0_100": 68.88,
+    "score_0_10": 6.89,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.9092437065277075,
-    "macd_slope": 0.08044740790332686,
-    "rsi": 65.47275374211668,
-    "rsi_slope": 2.666360061270864,
-    "wave_strength": 1.9718938515034214,
-    "adx": 47.36472848251218,
-    "atr": 4.75166063518472,
-    "obv_slope": 9944246.0,
+    "macd_hist": 0.9520015461504236,
+    "macd_slope": 0.08350153930579188,
+    "rsi": 65.86102589819578,
+    "rsi_slope": 2.694093786705085,
+    "wave_strength": 1.9669942815863168,
+    "adx": 47.3647284550923,
+    "atr": 4.751660635170633,
+    "obv_slope": 9955562.5,
     "mom14": 0.0,
-    "avg_vol20": 8731127.2,
-    "last_close": 21.520000457763672,
+    "avg_vol20": 8739788.75,
+    "last_close": 22.190000534057617,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 26.399999618530273,
       "Low": 17.25,
       "Close": 19.389999389648438,
-      "Volume": 735000
+      "Volume": 742400
     },
     {
       "Date": "2025-09-11",
       "Open": 19.0,
       "High": 22.83609962463379,
       "Low": 19.0,
-      "Close": 21.318899154663086,
-      "Volume": 298084
+      "Close": 22.190000534057617,
+      "Volume": 461275
     }
   ]
 }

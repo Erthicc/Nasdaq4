@@ -1,20 +1,20 @@
 {
   "ticker": "VOLT",
   "indicators": {
-    "score_0_100": 66.62,
-    "score_0_10": 6.66,
+    "score_0_100": 69.95,
+    "score_0_10": 7.0,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.013520806922195205,
-    "macd_slope": 0.009608850305567454,
-    "rsi": 64.70999828393448,
-    "rsi_slope": 0.8647019531596923,
-    "wave_strength": 0.9950868516905942,
+    "macd_hist": 0.013393241706741943,
+    "macd_slope": 0.00959973850446365,
+    "rsi": 64.68533348975004,
+    "rsi_slope": 0.8629401821465176,
+    "wave_strength": 0.9950904954959696,
     "adx": 29.65127435008467,
     "atr": 0.4603257007119295,
-    "obv_slope": -7481.571428571428,
+    "obv_slope": -5738.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 32507.9,
-    "last_close": 27.95199966430664,
+    "avg_vol20": 33728.15,
+    "last_close": 27.950000762939453,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1546,8 +1546,8 @@
       "Open": 28.020000457763672,
       "High": 28.030000686645508,
       "Low": 27.7549991607666,
-      "Close": 27.95199966430664,
-      "Volume": 10060.0
+      "Close": 27.950000762939453,
+      "Volume": 34463.0
     }
   ]
 }

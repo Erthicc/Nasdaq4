@@ -1,20 +1,20 @@
 {
   "ticker": "VECO",
   "indicators": {
-    "score_0_100": 65.99,
-    "score_0_10": 6.6,
+    "score_0_100": 69.74,
+    "score_0_10": 6.97,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.011589772024539702,
-    "macd_slope": -0.00785257998546625,
-    "rsi": 62.69956558394859,
-    "rsi_slope": -0.6703428347716753,
-    "wave_strength": 1.0185014806897825,
-    "adx": 13.886004773795678,
-    "atr": 0.8322065438054178,
-    "obv_slope": 30905.0,
+    "macd_hist": 0.0039315988486638975,
+    "macd_slope": -0.008399592363596473,
+    "rsi": 62.03840097791396,
+    "rsi_slope": -0.7175688780598632,
+    "wave_strength": 1.0187514061201752,
+    "adx": 13.886004731733466,
+    "atr": 0.8322065437746644,
+    "obv_slope": 68975.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 867153.5,
-    "last_close": 25.75,
+    "avg_vol20": 893803.15,
+    "last_close": 25.6299991607666,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 25.270000457763672,
       "High": 25.959999084472656,
       "Low": 25.270000457763672,
-      "Close": 25.81999969482422,
-      "Volume": 226524
+      "Close": 25.6299991607666,
+      "Volume": 755663
     }
   ]
 }

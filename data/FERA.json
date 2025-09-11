@@ -1,8 +1,8 @@
 {
   "ticker": "FERA",
   "indicators": {
-    "score_0_100": 68.46,
-    "score_0_10": 6.85,
+    "score_0_100": 71.59,
+    "score_0_10": 7.16,
     "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
     "macd_hist": 0.0013684321885811413,
     "macd_slope": 0.00026030437914944285,

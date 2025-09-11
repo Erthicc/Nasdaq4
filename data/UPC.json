@@ -1,20 +1,20 @@
 {
   "ticker": "UPC",
   "indicators": {
-    "score_0_100": 69.57,
-    "score_0_10": 6.96,
+    "score_0_100": 71.64,
+    "score_0_10": 7.16,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.04982046807081492,
-    "macd_slope": 0.004448071202999043,
-    "rsi": 65.4867228226705,
-    "rsi_slope": 1.1646657706710373,
-    "wave_strength": 1.1011245252696324,
-    "adx": 63.844613363677205,
-    "atr": 0.5064112960755557,
-    "obv_slope": 91875.57142857143,
+    "macd_hist": 0.055564044154043375,
+    "macd_slope": 0.0048583283542730565,
+    "rsi": 67.12328339044078,
+    "rsi_slope": 1.2815629540831996,
+    "wave_strength": 1.0997621795724903,
+    "adx": 63.8446320152509,
+    "atr": 0.508554159283728,
+    "obv_slope": 92516.71428571429,
     "mom14": 0.0,
-    "avg_vol20": 98122.9,
-    "last_close": 3.990000009536743,
+    "avg_vol20": 98651.7,
+    "last_close": 4.079999923706055,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 4.489999771118164,
       "Low": 3.799999952316284,
       "Close": 3.8399999141693115,
-      "Volume": 86200
+      "Volume": 87000
     },
     {
       "Date": "2025-09-11",
       "Open": 3.890000104904175,
-      "High": 4.139999866485596,
+      "High": 4.170000076293945,
       "Low": 3.890000104904175,
-      "Close": 3.990000009536743,
-      "Volume": 26158
+      "Close": 4.079999923706055,
+      "Volume": 35934
     }
   ]
 }

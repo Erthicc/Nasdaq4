@@ -1,20 +1,20 @@
 {
   "ticker": "MSDD",
   "indicators": {
-    "score_0_100": 66.42,
-    "score_0_10": 6.64,
+    "score_0_100": 69.59,
+    "score_0_10": 6.96,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0773719943593496,
-    "macd_slope": -0.05116151415820068,
-    "rsi": 52.90243555875222,
-    "rsi_slope": -0.36247921845791203,
-    "wave_strength": 1.0725975606372726,
+    "macd_hist": 0.0829943581970487,
+    "macd_slope": -0.05075991674122217,
+    "rsi": 53.176925415771294,
+    "rsi_slope": -0.3428728000994065,
+    "wave_strength": 1.073440431999104,
     "adx": 18.531249132298047,
     "atr": 1.7499073496810664,
-    "obv_slope": 2959.9285714285716,
+    "obv_slope": 3785.5,
     "mom14": 0.0,
-    "avg_vol20": 8173.05,
-    "last_close": 29.573200225830078,
+    "avg_vol20": 8204.85,
+    "last_close": 29.661300659179688,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -538,8 +538,8 @@
       "Open": 29.948999404907227,
       "High": 30.09000015258789,
       "Low": 29.573200225830078,
-      "Close": 29.573200225830078,
-      "Volume": 5461.0
+      "Close": 29.661300659179688,
+      "Volume": 6097.0
     }
   ]
 }

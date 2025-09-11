@@ -1,20 +1,20 @@
 {
   "ticker": "UGRO",
   "indicators": {
-    "score_0_100": 65.95,
-    "score_0_10": 6.6,
+    "score_0_100": 70.21,
+    "score_0_10": 7.02,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.021413562255669413,
-    "macd_slope": 0.0019098819665997098,
-    "rsi": 73.42252651126552,
-    "rsi_slope": 1.5754577621761432,
-    "wave_strength": 1.3164132705879246,
-    "adx": 37.61264357260593,
-    "atr": 0.0847601786669835,
-    "obv_slope": 18083266.57142857,
+    "macd_hist": 0.01844604296046172,
+    "macd_slope": 0.0016979163020204666,
+    "rsi": 70.98302465661995,
+    "rsi_slope": 1.4012076297014597,
+    "wave_strength": 1.3231969460513269,
+    "adx": 37.612643549597806,
+    "atr": 0.08476017866239996,
+    "obv_slope": 18105312.57142857,
     "mom14": 0.0,
-    "avg_vol20": 14819946.6,
-    "last_close": 0.6690999865531921,
+    "avg_vol20": 14835378.8,
+    "last_close": 0.6226000189781189,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 0.625,
       "Low": 0.5239999890327454,
       "Close": 0.597000002861023,
-      "Volume": 761700
+      "Volume": 768400
     },
     {
       "Date": "2025-09-11",
       "Open": 0.5990999937057495,
       "High": 0.6700000166893005,
       "Low": 0.5800999999046326,
-      "Close": 0.6611999869346619,
-      "Volume": 237546
+      "Close": 0.6226000189781189,
+      "Volume": 531176
     }
   ]
 }

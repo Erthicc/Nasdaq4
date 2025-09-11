@@ -1,20 +1,20 @@
 {
   "ticker": "ABTC",
   "indicators": {
-    "score_0_100": 66.23,
-    "score_0_10": 6.62,
+    "score_0_100": 69.49,
+    "score_0_10": 6.95,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.16794714073968686,
-    "macd_slope": 0.016740200631163663,
-    "rsi": 59.10750926476774,
-    "rsi_slope": 0.08235479975179061,
-    "wave_strength": 1.3032426170713804,
-    "adx": 42.81392323554938,
-    "atr": 1.3347351192543868,
-    "obv_slope": 2611875.5,
+    "macd_hist": 0.16638994436058752,
+    "macd_slope": 0.016628972319165693,
+    "rsi": 58.99613744528674,
+    "rsi_slope": 0.074399669788862,
+    "wave_strength": 1.3034652285271366,
+    "adx": 42.59798524182009,
+    "atr": 1.3493779709565543,
+    "obv_slope": 2275766.9285714286,
     "mom14": 0.0,
-    "avg_vol20": 6657023.15,
-    "last_close": 8.304400444030762,
+    "avg_vol20": 6892299.15,
+    "last_close": 8.279999732971191,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3531,15 +3531,15 @@
       "High": 10.239999771118164,
       "Low": 8.649999618530273,
       "Close": 8.869999885559082,
-      "Volume": 12894200
+      "Volume": 13026500
     },
     {
       "Date": "2025-09-11",
       "Open": 8.9399995803833,
       "High": 8.949999809265137,
-      "Low": 8.100000381469727,
-      "Close": 8.130000114440918,
-      "Volume": 4347377
+      "Low": 8.0,
+      "Close": 8.279999732971191,
+      "Volume": 8572463
     }
   ]
 }

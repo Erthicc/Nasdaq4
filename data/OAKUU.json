@@ -1,15 +1,15 @@
 {
   "ticker": "OAKUU",
   "indicators": {
-    "score_0_100": 66.71,
-    "score_0_10": 6.67,
+    "score_0_100": 70.02,
+    "score_0_10": 7.0,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.0032081110517134005,
     "macd_slope": 0.0003455214191634405,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 99.72022653633532,
+    "adx": 99.72022654665939,
     "atr": 0.0009094775641586064,
     "obv_slope": 0.0,
     "mom14": 0.0,

@@ -1,20 +1,20 @@
 {
   "ticker": "PMCB",
   "indicators": {
-    "score_0_100": 65.6,
-    "score_0_10": 6.56,
+    "score_0_100": 69.21,
+    "score_0_10": 6.92,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.012105592868455242,
-    "macd_slope": -1.7022106297117034e-05,
-    "rsi": 56.69362282492477,
-    "rsi_slope": 0.7371969178023104,
-    "wave_strength": 1.1538618565769538,
-    "adx": 29.121036712805893,
-    "atr": 0.0923637279289602,
-    "obv_slope": 16794.285714285714,
+    "macd_hist": 0.011818411374369371,
+    "macd_slope": -3.7535070478305855e-05,
+    "rsi": 56.34057916148415,
+    "rsi_slope": 0.7119795132708374,
+    "wave_strength": 1.1541270205634881,
+    "adx": 29.121036698165433,
+    "atr": 0.0948994457490506,
+    "obv_slope": 20327.0,
     "mom14": 0.0,
-    "avg_vol20": 149496.0,
-    "last_close": 1.034500002861023,
+    "avg_vol20": 151968.9,
+    "last_close": 1.0299999713897705,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-11",
       "Open": 1.0299999713897705,
-      "High": 1.034500002861023,
+      "High": 1.0700000524520874,
       "Low": 1.0,
-      "Close": 1.034500002861023,
-      "Volume": 12720
+      "Close": 1.0299999713897705,
+      "Volume": 62178
     }
   ]
 }

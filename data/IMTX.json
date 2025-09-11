@@ -1,20 +1,20 @@
 {
   "ticker": "IMTX",
   "indicators": {
-    "score_0_100": 65.86,
-    "score_0_10": 6.59,
+    "score_0_100": 69.51,
+    "score_0_10": 6.95,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0639527847841158,
-    "macd_slope": 0.012798047221625392,
-    "rsi": 55.71427959689239,
-    "rsi_slope": 1.5712715730011884,
-    "wave_strength": 1.1037644736030552,
-    "adx": 20.58661520376393,
-    "atr": 0.3421131022149693,
-    "obv_slope": 276750.0714285714,
+    "macd_hist": 0.06203827194559296,
+    "macd_slope": 0.012661296297275927,
+    "rsi": 55.234655206906574,
+    "rsi_slope": 1.5370126880022015,
+    "wave_strength": 1.1040564721859836,
+    "adx": 20.586615504119116,
+    "atr": 0.34354167228197774,
+    "obv_slope": 295006.5,
     "mom14": 0.0,
-    "avg_vol20": 833640.05,
-    "last_close": 5.949999809265137,
+    "avg_vol20": 846419.55,
+    "last_close": 5.920000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-11",
       "Open": 5.789999961853027,
-      "High": 5.980000019073486,
+      "High": 6.0,
       "Low": 5.789999961853027,
       "Close": 5.920000076293945,
-      "Volume": 65079
+      "Volume": 316191
     }
   ]
 }

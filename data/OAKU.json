@@ -1,19 +1,19 @@
 {
   "ticker": "OAKU",
   "indicators": {
-    "score_0_100": 99.44,
-    "score_0_10": 9.94,
+    "score_0_100": 99.49,
+    "score_0_10": 9.95,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.0007433985532079006,
-    "macd_slope": 0.00014865156949314017,
+    "macd_hist": 0.0007433985536185522,
+    "macd_slope": 0.00014865156943684397,
     "rsi": 0.0,
     "rsi_slope": -4.591832800030756,
     "wave_strength": 1.010312755389571,
-    "adx": 15.50514019220614,
-    "atr": 0.007839480508369589,
-    "obv_slope": -7.428571428571429,
+    "adx": 15.505140186829587,
+    "atr": 0.007839480507851198,
+    "obv_slope": -7.142857142857143,
     "mom14": 0.0,
-    "avg_vol20": 415.2,
+    "avg_vol20": 415.0,
     "last_close": 11.789999961853027,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3531,7 +3531,7 @@
       "High": 11.789999961853027,
       "Low": 11.789999961853027,
       "Close": 11.789999961853027,
-      "Volume": 104.0
+      "Volume": 100.0
     }
   ]
 }

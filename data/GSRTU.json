@@ -1,8 +1,8 @@
 {
   "ticker": "GSRTU",
   "indicators": {
-    "score_0_100": 69.73,
-    "score_0_10": 6.97,
+    "score_0_100": 72.74,
+    "score_0_10": 7.27,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.04538273444382568,
     "macd_slope": -0.018126631703540445,

@@ -1,8 +1,8 @@
 {
   "ticker": "CHACU",
   "indicators": {
-    "score_0_100": 94.11,
-    "score_0_10": 9.41,
+    "score_0_100": 94.69,
+    "score_0_10": 9.47,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0014348084332690804,
     "macd_slope": 0.0002565861279690787,

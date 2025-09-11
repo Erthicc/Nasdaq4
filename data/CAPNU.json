@@ -1,8 +1,8 @@
 {
   "ticker": "CAPNU",
   "indicators": {
-    "score_0_100": 92.28,
-    "score_0_10": 9.23,
+    "score_0_100": 93.04,
+    "score_0_10": 9.3,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
     "macd_hist": 0.00041648868313264443,
     "macd_slope": -0.00012214463076725546,

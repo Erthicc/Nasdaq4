@@ -1,20 +1,20 @@
 {
   "ticker": "WNW",
   "indicators": {
-    "score_0_100": 65.7,
-    "score_0_10": 6.57,
+    "score_0_100": 69.76,
+    "score_0_10": 6.98,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0879208331086554,
-    "macd_slope": 0.006706889275614174,
-    "rsi": 68.80985189282902,
-    "rsi_slope": 1.7891053436911781,
-    "wave_strength": 1.4913703243113736,
-    "adx": 31.355723999995718,
-    "atr": 0.29514652234888356,
-    "obv_slope": 102182.92857142857,
+    "macd_hist": 0.08281542490851176,
+    "macd_slope": 0.006342217253688162,
+    "rsi": 67.6289669075744,
+    "rsi_slope": 1.704756416172991,
+    "wave_strength": 1.4945499611350648,
+    "adx": 31.35572383545806,
+    "atr": 0.2951465225695552,
+    "obv_slope": 104077.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 96543.05,
-    "last_close": 2.5399999618530273,
+    "avg_vol20": 97868.95,
+    "last_close": 2.4600000381469727,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 2.259999990463257,
       "High": 2.6700000762939453,
       "Low": 2.259999990463257,
-      "Close": 2.5292000770568848,
-      "Volume": 59186
+      "Close": 2.4600000381469727,
+      "Volume": 83479
     }
   ]
 }
