@@ -1,23 +1,23 @@
 {
   "ticker": "GIG",
   "indicators": {
-    "score_0_100": 91.59,
-    "score_0_10": 9.16,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; volume spike; rising OBV",
+    "score_0_100": 71.99,
+    "score_0_10": 7.2,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
     "macd_hist": 0.0017008217062913188,
     "macd_slope": 0.00019088225378880363,
-    "rsi": 0.0,
+    "rsi": 58.06465187361094,
     "rsi_slope": 0.17921337304733598,
     "wave_strength": 0.9999083931211823,
     "adx": 43.39102119628436,
     "atr": 0.01210473777943081,
-    "obv_slope": 2142.3571428571427,
+    "obv_slope": -92.64285714285714,
     "mom14": 0.0,
-    "avg_vol20": 2714.65,
+    "avg_vol20": 1150.15,
     "last_close": 10.390000343322754,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
@@ -2017,9 +2017,9 @@
       "Date": "2025-09-10",
       "Open": 10.390000343322754,
       "High": 10.390000343322754,
-      "Low": 10.389900207519531,
+      "Low": 10.390000343322754,
       "Close": 10.390000343322754,
-      "Volume": 31293.0
+      "Volume": 3.0
     }
   ]
 }

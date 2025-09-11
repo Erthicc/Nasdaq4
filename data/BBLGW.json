@@ -1,19 +1,19 @@
 {
   "ticker": "BBLGW",
   "indicators": {
-    "score_0_100": 86.88,
-    "score_0_10": 8.69,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold",
-    "macd_hist": 0.12987180236052231,
-    "macd_slope": 0.042081511904621706,
-    "rsi": 1.0,
+    "score_0_100": 98.7,
+    "score_0_10": 9.87,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.13850957774587436,
+    "macd_slope": 0.038604792336730094,
+    "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 82.27824257630064,
-    "atr": 0.11983609361972261,
+    "adx": 83.33681595016957,
+    "atr": 0.11127637264688528,
     "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 25.0,
+    "avg_vol20": 0.0,
     "last_close": 10.789999961853027,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 0.8889999985694885,
-      "High": 0.8889999985694885,
-      "Low": 0.8889999985694885,
-      "Close": 0.8889999985694885,
-      "Volume": 0.0
-    },
     {
       "Date": "2023-12-08",
       "Open": 0.8889999985694885,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-09-09",
+      "Open": 10.789999961853027,
+      "High": 10.789999961853027,
+      "Low": 10.789999961853027,
+      "Close": 10.789999961853027,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-10",
       "Open": 10.789999961853027,
       "High": 10.789999961853027,
       "Low": 10.789999961853027,

@@ -1,34 +1,26 @@
 {
   "ticker": "TENX",
   "indicators": {
-    "score_0_100": 89.61,
-    "score_0_10": 8.96,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike",
-    "macd_hist": 0.012013750751347793,
-    "macd_slope": 0.0018634137989569555,
-    "rsi": 0.0,
-    "rsi_slope": 2.4096867234056796,
-    "wave_strength": 1.0092739589090824,
-    "adx": 17.271441511723545,
-    "atr": 0.15708479305486625,
-    "obv_slope": -13646.642857142857,
+    "score_0_100": 68.43,
+    "score_0_10": 6.84,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.01121375656585143,
+    "macd_slope": 0.0014003874655976517,
+    "rsi": 50.847476968015954,
+    "rsi_slope": 1.0649976626262847,
+    "wave_strength": 1.0214470356019008,
+    "adx": 19.17471318412302,
+    "atr": 0.15588433451136033,
+    "obv_slope": -16347.5,
     "mom14": 0.0,
-    "avg_vol20": 34587.35,
-    "last_close": 6.119999885559082,
+    "avg_vol20": 35813.25,
+    "last_close": 6.050000190734863,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 25.600000381469727,
-      "High": 25.600000381469727,
-      "Low": 22.8799991607666,
-      "Close": 23.84000015258789,
-      "Volume": 17996
-    },
     {
       "Date": "2023-12-08",
       "Open": 22.959999084472656,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-10",
-      "Open": 6.008999824523926,
-      "High": 6.217700004577637,
+      "Open": 6.005000114440918,
+      "High": 6.2179999351501465,
       "Low": 6.0,
       "Close": 6.119999885559082,
-      "Volume": 118647
+      "Volume": 118600
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 6.139699935913086,
+      "High": 6.150000095367432,
+      "Low": 6.010000228881836,
+      "Close": 6.050000190734863,
+      "Volume": 28574
     }
   ]
 }

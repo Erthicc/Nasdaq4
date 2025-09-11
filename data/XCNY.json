@@ -1,23 +1,23 @@
 {
   "ticker": "XCNY",
   "indicators": {
-    "score_0_100": 86.73,
-    "score_0_10": 8.67,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; rising OBV",
-    "macd_hist": 0.03918127208909461,
-    "macd_slope": 0.0018661398465870988,
-    "rsi": 0.0,
-    "rsi_slope": -0.23872673460996094,
-    "wave_strength": 0.9998083689828916,
-    "adx": 12.725873087020895,
-    "atr": 0.16469187245408312,
-    "obv_slope": 388.0,
+    "score_0_100": 65.56,
+    "score_0_10": 6.56,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.03464382119522667,
+    "macd_slope": 0.0015420362113562794,
+    "rsi": 63.169115214088094,
+    "rsi_slope": -0.33518833350105126,
+    "wave_strength": 0.9999431226639494,
+    "adx": 12.356392839629367,
+    "atr": 0.15504899896222102,
+    "obv_slope": 274.2142857142857,
     "mom14": 0.0,
-    "avg_vol20": 791.6,
-    "last_close": 26.881099700927734,
+    "avg_vol20": 711.95,
+    "last_close": 26.809999465942383,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
@@ -2048,10 +2048,10 @@
     {
       "Date": "2025-09-10",
       "Open": 26.93000030517578,
-      "High": 26.94499969482422,
+      "High": 26.809999465942383,
       "Low": 26.809999465942383,
-      "Close": 26.881099700927734,
-      "Volume": 1632.0
+      "Close": 26.809999465942383,
+      "Volume": 39.0
     }
   ]
 }
