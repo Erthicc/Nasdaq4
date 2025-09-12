@@ -1,34 +1,26 @@
 {
   "ticker": "DBGI",
   "indicators": {
-    "score_0_100": 69.17,
-    "score_0_10": 6.92,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.1695417868612167,
-    "macd_slope": 0.011951773382029683,
-    "rsi": 64.8993897224461,
-    "rsi_slope": 1.7363436592275678,
-    "wave_strength": 1.0245826733685246,
-    "adx": 16.27396457855259,
-    "atr": 1.6451048172297145,
-    "obv_slope": 10698.857142857143,
+    "score_0_100": 71.69,
+    "score_0_10": 7.17,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
+    "macd_hist": 0.17312441253297312,
+    "macd_slope": 0.005259886980472187,
+    "rsi": 47.60721360767424,
+    "rsi_slope": -0.4177698139145945,
+    "wave_strength": 1.1813202438805397,
+    "adx": 17.268543135002457,
+    "atr": 1.6522824523882598,
+    "obv_slope": -5298.571428571428,
     "mom14": 0.0,
-    "avg_vol20": 113704.2,
-    "last_close": 11.420000076293945,
+    "avg_vol20": 118104.0,
+    "last_close": 10.3100004196167,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 237.5,
-      "High": 237.8000030517578,
-      "Low": 212.5,
-      "Close": 222.64999389648438,
-      "Volume": 1720
-    },
     {
       "Date": "2023-12-11",
       "Open": 222.5,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-11",
       "Open": 10.25,
       "High": 11.800000190734863,
-      "Low": 9.520099639892578,
+      "Low": 9.520000457763672,
       "Close": 11.420000076293945,
-      "Volume": 141984
+      "Volume": 142000
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 11.479999542236328,
+      "High": 11.670000076293945,
+      "Low": 9.924500465393066,
+      "Close": 10.3100004196167,
+      "Volume": 122980
     }
   ]
 }

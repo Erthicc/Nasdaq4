@@ -1,34 +1,26 @@
 {
   "ticker": "MSPR",
   "indicators": {
-    "score_0_100": 72.53,
-    "score_0_10": 7.25,
+    "score_0_100": 71.03,
+    "score_0_10": 7.1,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0014769167666929262,
-    "macd_slope": 0.010427322349881363,
-    "rsi": 29.871793651629133,
-    "rsi_slope": 1.6391935141095633,
-    "wave_strength": 0.6633272576601573,
-    "adx": 35.778961282965824,
-    "atr": 0.5677588897520076,
-    "obv_slope": 264102.5714285714,
+    "macd_hist": 0.010513075359738,
+    "macd_slope": 0.009899516607044643,
+    "rsi": 31.81694978300554,
+    "rsi_slope": 1.7733321645392681,
+    "wave_strength": 0.6925727137619941,
+    "adx": 35.2346919781421,
+    "atr": 0.5322046776630293,
+    "obv_slope": 272199.28571428574,
     "mom14": 0.0,
-    "avg_vol20": 470741.05,
-    "last_close": 1.7200000286102295,
+    "avg_vol20": 471435.25,
+    "last_close": 1.7300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 556.5,
-      "High": 577.5,
-      "Low": 509.25,
-      "Close": 512.75,
-      "Volume": 2430
-    },
     {
       "Date": "2023-12-11",
       "Open": 521.5,
@@ -3539,7 +3531,15 @@
       "High": 1.809999942779541,
       "Low": 1.6100000143051147,
       "Close": 1.7200000286102295,
-      "Volume": 252306
+      "Volume": 257500
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 1.7300000190734863,
+      "High": 1.7899999618530273,
+      "Low": 1.7201000452041626,
+      "Close": 1.7300000190734863,
+      "Volume": 55619
     }
   ]
 }

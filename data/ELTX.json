@@ -1,34 +1,26 @@
 {
   "ticker": "ELTX",
   "indicators": {
-    "score_0_100": 71.13,
-    "score_0_10": 7.11,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.042241251082134945,
-    "macd_slope": -0.009209590185333572,
-    "rsi": 51.87969529214544,
-    "rsi_slope": -0.7160768688853594,
-    "wave_strength": 1.0700821892096695,
-    "adx": 29.45821475692057,
-    "atr": 0.6444359660042568,
-    "obv_slope": 13622.785714285714,
+    "score_0_100": 71.97,
+    "score_0_10": 7.2,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.025704815974684936,
+    "macd_slope": -0.011414962996532737,
+    "rsi": 45.94594089574572,
+    "rsi_slope": -1.3314745750902557,
+    "wave_strength": 1.0625535342345296,
+    "adx": 29.205756289079236,
+    "atr": 0.6405476936336857,
+    "obv_slope": -16439.35714285714,
     "mom14": 0.0,
-    "avg_vol20": 142369.05,
-    "last_close": 11.579999923706055,
+    "avg_vol20": 139842.55,
+    "last_close": 11.5,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 5.960000038146973,
-      "High": 6.420000076293945,
-      "Low": 5.880000114440918,
-      "Close": 5.989999771118164,
-      "Volume": 13400
-    },
     {
       "Date": "2023-12-11",
       "Open": 6.0,
@@ -3539,7 +3531,15 @@
       "High": 11.890000343322754,
       "Low": 11.319999694824219,
       "Close": 11.579999923706055,
-      "Volume": 59781
+      "Volume": 59800
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 11.520000457763672,
+      "High": 11.789999961853027,
+      "Low": 11.199999809265137,
+      "Close": 11.5,
+      "Volume": 60351
     }
   ]
 }

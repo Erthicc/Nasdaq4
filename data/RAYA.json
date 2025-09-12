@@ -1,34 +1,26 @@
 {
   "ticker": "RAYA",
   "indicators": {
-    "score_0_100": 74.69,
-    "score_0_10": 7.47,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.04937337263354977,
-    "macd_slope": -0.0017170474265189484,
-    "rsi": 39.21567536619693,
-    "rsi_slope": 1.2272703928591742,
-    "wave_strength": 1.007345232658451,
-    "adx": 46.2562506514766,
-    "atr": 0.04941977639092129,
-    "obv_slope": 34764837.21428572,
+    "score_0_100": 75.78,
+    "score_0_10": 7.58,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.046988376544556565,
+    "macd_slope": -0.0019866007986163487,
+    "rsi": 44.881879069279734,
+    "rsi_slope": 1.5175374575033007,
+    "wave_strength": 1.0214939419319762,
+    "adx": 46.10349304928385,
+    "atr": 0.046261731298618124,
+    "obv_slope": 40303054.428571425,
     "mom14": 0.0,
-    "avg_vol20": 61437491.05,
-    "last_close": 0.03999999910593033,
+    "avg_vol20": 62788248.1,
+    "last_close": 0.04280000180006027,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 0.7400000095367432,
-      "High": 0.75,
-      "Low": 0.6309999823570251,
-      "Close": 0.7400000095367432,
-      "Volume": 5200
-    },
     {
       "Date": "2023-12-11",
       "Open": 0.7400000095367432,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-11",
-      "Open": 0.03759999945759773,
-      "High": 0.041099999099969864,
+      "Open": 0.03799999877810478,
+      "High": 0.04100000113248825,
       "Low": 0.03700000047683716,
       "Close": 0.03999999910593033,
-      "Volume": 55717921
+      "Volume": 62780800
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 0.04490000009536743,
+      "High": 0.04490000009536743,
+      "Low": 0.03959999978542328,
+      "Close": 0.04280000180006027,
+      "Volume": 46823262
     }
   ]
 }

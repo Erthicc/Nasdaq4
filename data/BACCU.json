@@ -1,19 +1,19 @@
 {
   "ticker": "BACCU",
   "indicators": {
-    "score_0_100": 76.37,
-    "score_0_10": 7.64,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.00015708956684727096,
-    "macd_slope": 0.00010101640152260187,
-    "rsi": 38.28146117930918,
-    "rsi_slope": -1.2656140514962995,
-    "wave_strength": 1.001044721681712,
-    "adx": 69.3352016485039,
-    "atr": 0.026616168292149984,
-    "obv_slope": -681.7857142857143,
+    "score_0_100": 75.68,
+    "score_0_10": 7.57,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 0.00017895379507229612,
+    "macd_slope": 0.00016488553813414361,
+    "rsi": 49.999992857251755,
+    "rsi_slope": 0.13226732488791576,
+    "wave_strength": 1.0011438575907075,
+    "adx": 69.61836368265202,
+    "atr": 0.02471501341413927,
+    "obv_slope": -503.0,
     "mom14": 0.0,
-    "avg_vol20": 9857.25,
+    "avg_vol20": 9897.9,
     "last_close": 10.100000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -515,7 +515,15 @@
       "High": 10.100000381469727,
       "Low": 10.100000381469727,
       "Close": 10.100000381469727,
-      "Volume": 145.0
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 10.100000381469727,
+      "High": 10.100000381469727,
+      "Low": 10.100000381469727,
+      "Close": 10.100000381469727,
+      "Volume": 2058.0
     }
   ]
 }

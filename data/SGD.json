@@ -1,34 +1,26 @@
 {
   "ticker": "SGD",
   "indicators": {
-    "score_0_100": 71.1,
-    "score_0_10": 7.11,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.027789703558507843,
-    "macd_slope": 0.0029926963150480983,
-    "rsi": 63.15789314565501,
-    "rsi_slope": 1.3366748178610242,
-    "wave_strength": 1.1666666583882437,
-    "adx": 23.506859545063396,
-    "atr": 0.1971532420457879,
-    "obv_slope": 300318.0,
+    "score_0_100": 70.96,
+    "score_0_10": 7.1,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.02411920430578955,
+    "macd_slope": 0.002665341022801497,
+    "rsi": 54.054054823585204,
+    "rsi_slope": 1.6254533153792476,
+    "wave_strength": 1.2196127132311974,
+    "adx": 24.729562396262796,
+    "atr": 0.19521373025964997,
+    "obv_slope": 270262.85714285716,
     "mom14": 0.0,
-    "avg_vol20": 1385252.6,
-    "last_close": 1.4800000190734863,
+    "avg_vol20": 1388476.0,
+    "last_close": 1.3200000524520874,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 33.904762268066406,
-      "High": 34.28571319580078,
-      "Low": 32.0,
-      "Close": 32.761905670166016,
-      "Volume": 16091
-    },
     {
       "Date": "2023-12-11",
       "Open": 32.19047546386719,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-11",
       "Open": 1.4199999570846558,
       "High": 1.7999999523162842,
-      "Low": 1.3543000221252441,
+      "Low": 1.3539999723434448,
       "Close": 1.4800000190734863,
-      "Volume": 2042752
+      "Volume": 2058900
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 1.409999966621399,
+      "High": 1.4299999475479126,
+      "Low": 1.309999942779541,
+      "Close": 1.3200000524520874,
+      "Volume": 202820
     }
   ]
 }

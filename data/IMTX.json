@@ -1,34 +1,26 @@
 {
   "ticker": "IMTX",
   "indicators": {
-    "score_0_100": 69.51,
-    "score_0_10": 6.95,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06203827194559296,
-    "macd_slope": 0.012661296297275927,
-    "rsi": 55.234655206906574,
-    "rsi_slope": 1.5370126880022015,
-    "wave_strength": 1.1040564721859836,
-    "adx": 20.586615504119116,
-    "atr": 0.34354167228197774,
-    "obv_slope": 295006.5,
+    "score_0_100": 71.08,
+    "score_0_10": 7.11,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.05746713168476865,
+    "macd_slope": 0.011785856088329565,
+    "rsi": 52.31316869004175,
+    "rsi_slope": 1.4588147757230234,
+    "wave_strength": 1.0448288108745936,
+    "adx": 20.20525808420116,
+    "atr": 0.3361458221721869,
+    "obv_slope": 224464.0,
     "mom14": 0.0,
-    "avg_vol20": 846419.55,
-    "last_close": 5.920000076293945,
+    "avg_vol20": 842525.2,
+    "last_close": 5.820000171661377,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 9.25,
-      "High": 9.350000381469727,
-      "Low": 8.960000038146973,
-      "Close": 9.25,
-      "Volume": 261300
-    },
     {
       "Date": "2023-12-11",
       "Open": 9.239999771118164,
@@ -3539,7 +3531,15 @@
       "High": 6.0,
       "Low": 5.789999961853027,
       "Close": 5.920000076293945,
-      "Volume": 316191
+      "Volume": 330200
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 5.889999866485596,
+      "High": 6.0,
+      "Low": 5.760000228881836,
+      "Close": 5.820000171661377,
+      "Volume": 699404
     }
   ]
 }
