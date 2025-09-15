@@ -1,20 +1,20 @@
 {
   "ticker": "TLX",
   "indicators": {
-    "score_0_100": 79.09,
-    "score_0_10": 7.91,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.015176867521888404,
-    "macd_slope": -0.012693788402443411,
-    "rsi": 18.738045967282986,
-    "rsi_slope": -1.7642465967463576,
-    "wave_strength": 0.9214968004364908,
-    "adx": 25.27316086186127,
-    "atr": 0.5250557045671745,
-    "obv_slope": -212360.14285714287,
+    "score_0_100": 72.99,
+    "score_0_10": 7.3,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.0553877657522841,
+    "macd_slope": -0.01214018253528166,
+    "rsi": 24.380951658528232,
+    "rsi_slope": -1.7918026174964392,
+    "wave_strength": 0.9304781633192362,
+    "adx": 24.9828457985683,
+    "atr": 0.5090532424787881,
+    "obv_slope": -193559.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 268982.1,
-    "last_close": 9.210000038146973,
+    "avg_vol20": 266918.5,
+    "last_close": 9.510000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1665,9 +1665,17 @@
       "Date": "2025-09-12",
       "Open": 9.15999984741211,
       "High": 9.239999771118164,
-      "Low": 9.14109992980957,
+      "Low": 9.140000343322754,
       "Close": 9.210000038146973,
-      "Volume": 164742.0
+      "Volume": 164800.0
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 9.329999923706055,
+      "High": 9.510000228881836,
+      "Low": 9.3100004196167,
+      "Close": 9.510000228881836,
+      "Volume": 105570.0
     }
   ]
 }

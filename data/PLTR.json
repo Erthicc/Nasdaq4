@@ -1,34 +1,26 @@
 {
   "ticker": "PLTR",
   "indicators": {
-    "score_0_100": 70.85,
-    "score_0_10": 7.09,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.8636277429405885,
-    "macd_slope": 0.32729263591301333,
-    "rsi": 65.0533731861176,
-    "rsi_slope": 1.175257453418197,
-    "wave_strength": 1.0383286511428984,
-    "adx": 19.68721806511423,
-    "atr": 7.1300247990094165,
-    "obv_slope": 6376412.5,
+    "score_0_100": 67.85,
+    "score_0_10": 6.79,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 1.2189980458782388,
+    "macd_slope": 0.3542642599466687,
+    "rsi": 67.20591081914289,
+    "rsi_slope": 2.2286454345784437,
+    "wave_strength": 1.069519007767363,
+    "adx": 18.878295328226503,
+    "atr": 6.912879908928237,
+    "obv_slope": 9427029.714285715,
     "mom14": 0.0,
-    "avg_vol20": 78209058.75,
-    "last_close": 171.42999267578125,
+    "avg_vol20": 77503364.2,
+    "last_close": 171.2100067138672,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 17.969999313354492,
-      "High": 18.280000686645508,
-      "Low": 17.700000762939453,
-      "Close": 17.770000457763672,
-      "Volume": 50929600
-    },
     {
       "Date": "2023-12-12",
       "Open": 17.690000534057617,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-12",
-      "Open": 165.36000061035156,
+      "Open": 165.35000610351562,
       "High": 171.52999877929688,
       "Low": 164.00999450683594,
       "Close": 171.42999267578125,
-      "Volume": 53334275
+      "Volume": 54336100
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 169.6300048828125,
+      "High": 171.5,
+      "Low": 167.41000366210938,
+      "Close": 171.2100067138672,
+      "Volume": 45172984
     }
   ]
 }

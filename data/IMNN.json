@@ -1,34 +1,26 @@
 {
   "ticker": "IMNN",
   "indicators": {
-    "score_0_100": 78.22,
-    "score_0_10": 7.82,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.06674232000864377,
-    "macd_slope": -0.005107731612458533,
-    "rsi": 20.00002266416604,
-    "rsi_slope": -0.11363500048200693,
-    "wave_strength": 1.0854122211740898,
-    "adx": 12.444475172806886,
-    "atr": 0.48665849215742246,
-    "obv_slope": -21524.85714285714,
+    "score_0_100": 76.51,
+    "score_0_10": 7.65,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.06291568618018062,
+    "macd_slope": -0.0046628410494203775,
+    "rsi": 19.68506221295233,
+    "rsi_slope": -0.28514455957871526,
+    "wave_strength": 0.9564204941692221,
+    "adx": 13.08174934010829,
+    "atr": 0.473073687403248,
+    "obv_slope": -19466.64285714286,
     "mom14": 0.0,
-    "avg_vol20": 55637.6,
-    "last_close": 5.75,
+    "avg_vol20": 55821.65,
+    "last_close": 5.579999923706055,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 10.956521987915039,
-      "High": 11.739130020141602,
-      "Low": 10.956521987915039,
-      "Close": 11.34782600402832,
-      "Volume": 1112
-    },
     {
       "Date": "2023-12-12",
       "Open": 11.086956977844238,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-12",
       "Open": 5.800000190734863,
-      "High": 5.843800067901611,
-      "Low": 5.730000019073486,
+      "High": 5.840000152587891,
+      "Low": 5.71999979019165,
       "Close": 5.75,
-      "Volume": 44252
+      "Volume": 44300
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 5.71999979019165,
+      "High": 5.849999904632568,
+      "Low": 5.550000190734863,
+      "Close": 5.579999923706055,
+      "Volume": 39933
     }
   ]
 }

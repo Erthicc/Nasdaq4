@@ -1,34 +1,26 @@
 {
   "ticker": "APDN",
   "indicators": {
-    "score_0_100": 73.01,
-    "score_0_10": 7.3,
+    "score_0_100": 68.07,
+    "score_0_10": 6.81,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.007560439633511273,
-    "macd_slope": 0.00326817815083905,
-    "rsi": 27.777778297588227,
-    "rsi_slope": -0.5285779387961885,
-    "wave_strength": 0.8402003199901676,
-    "adx": 29.883380947389433,
-    "atr": 0.36298827831227687,
-    "obv_slope": 176822.85714285713,
+    "macd_hist": 0.033834303356356954,
+    "macd_slope": 0.004467295018435596,
+    "rsi": 31.91489041126694,
+    "rsi_slope": 0.4538821743939455,
+    "wave_strength": 0.8558261668329215,
+    "adx": 28.95188200173983,
+    "atr": 0.35705340777942357,
+    "obv_slope": 188807.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 251976.0,
-    "last_close": 2.680000066757202,
+    "avg_vol20": 255225.1,
+    "last_close": 2.7799999713897705,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 13200.0,
-      "High": 13200.0,
-      "Low": 11100.0,
-      "Close": 11400.0,
-      "Volume": 11
-    },
     {
       "Date": "2023-12-12",
       "Open": 11550.0,
@@ -3539,7 +3531,15 @@
       "High": 2.759999990463257,
       "Low": 2.4200000762939453,
       "Close": 2.680000066757202,
-      "Volume": 146420
+      "Volume": 154900
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 2.640000104904175,
+      "High": 2.8798999786376953,
+      "Low": 2.5999999046325684,
+      "Close": 2.7799999713897705,
+      "Volume": 92402
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "RIBBU",
   "indicators": {
-    "score_0_100": 96.18,
-    "score_0_10": 9.62,
+    "score_0_100": 95.91,
+    "score_0_10": 9.59,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0012736405965857516,
-    "macd_slope": 0.00010477545917131763,
+    "macd_hist": 0.0012305523839834243,
+    "macd_slope": 7.430453624983643e-05,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0143541220040595,
-    "adx": 49.96408097083381,
-    "atr": 0.008559945889850831,
+    "adx": 50.08813309388159,
+    "atr": 0.007948521183432915,
     "obv_slope": 21.428571428571427,
     "mom14": 0.0,
     "avg_vol20": 30.0,
@@ -1335,6 +1335,14 @@
     },
     {
       "Date": "2025-09-11",
+      "Open": 10.449999809265137,
+      "High": 10.449999809265137,
+      "Low": 10.449999809265137,
+      "Close": 10.449999809265137,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-12",
       "Open": 10.449999809265137,
       "High": 10.449999809265137,
       "Low": 10.449999809265137,

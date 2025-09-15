@@ -1,20 +1,20 @@
 {
   "ticker": "EPSM",
   "indicators": {
-    "score_0_100": 71.52,
-    "score_0_10": 7.15,
+    "score_0_100": 69.73,
+    "score_0_10": 6.97,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 2.3373734967298407,
-    "macd_slope": 0.1288542529320184,
-    "rsi": 53.18818037807143,
-    "rsi_slope": -1.7784067314762357,
-    "wave_strength": 1.4610044755889646,
-    "adx": 39.627116435230654,
-    "atr": 18.717453724807424,
-    "obv_slope": 246213.7142857143,
+    "macd_hist": 1.1571307005817362,
+    "macd_slope": 0.03693587980327008,
+    "rsi": 52.99336748737937,
+    "rsi_slope": -1.914811384345365,
+    "wave_strength": 1.4194567976119583,
+    "adx": 43.224206801980365,
+    "atr": 18.05916100017269,
+    "obv_slope": 178868.0,
     "mom14": 0.0,
-    "avg_vol20": 404950.4,
-    "last_close": 39.5,
+    "avg_vol20": 405927.4,
+    "last_close": 38.720001220703125,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -961,9 +961,17 @@
       "Date": "2025-09-12",
       "Open": 65.48999786376953,
       "High": 65.48999786376953,
-      "Low": 36.900001525878906,
+      "Low": 35.617000579833984,
       "Close": 39.5,
-      "Volume": 121408.0
+      "Volume": 121900.0
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 39.709999084472656,
+      "High": 43.54999923706055,
+      "Low": 35.2400016784668,
+      "Close": 38.720001220703125,
+      "Volume": 218448.0
     }
   ]
 }

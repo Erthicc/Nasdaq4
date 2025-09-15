@@ -1,16 +1,16 @@
 {
   "ticker": "FVNNU",
   "indicators": {
-    "score_0_100": 93.24,
-    "score_0_10": 9.32,
+    "score_0_100": 92.72,
+    "score_0_10": 9.27,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.00010278915244007081,
-    "macd_slope": 0.00034992854264902527,
+    "macd_hist": 0.00024739143127071924,
+    "macd_slope": 0.0003473576979866206,
     "rsi": 0.0,
     "rsi_slope": -1.4285982762991074,
-    "wave_strength": 0.9979051175147287,
-    "adx": 21.445367769634544,
-    "atr": 0.006075593090631587,
+    "wave_strength": 0.9980951944986979,
+    "adx": 21.110493866277242,
+    "atr": 0.005641622155586474,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 7.8,
@@ -2023,6 +2023,14 @@
     },
     {
       "Date": "2025-09-12",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-15",
       "Open": 10.5,
       "High": 10.5,
       "Low": 10.5,
