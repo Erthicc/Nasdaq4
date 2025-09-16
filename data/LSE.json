@@ -1,22 +1,22 @@
 {
   "ticker": "LSE",
   "indicators": {
-    "score_0_100": 72.43,
-    "score_0_10": 7.24,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.01484985138796504,
-    "macd_slope": 0.0008697603612999044,
-    "rsi": 57.812496071636836,
-    "rsi_slope": 1.0294896046038342,
-    "wave_strength": 1.002705985042997,
-    "adx": 31.278529297600024,
-    "atr": 0.2626640713361249,
-    "obv_slope": 470.57142857142856,
+    "score_0_100": 69.03,
+    "score_0_10": 6.9,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.019198155295345496,
+    "macd_slope": 0.0005338525661209136,
+    "rsi": 50.190989178240116,
+    "rsi_slope": -0.42026846673064355,
+    "wave_strength": 1.0329220702003445,
+    "adx": 31.760089046651405,
+    "atr": 0.264609482387102,
+    "obv_slope": -109.14285714285714,
     "mom14": 0.0,
-    "avg_vol20": 4049.4,
-    "last_close": 5.579999923706055,
+    "avg_vol20": 4001.4,
+    "last_close": 5.494999885559082,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -1478,12 +1478,12 @@
       "Volume": 2400.0
     },
     {
-      "Date": "2025-09-15",
-      "Open": 5.449999809265137,
-      "High": 5.579999923706055,
-      "Low": 5.372000217437744,
-      "Close": 5.579999923706055,
-      "Volume": 2388.0
+      "Date": "2025-09-16",
+      "Open": 5.415500164031982,
+      "High": 5.494999885559082,
+      "Low": 5.29010009765625,
+      "Close": 5.494999885559082,
+      "Volume": 4601.0
     }
   ]
 }

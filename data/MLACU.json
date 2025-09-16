@@ -1,8 +1,8 @@
 {
   "ticker": "MLACU",
   "indicators": {
-    "score_0_100": 70.48,
-    "score_0_10": 7.05,
+    "score_0_100": 69.13,
+    "score_0_10": 6.91,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 0.017052268318928674,
     "macd_slope": 0.000321164783418645,

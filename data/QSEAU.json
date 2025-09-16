@@ -1,8 +1,8 @@
 {
   "ticker": "QSEAU",
   "indicators": {
-    "score_0_100": 72.7,
-    "score_0_10": 7.27,
+    "score_0_100": 71.46,
+    "score_0_10": 7.15,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.002619793158750546,
     "macd_slope": -0.0006774114959101553,

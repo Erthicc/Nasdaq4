@@ -1,20 +1,20 @@
 {
   "ticker": "CRWV",
   "indicators": {
-    "score_0_100": 68.29,
-    "score_0_10": 6.83,
+    "score_0_100": 67.53,
+    "score_0_10": 6.75,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 3.980363375259217,
-    "macd_slope": 0.4189756016229991,
-    "rsi": 69.6296336442596,
-    "rsi_slope": 2.071608966089524,
-    "wave_strength": 1.1902415193268254,
-    "adx": 16.620812769532854,
-    "atr": 9.839395907408042,
-    "obv_slope": 10662377.0,
+    "macd_hist": 3.8705969155904176,
+    "macd_slope": 0.4111351402180849,
+    "rsi": 68.88157304663521,
+    "rsi_slope": 2.0181760662592105,
+    "wave_strength": 1.1912825017592508,
+    "adx": 16.86940852446855,
+    "atr": 10.115824675021043,
+    "obv_slope": 10084769.92857143,
     "mom14": 0.0,
-    "avg_vol20": 30595183.9,
-    "last_close": 120.47000122070312,
+    "avg_vol20": 30197008.95,
+    "last_close": 118.75,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -947,15 +947,15 @@
       "High": 115.30999755859375,
       "Low": 104.06999969482422,
       "Close": 111.95999908447266,
-      "Volume": 32488900.0
+      "Volume": 32550400.0
     },
     {
-      "Date": "2025-09-15",
-      "Open": 120.94499969482422,
-      "High": 121.87999725341797,
-      "Low": 116.11000061035156,
-      "Close": 120.47000122070312,
-      "Volume": 37299478.0
+      "Date": "2025-09-16",
+      "Open": 121.5365982055664,
+      "High": 125.75,
+      "Low": 115.12000274658203,
+      "Close": 118.75,
+      "Volume": 29274479.0
     }
   ]
 }

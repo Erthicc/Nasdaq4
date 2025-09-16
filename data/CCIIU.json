@@ -1,20 +1,20 @@
 {
   "ticker": "CCIIU",
   "indicators": {
-    "score_0_100": 69.41,
-    "score_0_10": 6.94,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.0011778798973173374,
-    "macd_slope": 1.01136608642904e-05,
-    "rsi": 45.5150585725249,
-    "rsi_slope": -0.2762572382093568,
-    "wave_strength": 1.0018091671618912,
-    "adx": 19.431037746989286,
-    "atr": 0.029957224974052066,
-    "obv_slope": 27354.0,
+    "score_0_100": 66.75,
+    "score_0_10": 6.67,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0037305840155729703,
+    "macd_slope": 0.00019244966931112134,
+    "rsi": 52.0249892638307,
+    "rsi_slope": 0.1887378111696287,
+    "wave_strength": 1.0016137962710108,
+    "adx": 18.08616613021152,
+    "atr": 0.0313857609804346,
+    "obv_slope": 29433.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 85287.2,
-    "last_close": 10.260000228881836,
+    "avg_vol20": 86298.15,
+    "last_close": 10.300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -438,12 +438,12 @@
       "Volume": 4100.0
     },
     {
-      "Date": "2025-09-15",
-      "Open": 10.25,
-      "High": 10.260000228881836,
-      "Low": 10.25,
-      "Close": 10.260000228881836,
-      "Volume": 4444.0
+      "Date": "2025-09-16",
+      "Open": 10.260000228881836,
+      "High": 10.300000190734863,
+      "Low": 10.260000228881836,
+      "Close": 10.300000190734863,
+      "Volume": 24663.0
     }
   ]
 }

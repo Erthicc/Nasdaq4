@@ -1,34 +1,26 @@
 {
   "ticker": "AIRJ",
   "indicators": {
-    "score_0_100": 69.84,
-    "score_0_10": 6.98,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.0195108590805061,
-    "macd_slope": -0.00038369657844936907,
-    "rsi": 59.3750022744393,
-    "rsi_slope": -0.9363007246095124,
-    "wave_strength": 1.0198240107431062,
-    "adx": 22.626058141904476,
-    "atr": 0.3031774696682035,
-    "obv_slope": -486.14285714285717,
+    "score_0_100": 66.57,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.019293341960605594,
+    "macd_slope": 4.162257996236344e-05,
+    "rsi": 52.486181180665625,
+    "rsi_slope": -1.1841830445142472,
+    "wave_strength": 1.0760431995882533,
+    "adx": 23.895646907207485,
+    "atr": 0.30435252218202297,
+    "obv_slope": 2017.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 91299.7,
-    "last_close": 5.079999923706055,
+    "avg_vol20": 94222.5,
+    "last_close": 4.849999904632568,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-12",
-      "Open": 10.739999771118164,
-      "High": 10.739999771118164,
-      "Low": 10.739999771118164,
-      "Close": 10.739999771118164,
-      "Volume": 0
-    },
     {
       "Date": "2023-12-13",
       "Open": 10.75,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-15",
       "Open": 4.659999847412109,
-      "High": 5.100399971008301,
+      "High": 5.099999904632568,
       "Low": 4.650000095367432,
       "Close": 5.079999923706055,
-      "Volume": 133194
+      "Volume": 136900
+    },
+    {
+      "Date": "2025-09-16",
+      "Open": 5.099999904632568,
+      "High": 5.139999866485596,
+      "Low": 4.820000171661377,
+      "Close": 4.849999904632568,
+      "Volume": 129950
     }
   ]
 }

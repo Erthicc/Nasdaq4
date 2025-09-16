@@ -1,19 +1,19 @@
 {
   "ticker": "VNMEU",
   "indicators": {
-    "score_0_100": 73.29,
-    "score_0_10": 7.33,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.0006089202910604876,
-    "macd_slope": 0.00011933700301797416,
-    "rsi": 49.99999533344057,
-    "rsi_slope": 0.27056513300635693,
-    "wave_strength": 1.0002251684006682,
-    "adx": 61.642387909982865,
-    "atr": 0.022739677058727585,
-    "obv_slope": -6075.285714285715,
+    "score_0_100": 69.8,
+    "score_0_10": 6.98,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.0017187370427134757,
+    "macd_slope": 0.0002020985113909296,
+    "rsi": 53.57142321440887,
+    "rsi_slope": 0.736353843091735,
+    "wave_strength": 1.0001250810384612,
+    "adx": 60.67963299823736,
+    "atr": 0.021115414411675613,
+    "obv_slope": -6054.928571428572,
     "mom14": 0.0,
-    "avg_vol20": 112182.3,
+    "avg_vol20": 112066.55,
     "last_close": 10.010000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -430,12 +430,12 @@
       "Volume": 0.0
     },
     {
-      "Date": "2025-09-15",
+      "Date": "2025-09-16",
       "Open": 10.010000228881836,
       "High": 10.010000228881836,
       "Low": 10.010000228881836,
       "Close": 10.010000228881836,
-      "Volume": 146.0
+      "Volume": 131.0
     }
   ]
 }

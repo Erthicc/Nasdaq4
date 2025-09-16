@@ -1,8 +1,8 @@
 {
   "ticker": "FVNNU",
   "indicators": {
-    "score_0_100": 92.72,
-    "score_0_10": 9.27,
+    "score_0_100": 92.39,
+    "score_0_10": 9.24,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
     "macd_hist": 0.00024739143127071924,
     "macd_slope": 0.0003473576979866206,

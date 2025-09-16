@@ -1,8 +1,8 @@
 {
   "ticker": "ATIIU",
   "indicators": {
-    "score_0_100": 93.45,
-    "score_0_10": 9.35,
+    "score_0_100": 93.15,
+    "score_0_10": 9.32,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0029050706033385346,
     "macd_slope": 0.0014518945113858772,
