@@ -1,20 +1,20 @@
 {
   "ticker": "GELS",
   "indicators": {
-    "score_0_100": 66.75,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.050010461310506515,
-    "macd_slope": 0.004968912019481557,
-    "rsi": 56.24999671384509,
-    "rsi_slope": 1.919642406348691,
-    "wave_strength": 1.197963487428783,
-    "adx": 24.232354651338344,
-    "atr": 0.22270519593829993,
-    "obv_slope": 5146930.642857143,
+    "score_0_100": 68.58,
+    "score_0_10": 6.86,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.043015596640702265,
+    "macd_slope": 0.0036081829092293625,
+    "rsi": 56.06936129835214,
+    "rsi_slope": 1.5930802515456766,
+    "wave_strength": 1.180724695233534,
+    "adx": 25.692576859088373,
+    "atr": 0.21517346846697502,
+    "obv_slope": 5157207.928571428,
     "mom14": 0.0,
-    "avg_vol20": 3821773.55,
-    "last_close": 1.5299999713897705,
+    "avg_vol20": 3828155.55,
+    "last_close": 1.5399999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1766,12 +1766,28 @@
       "Volume": 443500.0
     },
     {
+      "Date": "2025-09-15",
+      "Open": 1.6299999952316284,
+      "High": 1.6299999952316284,
+      "Low": 1.4199999570846558,
+      "Close": 1.4199999570846558,
+      "Volume": 130300.0
+    },
+    {
       "Date": "2025-09-16",
       "Open": 1.4800000190734863,
-      "High": 1.590000033378601,
-      "Low": 1.4799000024795532,
+      "High": 1.600000023841858,
+      "Low": 1.4609999656677246,
       "Close": 1.5299999713897705,
-      "Volume": 111871.0
+      "Volume": 112400.0
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 1.5299999713897705,
+      "High": 1.5894999504089355,
+      "Low": 1.51010000705719,
+      "Close": 1.5399999618530273,
+      "Volume": 50911.0
     }
   ]
 }

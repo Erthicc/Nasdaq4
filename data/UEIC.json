@@ -1,34 +1,26 @@
 {
   "ticker": "UEIC",
   "indicators": {
-    "score_0_100": 70.57,
-    "score_0_10": 7.06,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.043180378207392955,
-    "macd_slope": 0.0005602205549404509,
-    "rsi": 26.785702546936918,
-    "rsi_slope": -0.4676875774922219,
-    "wave_strength": 1.000417695604081,
-    "adx": 25.08031235603895,
-    "atr": 0.2728248764487075,
-    "obv_slope": -38054.21428571428,
+    "score_0_100": 72.21,
+    "score_0_10": 7.22,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.027458231957867174,
+    "macd_slope": -0.0019267732877977586,
+    "rsi": 26.548655432940038,
+    "rsi_slope": -0.577014751777412,
+    "wave_strength": 1.0017776706549344,
+    "adx": 23.864100501261866,
+    "atr": 0.2883374029810968,
+    "obv_slope": -40398.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 70042.95,
-    "last_close": 4.639999866485596,
+    "avg_vol20": 72363.7,
+    "last_close": 4.46999979019165,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-13",
-      "Open": 7.260000228881836,
-      "High": 7.820000171661377,
-      "Low": 7.199999809265137,
-      "Close": 7.739999771118164,
-      "Volume": 78700
-    },
     {
       "Date": "2023-12-14",
       "Open": 7.949999809265137,
@@ -3539,7 +3531,15 @@
       "High": 4.789999961853027,
       "Low": 4.630000114440918,
       "Close": 4.639999866485596,
-      "Volume": 36559
+      "Volume": 39300
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 4.659999847412109,
+      "High": 4.960000038146973,
+      "Low": 4.46999979019165,
+      "Close": 4.46999979019165,
+      "Volume": 90874
     }
   ]
 }

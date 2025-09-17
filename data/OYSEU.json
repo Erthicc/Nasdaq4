@@ -1,22 +1,22 @@
 {
   "ticker": "OYSEU",
   "indicators": {
-    "score_0_100": 68.13,
-    "score_0_10": 6.81,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.005533877496706105,
-    "macd_slope": 0.0002646122589074654,
-    "rsi": 65.00011465939087,
-    "rsi_slope": 1.071437386385549,
-    "wave_strength": 1.0017695384099041,
-    "adx": 51.25873274498311,
-    "atr": 0.020665763024753345,
-    "obv_slope": 4098.071428571428,
+    "score_0_100": 70.8,
+    "score_0_10": 7.08,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.003830583483488607,
+    "macd_slope": 0.00013236318146926315,
+    "rsi": 48.14827647132868,
+    "rsi_slope": -3.703692037760728,
+    "wave_strength": 1.0075195488941848,
+    "adx": 49.470177251240784,
+    "atr": 0.02418961529614373,
+    "obv_slope": 4084.5,
     "mom14": 0.0,
-    "avg_vol20": 3448.65,
-    "last_close": 10.25,
+    "avg_vol20": 3470.85,
+    "last_close": 10.180000305175781,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -646,12 +646,28 @@
       "Volume": 600.0
     },
     {
+      "Date": "2025-09-15",
+      "Open": 10.199999809265137,
+      "High": 10.199999809265137,
+      "Low": 10.180000305175781,
+      "Close": 10.180000305175781,
+      "Volume": 4200.0
+    },
+    {
       "Date": "2025-09-16",
       "Open": 10.239999771118164,
       "High": 10.25,
       "Low": 10.239999771118164,
       "Close": 10.25,
-      "Volume": 1066.0
+      "Volume": 1400.0
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 10.180000305175781,
+      "High": 10.180000305175781,
+      "Low": 10.180000305175781,
+      "Close": 10.180000305175781,
+      "Volume": 317.0
     }
   ]
 }
