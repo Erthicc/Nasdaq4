@@ -1,34 +1,26 @@
 {
   "ticker": "ANEB",
   "indicators": {
-    "score_0_100": 70.05,
-    "score_0_10": 7.01,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0018855492154146152,
-    "macd_slope": 0.0012121722484571146,
-    "rsi": 44.95413227776201,
-    "rsi_slope": -1.154909821189966,
-    "wave_strength": 1.1419182452752994,
-    "adx": 21.17616577422974,
-    "atr": 0.22052473973323944,
-    "obv_slope": 58593.07142857143,
+    "score_0_100": 69.6,
+    "score_0_10": 6.96,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.007958920529369706,
+    "macd_slope": 0.0021882143684973047,
+    "rsi": 47.57281713468359,
+    "rsi_slope": -0.5663313466626535,
+    "wave_strength": 1.0279605240987386,
+    "adx": 20.18902386608783,
+    "atr": 0.2154229772710097,
+    "obv_slope": 57387.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 132620.15,
-    "last_close": 2.5,
+    "avg_vol20": 127793.8,
+    "last_close": 2.4700000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 2.244999885559082,
-      "High": 2.244999885559082,
-      "Low": 1.8700000047683716,
-      "Close": 1.899999976158142,
-      "Volume": 9900
-    },
     {
       "Date": "2023-12-15",
       "Open": 1.9500000476837158,
@@ -3539,7 +3531,15 @@
       "High": 2.509999990463257,
       "Low": 2.3299999237060547,
       "Close": 2.5,
-      "Volume": 93203
+      "Volume": 93200
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 2.5299999713897705,
+      "High": 2.5299999713897705,
+      "Low": 2.3808999061584473,
+      "Close": 2.4700000286102295,
+      "Volume": 33076
     }
   ]
 }

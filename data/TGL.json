@@ -1,34 +1,26 @@
 {
   "ticker": "TGL",
   "indicators": {
-    "score_0_100": 71.59,
-    "score_0_10": 7.16,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.027725635146901656,
-    "macd_slope": 0.0008438519171915301,
-    "rsi": 48.84969384175853,
-    "rsi_slope": -0.8355577299042086,
-    "wave_strength": 1.1498415351568256,
-    "adx": 26.058453722323016,
-    "atr": 0.1845161332256602,
-    "obv_slope": 6822993.5,
+    "score_0_100": 70.87,
+    "score_0_10": 7.09,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.033172747561550586,
+    "macd_slope": 0.001874204348642963,
+    "rsi": 51.917175498909636,
+    "rsi_slope": -0.4059161531991933,
+    "wave_strength": 1.150362296222606,
+    "adx": 26.88399441666579,
+    "atr": 0.18669354605875044,
+    "obv_slope": 7096847.785714285,
     "mom14": 0.0,
-    "avg_vol20": 6043775.45,
-    "last_close": 1.2300000190734863,
+    "avg_vol20": 6143018.45,
+    "last_close": 1.2699999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 360.5,
-      "High": 367.5,
-      "Low": 350.0,
-      "Close": 364.0,
-      "Volume": 242
-    },
     {
       "Date": "2023-12-15",
       "Open": 357.0,
@@ -3539,7 +3531,15 @@
       "High": 1.2899999618530273,
       "Low": 1.149999976158142,
       "Close": 1.2300000190734863,
-      "Volume": 789709
+      "Volume": 821200
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 1.2100000381469727,
+      "High": 1.4249999523162842,
+      "Low": 1.2100000381469727,
+      "Close": 1.2699999809265137,
+      "Volume": 3141569
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "DRDBU",
   "indicators": {
-    "score_0_100": 91.84,
-    "score_0_10": 9.18,
+    "score_0_100": 91.71,
+    "score_0_10": 9.17,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0033811619755241273,
-    "macd_slope": 0.001361961516871374,
+    "macd_hist": 0.004007018450628008,
+    "macd_slope": 0.00144696222081373,
     "rsi": 0.0,
     "rsi_slope": -1.7080725506152399,
     "wave_strength": 1.0,
-    "adx": 11.286916450987372,
-    "atr": 0.011713073965105103,
+    "adx": 10.522692968747918,
+    "atr": 0.010876425824740452,
     "obv_slope": 400.0,
     "mom14": 0.0,
     "avg_vol20": 330.0,
@@ -1519,6 +1519,14 @@
     },
     {
       "Date": "2025-09-16",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-17",
       "Open": 10.5,
       "High": 10.5,
       "Low": 10.5,

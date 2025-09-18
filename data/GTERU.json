@@ -1,8 +1,8 @@
 {
   "ticker": "GTERU",
   "indicators": {
-    "score_0_100": 72.44,
-    "score_0_10": 7.24,
+    "score_0_100": 72.21,
+    "score_0_10": 7.22,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.001325433936918417,
     "macd_slope": 0.00038477700860382397,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0018581745698645,
     "adx": 20.030194731773918,
     "atr": 0.0353297023223779,
-    "obv_slope": 13281.857142857143,
+    "obv_slope": 13264.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 23072.3,
+    "avg_vol20": 23060.0,
     "last_close": 10.210000038146973,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -415,11 +415,11 @@
     },
     {
       "Date": "2025-09-17",
-      "Open": 10.20580005645752,
+      "Open": 10.206000328063965,
       "High": 10.229999542236328,
       "Low": 10.1899995803833,
       "Close": 10.210000038146973,
-      "Volume": 4046.0
+      "Volume": 3800.0
     }
   ]
 }

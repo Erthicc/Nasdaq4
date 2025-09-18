@@ -1,8 +1,8 @@
 {
   "ticker": "SDHIU",
   "indicators": {
-    "score_0_100": 73.19,
-    "score_0_10": 7.32,
+    "score_0_100": 72.96,
+    "score_0_10": 7.3,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.0029399253890720276,
     "macd_slope": 0.0002978689780073566,
@@ -11,9 +11,9 @@
     "wave_strength": 1.00122977658757,
     "adx": 53.710948520390374,
     "atr": 0.02148274983266924,
-    "obv_slope": 164.07142857142858,
+    "obv_slope": 171.42857142857142,
     "mom14": 0.0,
-    "avg_vol20": 144.85,
+    "avg_vol20": 150.0,
     "last_close": 10.399999618530273,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -955,7 +955,7 @@
       "High": 10.399999618530273,
       "Low": 10.399999618530273,
       "Close": 10.399999618530273,
-      "Volume": 97.0
+      "Volume": 200.0
     }
   ]
 }

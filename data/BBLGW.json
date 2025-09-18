@@ -1,34 +1,26 @@
 {
   "ticker": "BBLGW",
   "indicators": {
-    "score_0_100": 79.89,
-    "score_0_10": 7.99,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred)",
-    "macd_hist": 0.1232688001671487,
-    "macd_slope": 0.019625755256490345,
+    "score_0_100": 99.13,
+    "score_0_10": 9.91,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.10698660842521468,
+    "macd_slope": 0.014627280487424479,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 86.95302742378932,
-    "atr": 0.14130163605990975,
+    "adx": 87.76362380747821,
+    "atr": 0.1312086621103479,
     "obv_slope": -50.0,
     "mom14": 0.0,
     "avg_vol20": 35.0,
     "last_close": 10.390000343322754,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 0.8899999856948853,
-      "High": 0.8899999856948853,
-      "Low": 0.8840000033378601,
-      "Close": 0.8840000033378601,
-      "Volume": 200.0
-    },
     {
       "Date": "2023-12-15",
       "Open": 0.800000011920929,
@@ -3532,6 +3524,14 @@
       "Low": 9.970000267028809,
       "Close": 10.390000343322754,
       "Volume": 700.0
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 10.390000343322754,
+      "High": 10.390000343322754,
+      "Low": 10.390000343322754,
+      "Close": 10.390000343322754,
+      "Volume": 0.0
     }
   ]
 }

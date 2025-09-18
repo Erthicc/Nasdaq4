@@ -1,19 +1,19 @@
 {
   "ticker": "BGLC",
   "indicators": {
-    "score_0_100": 70.07,
-    "score_0_10": 7.01,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.013947486609462323,
-    "macd_slope": 0.00378488517940075,
-    "rsi": 51.3931059215122,
-    "rsi_slope": 0.2557570635203094,
-    "wave_strength": 1.0202355883598802,
-    "adx": 29.809003423146603,
-    "atr": 0.48957004564429785,
-    "obv_slope": 186759.85714285713,
+    "score_0_100": 70.45,
+    "score_0_10": 7.04,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.0482944977398735,
+    "macd_slope": 0.005138494208572641,
+    "rsi": 49.0711228362174,
+    "rsi_slope": -0.4890025449361696,
+    "wave_strength": 1.01670159481621,
+    "adx": 30.302279883192448,
+    "atr": 0.47092932986491814,
+    "obv_slope": 184227.07142857142,
     "mom14": 0.0,
-    "avg_vol20": 177011.9,
+    "avg_vol20": 177423.95,
     "last_close": 5.699999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 6.599999904632568,
-      "High": 6.800000190734863,
-      "Low": 6.400000095367432,
-      "Close": 6.760000228881836,
-      "Volume": 13230
-    },
     {
       "Date": "2023-12-15",
       "Open": 6.75,
@@ -3539,7 +3531,15 @@
       "High": 6.0,
       "Low": 5.150000095367432,
       "Close": 5.699999809265137,
-      "Volume": 75338
+      "Volume": 76400
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 5.619999885559082,
+      "High": 5.795100212097168,
+      "Low": 5.566500186920166,
+      "Close": 5.699999809265137,
+      "Volume": 35479
     }
   ]
 }
