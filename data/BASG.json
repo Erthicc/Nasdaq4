@@ -1,22 +1,22 @@
 {
   "ticker": "BASG",
   "indicators": {
-    "score_0_100": 68.54,
-    "score_0_10": 6.85,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.038324151089843134,
-    "macd_slope": 0.0028490846110750456,
-    "rsi": 48.73396291778511,
-    "rsi_slope": -0.4872553193893851,
-    "wave_strength": 1.001291624617751,
-    "adx": 9.52212447943696,
-    "atr": 0.24084310677395734,
-    "obv_slope": -4368.357142857143,
+    "score_0_100": 68.4,
+    "score_0_10": 6.84,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.06087098310573213,
+    "macd_slope": 0.005073084666016288,
+    "rsi": 61.55283795944093,
+    "rsi_slope": 0.7534430909103875,
+    "wave_strength": 0.9999827146313724,
+    "adx": 10.5680321093939,
+    "atr": 0.23421150751603798,
+    "obv_slope": -2869.4285714285716,
     "mom14": 0.0,
-    "avg_vol20": 18107.15,
-    "last_close": 26.38629913330078,
+    "avg_vol20": 17301.4,
+    "last_close": 26.534000396728516,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -546,8 +546,16 @@
       "Open": 26.309999465942383,
       "High": 26.450000762939453,
       "Low": 26.309999465942383,
-      "Close": 26.38629913330078,
-      "Volume": 9043.0
+      "Close": 26.38599967956543,
+      "Volume": 9300.0
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 26.450000762939453,
+      "High": 26.534000396728516,
+      "Low": 26.399999618530273,
+      "Close": 26.534000396728516,
+      "Volume": 8728.0
     }
   ]
 }

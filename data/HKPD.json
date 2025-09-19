@@ -1,20 +1,20 @@
 {
   "ticker": "HKPD",
   "indicators": {
-    "score_0_100": 73.77,
-    "score_0_10": 7.38,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.006382881150161203,
-    "macd_slope": -0.004500150884762196,
-    "rsi": 37.25490167860302,
-    "rsi_slope": -2.986775711643923,
-    "wave_strength": 1.033950635240406,
-    "adx": 43.875635623386565,
-    "atr": 0.1776984660732781,
-    "obv_slope": 1368300.5714285714,
+    "score_0_100": 72.03,
+    "score_0_10": 7.2,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.0040788998233878965,
+    "macd_slope": -0.004686140789427634,
+    "rsi": 40.425533471422256,
+    "rsi_slope": -2.3351955396385082,
+    "wave_strength": 1.0277883613017444,
+    "adx": 43.9588495285318,
+    "atr": 0.16772000332534637,
+    "obv_slope": 1399107.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 9173565.4,
-    "last_close": 1.350000023841858,
+    "avg_vol20": 9174599.8,
+    "last_close": 1.3300000429153442,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1347,7 +1347,7 @@
       "High": 1.4199999570846558,
       "Low": 1.309999942779541,
       "Close": 1.350000023841858,
-      "Volume": 268200.0
+      "Volume": 263400.0
     },
     {
       "Date": "2025-09-15",
@@ -1375,11 +1375,19 @@
     },
     {
       "Date": "2025-09-18",
-      "Open": 1.3600000143051147,
+      "Open": 1.3899999856948853,
       "High": 1.3899999856948853,
       "Low": 1.340000033378601,
       "Close": 1.350000023841858,
-      "Volume": 124708.0
+      "Volume": 125800.0
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 1.350000023841858,
+      "High": 1.350000023841858,
+      "Low": 1.312000036239624,
+      "Close": 1.3300000429153442,
+      "Volume": 67696.0
     }
   ]
 }

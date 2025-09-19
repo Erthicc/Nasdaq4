@@ -1,24 +1,24 @@
 {
   "ticker": "INEO",
   "indicators": {
-    "score_0_100": 69.13,
-    "score_0_10": 6.91,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.011655390970558399,
-    "macd_slope": -0.0020089260279881603,
-    "rsi": 29.299065965712003,
-    "rsi_slope": -3.5519841692336485,
-    "wave_strength": 1.008876558349348,
-    "adx": 31.537583302291598,
-    "atr": 0.08382493422039361,
-    "obv_slope": -5702.714285714285,
+    "score_0_100": 67.4,
+    "score_0_10": 6.74,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.016991063532598938,
+    "macd_slope": -0.0012479672050753705,
+    "rsi": 55.68181333136981,
+    "rsi_slope": 0.07438860272902963,
+    "wave_strength": 0.9991924316714494,
+    "adx": 33.28864407307221,
+    "atr": 0.08354457939870595,
+    "obv_slope": 13464.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 92133.1,
-    "last_close": 0.9776999950408936,
+    "avg_vol20": 92370.25,
+    "last_close": 1.0299999713897705,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0
+    "above_trend": 1
   },
   "history": [
     {
@@ -1825,9 +1825,17 @@
       "Date": "2025-09-18",
       "Open": 0.9200000166893005,
       "High": 1.1100000143051147,
-      "Low": 0.9200000166893005,
-      "Close": 0.9776999950408936,
-      "Volume": 123062.0
+      "Low": 0.9150000214576721,
+      "Close": 0.9779999852180481,
+      "Volume": 123100.0
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 0.9567000269889832,
+      "High": 1.0299999713897705,
+      "Low": 0.9501000046730042,
+      "Close": 1.0299999713897705,
+      "Volume": 10605.0
     }
   ]
 }

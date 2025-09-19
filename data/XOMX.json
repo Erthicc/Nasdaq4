@@ -1,20 +1,20 @@
 {
   "ticker": "XOMX",
   "indicators": {
-    "score_0_100": 68.16,
-    "score_0_10": 6.82,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.1036342344549116,
-    "macd_slope": -0.019717877815950153,
-    "rsi": 50.46232331644346,
-    "rsi_slope": -2.778492385893888,
-    "wave_strength": 1.0461126068878195,
-    "adx": 17.51601456526648,
-    "atr": 0.6473150162347453,
-    "obv_slope": 780.6428571428571,
+    "score_0_100": 68.13,
+    "score_0_10": 6.81,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.05044556197326677,
+    "macd_slope": -0.02486145119455983,
+    "rsi": 43.88145252308479,
+    "rsi_slope": -3.8531179173663808,
+    "wave_strength": 1.0431713131295497,
+    "adx": 16.852444463570375,
+    "atr": 0.6435781803147272,
+    "obv_slope": 412.42857142857144,
     "mom14": 0.0,
-    "avg_vol20": 2258.55,
-    "last_close": 26.898799896240234,
+    "avg_vol20": 2376.3,
+    "last_close": 26.315000534057617,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -842,8 +842,16 @@
       "Open": 27.610000610351562,
       "High": 27.610000610351562,
       "Low": 26.687000274658203,
-      "Close": 26.898799896240234,
-      "Volume": 3171.0
+      "Close": 26.89900016784668,
+      "Volume": 3200.0
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 26.90999984741211,
+      "High": 26.90999984741211,
+      "Low": 26.315000534057617,
+      "Close": 26.315000534057617,
+      "Volume": 3326.0
     }
   ]
 }

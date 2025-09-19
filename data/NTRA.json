@@ -1,34 +1,26 @@
 {
   "ticker": "NTRA",
   "indicators": {
-    "score_0_100": 68.72,
+    "score_0_100": 68.7,
     "score_0_10": 6.87,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.39352520200316743,
-    "macd_slope": -0.06435145449545589,
-    "rsi": 64.07423884128305,
-    "rsi_slope": -0.5098180860747347,
-    "wave_strength": 1.0270394762179926,
-    "adx": 40.83370852812085,
-    "atr": 5.346277307279656,
-    "obv_slope": 191329.07142857142,
+    "macd_hist": 0.5745632854217035,
+    "macd_slope": -0.04524876199139235,
+    "rsi": 64.80202043305012,
+    "rsi_slope": -0.1621968814162114,
+    "wave_strength": 1.021258334849758,
+    "adx": 41.91965562661452,
+    "atr": 5.2065431702295175,
+    "obv_slope": 227853.2142857143,
     "mom14": 0.0,
-    "avg_vol20": 908375.35,
-    "last_close": 179.86000061035156,
+    "avg_vol20": 922937.25,
+    "last_close": 181.11000061035156,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 60.0,
-      "High": 60.185001373291016,
-      "Low": 58.36000061035156,
-      "Close": 59.0099983215332,
-      "Volume": 2356700
-    },
     {
       "Date": "2023-12-18",
       "Open": 58.95000076293945,
@@ -3539,7 +3531,15 @@
       "High": 180.60000610351562,
       "Low": 175.9600067138672,
       "Close": 179.86000061035156,
-      "Volume": 856207
+      "Volume": 856300
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 180.0,
+      "High": 181.85000610351562,
+      "Low": 178.4600067138672,
+      "Close": 181.11000061035156,
+      "Volume": 1284945
     }
   ]
 }
