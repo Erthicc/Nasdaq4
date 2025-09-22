@@ -1,19 +1,19 @@
 {
   "ticker": "RAAQ",
   "indicators": {
-    "score_0_100": 95.64,
-    "score_0_10": 9.56,
+    "score_0_100": 95.54,
+    "score_0_10": 9.55,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.001158351246867279,
-    "macd_slope": -0.00025965056484590816,
+    "macd_hist": 0.001014674714668407,
+    "macd_slope": -0.00025683841997756104,
     "rsi": 0.0,
     "rsi_slope": -3.5108945701417946,
-    "wave_strength": 1.0009387102943954,
-    "adx": 65.26859308295106,
-    "atr": 0.023082949701623164,
-    "obv_slope": 256.2142857142857,
+    "wave_strength": 1.0009881649204468,
+    "adx": 64.94253409742849,
+    "atr": 0.021434167580078652,
+    "obv_slope": 264.35714285714283,
     "mom14": 0.0,
-    "avg_vol20": 16509.35,
+    "avg_vol20": 15750.05,
     "last_close": 10.119999885559082,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -635,7 +635,15 @@
       "High": 10.140000343322754,
       "Low": 10.119999885559082,
       "Close": 10.119999885559082,
-      "Volume": 2987.0
+      "Volume": 3000.0
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 10.119999885559082,
+      "High": 10.119999885559082,
+      "Low": 10.119999885559082,
+      "Close": 10.119999885559082,
+      "Volume": 101.0
     }
   ]
 }

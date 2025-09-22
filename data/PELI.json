@@ -1,22 +1,22 @@
 {
   "ticker": "PELI",
   "indicators": {
-    "score_0_100": 69.5,
-    "score_0_10": 6.95,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.0005885300133445688,
-    "macd_slope": -4.6266705034750796e-05,
-    "rsi": 49.999994262104124,
-    "rsi_slope": -1.190475859578677,
-    "wave_strength": 1.0019897745715292,
-    "adx": 21.803157861816285,
-    "atr": 0.016711527767410975,
-    "obv_slope": 20665.928571428572,
+    "score_0_100": 68.82,
+    "score_0_10": 6.88,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.001344877648987177,
+    "macd_slope": 2.6379288858201914e-05,
+    "rsi": 61.363777638562645,
+    "rsi_slope": 0.4148568032467931,
+    "wave_strength": 1.001789937350053,
+    "adx": 21.582067627248247,
+    "atr": 0.01766075340156075,
+    "obv_slope": 22821.571428571428,
     "mom14": 0.0,
-    "avg_vol20": 34993.85,
-    "last_close": 10.029999732971191,
+    "avg_vol20": 36015.1,
+    "last_close": 10.050000190734863,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -571,7 +571,15 @@
       "High": 10.045000076293945,
       "Low": 10.029999732971191,
       "Close": 10.029999732971191,
-      "Volume": 777.0
+      "Volume": 1100.0
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 10.039999961853027,
+      "High": 10.050000190734863,
+      "Low": 10.039999961853027,
+      "Close": 10.050000190734863,
+      "Volume": 21402.0
     }
   ]
 }

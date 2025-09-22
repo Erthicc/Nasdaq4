@@ -1,34 +1,26 @@
 {
   "ticker": "PASG",
   "indicators": {
-    "score_0_100": 69.87,
-    "score_0_10": 6.99,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.0073236786913492835,
-    "macd_slope": -0.002644338840905627,
-    "rsi": 50.84388079215676,
-    "rsi_slope": -0.732657377857051,
+    "score_0_100": 71.48,
+    "score_0_10": 7.15,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.025716499979900442,
+    "macd_slope": -0.0003554410427677556,
+    "rsi": 57.904408920838385,
+    "rsi_slope": -0.4519350927825044,
     "wave_strength": 1.0599466781851994,
-    "adx": 25.78928792484079,
-    "atr": 0.5373187737712483,
-    "obv_slope": -4565.357142857143,
+    "adx": 26.94376566521351,
+    "atr": 0.5287857729458413,
+    "obv_slope": -883.8571428571429,
     "mom14": 0.0,
-    "avg_vol20": 32505.75,
-    "last_close": 7.170000076293945,
+    "avg_vol20": 31436.3,
+    "last_close": 7.539999961853027,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 14.5600004196167,
-      "High": 15.600000381469727,
-      "Low": 14.420000076293945,
-      "Close": 14.4399995803833,
-      "Volume": 8225
-    },
     {
       "Date": "2023-12-19",
       "Open": 15.15999984741211,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-19",
       "Open": 7.650000095367432,
       "High": 7.650000095367432,
-      "Low": 7.119999885559082,
+      "Low": 7.090000152587891,
       "Close": 7.170000076293945,
-      "Volume": 31715
+      "Volume": 31700
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 7.170000076293945,
+      "High": 7.539999961853027,
+      "Low": 7.150000095367432,
+      "Close": 7.539999961853027,
+      "Volume": 26126
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "OYSEU",
   "indicators": {
-    "score_0_100": 70.5,
-    "score_0_10": 7.05,
+    "score_0_100": 70.0,
+    "score_0_10": 7.0,
     "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
     "macd_hist": 0.0014944177304049133,
     "macd_slope": -9.280218463430161e-06,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0074205179189706,
     "adx": 46.26720287214101,
     "atr": 0.020857372372695356,
-    "obv_slope": 4097.214285714285,
+    "obv_slope": 4100.0,
     "mom14": 0.0,
-    "avg_vol20": 2948.05,
+    "avg_vol20": 2950.0,
     "last_close": 10.180000305175781,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -683,7 +683,7 @@
       "High": 10.180000305175781,
       "Low": 10.180000305175781,
       "Close": 10.180000305175781,
-      "Volume": 161.0
+      "Volume": 200.0
     }
   ]
 }

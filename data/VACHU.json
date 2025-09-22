@@ -1,16 +1,16 @@
 {
   "ticker": "VACHU",
   "indicators": {
-    "score_0_100": 67.24,
-    "score_0_10": 6.72,
+    "score_0_100": 66.7,
+    "score_0_10": 6.67,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.010797836715707353,
-    "macd_slope": 0.0011379110033427693,
+    "macd_hist": -0.010055092420626563,
+    "macd_slope": 0.0010872508558505145,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 89.29197422680572,
-    "atr": 0.0029088674751743156,
+    "adx": 89.34757341996747,
+    "atr": 0.0027010912269475784,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -2239,6 +2239,14 @@
     },
     {
       "Date": "2025-09-18",
+      "Open": 11.5,
+      "High": 11.5,
+      "Low": 11.5,
+      "Close": 11.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-19",
       "Open": 11.5,
       "High": 11.5,
       "Low": 11.5,

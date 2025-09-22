@@ -1,19 +1,19 @@
 {
   "ticker": "TLSA",
   "indicators": {
-    "score_0_100": 69.31,
-    "score_0_10": 6.93,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.007595783236991754,
-    "macd_slope": 0.0036775156915431905,
-    "rsi": 50.46729416128471,
-    "rsi_slope": 1.861274982173031,
-    "wave_strength": 0.9566685671391263,
-    "adx": 10.193505970692474,
-    "atr": 0.1645743913459467,
-    "obv_slope": 32521.785714285714,
+    "score_0_100": 68.95,
+    "score_0_10": 6.9,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.013240925470251803,
+    "macd_slope": 0.0038439168202911737,
+    "rsi": 49.99999933962262,
+    "rsi_slope": 1.394557596455027,
+    "wave_strength": 0.9631728263445802,
+    "adx": 10.017509487510496,
+    "atr": 0.1585547900718662,
+    "obv_slope": 44280.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 344630.25,
+    "avg_vol20": 341146.2,
     "last_close": 1.8200000524520874,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 0.5699999928474426,
-      "High": 0.5699999928474426,
-      "Low": 0.5400000214576721,
-      "Close": 0.550000011920929,
-      "Volume": 46600
-    },
     {
       "Date": "2023-12-19",
       "Open": 0.550000011920929,
@@ -3539,7 +3531,15 @@
       "High": 1.8700000047683716,
       "Low": 1.75,
       "Close": 1.8200000524520874,
-      "Volume": 278005
+      "Volume": 278300
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 1.8200000524520874,
+      "High": 1.8402999639511108,
+      "Low": 1.7599999904632568,
+      "Close": 1.8200000524520874,
+      "Volume": 268324
     }
   ]
 }

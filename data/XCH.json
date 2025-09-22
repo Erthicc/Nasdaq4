@@ -1,20 +1,20 @@
 {
   "ticker": "XCH",
   "indicators": {
-    "score_0_100": 67.52,
-    "score_0_10": 6.75,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.008402604829497094,
-    "macd_slope": -0.0011238286895172886,
-    "rsi": 54.07609046127621,
-    "rsi_slope": -0.3760394550070311,
-    "wave_strength": 1.059797323367374,
-    "adx": 20.513564552257268,
-    "atr": 0.10588208776192062,
-    "obv_slope": 6443.714285714285,
+    "score_0_100": 68.92,
+    "score_0_10": 6.89,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.00992994371271412,
+    "macd_slope": -0.0014649809458695561,
+    "rsi": 47.742735409912605,
+    "rsi_slope": -1.766737094495483,
+    "wave_strength": 1.052235425963035,
+    "adx": 20.56948974969189,
+    "atr": 0.10403999551160943,
+    "obv_slope": 1996.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 29580.6,
-    "last_close": 1.350000023841858,
+    "avg_vol20": 27027.3,
+    "last_close": 1.3858000040054321,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2079,11 +2079,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 1.26010000705719,
+      "Open": 1.3300000429153442,
       "High": 1.399999976158142,
-      "Low": 1.26010000705719,
+      "Low": 1.2599999904632568,
       "Close": 1.350000023841858,
-      "Volume": 8412.0
+      "Volume": 8500.0
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 1.4299999475479126,
+      "High": 1.4299999475479126,
+      "Low": 1.350000023841858,
+      "Close": 1.3858000040054321,
+      "Volume": 9146.0
     }
   ]
 }

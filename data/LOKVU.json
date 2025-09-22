@@ -1,20 +1,20 @@
 {
   "ticker": "LOKVU",
   "indicators": {
-    "score_0_100": 93.13,
-    "score_0_10": 9.31,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.012397624789590084,
-    "macd_slope": 0.0020847518202085397,
-    "rsi": 0.0,
-    "rsi_slope": -1.4652056935695075,
-    "wave_strength": 1.0066568030041423,
-    "adx": 24.720687971400746,
-    "atr": 0.0645865138530592,
-    "obv_slope": 407.5,
+    "score_0_100": 78.84,
+    "score_0_10": 7.88,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.014403559243509736,
+    "macd_slope": 0.0016214684136593963,
+    "rsi": 18.182131130229152,
+    "rsi_slope": -0.16648204141028242,
+    "wave_strength": 1.0065121927974756,
+    "adx": 25.04286115356009,
+    "atr": 0.06140179556096011,
+    "obv_slope": 7.428571428571429,
     "mom14": 0.0,
-    "avg_vol20": 570.25,
-    "last_close": 10.40999984741211,
+    "avg_vol20": 575.2,
+    "last_close": 10.430000305175781,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1147,7 +1147,15 @@
       "High": 10.40999984741211,
       "Low": 10.40999984741211,
       "Close": 10.40999984741211,
-      "Volume": 105.0
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 10.430000305175781,
+      "High": 10.430000305175781,
+      "Low": 10.430000305175781,
+      "Close": 10.430000305175781,
+      "Volume": 104.0
     }
   ]
 }

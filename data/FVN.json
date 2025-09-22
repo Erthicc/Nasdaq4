@@ -1,8 +1,8 @@
 {
   "ticker": "FVN",
   "indicators": {
-    "score_0_100": 67.75,
-    "score_0_10": 6.77,
+    "score_0_100": 67.21,
+    "score_0_10": 6.72,
     "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
     "macd_hist": 3.934625555138387e-05,
     "macd_slope": -0.00046395672228712997,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0013078908277113,
     "adx": 17.40961547052662,
     "atr": 0.006718583105227309,
-    "obv_slope": 3078.6428571428573,
+    "obv_slope": 3085.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 6850.05,
+    "avg_vol20": 6855.0,
     "last_close": 10.460000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1771,7 +1771,7 @@
       "High": 10.460000038146973,
       "Low": 10.460000038146973,
       "Close": 10.460000038146973,
-      "Volume": 1.0
+      "Volume": 100.0
     }
   ]
 }

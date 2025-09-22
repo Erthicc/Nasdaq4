@@ -1,34 +1,26 @@
 {
   "ticker": "SILO",
   "indicators": {
-    "score_0_100": 67.31,
-    "score_0_10": 6.73,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.007322720106171966,
-    "macd_slope": 0.0010001063965836218,
-    "rsi": 55.80912649657684,
-    "rsi_slope": 0.4449494442089887,
-    "wave_strength": 1.0764312094585131,
-    "adx": 25.26763748531804,
-    "atr": 0.057822934345168775,
-    "obv_slope": -822321.5,
+    "score_0_100": 69.41,
+    "score_0_10": 6.94,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.011350722577528272,
+    "macd_slope": 0.0012165831085634462,
+    "rsi": 62.592201683761,
+    "rsi_slope": 1.4889033682716868,
+    "wave_strength": 1.064085996004788,
+    "adx": 27.381802221744667,
+    "atr": 0.0611070103641403,
+    "obv_slope": -750645.4285714285,
     "mom14": 0.0,
-    "avg_vol20": 943780.05,
-    "last_close": 0.6840000152587891,
+    "avg_vol20": 988878.2,
+    "last_close": 0.7833999991416931,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 1.5099999904632568,
-      "High": 1.5549999475479126,
-      "Low": 1.5099999904632568,
-      "Close": 1.5499999523162842,
-      "Volume": 37100
-    },
     {
       "Date": "2023-12-19",
       "Open": 1.5499999523162842,
@@ -3499,7 +3491,7 @@
       "High": 0.6899999976158142,
       "Low": 0.652999997138977,
       "Close": 0.6549999713897705,
-      "Volume": 166600
+      "Volume": 171000
     },
     {
       "Date": "2025-09-15",
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 0.7192000150680542,
+      "Open": 0.718999981880188,
       "High": 0.75,
       "Low": 0.6840000152587891,
       "Close": 0.6840000152587891,
-      "Volume": 642201
+      "Volume": 645000
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 0.7210000157356262,
+      "High": 0.7878000140190125,
+      "Low": 0.6937999725341797,
+      "Close": 0.7833999991416931,
+      "Volume": 1082264
     }
   ]
 }

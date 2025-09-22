@@ -1,16 +1,16 @@
 {
   "ticker": "SVIIU",
   "indicators": {
-    "score_0_100": 72.66,
-    "score_0_10": 7.27,
+    "score_0_100": 71.99,
+    "score_0_10": 7.2,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0051732022451162485,
-    "macd_slope": 0.0026598009435877296,
+    "macd_hist": 0.011344465346394689,
+    "macd_slope": 0.003319493961234896,
     "rsi": 28.94734999234616,
     "rsi_slope": 2.0676678565961546,
     "wave_strength": 1.0,
-    "adx": 38.25931419917634,
-    "atr": 0.06756390150339407,
+    "adx": 35.8041635139842,
+    "atr": 0.06273790854042106,
     "obv_slope": 35.714285714285715,
     "mom14": 0.0,
     "avg_vol20": 55.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 10.9399995803833,
-      "High": 10.9399995803833,
-      "Low": 10.9399995803833,
-      "Close": 10.9399995803833,
-      "Volume": 500.0
-    },
     {
       "Date": "2023-12-19",
       "Open": 10.9399995803833,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-09-18",
+      "Open": 12.25,
+      "High": 12.25,
+      "Low": 12.25,
+      "Close": 12.25,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-19",
       "Open": 12.25,
       "High": 12.25,
       "Low": 12.25,
