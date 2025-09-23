@@ -1,34 +1,26 @@
 {
   "ticker": "EWTX",
   "indicators": {
-    "score_0_100": 68.26,
-    "score_0_10": 6.83,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.0008730124367418712,
-    "macd_slope": -0.006132978943893893,
-    "rsi": 51.634882401419304,
-    "rsi_slope": -1.1422154398942743,
-    "wave_strength": 1.0644823887680361,
-    "adx": 20.271508783444972,
-    "atr": 0.8144406037560806,
-    "obv_slope": -237304.7142857143,
+    "score_0_100": 71.15,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.026307451934736825,
+    "macd_slope": -0.0033328150459030243,
+    "rsi": 53.192981816224695,
+    "rsi_slope": -0.5690066952620236,
+    "wave_strength": 1.0322139856169452,
+    "adx": 21.607744536219144,
+    "atr": 0.7923377117173833,
+    "obv_slope": -214426.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 971261.7,
-    "last_close": 15.100000381469727,
+    "avg_vol20": 982463.4,
+    "last_close": 15.09000015258789,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 8.0,
-      "High": 9.390000343322754,
-      "Low": 8.0,
-      "Close": 9.15999984741211,
-      "Volume": 564500
-    },
     {
       "Date": "2023-12-20",
       "Open": 9.210000038146973,
@@ -3539,7 +3531,15 @@
       "High": 15.130000114440918,
       "Low": 14.279999732971191,
       "Close": 15.100000381469727,
-      "Volume": 885634
+      "Volume": 886100
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 15.109999656677246,
+      "High": 15.444999694824219,
+      "Low": 14.9399995803833,
+      "Close": 15.09000015258789,
+      "Volume": 708968
     }
   ]
 }

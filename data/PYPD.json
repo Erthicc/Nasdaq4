@@ -1,34 +1,26 @@
 {
   "ticker": "PYPD",
   "indicators": {
-    "score_0_100": 68.28,
-    "score_0_10": 6.83,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.009356376927782037,
-    "macd_slope": 0.0010571674826274238,
-    "rsi": 60.937490517917894,
-    "rsi_slope": 0.8512773645553534,
-    "wave_strength": 1.0187745485730242,
-    "adx": 8.703375603658797,
-    "atr": 0.1319941289448873,
-    "obv_slope": 26652.85714285714,
+    "score_0_100": 71.7,
+    "score_0_10": 7.17,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.00593131335156467,
+    "macd_slope": 0.0006799797682049096,
+    "rsi": 51.35134950906236,
+    "rsi_slope": 0.65208002562796,
+    "wave_strength": 1.0334788683820069,
+    "adx": 9.161256649632367,
+    "atr": 0.1318516823105788,
+    "obv_slope": 10756.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 54382.0,
-    "last_close": 3.549999952316284,
+    "avg_vol20": 47055.35,
+    "last_close": 3.440000057220459,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 4.050000190734863,
-      "High": 4.25,
-      "Low": 4.050000190734863,
-      "Close": 4.144999980926514,
-      "Volume": 1000
-    },
     {
       "Date": "2023-12-20",
       "Open": 4.050000190734863,
@@ -3539,7 +3531,15 @@
       "High": 3.559999942779541,
       "Low": 3.450000047683716,
       "Close": 3.549999952316284,
-      "Volume": 48540
+      "Volume": 48500
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 3.5199999809265137,
+      "High": 3.559999942779541,
+      "Low": 3.430000066757202,
+      "Close": 3.440000057220459,
+      "Volume": 47107
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "ATHR",
   "indicators": {
-    "score_0_100": 68.66,
-    "score_0_10": 6.87,
+    "score_0_100": 72.26,
+    "score_0_10": 7.23,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.08516796809339966,
-    "macd_slope": 0.012993406643971648,
-    "rsi": 30.676857699552798,
-    "rsi_slope": -0.14396097199886324,
-    "wave_strength": 0.9182673615517055,
-    "adx": 30.796973811497907,
-    "atr": 0.7436841141043145,
-    "obv_slope": -12577.142857142857,
+    "macd_hist": 0.09235079124269241,
+    "macd_slope": 0.012924634207927579,
+    "rsi": 31.222223479068347,
+    "rsi_slope": 0.0021113854742215005,
+    "wave_strength": 0.9089728579658827,
+    "adx": 31.11721164930183,
+    "atr": 0.7141352433615816,
+    "obv_slope": -11564.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 51901.0,
-    "last_close": 5.25,
+    "avg_vol20": 40239.85,
+    "last_close": 5.0,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -923,7 +923,15 @@
       "High": 5.429999828338623,
       "Low": 4.980000019073486,
       "Close": 5.25,
-      "Volume": 28920.0
+      "Volume": 29100.0
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 5.329999923706055,
+      "High": 5.329999923706055,
+      "Low": 5.0,
+      "Close": 5.0,
+      "Volume": 7497.0
     }
   ]
 }

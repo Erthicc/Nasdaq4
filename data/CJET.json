@@ -1,34 +1,26 @@
 {
   "ticker": "CJET",
   "indicators": {
-    "score_0_100": 92.81,
-    "score_0_10": 9.28,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.034868449997732864,
-    "macd_slope": 0.006229086167987065,
-    "rsi": 25.369458902033287,
-    "rsi_slope": -0.0366351762201802,
-    "wave_strength": 0.5143160289272861,
-    "adx": 54.20599128962959,
-    "atr": 0.1523865608108947,
-    "obv_slope": 114162234.0,
+    "score_0_100": 86.79,
+    "score_0_10": 8.68,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.0433388575578284,
+    "macd_slope": 0.011169754938489564,
+    "rsi": 40.64719643872202,
+    "rsi_slope": 1.210629519375722,
+    "wave_strength": 0.5931996260861366,
+    "adx": 53.284631101576586,
+    "atr": 0.14440537688505967,
+    "obv_slope": 116562971.42857143,
     "mom14": 0.0,
-    "avg_vol20": 101365391.2,
-    "last_close": 0.1899999976158142,
+    "avg_vol20": 103445760.0,
+    "last_close": 0.1501999944448471,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 29.15999984741211,
-      "High": 30.0,
-      "Low": 27.0,
-      "Close": 28.260000228881836,
-      "Volume": 2770
-    },
     {
       "Date": "2023-12-20",
       "Open": 29.700000762939453,
@@ -3531,15 +3523,23 @@
       "High": 0.3409999907016754,
       "Low": 0.1420000046491623,
       "Close": 0.29100000858306885,
-      "Volume": 1686716700
+      "Volume": 1700329800
     },
     {
       "Date": "2025-09-22",
-      "Open": 0.22589999437332153,
-      "High": 0.2264000028371811,
-      "Low": 0.15569999814033508,
+      "Open": 0.22599999606609344,
+      "High": 0.22599999606609344,
+      "Low": 0.1550000011920929,
       "Close": 0.1899999976158142,
-      "Volume": 86418324
+      "Volume": 90414000
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 0.17520000040531158,
+      "High": 0.18299999833106995,
+      "Low": 0.15000000596046448,
+      "Close": 0.1501999944448471,
+      "Volume": 24026700
     }
   ]
 }

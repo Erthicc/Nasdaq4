@@ -1,34 +1,26 @@
 {
   "ticker": "ZTEK",
   "indicators": {
-    "score_0_100": 71.37,
-    "score_0_10": 7.14,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.011160196248555326,
-    "macd_slope": -0.0004973010722725615,
-    "rsi": 51.84929390939212,
-    "rsi_slope": -0.005269989450338995,
-    "wave_strength": 1.1012570751405664,
-    "adx": 49.10629230213148,
-    "atr": 0.08859843963339999,
-    "obv_slope": -32761.85714285714,
+    "score_0_100": 71.35,
+    "score_0_10": 7.13,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.008017585606169744,
+    "macd_slope": -0.0012246621756540476,
+    "rsi": 57.39951705952603,
+    "rsi_slope": 0.4611512355983055,
+    "wave_strength": 1.0835797329695829,
+    "adx": 48.459788726923684,
+    "atr": 0.08529905973157345,
+    "obv_slope": 15029.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 843473.3,
-    "last_close": 0.9214000105857849,
+    "avg_vol20": 843880.5,
+    "last_close": 0.9298999905586243,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 1.059999942779541,
-      "High": 1.149999976158142,
-      "Low": 1.0499999523162842,
-      "Close": 1.1399999856948853,
-      "Volume": 11900
-    },
     {
       "Date": "2023-12-20",
       "Open": 1.1200000047683716,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-22",
       "Open": 0.9300000071525574,
-      "High": 0.9498000144958496,
-      "Low": 0.9125000238418579,
-      "Close": 0.9214000105857849,
-      "Volume": 46866
+      "High": 0.949999988079071,
+      "Low": 0.9100000262260437,
+      "Close": 0.9200000166893005,
+      "Volume": 46800
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 0.9399999976158142,
+      "High": 0.9399999976158142,
+      "Low": 0.9000999927520752,
+      "Close": 0.9298999905586243,
+      "Volume": 69710
     }
   ]
 }

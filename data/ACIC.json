@@ -1,34 +1,26 @@
 {
   "ticker": "ACIC",
   "indicators": {
-    "score_0_100": 66.82,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.014770652997445566,
-    "macd_slope": -0.0024641182966176614,
-    "rsi": 52.52918418150393,
-    "rsi_slope": -0.7192319727033661,
-    "wave_strength": 1.0006786166092272,
-    "adx": 13.112330943002917,
-    "atr": 0.3233903944198457,
-    "obv_slope": 38835.357142857145,
+    "score_0_100": 72.42,
+    "score_0_10": 7.24,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.007537065086135983,
+    "macd_slope": -0.0032342310815793446,
+    "rsi": 49.99999974074082,
+    "rsi_slope": -0.39682509294704865,
+    "wave_strength": 1.0337828727775191,
+    "adx": 13.811192238881512,
+    "atr": 0.3238625036595187,
+    "obv_slope": 38573.21428571428,
     "mom14": 0.0,
-    "avg_vol20": 180819.75,
-    "last_close": 11.460000038146973,
+    "avg_vol20": 180063.75,
+    "last_close": 11.15999984741211,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 8.059078932616769,
-      "High": 8.242021503960352,
-      "Low": 8.049450182914873,
-      "Close": 8.203507423400879,
-      "Volume": 390800
-    },
     {
       "Date": "2023-12-20",
       "Open": 8.270906270353064,
@@ -3539,7 +3531,15 @@
       "High": 11.550000190734863,
       "Low": 11.170000076293945,
       "Close": 11.460000038146973,
-      "Volume": 183195
+      "Volume": 188600
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 11.479999542236328,
+      "High": 11.479999542236328,
+      "Low": 11.149999618530273,
+      "Close": 11.15999984741211,
+      "Volume": 120075
     }
   ]
 }

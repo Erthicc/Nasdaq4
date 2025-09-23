@@ -1,19 +1,19 @@
 {
   "ticker": "TVACU",
   "indicators": {
-    "score_0_100": 67.49,
-    "score_0_10": 6.75,
-    "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.0006746807060293912,
-    "macd_slope": 6.0831504809647765e-05,
+    "score_0_100": 71.32,
+    "score_0_10": 7.13,
+    "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": -0.0005882549669564737,
+    "macd_slope": 5.7326111790331684e-05,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 98.43265250429785,
-    "atr": 0.001160098391585741,
-    "obv_slope": 0.0,
+    "adx": 98.46940218495763,
+    "atr": 0.0010002889192754602,
+    "obv_slope": 0.07142857142857142,
     "mom14": 0.0,
-    "avg_vol20": 30.0,
+    "avg_vol20": 30.05,
     "last_close": 10.229999542236328,
     "macd_bull": 0,
     "bb_breakout": 0,
@@ -852,6 +852,22 @@
       "Low": 10.229999542236328,
       "Close": 10.229999542236328,
       "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 10.229999542236328,
+      "High": 10.229999542236328,
+      "Low": 10.229999542236328,
+      "Close": 10.229999542236328,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 10.229999542236328,
+      "High": 10.229999542236328,
+      "Low": 10.229999542236328,
+      "Close": 10.229999542236328,
+      "Volume": 1.0
     }
   ]
 }

@@ -1,23 +1,23 @@
 {
   "ticker": "YAAS",
   "indicators": {
-    "score_0_100": 71.58,
-    "score_0_10": 7.16,
-    "explanation": "recent MACD bullish crossover; recent volume spike (penalized); RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.013447491055498528,
-    "macd_slope": -0.0014492913577595615,
-    "rsi": 10.357496960714698,
-    "rsi_slope": -1.460951668644454,
-    "wave_strength": 0.5010510452846924,
-    "adx": 18.10617302780394,
-    "atr": 0.05132132675034567,
-    "obv_slope": 37573217.928571425,
+    "score_0_100": 94.74,
+    "score_0_10": 9.47,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.014788932605492189,
+    "macd_slope": -0.0012803074882207222,
+    "rsi": 9.76244701931418,
+    "rsi_slope": -1.5034544397492309,
+    "wave_strength": 0.5417691459816046,
+    "adx": 17.597615113176968,
+    "atr": 0.048761129536518386,
+    "obv_slope": 30972360.214285713,
     "mom14": 0.0,
-    "avg_vol20": 67263492.45,
-    "last_close": 0.08370000123977661,
+    "avg_vol20": 72274127.85,
+    "last_close": 0.0746999979019165,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
@@ -1507,15 +1507,23 @@
       "High": 0.14800000190734863,
       "Low": 0.08299999684095383,
       "Close": 0.08699999749660492,
-      "Volume": 646174000.0
+      "Volume": 650356900.0
     },
     {
       "Date": "2025-09-22",
-      "Open": 0.09929999709129333,
-      "High": 0.10869999974966049,
+      "Open": 0.0989999994635582,
+      "High": 0.10899999737739563,
       "Low": 0.07999999821186066,
-      "Close": 0.08370000123977661,
-      "Volume": 137352449.0
+      "Close": 0.08399999886751175,
+      "Volume": 142278200.0
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 0.06880000233650208,
+      "High": 0.07890000194311142,
+      "Low": 0.06880000233650208,
+      "Close": 0.0746999979019165,
+      "Volume": 91360657.0
     }
   ]
 }

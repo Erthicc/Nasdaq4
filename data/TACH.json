@@ -1,20 +1,20 @@
 {
   "ticker": "TACH",
   "indicators": {
-    "score_0_100": 69.2,
-    "score_0_10": 6.92,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0015454275162196966,
-    "macd_slope": 0.0003343699985148426,
-    "rsi": 56.25028818656918,
-    "rsi_slope": 0.4464499895240692,
-    "wave_strength": 0.9984437320665156,
-    "adx": 62.70407539285226,
-    "atr": 0.012187016506880618,
-    "obv_slope": 16841.14285714286,
+    "score_0_100": 76.16,
+    "score_0_10": 7.62,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.002078505403078015,
+    "macd_slope": 0.0003795917073075023,
+    "rsi": 49.99999222207179,
+    "rsi_slope": 2.7777425566049327e-07,
+    "wave_strength": 1.0019515539013295,
+    "adx": 61.58101908522544,
+    "atr": 0.012030817390805998,
+    "obv_slope": 14944.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 18733.8,
-    "last_close": 10.140000343322754,
+    "avg_vol20": 19913.6,
+    "last_close": 10.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -643,7 +643,15 @@
       "High": 10.140000343322754,
       "Low": 10.140000343322754,
       "Close": 10.140000343322754,
-      "Volume": 1876.0
+      "Volume": 900.0
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 10.140000343322754,
+      "High": 10.140000343322754,
+      "Low": 10.130000114440918,
+      "Close": 10.130000114440918,
+      "Volume": 25572.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "BYRN",
   "indicators": {
-    "score_0_100": 70.98,
-    "score_0_10": 7.1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.32808976514865473,
-    "macd_slope": 0.0018857364752276856,
-    "rsi": 57.86241441245748,
-    "rsi_slope": 0.6356977840264731,
-    "wave_strength": 1.0193900262414535,
-    "adx": 17.28593090017626,
-    "atr": 1.2085770938027796,
-    "obv_slope": 99359.5,
+    "score_0_100": 72.58,
+    "score_0_10": 7.26,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.35055271804681454,
+    "macd_slope": 0.0041933900098888865,
+    "rsi": 61.4080860533398,
+    "rsi_slope": 0.8986071541753162,
+    "wave_strength": 1.0825121340410973,
+    "adx": 17.965127059988507,
+    "atr": 1.189321547735504,
+    "obv_slope": 85751.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 508911.65,
-    "last_close": 22.079999923706055,
+    "avg_vol20": 498338.9,
+    "last_close": 22.059999465942383,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 6.139999866485596,
-      "High": 6.440000057220459,
-      "Low": 5.989999771118164,
-      "Close": 6.139999866485596,
-      "Volume": 160000
-    },
     {
       "Date": "2023-12-20",
       "Open": 6.25,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-22",
-      "Open": 21.010000228881836,
+      "Open": 21.219999313354492,
       "High": 22.260000228881836,
-      "Low": 20.77199935913086,
+      "Low": 20.729999542236328,
       "Close": 22.079999923706055,
-      "Volume": 482033
+      "Volume": 490200
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 22.200000762939453,
+      "High": 22.6299991607666,
+      "Low": 21.729999542236328,
+      "Close": 22.059999465942383,
+      "Volume": 530978
     }
   ]
 }
