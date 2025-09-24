@@ -1,9 +1,9 @@
 {
   "ticker": "GSHRU",
   "indicators": {
-    "score_0_100": 95.13,
+    "score_0_100": 95.12,
     "score_0_10": 9.51,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.001810851919050959,
     "macd_slope": 0.0005154959569568238,
     "rsi": 0.0,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0,
     "adx": 34.45298149340734,
     "atr": 0.005401312039422339,
-    "obv_slope": 0.7142857142857143,
+    "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 10.5,
+    "avg_vol20": 10.0,
     "last_close": 10.300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1039,11 +1039,11 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 10.229999542236328,
+      "Open": 10.300000190734863,
       "High": 10.300000190734863,
       "Low": 10.300000190734863,
       "Close": 10.300000190734863,
-      "Volume": 10.0
+      "Volume": 0.0
     }
   ]
 }

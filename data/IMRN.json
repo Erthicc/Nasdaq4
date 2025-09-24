@@ -1,34 +1,26 @@
 {
   "ticker": "IMRN",
   "indicators": {
-    "score_0_100": 71.13,
-    "score_0_10": 7.11,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00017562118727480064,
-    "macd_slope": -0.0006488597186235021,
+    "score_0_100": 71.29,
+    "score_0_10": 7.13,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.0016616616782426374,
+    "macd_slope": -0.000702489172324157,
     "rsi": 52.36592695181101,
-    "rsi_slope": -0.5038827816696845,
-    "wave_strength": 1.0464426667377247,
-    "adx": 14.965417279932696,
-    "atr": 0.0921504681322545,
-    "obv_slope": 3075.785714285714,
+    "rsi_slope": -0.2278300758434543,
+    "wave_strength": 1.0416667000043878,
+    "adx": 15.074550193263182,
+    "atr": 0.08841829644244338,
+    "obv_slope": -14.5,
     "mom14": 0.0,
-    "avg_vol20": 41896.95,
-    "last_close": 1.8899999856948853,
+    "avg_vol20": 41524.85,
+    "last_close": 1.9199999570846558,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 1.909999966621399,
-      "High": 1.909999966621399,
-      "Low": 1.899999976158142,
-      "Close": 1.899999976158142,
-      "Volume": 1000
-    },
     {
       "Date": "2023-12-21",
       "Open": 1.9299999475479126,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-23",
       "Open": 1.8949999809265137,
-      "High": 1.9199999570846558,
+      "High": 1.9299999475479126,
       "Low": 1.8700000047683716,
       "Close": 1.8899999856948853,
-      "Volume": 41239
+      "Volume": 46700
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 1.8899999856948853,
+      "High": 1.929900050163269,
+      "Low": 1.8899999856948853,
+      "Close": 1.9199999570846558,
+      "Volume": 11997
     }
   ]
 }

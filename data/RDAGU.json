@@ -1,9 +1,9 @@
 {
   "ticker": "RDAGU",
   "indicators": {
-    "score_0_100": 76.49,
-    "score_0_10": 7.65,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred); rising OBV (confirmation)",
+    "score_0_100": 93.76,
+    "score_0_10": 9.38,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.001091438968538,
     "macd_slope": 0.000199646226749416,
     "rsi": 0.0,
@@ -11,13 +11,13 @@
     "wave_strength": 1.0225258750230357,
     "adx": 34.14954150015498,
     "atr": 0.01982636496938214,
-    "obv_slope": 736.0,
+    "obv_slope": 350.0,
     "mom14": 0.0,
-    "avg_vol20": 685.2,
+    "avg_vol20": 415.0,
     "last_close": 10.510000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
@@ -815,11 +815,11 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 10.529999732971191,
+      "Open": 10.510000228881836,
       "High": 10.510000228881836,
       "Low": 10.510000228881836,
       "Close": 10.510000228881836,
-      "Volume": 5404.0
+      "Volume": 0.0
     }
   ]
 }

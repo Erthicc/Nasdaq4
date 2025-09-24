@@ -1,20 +1,20 @@
 {
   "ticker": "ADGM",
   "indicators": {
-    "score_0_100": 71.89,
-    "score_0_10": 7.19,
+    "score_0_100": 70.92,
+    "score_0_10": 7.09,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03160785025776011,
-    "macd_slope": -0.001067276319260253,
-    "rsi": 62.53968099862321,
-    "rsi_slope": -0.744021274328631,
-    "wave_strength": 1.1133201098224739,
-    "adx": 23.545810462867315,
-    "atr": 0.21050223730121173,
-    "obv_slope": 1005398.1428571428,
+    "macd_hist": 0.047007747605251254,
+    "macd_slope": 0.0002531090545863581,
+    "rsi": 64.67066027769512,
+    "rsi_slope": -0.6601704587206864,
+    "wave_strength": 1.0890052607727891,
+    "adx": 24.877913607080067,
+    "atr": 0.20760207324331967,
+    "obv_slope": 1010488.5714285715,
     "mom14": 0.0,
-    "avg_vol20": 831858.7,
-    "last_close": 2.0299999713897705,
+    "avg_vol20": 835812.0,
+    "last_close": 2.140000104904175,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -2315,7 +2315,15 @@
       "High": 2.180000066757202,
       "Low": 1.75,
       "Close": 2.0299999713897705,
-      "Volume": 501774.0
+      "Volume": 509900.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 2.0899999141693115,
+      "High": 2.199899911880493,
+      "Low": 2.049999952316284,
+      "Close": 2.140000104904175,
+      "Volume": 136540.0
     }
   ]
 }

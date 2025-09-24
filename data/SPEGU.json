@@ -1,7 +1,7 @@
 {
   "ticker": "SPEGU",
   "indicators": {
-    "score_0_100": 75.04,
+    "score_0_100": 75.0,
     "score_0_10": 7.5,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.00418789061406505,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0026919189306502,
     "adx": 46.98522904511292,
     "atr": 0.015913299216244632,
-    "obv_slope": 11466.357142857143,
+    "obv_slope": 11464.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 11316.45,
+    "avg_vol20": 11315.0,
     "last_close": 10.170000076293945,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -415,11 +415,11 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 10.15999984741211,
+      "Open": 10.170000076293945,
       "High": 10.170000076293945,
       "Low": 10.170000076293945,
       "Close": 10.170000076293945,
-      "Volume": 29.0
+      "Volume": 0.0
     }
   ]
 }

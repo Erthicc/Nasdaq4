@@ -1,9 +1,9 @@
 {
   "ticker": "CHACU",
   "indicators": {
-    "score_0_100": 77.62,
-    "score_0_10": 7.76,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred); rising OBV (confirmation)",
+    "score_0_100": 94.89,
+    "score_0_10": 9.49,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0011651365074449305,
     "macd_slope": 9.589694339628403e-06,
     "rsi": 0.0,
@@ -11,13 +11,13 @@
     "wave_strength": 1.0204678395187383,
     "adx": 30.1137822923426,
     "atr": 0.002804100249936343,
-    "obv_slope": 1.7857142857142858,
+    "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 1.25,
+    "avg_vol20": 0.0,
     "last_close": 10.260000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
@@ -851,7 +851,7 @@
       "High": 10.260000228881836,
       "Low": 10.260000228881836,
       "Close": 10.260000228881836,
-      "Volume": 25.0
+      "Volume": 0.0
     }
   ]
 }

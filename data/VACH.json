@@ -1,22 +1,22 @@
 {
   "ticker": "VACH",
   "indicators": {
-    "score_0_100": 73.36,
-    "score_0_10": 7.34,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.0042205805928539585,
-    "macd_slope": 0.00013629090317198125,
-    "rsi": 61.90480102830395,
-    "rsi_slope": -1.1788778372588016,
-    "wave_strength": 1.0015334285971775,
-    "adx": 45.60331098250457,
-    "atr": 0.024733607404508647,
-    "obv_slope": -2053.6428571428573,
+    "score_0_100": 70.77,
+    "score_0_10": 7.08,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0031880938054442663,
+    "macd_slope": 0.0001493446524934394,
+    "rsi": 57.93217686942229,
+    "rsi_slope": 0.23588856101043781,
+    "wave_strength": 1.0061538283970273,
+    "adx": 49.93239258973704,
+    "atr": 0.053732230787071844,
+    "obv_slope": 803.5714285714286,
     "mom14": 0.0,
-    "avg_vol20": 5952.45,
-    "last_close": 10.5,
+    "avg_vol20": 6042.5,
+    "last_close": 10.455599784851074,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -1983,11 +1983,19 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 10.569999694824219,
-      "High": 10.579999923706055,
-      "Low": 10.5,
+      "Open": 10.449999809265137,
+      "High": 10.989999771118164,
+      "Low": 10.449999809265137,
       "Close": 10.5,
-      "Volume": 449.0
+      "Volume": 2300.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.449999809265137,
+      "Close": 10.455599784851074,
+      "Volume": 1850.0
     }
   ]
 }

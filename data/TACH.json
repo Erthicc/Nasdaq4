@@ -1,8 +1,8 @@
 {
   "ticker": "TACH",
   "indicators": {
-    "score_0_100": 76.16,
-    "score_0_10": 7.62,
+    "score_0_100": 76.12,
+    "score_0_10": 7.61,
     "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
     "macd_hist": 0.002078505403078015,
     "macd_slope": 0.0003795917073075023,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0019515539013295,
     "adx": 61.58101908522544,
     "atr": 0.012030817390805998,
-    "obv_slope": 14944.857142857143,
+    "obv_slope": 14942.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 19913.6,
+    "avg_vol20": 19915.0,
     "last_close": 10.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -651,7 +651,7 @@
       "High": 10.140000343322754,
       "Low": 10.130000114440918,
       "Close": 10.130000114440918,
-      "Volume": 25572.0
+      "Volume": 25600.0
     }
   ]
 }

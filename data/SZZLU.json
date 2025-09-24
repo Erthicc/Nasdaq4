@@ -1,7 +1,7 @@
 {
   "ticker": "SZZLU",
   "indicators": {
-    "score_0_100": 94.77,
+    "score_0_100": 94.84,
     "score_0_10": 9.48,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0012738393416894794,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0309177860957788,
     "adx": 47.605644417885266,
     "atr": 0.01278640078292043,
-    "obv_slope": -10.714285714285714,
+    "obv_slope": -14.285714285714286,
     "mom14": 0.0,
-    "avg_vol20": 127.5,
+    "avg_vol20": 125.0,
     "last_close": 10.199999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -979,7 +979,7 @@
       "High": 10.199999809265137,
       "Low": 10.199999809265137,
       "Close": 10.199999809265137,
-      "Volume": 50.0
+      "Volume": 0.0
     }
   ]
 }

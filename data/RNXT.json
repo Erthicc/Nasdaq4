@@ -1,34 +1,26 @@
 {
   "ticker": "RNXT",
   "indicators": {
-    "score_0_100": 73.78,
-    "score_0_10": 7.38,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.013450154184880977,
-    "macd_slope": -0.0011771660242298496,
-    "rsi": 48.38709692205298,
-    "rsi_slope": -0.24066720659436008,
-    "wave_strength": 1.137870591597886,
-    "adx": 26.853805278954873,
-    "atr": 0.11573885310531447,
-    "obv_slope": 131368.07142857142,
+    "score_0_100": 73.71,
+    "score_0_10": 7.37,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0058930148334921315,
+    "macd_slope": -0.0022066845602007833,
+    "rsi": 50.84745573565453,
+    "rsi_slope": 0.2602767568195681,
+    "wave_strength": 1.1245931084637635,
+    "adx": 26.487995032926694,
+    "atr": 0.11461464249849777,
+    "obv_slope": 138242.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 787177.35,
-    "last_close": 1.2300000190734863,
+    "avg_vol20": 810840.1,
+    "last_close": 1.2000000476837158,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 0.7099999785423279,
-      "High": 0.7170000076293945,
-      "Low": 0.6779999732971191,
-      "Close": 0.7099999785423279,
-      "Volume": 21900
-    },
     {
       "Date": "2023-12-21",
       "Open": 0.7289999723434448,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 1.2899999618530273,
+      "Open": 1.2999999523162842,
       "High": 1.2999999523162842,
       "Low": 1.2300000190734863,
       "Close": 1.2300000190734863,
-      "Volume": 669647
+      "Volume": 673000
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 1.190000057220459,
+      "High": 1.2899999618530273,
+      "Low": 1.190000057220459,
+      "Close": 1.2000000476837158,
+      "Volume": 584802
     }
   ]
 }

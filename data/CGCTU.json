@@ -1,7 +1,7 @@
 {
   "ticker": "CGCTU",
   "indicators": {
-    "score_0_100": 93.95,
+    "score_0_100": 93.98,
     "score_0_10": 9.4,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.000901885740675957,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0147783820534084,
     "adx": 18.55870046069385,
     "atr": 0.00517522271646174,
-    "obv_slope": 10064.57142857143,
+    "obv_slope": 10064.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 7045.2,
+    "avg_vol20": 7045.0,
     "last_close": 10.149999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -811,7 +811,7 @@
       "High": 10.149999618530273,
       "Low": 10.149999618530273,
       "Close": 10.149999618530273,
-      "Volume": 4.0
+      "Volume": 0.0
     }
   ]
 }

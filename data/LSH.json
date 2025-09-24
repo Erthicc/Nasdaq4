@@ -1,20 +1,20 @@
 {
   "ticker": "LSH",
   "indicators": {
-    "score_0_100": 72.76,
-    "score_0_10": 7.28,
+    "score_0_100": 72.51,
+    "score_0_10": 7.25,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.014216442269086998,
-    "macd_slope": -0.0019428223741584014,
-    "rsi": 53.932585377756,
-    "rsi_slope": -2.0212417734870596,
-    "wave_strength": 1.2198894985472957,
-    "adx": 50.484490017999875,
-    "atr": 0.1367887857682192,
-    "obv_slope": 33132.21428571428,
+    "macd_hist": 0.012950942801827875,
+    "macd_slope": -0.0020963040035912187,
+    "rsi": 55.17240581792124,
+    "rsi_slope": -1.4337074013602706,
+    "wave_strength": 1.1460820962577107,
+    "adx": 51.411749244282994,
+    "atr": 0.12988244240954927,
+    "obv_slope": 38392.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 460632.55,
-    "last_close": 1.3200000524520874,
+    "avg_vol20": 460185.4,
+    "last_close": 1.2899999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2499,7 +2499,15 @@
       "High": 1.340000033378601,
       "Low": 1.2009999752044678,
       "Close": 1.3200000524520874,
-      "Volume": 42551.0
+      "Volume": 48000.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 1.2799999713897705,
+      "High": 1.320099949836731,
+      "Low": 1.2799999713897705,
+      "Close": 1.2899999618530273,
+      "Volume": 12708.0
     }
   ]
 }

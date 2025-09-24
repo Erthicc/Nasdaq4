@@ -1,23 +1,23 @@
 {
   "ticker": "YAAS",
   "indicators": {
-    "score_0_100": 94.74,
-    "score_0_10": 9.47,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.014788932605492189,
-    "macd_slope": -0.0012803074882207222,
-    "rsi": 9.76244701931418,
-    "rsi_slope": -1.5034544397492309,
-    "wave_strength": 0.5417691459816046,
-    "adx": 17.597615113176968,
-    "atr": 0.048761129536518386,
-    "obv_slope": 30972360.214285713,
+    "score_0_100": 74.57,
+    "score_0_10": 7.46,
+    "explanation": "recent MACD bullish crossover; recent volume spike (penalized); RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.01793396230566234,
+    "macd_slope": -0.000810928512485143,
+    "rsi": 20.318724608507168,
+    "rsi_slope": -0.20979212605843958,
+    "wave_strength": 0.5813176387179403,
+    "adx": 16.532305271625795,
+    "atr": 0.04926492626726113,
+    "obv_slope": 74066518.35714285,
     "mom14": 0.0,
-    "avg_vol20": 72274127.85,
-    "last_close": 0.0746999979019165,
+    "avg_vol20": 108702242.85,
+    "last_close": 0.10620000213384628,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
@@ -1519,11 +1519,19 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 0.06880000233650208,
-      "High": 0.07890000194311142,
-      "Low": 0.06880000233650208,
-      "Close": 0.0746999979019165,
-      "Volume": 91360657.0
+      "Open": 0.0689999982714653,
+      "High": 0.07999999821186066,
+      "Low": 0.0689999982714653,
+      "Close": 0.07500000298023224,
+      "Volume": 154530100.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 0.12460000067949295,
+      "High": 0.13099999725818634,
+      "Low": 0.09719999879598618,
+      "Close": 0.10620000213384628,
+      "Volume": 665625657.0
     }
   ]
 }

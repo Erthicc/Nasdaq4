@@ -1,34 +1,26 @@
 {
   "ticker": "NVDL",
   "indicators": {
-    "score_0_100": 70.94,
-    "score_0_10": 7.09,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.5032479794372418,
-    "macd_slope": 0.15278428136032143,
-    "rsi": 58.016982054445066,
-    "rsi_slope": 2.0198375420117003,
-    "wave_strength": 1.0867399157839799,
-    "adx": 21.253810158022297,
-    "atr": 4.976603236473598,
-    "obv_slope": 1451032.357142857,
+    "score_0_100": 72.57,
+    "score_0_10": 7.26,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.3599394858378069,
+    "macd_slope": 0.1431054209078617,
+    "rsi": 54.89331193645395,
+    "rsi_slope": 1.718384374057535,
+    "wave_strength": 1.0908393693933511,
+    "adx": 19.853266772440033,
+    "atr": 4.918274150595308,
+    "obv_slope": -32249.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 14994532.35,
-    "last_close": 85.98999786376953,
+    "avg_vol20": 14874839.4,
+    "last_close": 84.41000366210938,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 15.021397305835894,
-      "High": 15.187521402609136,
-      "Low": 14.343437183617711,
-      "Close": 14.34792709350586,
-      "Volume": 2683200
-    },
     {
       "Date": "2023-12-21",
       "Open": 14.693641379868842,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 89.30999755859375,
+      "Open": 89.4000015258789,
       "High": 89.9000015258789,
       "Low": 84.8499984741211,
       "Close": 85.98999786376953,
-      "Volume": 17462447
+      "Volume": 17657300
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 87.08499908447266,
+      "High": 87.16999816894531,
+      "Low": 83.01000213623047,
+      "Close": 84.41000366210938,
+      "Volume": 10728588
     }
   ]
 }

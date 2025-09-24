@@ -1,34 +1,26 @@
 {
   "ticker": "BREA",
   "indicators": {
-    "score_0_100": 70.87,
-    "score_0_10": 7.09,
+    "score_0_100": 73.75,
+    "score_0_10": 7.38,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 1.8915801709180262,
-    "macd_slope": 0.1389511308969313,
-    "rsi": 75.58992042670802,
-    "rsi_slope": 3.068586091497423,
-    "wave_strength": 2.6418537039906616,
-    "adx": 43.341513902020004,
-    "atr": 6.020764117995894,
-    "obv_slope": 421461.4285714286,
+    "macd_hist": 2.1056746074160406,
+    "macd_slope": 0.1538331566369961,
+    "rsi": 76.36759310709749,
+    "rsi_slope": 3.2146841606005765,
+    "wave_strength": 2.3900481336767574,
+    "adx": 47.1834751083632,
+    "atr": 6.017759447440217,
+    "obv_slope": 638270.0,
     "mom14": 0.0,
-    "avg_vol20": 2516968.0,
-    "last_close": 25.1200008392334,
+    "avg_vol20": 2668734.0,
+    "last_close": 26.360000610351562,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 5.579999923706055,
-      "High": 5.579999923706055,
-      "Low": 5.579999923706055,
-      "Close": 5.579999923706055,
-      "Volume": 0
-    },
     {
       "Date": "2023-12-21",
       "Open": 5.550000190734863,
@@ -3539,7 +3531,15 @@
       "High": 25.799999237060547,
       "Low": 16.260000228881836,
       "Close": 25.1200008392334,
-      "Volume": 3180360
+      "Volume": 3342300
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 24.229999542236328,
+      "High": 27.928699493408203,
+      "Low": 21.950000762939453,
+      "Close": 26.360000610351562,
+      "Volume": 2874980
     }
   ]
 }

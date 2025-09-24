@@ -1,34 +1,26 @@
 {
   "ticker": "CODA",
   "indicators": {
-    "score_0_100": 73.13,
-    "score_0_10": 7.31,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.0010709570052259698,
-    "macd_slope": -0.005233505685254476,
-    "rsi": 49.47915452591059,
-    "rsi_slope": -0.5735722284058521,
-    "wave_strength": 1.0272932820512073,
-    "adx": 24.432344462941256,
-    "atr": 0.3907912960527629,
-    "obv_slope": 908.7857142857143,
+    "score_0_100": 73.83,
+    "score_0_10": 7.38,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.025341127271362035,
+    "macd_slope": -0.0027709622041080734,
+    "rsi": 59.43113875776418,
+    "rsi_slope": 0.13728450564626474,
+    "wave_strength": 1.0229831802830955,
+    "adx": 25.55920864309775,
+    "atr": 0.40787048766290096,
+    "obv_slope": 7974.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 79948.85,
-    "last_close": 8.069999694824219,
+    "avg_vol20": 82747.4,
+    "last_close": 8.630000114440918,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 5.960000038146973,
-      "High": 6.099100112915039,
-      "Low": 5.949999809265137,
-      "Close": 5.960000038146973,
-      "Volume": 15300
-    },
     {
       "Date": "2023-12-21",
       "Open": 6.0,
@@ -3539,7 +3531,15 @@
       "High": 8.340499877929688,
       "Low": 8.024999618530273,
       "Close": 8.069999694824219,
-      "Volume": 38277
+      "Volume": 38300
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 8.15999984741211,
+      "High": 8.669899940490723,
+      "Low": 8.039999961853027,
+      "Close": 8.630000114440918,
+      "Volume": 76648
     }
   ]
 }

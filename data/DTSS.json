@@ -1,34 +1,26 @@
 {
   "ticker": "DTSS",
   "indicators": {
-    "score_0_100": 71.33,
-    "score_0_10": 7.13,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.0064555813439960905,
-    "macd_slope": -0.00142695640490229,
-    "rsi": 63.275918376290136,
-    "rsi_slope": 0.07806440552647384,
-    "wave_strength": 1.0137490055122542,
-    "adx": 22.24867752940037,
-    "atr": 0.12837784219279796,
-    "obv_slope": -931.5714285714286,
+    "score_0_100": 71.67,
+    "score_0_10": 7.17,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.012259384820602938,
+    "macd_slope": -0.0006240494926865355,
+    "rsi": 62.603424422610466,
+    "rsi_slope": -0.07236602392404937,
+    "wave_strength": 1.0118873656862377,
+    "adx": 22.872174877766213,
+    "atr": 0.12850952983045305,
+    "obv_slope": 9518.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 87477.9,
-    "last_close": 2.295099973678589,
+    "avg_vol20": 87688.05,
+    "last_close": 2.2985000610351562,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 2.684999942779541,
-      "High": 3.1050000190734863,
-      "Low": 2.684999942779541,
-      "Close": 2.9100000858306885,
-      "Volume": 42167
-    },
     {
       "Date": "2023-12-21",
       "Open": 2.9100000858306885,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 2.119999885559082,
+      "Open": 2.140000104904175,
       "High": 2.299999952316284,
-      "Low": 2.1171000003814697,
-      "Close": 2.295099973678589,
-      "Volume": 112858
+      "Low": 2.115999937057495,
+      "Close": 2.2950000762939453,
+      "Volume": 168200
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 2.2699999809265137,
+      "High": 2.3392999172210693,
+      "Low": 2.210099935531616,
+      "Close": 2.2985000610351562,
+      "Volume": 105561
     }
   ]
 }

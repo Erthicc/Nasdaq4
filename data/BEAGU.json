@@ -1,19 +1,19 @@
 {
   "ticker": "BEAGU",
   "indicators": {
-    "score_0_100": 75.71,
-    "score_0_10": 7.57,
+    "score_0_100": 75.62,
+    "score_0_10": 7.56,
     "explanation": "recent MACD bullish crossover; recent volume spike (penalized); RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.001973275147109623,
-    "macd_slope": 0.00033303010792276675,
+    "macd_hist": 0.0024896832864666797,
+    "macd_slope": 0.0002931828773851536,
     "rsi": 0.0,
     "rsi_slope": -1.0204218610119997,
-    "wave_strength": 1.0037664567637294,
-    "adx": 10.993386834797608,
-    "atr": 0.01357123836685462,
-    "obv_slope": 643.3571428571429,
+    "wave_strength": 1.004002800330879,
+    "adx": 10.32519246347069,
+    "atr": 0.013316098141187827,
+    "obv_slope": 1144.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 620.35,
+    "avg_vol20": 960.9,
     "last_close": 10.600000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1839,11 +1839,19 @@
     },
     {
       "Date": "2025-09-23",
-      "Open": 10.609999656677246,
+      "Open": 10.600000381469727,
       "High": 10.600000381469727,
       "Low": 10.600000381469727,
       "Close": 10.600000381469727,
-      "Volume": 4707.0
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 10.600000381469727,
+      "High": 10.609999656677246,
+      "Low": 10.600000381469727,
+      "Close": 10.600000381469727,
+      "Volume": 11718.0
     }
   ]
 }

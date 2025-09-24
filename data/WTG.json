@@ -1,7 +1,7 @@
 {
   "ticker": "WTG",
   "indicators": {
-    "score_0_100": 74.0,
+    "score_0_100": 73.95,
     "score_0_10": 7.4,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 4.728934775872183e-05,

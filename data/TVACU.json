@@ -1,9 +1,9 @@
 {
   "ticker": "TVACU",
   "indicators": {
-    "score_0_100": 71.32,
+    "score_0_100": 71.27,
     "score_0_10": 7.13,
-    "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.0005882549669564737,
     "macd_slope": 5.7326111790331684e-05,
     "rsi": 0.0,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0,
     "adx": 98.46940218495763,
     "atr": 0.0010002889192754602,
-    "obv_slope": 0.07142857142857142,
+    "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 30.05,
+    "avg_vol20": 30.0,
     "last_close": 10.229999542236328,
     "macd_bull": 0,
     "bb_breakout": 0,
@@ -867,7 +867,7 @@
       "High": 10.229999542236328,
       "Low": 10.229999542236328,
       "Close": 10.229999542236328,
-      "Volume": 1.0
+      "Volume": 0.0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "ticker": "RIBBU",
   "indicators": {
-    "score_0_100": 79.18,
-    "score_0_10": 7.92,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred); rising OBV (confirmation)",
+    "score_0_100": 96.44,
+    "score_0_10": 9.64,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0008732274894149737,
     "macd_slope": -3.298848758562451e-05,
     "rsi": 0.0,
@@ -11,13 +11,13 @@
     "wave_strength": 1.0143541220040595,
     "adx": 50.740847084140576,
     "atr": 0.004731442345408615,
-    "obv_slope": 7.571428571428571,
+    "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 20.3,
+    "avg_vol20": 15.0,
     "last_close": 10.449999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
@@ -1403,7 +1403,7 @@
       "High": 10.449999809265137,
       "Low": 10.449999809265137,
       "Close": 10.449999809265137,
-      "Volume": 106.0
+      "Volume": 0.0
     }
   ]
 }

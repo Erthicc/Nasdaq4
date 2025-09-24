@@ -1,34 +1,26 @@
 {
   "ticker": "VELO",
   "indicators": {
-    "score_0_100": 76.55,
-    "score_0_10": 7.66,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.07538103696692477,
-    "macd_slope": 0.0030495108295671624,
-    "rsi": 22.65626168476571,
-    "rsi_slope": -0.6735213916068788,
-    "wave_strength": 0.8998875228846803,
-    "adx": 10.378948564136627,
-    "atr": 0.5112472931252595,
-    "obv_slope": -28712.64285714286,
+    "score_0_100": 72.19,
+    "score_0_10": 7.22,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.08305681306964507,
+    "macd_slope": 0.004439897759542859,
+    "rsi": 28.571434296390407,
+    "rsi_slope": -0.22276475634358864,
+    "wave_strength": 0.9102545949611192,
+    "adx": 9.765874754786248,
+    "atr": 0.4840153517278476,
+    "obv_slope": 7797.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 316496.15,
-    "last_close": 3.140000104904175,
+    "avg_vol20": 305148.5,
+    "last_close": 3.1700000762939453,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 278.25,
-      "High": 300.29998779296875,
-      "Low": 259.3500061035156,
-      "Close": 265.6499938964844,
-      "Volume": 16708
-    },
     {
       "Date": "2023-12-21",
       "Open": 259.875,
@@ -3539,7 +3531,15 @@
       "High": 3.3299999237060547,
       "Low": 3.109999895095825,
       "Close": 3.140000104904175,
-      "Volume": 236123
+      "Volume": 237100
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 3.140000104904175,
+      "High": 3.240000009536743,
+      "Low": 3.109999895095825,
+      "Close": 3.1700000762939453,
+      "Volume": 292970
     }
   ]
 }
