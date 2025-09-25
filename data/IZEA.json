@@ -1,34 +1,26 @@
 {
   "ticker": "IZEA",
   "indicators": {
-    "score_0_100": 70.7,
-    "score_0_10": 7.07,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.012901447939482374,
-    "macd_slope": 0.007455986311945064,
-    "rsi": 55.02958601076589,
-    "rsi_slope": 1.0823065344895515,
-    "wave_strength": 1.089816354102851,
-    "adx": 17.470131349827003,
-    "atr": 0.3015241859488023,
-    "obv_slope": -3111.6428571428573,
+    "score_0_100": 65.79,
+    "score_0_10": 6.58,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.010186960346442543,
+    "macd_slope": 0.007749471612389661,
+    "rsi": 55.3571426492545,
+    "rsi_slope": 1.95607925627542,
+    "wave_strength": 1.0961112140680267,
+    "adx": 16.677952881479047,
+    "atr": 0.29698673810426846,
+    "obv_slope": 8608.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 109063.15,
-    "last_close": 3.7899999618530273,
+    "avg_vol20": 108148.8,
+    "last_close": 3.75,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 2.1600000858306885,
-      "High": 2.1760001182556152,
-      "Low": 2.0799999237060547,
-      "Close": 2.1700000762939453,
-      "Volume": 41600
-    },
     {
       "Date": "2023-12-22",
       "Open": 2.140000104904175,
@@ -3539,7 +3531,15 @@
       "High": 3.9200000762939453,
       "Low": 3.7300000190734863,
       "Close": 3.7899999618530273,
-      "Volume": 14863
+      "Volume": 16200
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 3.759999990463257,
+      "High": 3.949899911880493,
+      "Low": 3.711899995803833,
+      "Close": 3.75,
+      "Volume": 35276
     }
   ]
 }

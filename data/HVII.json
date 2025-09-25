@@ -1,16 +1,16 @@
 {
   "ticker": "HVII",
   "indicators": {
-    "score_0_100": 71.93,
-    "score_0_10": 7.19,
+    "score_0_100": 67.21,
+    "score_0_10": 6.72,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.004079529850221999,
-    "macd_slope": 0.0001990385332500125,
+    "macd_hist": 0.0017695404782775287,
+    "macd_slope": 5.997362992563143e-05,
     "rsi": 52.32551521961744,
     "rsi_slope": -2.214823840128151,
-    "wave_strength": 1.0189957288563658,
-    "adx": 34.956258130707695,
-    "atr": 0.030571985644066234,
+    "wave_strength": 1.0189457179667802,
+    "adx": 37.655100906485806,
+    "atr": 0.028388272383775788,
     "obv_slope": 46650.0,
     "mom14": 0.0,
     "avg_vol20": 34885.0,
@@ -1284,6 +1284,14 @@
       "Low": 10.1899995803833,
       "Close": 10.1899995803833,
       "Volume": 500.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 10.1899995803833,
+      "High": 10.1899995803833,
+      "Low": 10.1899995803833,
+      "Close": 10.1899995803833,
+      "Volume": 0.0
     }
   ]
 }

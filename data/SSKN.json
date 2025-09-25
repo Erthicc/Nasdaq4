@@ -1,34 +1,26 @@
 {
   "ticker": "SSKN",
   "indicators": {
-    "score_0_100": 71.87,
-    "score_0_10": 7.19,
+    "score_0_100": 70.7,
+    "score_0_10": 7.07,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.07437411900378177,
-    "macd_slope": 0.0029518121449388984,
-    "rsi": 59.90783708187433,
-    "rsi_slope": 0.8526682614875446,
-    "wave_strength": 1.4118287872063433,
-    "adx": 30.543106701246845,
-    "atr": 0.3350209561860767,
-    "obv_slope": 8246653.5,
+    "macd_hist": 0.06752770927146935,
+    "macd_slope": 0.003952578613972122,
+    "rsi": 53.98230246439866,
+    "rsi_slope": 0.3358377620867777,
+    "wave_strength": 1.4172366077447278,
+    "adx": 31.104671266335902,
+    "atr": 0.3303551857270866,
+    "obv_slope": 8184048.142857143,
     "mom14": 0.0,
-    "avg_vol20": 8939717.55,
-    "last_close": 2.130000114440918,
+    "avg_vol20": 8855866.3,
+    "last_close": 1.9600000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 6.400000095367432,
-      "High": 6.400000095367432,
-      "Low": 5.900000095367432,
-      "Close": 6.0,
-      "Volume": 4190
-    },
     {
       "Date": "2023-12-22",
       "Open": 6.199999809265137,
@@ -3539,7 +3531,15 @@
       "High": 2.640000104904175,
       "Low": 2.0999999046325684,
       "Close": 2.130000114440918,
-      "Volume": 2031951
+      "Volume": 2066500
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 2.0,
+      "High": 2.010999917984009,
+      "Low": 1.8602999448776245,
+      "Close": 1.9600000381469727,
+      "Volume": 397426
     }
   ]
 }

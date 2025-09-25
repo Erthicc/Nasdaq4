@@ -1,16 +1,16 @@
 {
   "ticker": "COLAU",
   "indicators": {
-    "score_0_100": 71.26,
-    "score_0_10": 7.13,
+    "score_0_100": 66.24,
+    "score_0_10": 6.62,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.005599612859125101,
-    "macd_slope": 0.0003323811222410998,
+    "macd_hist": -0.0052601707184079145,
+    "macd_slope": 0.0003468112438860321,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 98.32463824435142,
-    "atr": 0.0019437645041303943,
+    "adx": 98.41734915756138,
+    "atr": 0.0018049241824067946,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -1359,6 +1359,14 @@
     },
     {
       "Date": "2025-09-23",
+      "Open": 10.75,
+      "High": 10.75,
+      "Low": 10.75,
+      "Close": 10.75,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-24",
       "Open": 10.75,
       "High": 10.75,
       "Low": 10.75,

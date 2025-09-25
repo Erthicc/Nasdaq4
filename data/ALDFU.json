@@ -1,20 +1,20 @@
 {
   "ticker": "ALDFU",
   "indicators": {
-    "score_0_100": 70.76,
-    "score_0_10": 7.08,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0014084521044999895,
-    "macd_slope": -0.001331059986622397,
-    "rsi": 53.810460711690624,
-    "rsi_slope": 0.27217580135266467,
-    "wave_strength": 0.9907746290983975,
-    "adx": 19.658216080879452,
-    "atr": 0.18352764609975455,
-    "obv_slope": 7907.142857142857,
+    "score_0_100": 69.2,
+    "score_0_10": 6.92,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.006362925970388934,
+    "macd_slope": -0.005346973805086155,
+    "rsi": 37.628892802821156,
+    "rsi_slope": -1.391190870433583,
+    "wave_strength": 0.9887414576274378,
+    "adx": 19.289228800075602,
+    "atr": 0.15967438060994862,
+    "obv_slope": 7973.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 27580.0,
-    "last_close": 10.729999542236328,
+    "avg_vol20": 27581.15,
+    "last_close": 10.75,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1860,6 +1860,22 @@
       "Low": 10.729999542236328,
       "Close": 10.729999542236328,
       "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 10.729999542236328,
+      "High": 10.729999542236328,
+      "Low": 10.729999542236328,
+      "Close": 10.729999542236328,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 10.75,
+      "High": 10.75,
+      "Low": 10.75,
+      "Close": 10.75,
+      "Volume": 423.0
     }
   ]
 }

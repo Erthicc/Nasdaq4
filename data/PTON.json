@@ -1,34 +1,26 @@
 {
   "ticker": "PTON",
   "indicators": {
-    "score_0_100": 73.23,
-    "score_0_10": 7.32,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.011466664661567566,
-    "macd_slope": 0.004726785945592842,
-    "rsi": 52.26481019147231,
-    "rsi_slope": 0.6405504523396982,
-    "wave_strength": 1.0533969761019788,
-    "adx": 21.972171761033856,
-    "atr": 0.44913452725709513,
-    "obv_slope": -614907.7857142857,
+    "score_0_100": 65.96,
+    "score_0_10": 6.6,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.02275524596218323,
+    "macd_slope": 0.003996864592242258,
+    "rsi": 56.80271309463774,
+    "rsi_slope": 1.1169027696318257,
+    "wave_strength": 1.0484911324718806,
+    "adx": 22.151283095191282,
+    "atr": 0.45991059158083253,
+    "obv_slope": 1230203.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 10469324.55,
-    "last_close": 8.25,
+    "avg_vol20": 10926702.5,
+    "last_close": 8.420000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 6.099999904632568,
-      "High": 6.269999980926514,
-      "Low": 6.065000057220459,
-      "Close": 6.170000076293945,
-      "Volume": 8014900
-    },
     {
       "Date": "2023-12-22",
       "Open": 6.139999866485596,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-24",
-      "Open": 8.050000190734863,
+      "Open": 8.074999809265137,
       "High": 8.270000457763672,
       "Low": 7.775000095367432,
       "Close": 8.25,
-      "Volume": 11906891
+      "Volume": 11941100
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 8.1899995803833,
+      "High": 8.699999809265137,
+      "Low": 8.100000381469727,
+      "Close": 8.420000076293945,
+      "Volume": 14920050
     }
   ]
 }

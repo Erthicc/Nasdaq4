@@ -1,19 +1,19 @@
 {
   "ticker": "SOCAU",
   "indicators": {
-    "score_0_100": 76.22,
-    "score_0_10": 7.62,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00047489152216996814,
-    "macd_slope": 6.678598488627404e-06,
+    "score_0_100": 71.2,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.0017277270940024318,
+    "macd_slope": 7.543887064241261e-05,
     "rsi": 57.14323498097569,
-    "rsi_slope": -0.20410794272276891,
-    "wave_strength": 1.0003476389846593,
-    "adx": 42.595832811216674,
-    "atr": 0.008750778340328702,
-    "obv_slope": 19450.0,
+    "rsi_slope": -1.2755239173562407,
+    "wave_strength": 1.0001986016310114,
+    "adx": 42.31398795312346,
+    "atr": 0.008125722744590938,
+    "obv_slope": -1978.5714285714287,
     "mom14": 0.0,
-    "avg_vol20": 31815.0,
+    "avg_vol20": 31775.0,
     "last_close": 10.09000015258789,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -412,6 +412,14 @@
       "Low": 10.0600004196167,
       "Close": 10.09000015258789,
       "Volume": 11300.0
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 10.09000015258789,
+      "High": 10.09000015258789,
+      "Low": 10.09000015258789,
+      "Close": 10.09000015258789,
+      "Volume": 0.0
     }
   ]
 }

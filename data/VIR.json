@@ -1,34 +1,26 @@
 {
   "ticker": "VIR",
   "indicators": {
-    "score_0_100": 72.04,
-    "score_0_10": 7.2,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.021863125021109625,
-    "macd_slope": -0.006897195985990314,
-    "rsi": 53.52942336855551,
-    "rsi_slope": -0.6603068946364731,
-    "wave_strength": 1.0289954047105907,
-    "adx": 34.60248912631074,
-    "atr": 0.28979521781973944,
-    "obv_slope": 253155.07142857142,
+    "score_0_100": 69.1,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.017661273366330464,
+    "macd_slope": -0.006954491488597216,
+    "rsi": 47.272721617220135,
+    "rsi_slope": -1.1548670330904223,
+    "wave_strength": 1.0275444858375034,
+    "adx": 35.01627140659571,
+    "atr": 0.2812384219762091,
+    "obv_slope": 112813.85714285714,
     "mom14": 0.0,
-    "avg_vol20": 1576468.55,
-    "last_close": 5.260000228881836,
+    "avg_vol20": 1253530.3,
+    "last_close": 5.179999828338623,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 9.789999961853027,
-      "High": 10.0,
-      "Low": 9.65999984741211,
-      "Close": 9.890000343322754,
-      "Volume": 738600
-    },
     {
       "Date": "2023-12-22",
       "Open": 9.960000038146973,
@@ -3539,7 +3531,15 @@
       "High": 5.369999885559082,
       "Low": 5.179999828338623,
       "Close": 5.260000228881836,
-      "Volume": 1209671
+      "Volume": 1211800
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 5.199999809265137,
+      "High": 5.309999942779541,
+      "Low": 5.139999866485596,
+      "Close": 5.179999828338623,
+      "Volume": 945306
     }
   ]
 }

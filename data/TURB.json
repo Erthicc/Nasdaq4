@@ -1,34 +1,26 @@
 {
   "ticker": "TURB",
   "indicators": {
-    "score_0_100": 73.04,
-    "score_0_10": 7.3,
+    "score_0_100": 68.85,
+    "score_0_10": 6.88,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.2685506007885414,
-    "macd_slope": 0.019038155912251574,
-    "rsi": 62.56983289898778,
-    "rsi_slope": 1.2549882892136108,
-    "wave_strength": 1.5267979433963563,
-    "adx": 57.16521211018994,
-    "atr": 1.6201843737251522,
-    "obv_slope": 9611701.42857143,
+    "macd_hist": 0.10301957590560606,
+    "macd_slope": 0.007153755210744892,
+    "rsi": 60.85990487739887,
+    "rsi_slope": 0.6056397134652199,
+    "wave_strength": 1.4660681128646038,
+    "adx": 56.65179727814429,
+    "atr": 1.610164052988296,
+    "obv_slope": 9588150.285714285,
     "mom14": 0.0,
-    "avg_vol20": 7539674.0,
-    "last_close": 6.690000057220459,
+    "avg_vol20": 7555969.8,
+    "last_close": 6.210000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 1.7000000476837158,
-      "High": 1.7699999809265137,
-      "Low": 1.659999966621399,
-      "Close": 1.690000057220459,
-      "Volume": 6700
-    },
     {
       "Date": "2023-12-22",
       "Open": 1.6299999952316284,
@@ -3539,7 +3531,15 @@
       "High": 7.25,
       "Low": 6.5,
       "Close": 6.690000057220459,
-      "Volume": 142080
+      "Volume": 145400
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 6.199999809265137,
+      "High": 7.420000076293945,
+      "Low": 5.940100193023682,
+      "Close": 6.210000038146973,
+      "Volume": 325296
     }
   ]
 }
