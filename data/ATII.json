@@ -1,20 +1,20 @@
 {
   "ticker": "ATII",
   "indicators": {
-    "score_0_100": 68.54,
-    "score_0_10": 6.85,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0027836894433823545,
-    "macd_slope": 0.00017737136331449395,
-    "rsi": 50.057834307618656,
-    "rsi_slope": -0.3758091410989672,
-    "wave_strength": 1.0060032574086084,
+    "score_0_100": 72.43,
+    "score_0_10": 7.24,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.0027645181443053954,
+    "macd_slope": 0.00017600198480899687,
+    "rsi": 49.99999730771457,
+    "rsi_slope": -0.3799403553778303,
+    "wave_strength": 1.006004737571782,
     "adx": 27.616780295156467,
     "atr": 0.020624679850734764,
-    "obv_slope": 12055.857142857143,
+    "obv_slope": 11978.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 46160.9,
-    "last_close": 10.21030044555664,
+    "avg_vol20": 46215.0,
+    "last_close": 10.210000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -986,8 +986,8 @@
       "Open": 10.260000228881836,
       "High": 10.260000228881836,
       "Low": 10.210000038146973,
-      "Close": 10.21030044555664,
-      "Volume": 4618.0
+      "Close": 10.210000038146973,
+      "Volume": 5700.0
     }
   ]
 }

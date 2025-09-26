@@ -1,34 +1,26 @@
 {
   "ticker": "QRVO",
   "indicators": {
-    "score_0_100": 67.49,
-    "score_0_10": 6.75,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.404209560361277,
-    "macd_slope": 0.027763863484488022,
-    "rsi": 51.16279417391699,
-    "rsi_slope": -1.1279458238961138,
-    "wave_strength": 1.0608638990483634,
-    "adx": 21.142088433609192,
-    "atr": 2.933081972024477,
-    "obv_slope": 579890.2142857143,
+    "score_0_100": 70.24,
+    "score_0_10": 7.02,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.3472679774279327,
+    "macd_slope": 0.02704680040732747,
+    "rsi": 53.24406439425537,
+    "rsi_slope": -0.5498241217933949,
+    "wave_strength": 1.0275035683464,
+    "adx": 20.969015284672828,
+    "atr": 2.8221478943350804,
+    "obv_slope": 708864.5,
     "mom14": 0.0,
-    "avg_vol20": 2362948.15,
-    "last_close": 93.36000061035156,
+    "avg_vol20": 2339199.85,
+    "last_close": 93.0199966430664,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 111.55999755859375,
-      "High": 113.44999694824219,
-      "Low": 111.13999938964844,
-      "Close": 112.5999984741211,
-      "Volume": 1166100
-    },
     {
       "Date": "2023-12-26",
       "Open": 113.23999786376953,
@@ -3539,7 +3531,15 @@
       "High": 93.45500183105469,
       "Low": 91.0199966430664,
       "Close": 93.36000061035156,
-      "Volume": 894763
+      "Volume": 915000
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 93.36000061035156,
+      "High": 93.66000366210938,
+      "Low": 92.27999877929688,
+      "Close": 93.0199966430664,
+      "Volume": 958297
     }
   ]
 }

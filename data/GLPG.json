@@ -1,34 +1,26 @@
 {
   "ticker": "GLPG",
   "indicators": {
-    "score_0_100": 67.29,
-    "score_0_10": 6.73,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.03270337415576419,
-    "macd_slope": 0.0038452205052904387,
-    "rsi": 44.18603683012202,
-    "rsi_slope": -0.8222703033665211,
-    "wave_strength": 1.0486224013777152,
-    "adx": 12.103402780945572,
-    "atr": 0.7416866040129511,
-    "obv_slope": 20108.928571428572,
+    "score_0_100": 70.55,
+    "score_0_10": 7.05,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0630501978547664,
+    "macd_slope": -0.00041490030620563604,
+    "rsi": 51.654673588246624,
+    "rsi_slope": -0.18415199102424498,
+    "wave_strength": 1.0464207315523752,
+    "adx": 12.714011343661056,
+    "atr": 0.7965662849178811,
+    "obv_slope": 18695.428571428572,
     "mom14": 0.0,
-    "avg_vol20": 149048.75,
-    "last_close": 32.65999984741211,
+    "avg_vol20": 147966.8,
+    "last_close": 33.779998779296875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 39.45000076293945,
-      "High": 40.029998779296875,
-      "Low": 39.45000076293945,
-      "Close": 39.900001525878906,
-      "Volume": 77800
-    },
     {
       "Date": "2023-12-26",
       "Open": 40.0099983215332,
@@ -3539,7 +3531,15 @@
       "High": 32.95000076293945,
       "Low": 32.63999938964844,
       "Close": 32.65999984741211,
-      "Volume": 81575
+      "Volume": 82000
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 32.380001068115234,
+      "High": 33.880001068115234,
+      "Low": 32.369998931884766,
+      "Close": 33.779998779296875,
+      "Volume": 178336
     }
   ]
 }

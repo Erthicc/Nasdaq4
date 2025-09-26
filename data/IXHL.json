@@ -1,34 +1,26 @@
 {
   "ticker": "IXHL",
   "indicators": {
-    "score_0_100": 70.37,
-    "score_0_10": 7.04,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.00520605114628148,
-    "macd_slope": 0.00027503720510099576,
-    "rsi": 58.33333375415236,
-    "rsi_slope": -0.1498798246644181,
-    "wave_strength": 1.1737991242552328,
-    "adx": 36.81810864016143,
-    "atr": 0.07873373065670948,
-    "obv_slope": 6604309.571428572,
+    "score_0_100": 76.9,
+    "score_0_10": 7.69,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.00483914274375939,
+    "macd_slope": 0.0003747477796305903,
+    "rsi": 51.77636660347482,
+    "rsi_slope": -0.7610946822801533,
+    "wave_strength": 1.1761720085665357,
+    "adx": 38.007938723223006,
+    "atr": 0.07783030115613124,
+    "obv_slope": -1718966.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 43461068.3,
-    "last_close": 0.5950000286102295,
+    "avg_vol20": 40857721.4,
+    "last_close": 0.5949000120162964,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 3.740000009536743,
-      "High": 3.950000047683716,
-      "Low": 3.6700000762939453,
-      "Close": 3.930000066757202,
-      "Volume": 14200
-    },
     {
       "Date": "2023-12-26",
       "Open": 4.090000152587891,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-25",
       "Open": 0.5849999785423279,
-      "High": 0.5986999869346619,
-      "Low": 0.5651999711990356,
+      "High": 0.5989999771118164,
+      "Low": 0.5649999976158142,
       "Close": 0.5950000286102295,
-      "Volume": 20812966
+      "Volume": 21268800
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 0.5903000235557556,
+      "High": 0.656000018119812,
+      "Low": 0.5900999903678894,
+      "Close": 0.5949000120162964,
+      "Volume": 38787828
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "SLNH",
   "indicators": {
-    "score_0_100": 75.51,
-    "score_0_10": 7.55,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.2728460496342147,
-    "macd_slope": 0.019011331393641393,
-    "rsi": 82.0312510530432,
-    "rsi_slope": 2.798150738482702,
-    "wave_strength": 3.2287823045113835,
-    "adx": 45.91523405391914,
-    "atr": 0.359712810790119,
-    "obv_slope": 30412104.92857143,
+    "score_0_100": 73.65,
+    "score_0_10": 7.36,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.2484306665241801,
+    "macd_slope": 0.017091571442260665,
+    "rsi": 77.94486205412113,
+    "rsi_slope": 1.996061731544392,
+    "wave_strength": 2.921535906673415,
+    "adx": 46.84928616669375,
+    "atr": 0.3975904576424109,
+    "obv_slope": 29088843.714285713,
     "mom14": 0.0,
-    "avg_vol20": 24153616.55,
-    "last_close": 2.940000057220459,
+    "avg_vol20": 24983339.4,
+    "last_close": 2.75,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 3.5,
-      "High": 3.7799999713897705,
-      "Low": 3.200000047683716,
-      "Close": 3.6700000762939453,
-      "Volume": 545600
-    },
     {
       "Date": "2023-12-26",
       "Open": 3.5999999046325684,
@@ -3539,7 +3531,15 @@
       "High": 3.369999885559082,
       "Low": 2.6500000953674316,
       "Close": 2.940000057220459,
-      "Volume": 18492031
+      "Volume": 18765000
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 3.0199999809265137,
+      "High": 3.049999952316284,
+      "Low": 2.1600000858306885,
+      "Close": 2.75,
+      "Volume": 16783788
     }
   ]
 }

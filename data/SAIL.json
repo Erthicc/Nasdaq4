@@ -1,19 +1,19 @@
 {
   "ticker": "SAIL",
   "indicators": {
-    "score_0_100": 67.53,
-    "score_0_10": 6.75,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06660991412823414,
-    "macd_slope": -0.010901135672973147,
-    "rsi": 49.65278084005603,
-    "rsi_slope": -1.2312574584577034,
-    "wave_strength": 1.0726137948175969,
-    "adx": 11.934445458923678,
-    "atr": 1.0393067872648216,
-    "obv_slope": 130584.21428571429,
+    "score_0_100": 71.16,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
+    "macd_hist": 0.025042999296194024,
+    "macd_slope": -0.01715040529993722,
+    "rsi": 47.144597546950116,
+    "rsi_slope": -1.7560968187755843,
+    "wave_strength": 1.0697588546450518,
+    "adx": 11.308599654555328,
+    "atr": 1.0043562479645163,
+    "obv_slope": -73279.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 3014216.05,
+    "avg_vol20": 3059664.05,
     "last_close": 21.920000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1259,7 +1259,15 @@
       "High": 22.219999313354492,
       "Low": 21.413999557495117,
       "Close": 21.920000076293945,
-      "Volume": 1468421.0
+      "Volume": 1479600.0
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 21.979999542236328,
+      "High": 22.209999084472656,
+      "Low": 21.65999984741211,
+      "Close": 21.920000076293945,
+      "Volume": 2249581.0
     }
   ]
 }

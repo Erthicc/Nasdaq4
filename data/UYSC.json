@@ -1,8 +1,8 @@
 {
   "ticker": "UYSC",
   "indicators": {
-    "score_0_100": 67.08,
-    "score_0_10": 6.71,
+    "score_0_100": 71.03,
+    "score_0_10": 7.1,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.0006095733313068999,
     "macd_slope": 9.073090018071989e-05,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0004197363129945,
     "adx": 73.43651506375772,
     "atr": 0.02840915812374205,
-    "obv_slope": 4443.571428571428,
+    "obv_slope": 4442.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 5135.5,
+    "avg_vol20": 5135.0,
     "last_close": 10.149999618530273,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -699,7 +699,7 @@
       "High": 10.149999618530273,
       "Low": 10.149999618530273,
       "Close": 10.149999618530273,
-      "Volume": 510.0
+      "Volume": 500.0
     }
   ]
 }

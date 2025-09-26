@@ -1,20 +1,20 @@
 {
   "ticker": "CHYM",
   "indicators": {
-    "score_0_100": 65.76,
-    "score_0_10": 6.58,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.11660459238950205,
-    "macd_slope": 0.024206679843052883,
-    "rsi": 34.31151294427431,
-    "rsi_slope": 0.46669530474034204,
-    "wave_strength": 1.041229226378962,
-    "adx": 31.62107696239796,
-    "atr": 1.3629250738940653,
-    "obv_slope": -693972.6428571428,
+    "score_0_100": 71.35,
+    "score_0_10": 7.14,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.026683561364739372,
+    "macd_slope": 0.01410252224499293,
+    "rsi": 32.37885392786404,
+    "rsi_slope": 0.6067210503585139,
+    "wave_strength": 1.0528971931743047,
+    "adx": 31.994223835690452,
+    "atr": 1.3112804405815985,
+    "obv_slope": -1136712.642857143,
     "mom14": 0.0,
-    "avg_vol20": 3135525.85,
-    "last_close": 21.559999465942383,
+    "avg_vol20": 3196338.85,
+    "last_close": 21.239999771118164,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -603,7 +603,15 @@
       "High": 22.75,
       "Low": 21.5,
       "Close": 21.559999465942383,
-      "Volume": 3390117.0
+      "Volume": 3422200.0
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 21.5,
+      "High": 21.559999465942383,
+      "Low": 20.92009925842285,
+      "Close": 21.239999771118164,
+      "Volume": 3112077.0
     }
   ]
 }

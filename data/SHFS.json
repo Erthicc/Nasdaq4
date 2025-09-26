@@ -1,34 +1,26 @@
 {
   "ticker": "SHFS",
   "indicators": {
-    "score_0_100": 68.41,
-    "score_0_10": 6.84,
+    "score_0_100": 69.72,
+    "score_0_10": 6.97,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.2856200086090316,
-    "macd_slope": 0.006840654517072557,
-    "rsi": 69.1705806474034,
-    "rsi_slope": -0.5862099944011894,
-    "wave_strength": 1.8396912747421381,
-    "adx": 31.608902840721782,
-    "atr": 0.8916528406892121,
-    "obv_slope": 3253060.9285714286,
+    "macd_hist": 0.3722837407477211,
+    "macd_slope": 0.012202352292801213,
+    "rsi": 73.5703301283507,
+    "rsi_slope": 0.18557956058939087,
+    "wave_strength": 1.733325386521041,
+    "adx": 33.865632467089654,
+    "atr": 0.9102255980369407,
+    "obv_slope": 3276586.0,
     "mom14": 0.0,
-    "avg_vol20": 4561247.35,
-    "last_close": 6.949999809265137,
+    "avg_vol20": 4564650.2,
+    "last_close": 7.289999961853027,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 23.0,
-      "High": 26.600000381469727,
-      "Low": 22.799999237060547,
-      "Close": 24.799999237060547,
-      "Volume": 21690
-    },
     {
       "Date": "2023-12-26",
       "Open": 25.0,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-25",
       "Open": 6.760000228881836,
-      "High": 7.159900188446045,
-      "Low": 5.900000095367432,
+      "High": 7.159999847412109,
+      "Low": 5.880000114440918,
       "Close": 6.949999809265137,
-      "Volume": 722047
+      "Volume": 737500
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 6.289999961853027,
+      "High": 7.289999961853027,
+      "Low": 6.156899929046631,
+      "Close": 7.289999961853027,
+      "Volume": 219704
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "TALK",
   "indicators": {
-    "score_0_100": 66.78,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.006319673624651937,
-    "macd_slope": 0.0003737435442348922,
-    "rsi": 52.05480649678052,
-    "rsi_slope": -0.15084670992465377,
-    "wave_strength": 1.0233806288533525,
-    "adx": 18.258920706942614,
-    "atr": 0.09811665021269059,
-    "obv_slope": -50210.78571428572,
+    "score_0_100": 74.1,
+    "score_0_10": 7.41,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.015337207009525962,
+    "macd_slope": 0.0009681598733890827,
+    "rsi": 56.79011448070825,
+    "rsi_slope": 0.08178170734922167,
+    "wave_strength": 1.0210325302319772,
+    "adx": 19.901131576451007,
+    "atr": 0.10110830851913888,
+    "obv_slope": -64295.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 1063837.55,
-    "last_close": 2.640000104904175,
+    "avg_vol20": 1040208.2,
+    "last_close": 2.7799999713897705,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 2.5199999809265137,
-      "High": 2.5399999618530273,
-      "Low": 2.4700000286102295,
-      "Close": 2.5299999713897705,
-      "Volume": 746300
-    },
     {
       "Date": "2023-12-26",
       "Open": 2.559999942779541,
@@ -3539,7 +3531,15 @@
       "High": 2.7100000381469727,
       "Low": 2.619999885559082,
       "Close": 2.640000104904175,
-      "Volume": 710551
+      "Volume": 710600
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 2.640000104904175,
+      "High": 2.7799999713897705,
+      "Low": 2.640000104904175,
+      "Close": 2.7799999713897705,
+      "Volume": 760264
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "ALDFU",
   "indicators": {
-    "score_0_100": 69.2,
-    "score_0_10": 6.92,
+    "score_0_100": 73.01,
+    "score_0_10": 7.3,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.006362925970388934,
     "macd_slope": -0.005346973805086155,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9887414576274378,
     "adx": 19.289228800075602,
     "atr": 0.15967438060994862,
-    "obv_slope": 7973.071428571428,
+    "obv_slope": 7971.428571428572,
     "mom14": 0.0,
-    "avg_vol20": 27581.15,
+    "avg_vol20": 27580.0,
     "last_close": 10.75,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1875,7 +1875,7 @@
       "High": 10.75,
       "Low": 10.75,
       "Close": 10.75,
-      "Volume": 423.0
+      "Volume": 400.0
     }
   ]
 }

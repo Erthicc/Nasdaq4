@@ -1,20 +1,20 @@
 {
   "ticker": "INBX",
   "indicators": {
-    "score_0_100": 66.12,
-    "score_0_10": 6.61,
+    "score_0_100": 70.35,
+    "score_0_10": 7.03,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.13291342014520335,
-    "macd_slope": -0.004859143973963824,
-    "rsi": 64.86815144146291,
-    "rsi_slope": -0.9976118035422823,
-    "wave_strength": 0.9825385951729708,
-    "adx": 40.33419047994407,
-    "atr": 1.6426369758774075,
-    "obv_slope": 45232.357142857145,
+    "macd_hist": 0.3024253897548763,
+    "macd_slope": 0.006421485619442161,
+    "rsi": 64.62418289442599,
+    "rsi_slope": -1.0803947758544072,
+    "wave_strength": 0.9742150809812408,
+    "adx": 42.248677377086906,
+    "atr": 1.6745914885241873,
+    "obv_slope": 47699.21428571428,
     "mom14": 0.0,
-    "avg_vol20": 122602.65,
-    "last_close": 31.844999313354492,
+    "avg_vol20": 124819.45,
+    "last_close": 32.68000030517578,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -2683,7 +2683,15 @@
       "High": 31.959999084472656,
       "Low": 29.28499984741211,
       "Close": 31.844999313354492,
-      "Volume": 109353.0
+      "Volume": 110300.0
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 31.969999313354492,
+      "High": 33.630001068115234,
+      "Low": 31.540000915527344,
+      "Close": 32.68000030517578,
+      "Volume": 169589.0
     }
   ]
 }
