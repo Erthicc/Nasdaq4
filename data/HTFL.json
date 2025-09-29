@@ -1,20 +1,20 @@
 {
   "ticker": "HTFL",
   "indicators": {
-    "score_0_100": 73.29,
+    "score_0_100": 73.33,
     "score_0_10": 7.33,
     "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.024240733217862687,
-    "macd_slope": -0.015696644754809617,
-    "rsi": 45.02075390485873,
-    "rsi_slope": -1.1173636792570778,
-    "wave_strength": 1.0897352825501057,
-    "adx": 37.496356126033724,
-    "atr": 2.7052755119841736,
-    "obv_slope": 72659.92857142857,
+    "macd_hist": 0.06369056737165435,
+    "macd_slope": -0.018725187691903844,
+    "rsi": 49.363055036792815,
+    "rsi_slope": -0.7394624304955413,
+    "wave_strength": 1.0847918646340922,
+    "adx": 36.2331912953866,
+    "atr": 2.6691844584809794,
+    "obv_slope": 77688.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 377743.05,
-    "last_close": 33.060001373291016,
+    "avg_vol20": 387266.65,
+    "last_close": 34.5,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -291,7 +291,15 @@
       "High": 35.13999938964844,
       "Low": 32.529998779296875,
       "Close": 33.060001373291016,
-      "Volume": 381661.0
+      "Volume": 383900.0
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 34.064998626708984,
+      "High": 34.56999969482422,
+      "Low": 32.369998931884766,
+      "Close": 34.5,
+      "Volume": 405833.0
     }
   ]
 }

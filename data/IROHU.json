@@ -1,16 +1,16 @@
 {
   "ticker": "IROHU",
   "indicators": {
-    "score_0_100": 94.43,
-    "score_0_10": 9.44,
+    "score_0_100": 94.53,
+    "score_0_10": 9.45,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.034361279858005966,
-    "macd_slope": 0.012750367480501849,
+    "macd_hist": 0.04028483678094141,
+    "macd_slope": 0.013636826139954527,
     "rsi": 0.0,
     "rsi_slope": -1.9957981343287645,
-    "wave_strength": 1.186467007125253,
-    "adx": 25.685407854835518,
-    "atr": 0.11008029885129902,
+    "wave_strength": 1.1957599971384294,
+    "adx": 25.86821962117057,
+    "atr": 0.1022174203626693,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 45.0,
@@ -3519,6 +3519,14 @@
     },
     {
       "Date": "2025-09-25",
+      "Open": 9.5,
+      "High": 9.5,
+      "Low": 9.5,
+      "Close": 9.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-26",
       "Open": 9.5,
       "High": 9.5,
       "Low": 9.5,

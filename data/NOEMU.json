@@ -1,7 +1,7 @@
 {
   "ticker": "NOEMU",
   "indicators": {
-    "score_0_100": 69.85,
+    "score_0_100": 69.84,
     "score_0_10": 6.98,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.001337709076127144,

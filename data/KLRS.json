@@ -1,34 +1,26 @@
 {
   "ticker": "KLRS",
   "indicators": {
-    "score_0_100": 74.0,
-    "score_0_10": 7.4,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.035126267852429116,
-    "macd_slope": -0.013235887861358665,
-    "rsi": 59.877803262807404,
-    "rsi_slope": -2.2340034921222442,
-    "wave_strength": 1.0583536610033526,
-    "adx": 52.10213604914778,
-    "atr": 0.5883379239368374,
-    "obv_slope": -22502.35714285714,
+    "score_0_100": 71.14,
+    "score_0_10": 7.11,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.11090646260703241,
+    "macd_slope": -0.006244337018725169,
+    "rsi": 64.88413690131591,
+    "rsi_slope": -1.8690323501548138,
+    "wave_strength": 1.0323557952348974,
+    "adx": 53.39990180293177,
+    "atr": 0.613290302167259,
+    "obv_slope": -13140.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 744538.35,
-    "last_close": 5.610000133514404,
+    "avg_vol20": 752396.75,
+    "last_close": 6.349999904632568,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 17.364999771118164,
-      "High": 18.261999130249023,
-      "Low": 17.25,
-      "Close": 17.273000717163086,
-      "Volume": 289996
-    },
     {
       "Date": "2023-12-27",
       "Open": 17.43400001525879,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-26",
-      "Open": 4.800000190734863,
+      "Open": 4.769999980926514,
       "High": 5.800000190734863,
-      "Low": 4.789999961853027,
+      "Low": 4.75,
       "Close": 5.610000133514404,
-      "Volume": 249367
+      "Volume": 250100
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 5.75,
+      "High": 6.449999809265137,
+      "Low": 5.530900001525879,
+      "Close": 6.349999904632568,
+      "Volume": 217935
     }
   ]
 }

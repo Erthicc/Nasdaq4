@@ -1,34 +1,26 @@
 {
   "ticker": "VTGN",
   "indicators": {
-    "score_0_100": 71.97,
-    "score_0_10": 7.2,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.003684025408365127,
-    "macd_slope": -0.0012685311611540617,
-    "rsi": 51.39664652655054,
-    "rsi_slope": -0.09593395828128694,
-    "wave_strength": 1.0283005009270099,
-    "adx": 28.490046554846494,
-    "atr": 0.22981018109918577,
-    "obv_slope": 165742.0,
+    "score_0_100": 72.28,
+    "score_0_10": 7.23,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.012264785151517937,
+    "macd_slope": -0.0005578180370302079,
+    "rsi": 47.90419301043082,
+    "rsi_slope": -1.3051618436386068,
+    "wave_strength": 1.0252622360463906,
+    "adx": 28.585732109465887,
+    "atr": 0.22779210690659507,
+    "obv_slope": 169401.07142857142,
     "mom14": 0.0,
-    "avg_vol20": 562074.4,
-    "last_close": 3.5299999713897705,
+    "avg_vol20": 550245.75,
+    "last_close": 3.5399999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 5.309999942779541,
-      "High": 5.480000019073486,
-      "Low": 5.21999979019165,
-      "Close": 5.320000171661377,
-      "Volume": 414200
-    },
     {
       "Date": "2023-12-27",
       "Open": 5.309999942779541,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-26",
       "Open": 3.369999885559082,
       "High": 3.5799999237060547,
-      "Low": 3.305000066757202,
+      "Low": 3.309999942779541,
       "Close": 3.5299999713897705,
-      "Volume": 282888
+      "Volume": 287400
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 3.5799999237060547,
+      "High": 3.626199960708618,
+      "Low": 3.4200000762939453,
+      "Close": 3.5399999618530273,
+      "Volume": 345515
     }
   ]
 }

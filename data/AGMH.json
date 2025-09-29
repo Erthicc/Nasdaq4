@@ -1,34 +1,26 @@
 {
   "ticker": "AGMH",
   "indicators": {
-    "score_0_100": 70.91,
-    "score_0_10": 7.09,
+    "score_0_100": 70.08,
+    "score_0_10": 7.01,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.6202083497138806,
-    "macd_slope": 0.04574476349654953,
-    "rsi": 75.65543045836291,
-    "rsi_slope": 2.4818818594421943,
-    "wave_strength": 2.542414600111316,
-    "adx": 50.79215094239198,
-    "atr": 1.6624441718417213,
-    "obv_slope": 14541488.57142857,
+    "macd_hist": 0.5216190236577254,
+    "macd_slope": 0.0367286878975005,
+    "rsi": 71.81952897237758,
+    "rsi_slope": 1.3544559329739652,
+    "wave_strength": 1.9798810776687097,
+    "adx": 53.4055603140793,
+    "atr": 1.592218587386085,
+    "obv_slope": 14466998.357142856,
     "mom14": 0.0,
-    "avg_vol20": 12028057.0,
-    "last_close": 8.65999984741211,
+    "avg_vol20": 12040276.15,
+    "last_close": 8.100000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 97.0,
-      "High": 98.0,
-      "Low": 94.5,
-      "Close": 94.5,
-      "Volume": 58
-    },
     {
       "Date": "2023-12-27",
       "Open": 94.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-26",
       "Open": 7.860000133514404,
-      "High": 9.59000015258789,
+      "High": 9.600000381469727,
       "Low": 7.809999942779541,
       "Close": 8.65999984741211,
-      "Volume": 1415840
+      "Volume": 1421700
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 8.399999618530273,
+      "High": 8.699999809265137,
+      "Low": 8.029999732971191,
+      "Close": 8.100000381469727,
+      "Volume": 267723
     }
   ]
 }

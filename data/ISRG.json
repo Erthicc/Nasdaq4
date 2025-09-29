@@ -1,34 +1,26 @@
 {
   "ticker": "ISRG",
   "indicators": {
-    "score_0_100": 72.19,
-    "score_0_10": 7.22,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.8413504564873602,
-    "macd_slope": 0.02434010507743129,
-    "rsi": 30.95489178206998,
-    "rsi_slope": -0.9614965776797649,
-    "wave_strength": 0.9960835252243907,
-    "adx": 44.20267093676194,
-    "atr": 10.253302046368498,
-    "obv_slope": 55057.28571428572,
+    "score_0_100": 71.89,
+    "score_0_10": 7.19,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.905224984281471,
+    "macd_slope": 0.0009949018570485993,
+    "rsi": 31.185222124508826,
+    "rsi_slope": -0.9331526370848516,
+    "wave_strength": 0.9850683227753109,
+    "adx": 43.559823858076975,
+    "atr": 9.913397445136885,
+    "obv_slope": -50704.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 2605150.1,
-    "last_close": 441.1199951171875,
+    "avg_vol20": 2670983.2,
+    "last_close": 439.2200012207031,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 336.9200134277344,
-      "High": 338.3500061035156,
-      "Low": 335.2099914550781,
-      "Close": 337.3900146484375,
-      "Volume": 736700
-    },
     {
       "Date": "2023-12-27",
       "Open": 337.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-26",
-      "Open": 439.0400085449219,
-      "High": 443.4549865722656,
+      "Open": 441.42999267578125,
+      "High": 443.4599914550781,
       "Low": 438.5,
       "Close": 441.1199951171875,
-      "Volume": 1940102
+      "Volume": 1940500
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 442.010009765625,
+      "High": 443.2550048828125,
+      "Low": 437.7650146484375,
+      "Close": 439.2200012207031,
+      "Volume": 2970464
     }
   ]
 }

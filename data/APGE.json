@@ -1,34 +1,26 @@
 {
   "ticker": "APGE",
   "indicators": {
-    "score_0_100": 71.29,
-    "score_0_10": 7.13,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.10075342607306183,
-    "macd_slope": -0.0093158601327494,
-    "rsi": 48.842610092323994,
-    "rsi_slope": -0.5761761061105801,
-    "wave_strength": 1.021197372051026,
-    "adx": 13.478023627410153,
-    "atr": 1.662992908436479,
-    "obv_slope": -121770.85714285714,
+    "score_0_100": 73.3,
+    "score_0_10": 7.33,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.2078371527570836,
+    "macd_slope": -0.0028805195442183273,
+    "rsi": 56.70912269123987,
+    "rsi_slope": -0.21475100905125544,
+    "wave_strength": 1.0165230776895233,
+    "adx": 12.583583159046881,
+    "atr": 1.7299221499586468,
+    "obv_slope": -136931.14285714287,
     "mom14": 0.0,
-    "avg_vol20": 568590.4,
-    "last_close": 38.220001220703125,
+    "avg_vol20": 566558.2,
+    "last_close": 39.83000183105469,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 28.280000686645508,
-      "High": 33.08000183105469,
-      "Low": 28.06999969482422,
-      "Close": 31.06999969482422,
-      "Volume": 413000
-    },
     {
       "Date": "2023-12-27",
       "Open": 31.049999237060547,
@@ -3539,7 +3531,15 @@
       "High": 38.25,
       "Low": 36.849998474121094,
       "Close": 38.220001220703125,
-      "Volume": 635108
+      "Volume": 649000
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 38.400001525878906,
+      "High": 40.08000183105469,
+      "Low": 37.47999954223633,
+      "Close": 39.83000183105469,
+      "Volume": 461964
     }
   ]
 }
