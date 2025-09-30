@@ -1,34 +1,26 @@
 {
   "ticker": "VRDN",
   "indicators": {
-    "score_0_100": 72.16,
-    "score_0_10": 7.22,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.11916083017843304,
-    "macd_slope": 0.0027355651842954154,
-    "rsi": 59.69530479332062,
-    "rsi_slope": -0.6966884451910593,
-    "wave_strength": 1.0078317997601949,
-    "adx": 23.14630641983341,
-    "atr": 0.9947934087710254,
-    "obv_slope": -121905.14285714286,
+    "score_0_100": 71.27,
+    "score_0_10": 7.13,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.18286339631881654,
+    "macd_slope": 0.007388309266942553,
+    "rsi": 62.827992303552236,
+    "rsi_slope": -0.04679693293958361,
+    "wave_strength": 1.106502851754789,
+    "adx": 24.58390818789014,
+    "atr": 0.9773081652494732,
+    "obv_slope": -95000.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 770456.4,
-    "last_close": 21.610000610351562,
+    "avg_vol20": 721645.4,
+    "last_close": 21.579999923706055,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 22.700000762939453,
-      "High": 23.530000686645508,
-      "Low": 22.15999984741211,
-      "Close": 22.5,
-      "Volume": 1079400
-    },
     {
       "Date": "2023-12-28",
       "Open": 22.549999237060547,
@@ -3539,7 +3531,15 @@
       "High": 21.65999984741211,
       "Low": 19.93000030517578,
       "Close": 21.610000610351562,
-      "Volume": 781728
+      "Volume": 784300
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 21.6200008392334,
+      "High": 21.719999313354492,
+      "Low": 20.969999313354492,
+      "Close": 21.579999923706055,
+      "Volume": 550808
     }
   ]
 }

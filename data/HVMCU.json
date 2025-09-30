@@ -1,22 +1,22 @@
 {
   "ticker": "HVMCU",
   "indicators": {
-    "score_0_100": 69.33,
-    "score_0_10": 6.93,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00018229115067150067,
-    "macd_slope": 0.00014466225306715826,
-    "rsi": 61.53834205049481,
-    "rsi_slope": 0.8241680957689164,
-    "wave_strength": 1.0022846974625756,
-    "adx": 69.16013589213388,
-    "atr": 0.03969076652724166,
-    "obv_slope": 5721.428571428572,
+    "score_0_100": 73.5,
+    "score_0_10": 7.35,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.00199000142000544,
+    "macd_slope": 0.00015582905216865586,
+    "rsi": 64.28565920043057,
+    "rsi_slope": -0.1441808613898853,
+    "wave_strength": 1.0018368752946203,
+    "adx": 72.27970021318973,
+    "atr": 0.03708030106656236,
+    "obv_slope": 6064.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 29530.0,
-    "last_close": 10.079999923706055,
+    "avg_vol20": 9645.25,
+    "last_close": 10.119999885559082,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -284,6 +284,22 @@
       "Low": 10.079999923706055,
       "Close": 10.079999923706055,
       "Volume": 1100.0
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 10.079999923706055,
+      "High": 10.079999923706055,
+      "Low": 10.079999923706055,
+      "Close": 10.079999923706055,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 10.100000381469727,
+      "High": 10.119999885559082,
+      "Low": 10.100000381469727,
+      "Close": 10.119999885559082,
+      "Volume": 6605.0
     }
   ]
 }

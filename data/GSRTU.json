@@ -1,24 +1,24 @@
 {
   "ticker": "GSRTU",
   "indicators": {
-    "score_0_100": 70.41,
-    "score_0_10": 7.04,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0015335694153676416,
-    "macd_slope": 0.0020590667319460815,
-    "rsi": 37.328092580248004,
-    "rsi_slope": 2.666292327160572,
-    "wave_strength": 1.0462951903996347,
-    "adx": 58.57034957616536,
-    "atr": 0.28477368423011573,
-    "obv_slope": 297.35714285714283,
+    "score_0_100": 76.37,
+    "score_0_10": 7.64,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.051944756822086297,
+    "macd_slope": 0.006376214903347834,
+    "rsi": 45.283016290043065,
+    "rsi_slope": 3.2345011635745045,
+    "wave_strength": 1.0485791344774302,
+    "adx": 55.17190136495613,
+    "atr": 0.3437183965477679,
+    "obv_slope": 319.07142857142856,
     "mom14": 0.0,
-    "avg_vol20": 339.45,
-    "last_close": 12.210000038146973,
+    "avg_vol20": 354.65,
+    "last_close": 12.949999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0
+    "above_trend": 1
   },
   "history": [
     {
@@ -1788,6 +1788,14 @@
       "Low": 12.210000038146973,
       "Close": 12.210000038146973,
       "Volume": 100.0
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 11.84000015258789,
+      "High": 12.949999809265137,
+      "Low": 11.84000015258789,
+      "Close": 12.949999809265137,
+      "Volume": 304.0
     }
   ]
 }

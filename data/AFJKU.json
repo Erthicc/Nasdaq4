@@ -4,13 +4,13 @@
     "score_0_100": 100.0,
     "score_0_10": 10.0,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 5.517606302967026e-07,
-    "macd_slope": -7.630645294128186e-08,
+    "macd_hist": 5.108956672831404e-07,
+    "macd_slope": -7.065826423580115e-08,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 98.00585314231249,
-    "atr": 1.4270814241591658e-05,
+    "adx": 98.00599063993556,
+    "atr": 1.3251470367192253e-05,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 10.1899995803833,
-      "High": 10.1899995803833,
-      "Low": 10.1899995803833,
-      "Close": 10.1899995803833,
-      "Volume": 2800.0
-    },
     {
       "Date": "2023-12-28",
       "Open": 10.1899995803833,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-09-26",
+      "Open": 11.25,
+      "High": 11.25,
+      "Low": 11.25,
+      "Close": 11.25,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-29",
       "Open": 11.25,
       "High": 11.25,
       "Low": 11.25,

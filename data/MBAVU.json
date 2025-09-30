@@ -1,23 +1,23 @@
 {
   "ticker": "MBAVU",
   "indicators": {
-    "score_0_100": 94.8,
-    "score_0_10": 9.48,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.01895095199265308,
-    "macd_slope": -0.001688208943915132,
+    "score_0_100": 76.96,
+    "score_0_10": 7.7,
+    "explanation": "recent MACD bullish crossover; recent volume spike (penalized); RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.016506956277897673,
+    "macd_slope": -0.0016080323781971907,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.1250000532184337,
-    "adx": 23.865216582546132,
-    "atr": 0.03080420352515484,
-    "obv_slope": 0.0,
+    "adx": 23.97140426529421,
+    "atr": 0.02656076732526106,
+    "obv_slope": 30.714285714285715,
     "mom14": 0.0,
-    "avg_vol20": 0.0,
+    "avg_vol20": 21.5,
     "last_close": 11.199999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
@@ -2340,6 +2340,22 @@
       "Low": 11.199999809265137,
       "Close": 11.199999809265137,
       "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 11.199999809265137,
+      "High": 11.199999809265137,
+      "Low": 11.199999809265137,
+      "Close": 11.199999809265137,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 11.199999809265137,
+      "High": 11.199999809265137,
+      "Low": 11.199999809265137,
+      "Close": 11.199999809265137,
+      "Volume": 430.0
     }
   ]
 }

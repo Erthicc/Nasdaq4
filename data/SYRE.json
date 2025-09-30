@@ -1,34 +1,26 @@
 {
   "ticker": "SYRE",
   "indicators": {
-    "score_0_100": 71.53,
-    "score_0_10": 7.15,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.09459477088742008,
-    "macd_slope": 0.007890935166196694,
-    "rsi": 47.346375133421425,
-    "rsi_slope": -0.7164761811473852,
-    "wave_strength": 1.0616374251605671,
-    "adx": 13.600655936011302,
-    "atr": 0.9061866819854669,
-    "obv_slope": 143793.2857142857,
+    "score_0_100": 69.54,
+    "score_0_10": 6.95,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.13345186543510718,
+    "macd_slope": 0.013543390655060232,
+    "rsi": 54.14285536077618,
+    "rsi_slope": 0.42819349275278334,
+    "wave_strength": 1.0612066564115894,
+    "adx": 13.17894110111577,
+    "atr": 0.9111020142011945,
+    "obv_slope": 204954.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 657415.3,
-    "last_close": 16.360000610351562,
+    "avg_vol20": 663373.0,
+    "last_close": 16.760000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 19.3700008392334,
-      "High": 20.31999969482422,
-      "Low": 18.610000610351562,
-      "Close": 20.200000762939453,
-      "Volume": 95500
-    },
     {
       "Date": "2023-12-28",
       "Open": 20.239999771118164,
@@ -3539,7 +3531,15 @@
       "High": 16.420000076293945,
       "Low": 15.489999771118164,
       "Close": 16.360000610351562,
-      "Volume": 950806
+      "Volume": 965600
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 16.329999923706055,
+      "High": 16.790000915527344,
+      "Low": 15.8149995803833,
+      "Close": 16.760000228881836,
+      "Volume": 536060
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "FAMI",
   "indicators": {
-    "score_0_100": 70.01,
-    "score_0_10": 7.0,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.008173634351448605,
-    "macd_slope": -0.0008853182661474424,
-    "rsi": 52.87958410182278,
-    "rsi_slope": -0.9847910276107525,
-    "wave_strength": 1.0749493643852437,
-    "adx": 17.241576725636314,
-    "atr": 0.114933857518205,
-    "obv_slope": -889.2857142857143,
+    "score_0_100": 69.89,
+    "score_0_10": 6.99,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.005434267193539323,
+    "macd_slope": -0.0013968812456239103,
+    "rsi": 53.12500271772026,
+    "rsi_slope": -0.7405040042534417,
+    "wave_strength": 1.060240973392011,
+    "adx": 17.017432943929755,
+    "atr": 0.11024266416932052,
+    "obv_slope": 676.7857142857143,
     "mom14": 0.0,
-    "avg_vol20": 19742.5,
-    "last_close": 1.975000023841858,
+    "avg_vol20": 19741.25,
+    "last_close": 1.940000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 13.5600004196167,
-      "High": 14.039999961853027,
-      "Low": 13.199999809265137,
-      "Close": 13.920000076293945,
-      "Volume": 2325
-    },
     {
       "Date": "2023-12-28",
       "Open": 13.680000305175781,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-29",
       "Open": 1.9199999570846558,
       "High": 1.9900000095367432,
-      "Low": 1.875,
-      "Close": 1.975000023841858,
-      "Volume": 14850
+      "Low": 1.8799999952316284,
+      "Close": 1.9800000190734863,
+      "Volume": 20600
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 1.9601999521255493,
+      "High": 1.9800000190734863,
+      "Low": 1.9261000156402588,
+      "Close": 1.940000057220459,
+      "Volume": 5625
     }
   ]
 }

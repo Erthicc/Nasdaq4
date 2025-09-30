@@ -1,34 +1,26 @@
 {
   "ticker": "SEZL",
   "indicators": {
-    "score_0_100": 73.48,
-    "score_0_10": 7.35,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.5320427342137544,
-    "macd_slope": -0.07403357793938913,
-    "rsi": 26.16546979818662,
-    "rsi_slope": -2.1109293074539437,
-    "wave_strength": 0.9811213049431587,
-    "adx": 24.118614273988563,
-    "atr": 5.85729027490292,
-    "obv_slope": -123140.42857142857,
+    "score_0_100": 72.24,
+    "score_0_10": 7.22,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.2544464771996191,
+    "macd_slope": -0.09902356459335689,
+    "rsi": 28.279610650717558,
+    "rsi_slope": -1.5827433067611831,
+    "wave_strength": 0.987268578579736,
+    "adx": 25.48216579170424,
+    "atr": 5.717483935794445,
+    "obv_slope": -132291.42857142858,
     "mom14": 0.0,
-    "avg_vol20": 856283.3,
-    "last_close": 81.4000015258789,
+    "avg_vol20": 870734.0,
+    "last_close": 79.52999877929688,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 3.2266669273376465,
-      "High": 3.6516671180725098,
-      "Low": 3.103332996368408,
-      "Close": 3.1933329105377197,
-      "Volume": 326400
-    },
     {
       "Date": "2023-12-28",
       "Open": 3.1649999618530273,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-29",
-      "Open": 85.44000244140625,
+      "Open": 85.45999908447266,
       "High": 85.55999755859375,
       "Low": 80.9000015258789,
       "Close": 81.4000015258789,
-      "Volume": 861466
+      "Volume": 876600
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 81.44000244140625,
+      "High": 82.0,
+      "Low": 78.0999984741211,
+      "Close": 79.52999877929688,
+      "Volume": 1121180
     }
   ]
 }

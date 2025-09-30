@@ -1,34 +1,26 @@
 {
   "ticker": "NEPH",
   "indicators": {
-    "score_0_100": 75.64,
-    "score_0_10": 7.56,
+    "score_0_100": 70.32,
+    "score_0_10": 7.03,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.014033001533595116,
-    "macd_slope": 0.0014594023105836307,
-    "rsi": 55.782313938571754,
-    "rsi_slope": -0.03134870215244793,
-    "wave_strength": 1.0220535800724968,
-    "adx": 33.57950101303977,
-    "atr": 0.349548211865597,
-    "obv_slope": 8807.714285714286,
+    "macd_hist": 0.033160693354564355,
+    "macd_slope": 0.002134241273846082,
+    "rsi": 65.33333399512131,
+    "rsi_slope": 0.793650838108685,
+    "wave_strength": 1.0156710113075327,
+    "adx": 34.19333981318932,
+    "atr": 0.3367233109730946,
+    "obv_slope": 13560.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 63900.4,
-    "last_close": 4.570000171661377,
+    "avg_vol20": 61617.15,
+    "last_close": 4.730000019073486,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 3.690000057220459,
-      "High": 3.9800000190734863,
-      "Low": 3.619999885559082,
-      "Close": 3.9100000858306885,
-      "Volume": 96600
-    },
     {
       "Date": "2023-12-28",
       "Open": 3.7699999809265137,
@@ -3539,7 +3531,15 @@
       "High": 4.579999923706055,
       "Low": 4.409999847412109,
       "Close": 4.570000171661377,
-      "Volume": 62708
+      "Volume": 62700
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 4.570000171661377,
+      "High": 4.739999771118164,
+      "Low": 4.570000171661377,
+      "Close": 4.730000019073486,
+      "Volume": 21143
     }
   ]
 }

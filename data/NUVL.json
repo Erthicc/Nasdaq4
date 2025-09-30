@@ -1,34 +1,26 @@
 {
   "ticker": "NUVL",
   "indicators": {
-    "score_0_100": 71.07,
-    "score_0_10": 7.11,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.3525496037287206,
-    "macd_slope": -0.01954564897027622,
-    "rsi": 60.166374030513566,
-    "rsi_slope": -0.2081101687736344,
-    "wave_strength": 1.0173213326512591,
-    "adx": 11.300614287200357,
-    "atr": 3.557737488050102,
-    "obv_slope": -38456.642857142855,
+    "score_0_100": 69.59,
+    "score_0_10": 6.96,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.6265229962126633,
+    "macd_slope": 0.008808500020411447,
+    "rsi": 62.68277129869081,
+    "rsi_slope": -0.40593987660606956,
+    "wave_strength": 1.0112436807963006,
+    "adx": 12.447867822118363,
+    "atr": 3.5136130111262576,
+    "obv_slope": 27433.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 426780.35,
-    "last_close": 84.83999633789062,
+    "avg_vol20": 426278.2,
+    "last_close": 86.4800033569336,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 74.27999877929688,
-      "High": 75.33999633789062,
-      "Low": 73.56999969482422,
-      "Close": 74.66999816894531,
-      "Volume": 253500
-    },
     {
       "Date": "2023-12-28",
       "Open": 75.05999755859375,
@@ -3539,7 +3531,15 @@
       "High": 85.11000061035156,
       "Low": 77.87999725341797,
       "Close": 84.83999633789062,
-      "Volume": 511807
+      "Volume": 519200
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 84.44999694824219,
+      "High": 86.73999786376953,
+      "Low": 83.80000305175781,
+      "Close": 86.4800033569336,
+      "Volume": 553664
     }
   ]
 }

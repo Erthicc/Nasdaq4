@@ -1,34 +1,26 @@
 {
   "ticker": "CVRX",
   "indicators": {
-    "score_0_100": 70.7,
-    "score_0_10": 7.07,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.018549859832228302,
-    "macd_slope": -0.0017981094310915405,
-    "rsi": 45.99999627378062,
-    "rsi_slope": -1.606653066963007,
-    "wave_strength": 0.9870989065658716,
-    "adx": 13.75517977429385,
-    "atr": 0.45994812698465976,
-    "obv_slope": 36649.78571428572,
+    "score_0_100": 69.47,
+    "score_0_10": 6.95,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.05330997158642073,
+    "macd_slope": 0.0013841640083297388,
+    "rsi": 52.631573876860564,
+    "rsi_slope": -0.8588277556325379,
+    "wave_strength": 0.9848834909835851,
+    "adx": 14.017751233121695,
+    "atr": 0.4681528208552384,
+    "obv_slope": 58890.857142857145,
     "mom14": 0.0,
-    "avg_vol20": 176284.85,
-    "last_close": 7.78000020980835,
+    "avg_vol20": 180298.6,
+    "last_close": 8.069999694824219,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 31.440000534057617,
-      "High": 31.989999771118164,
-      "Low": 29.7450008392334,
-      "Close": 30.75,
-      "Volume": 223000
-    },
     {
       "Date": "2023-12-28",
       "Open": 30.75,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-29",
       "Open": 7.550000190734863,
       "High": 7.849999904632568,
-      "Low": 7.405799865722656,
+      "Low": 7.406000137329102,
       "Close": 7.78000020980835,
-      "Volume": 134597
+      "Volume": 138400
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 7.739999771118164,
+      "High": 8.114999771118164,
+      "Low": 7.539999961853027,
+      "Close": 8.069999694824219,
+      "Volume": 179772
     }
   ]
 }
