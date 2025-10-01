@@ -1,34 +1,26 @@
 {
   "ticker": "DVLT",
   "indicators": {
-    "score_0_100": 84.42,
-    "score_0_10": 8.44,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.09010182673520223,
-    "macd_slope": 0.006386449436630333,
-    "rsi": 77.30496700935663,
-    "rsi_slope": 2.9707634573306865,
-    "wave_strength": 2.2009568946794538,
-    "adx": 43.82762068020289,
-    "atr": 0.15460462821656035,
-    "obv_slope": 109165750.0,
+    "score_0_100": 87.9,
+    "score_0_10": 8.79,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.10147643032112022,
+    "macd_slope": 0.006927958511403309,
+    "rsi": 80.60606263690589,
+    "rsi_slope": 2.762184576506818,
+    "wave_strength": 1.994796142305712,
+    "adx": 46.51296197547851,
+    "atr": 0.16856144218006203,
+    "obv_slope": 116104877.92857143,
     "mom14": 0.0,
-    "avg_vol20": 99814590.0,
-    "last_close": 1.090000033378601,
+    "avg_vol20": 105010619.55,
+    "last_close": 1.3600000143051147,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 18.0,
-      "High": 19.5,
-      "Low": 18.0,
-      "Close": 18.0,
-      "Volume": 14745
-    },
     {
       "Date": "2023-12-29",
       "Open": 18.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-30",
-      "Open": 1.1549999713897705,
+      "Open": 1.159999966621399,
       "High": 1.2100000381469727,
       "Low": 1.059999942779541,
       "Close": 1.090000033378601,
-      "Volume": 55587900
+      "Volume": 57773900
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 1.065000057220459,
+      "High": 1.3700000047683716,
+      "Low": 1.0199999809265137,
+      "Close": 1.3600000143051147,
+      "Volume": 105201191
     }
   ]
 }

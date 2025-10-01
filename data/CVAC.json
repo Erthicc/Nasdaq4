@@ -1,34 +1,26 @@
 {
   "ticker": "CVAC",
   "indicators": {
-    "score_0_100": 70.57,
-    "score_0_10": 7.06,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.002913171397672932,
-    "macd_slope": 0.0007601898488808613,
-    "rsi": 52.38088401325727,
-    "rsi_slope": 1.1700589281503093,
-    "wave_strength": 1.0013985800576377,
-    "adx": 13.617732035291564,
-    "atr": 0.04344943687614138,
-    "obv_slope": 56296.21428571428,
+    "score_0_100": 76.3,
+    "score_0_10": 7.63,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.004989670304760168,
+    "macd_slope": 0.0007301791087335248,
+    "rsi": 52.38099213923436,
+    "rsi_slope": 0.6359127847028431,
+    "wave_strength": 1.0010252376677018,
+    "adx": 12.702016377020533,
+    "atr": 0.04177447573817818,
+    "obv_slope": 67352.5,
     "mom14": 0.0,
-    "avg_vol20": 410537.35,
-    "last_close": 5.389999866485596,
+    "avg_vol20": 420011.75,
+    "last_close": 5.400000095367432,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 4.239999771118164,
-      "High": 4.359000205993652,
-      "Low": 4.199999809265137,
-      "Close": 4.28000020980835,
-      "Volume": 797400
-    },
     {
       "Date": "2023-12-29",
       "Open": 4.289999961853027,
@@ -3539,7 +3531,15 @@
       "High": 5.400000095367432,
       "Low": 5.349999904632568,
       "Close": 5.389999866485596,
-      "Volume": 368847
+      "Volume": 372800
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 5.389999866485596,
+      "High": 5.40500020980835,
+      "Low": 5.385000228881836,
+      "Close": 5.400000095367432,
+      "Volume": 486535
     }
   ]
 }

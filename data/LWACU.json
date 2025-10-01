@@ -1,8 +1,8 @@
 {
   "ticker": "LWACU",
   "indicators": {
-    "score_0_100": 70.44,
-    "score_0_10": 7.04,
+    "score_0_100": 70.53,
+    "score_0_10": 7.05,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.003336405646909198,
     "macd_slope": 0.00044599787385561813,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9991026437265949,
     "adx": 47.27289500411353,
     "atr": 0.03068946299237107,
-    "obv_slope": 886.8571428571429,
+    "obv_slope": 885.7142857142857,
     "mom14": 0.0,
-    "avg_vol20": 11400.8,
+    "avg_vol20": 11400.0,
     "last_close": 10.050000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -563,7 +563,7 @@
       "High": 10.050000190734863,
       "Low": 10.050000190734863,
       "Close": 10.050000190734863,
-      "Volume": 5416.0
+      "Volume": 5400.0
     }
   ]
 }

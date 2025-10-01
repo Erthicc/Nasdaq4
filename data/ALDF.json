@@ -1,20 +1,20 @@
 {
   "ticker": "ALDF",
   "indicators": {
-    "score_0_100": 71.82,
-    "score_0_10": 7.18,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.0023276864405750923,
-    "macd_slope": -3.862612499507958e-05,
-    "rsi": 51.72418079321546,
-    "rsi_slope": -1.199610635942761,
-    "wave_strength": 0.9996882310872354,
-    "adx": 37.56061306129703,
-    "atr": 0.040462933271986655,
-    "obv_slope": -474.2142857142857,
+    "score_0_100": 72.68,
+    "score_0_10": 7.27,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 0.003209114680558639,
+    "macd_slope": 6.298989463547436e-05,
+    "rsi": 49.999997666660846,
+    "rsi_slope": -1.3227665735538048,
+    "wave_strength": 1.0025663865351695,
+    "adx": 34.907020623330524,
+    "atr": 0.03961358678966841,
+    "obv_slope": -7645.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 40368.05,
-    "last_close": 10.449999809265137,
+    "avg_vol20": 40401.6,
+    "last_close": 10.4399995803833,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1600,10 +1600,18 @@
     {
       "Date": "2025-09-30",
       "Open": 10.399999618530273,
-      "High": 10.449999809265137,
+      "High": 10.470000267028809,
       "Low": 10.399999618530273,
       "Close": 10.449999809265137,
-      "Volume": 2161.0
+      "Volume": 3000.0
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 10.4399995803833,
+      "High": 10.4399995803833,
+      "Low": 10.4399995803833,
+      "Close": 10.4399995803833,
+      "Volume": 5032.0
     }
   ]
 }

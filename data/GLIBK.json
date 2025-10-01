@@ -1,20 +1,20 @@
 {
   "ticker": "GLIBK",
   "indicators": {
-    "score_0_100": 71.83,
-    "score_0_10": 7.18,
+    "score_0_100": 74.32,
+    "score_0_10": 7.43,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.04502840174815152,
-    "macd_slope": 0.020970296843039204,
-    "rsi": 60.238109809425566,
-    "rsi_slope": 0.8345760859808681,
-    "wave_strength": 1.0017776710115807,
-    "adx": 15.968797789306878,
-    "atr": 1.241454340750691,
-    "obv_slope": -36128.857142857145,
+    "macd_hist": 0.11441472703153582,
+    "macd_slope": 0.02424381894479708,
+    "rsi": 57.057841860351395,
+    "rsi_slope": 1.46231959694092,
+    "wave_strength": 1.03829895931011,
+    "adx": 16.692341765533207,
+    "atr": 1.214914727108203,
+    "obv_slope": -64262.78571428572,
     "mom14": 0.0,
-    "avg_vol20": 276164.8,
-    "last_close": 37.27000045776367,
+    "avg_vol20": 270998.95,
+    "last_close": 37.25,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -475,7 +475,15 @@
       "High": 37.31999969482422,
       "Low": 35.70500183105469,
       "Close": 37.27000045776367,
-      "Volume": 247096.0
+      "Volume": 247100.0
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 37.27000045776367,
+      "High": 37.68000030517578,
+      "Low": 36.81010055541992,
+      "Close": 37.25,
+      "Volume": 193879.0
     }
   ]
 }

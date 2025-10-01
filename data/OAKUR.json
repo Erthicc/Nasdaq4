@@ -1,16 +1,16 @@
 {
   "ticker": "OAKUR",
   "indicators": {
-    "score_0_100": 72.22,
-    "score_0_10": 7.22,
+    "score_0_100": 72.09,
+    "score_0_10": 7.21,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0010532006069778367,
-    "macd_slope": 0.00019362299758598933,
+    "macd_hist": 0.0035278076810798115,
+    "macd_slope": 0.0003664122409440306,
     "rsi": 35.71428366338378,
     "rsi_slope": 2.55102026167027,
     "wave_strength": 1.0,
-    "adx": 69.80900257116174,
-    "atr": 0.009704611239210058,
+    "adx": 67.09180688912349,
+    "atr": 0.009011424722402751,
     "obv_slope": 8528.57142857143,
     "mom14": 0.0,
     "avg_vol20": 8210.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 0.15000000596046448,
-      "High": 0.15000000596046448,
-      "Low": 0.15000000596046448,
-      "Close": 0.15000000596046448,
-      "Volume": 200.0
-    },
     {
       "Date": "2023-12-29",
       "Open": 0.15000000596046448,
@@ -3532,6 +3524,14 @@
       "Low": 0.25,
       "Close": 0.25,
       "Volume": 600.0
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 0.25,
+      "High": 0.25,
+      "Low": 0.25,
+      "Close": 0.25,
+      "Volume": 0.0
     }
   ]
 }

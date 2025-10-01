@@ -1,7 +1,7 @@
 {
   "ticker": "BKHAU",
   "indicators": {
-    "score_0_100": 72.76,
+    "score_0_100": 72.84,
     "score_0_10": 7.28,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.00315022952805475,
@@ -9,8 +9,8 @@
     "rsi": 0.0,
     "rsi_slope": -7.142856758242117,
     "wave_strength": 1.0,
-    "adx": 67.65762147152637,
-    "atr": 0.006820155431986286,
+    "adx": 67.65762217773573,
+    "atr": 0.006820155428749887,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 12.15,

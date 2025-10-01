@@ -1,20 +1,20 @@
 {
   "ticker": "CAMP",
   "indicators": {
-    "score_0_100": 71.92,
-    "score_0_10": 7.19,
+    "score_0_100": 72.21,
+    "score_0_10": 7.22,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03194193098540976,
-    "macd_slope": -0.004916245839136296,
-    "rsi": 53.442623653801455,
-    "rsi_slope": -2.2481126816766137,
-    "wave_strength": 1.2336748841172887,
-    "adx": 37.344200102168195,
-    "atr": 0.3233288944767518,
-    "obv_slope": 8045.214285714285,
+    "macd_hist": 0.019475179298657497,
+    "macd_slope": -0.008390342065872804,
+    "rsi": 52.75081034567449,
+    "rsi_slope": -2.232084966234447,
+    "wave_strength": 1.1966478050278742,
+    "adx": 38.002812189736986,
+    "atr": 0.3066625387405061,
+    "obv_slope": 70841.78571428571,
     "mom14": 0.0,
-    "avg_vol20": 2303178.35,
-    "last_close": 3.0,
+    "avg_vol20": 2300965.75,
+    "last_close": 2.950000047683716,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1955,7 +1955,15 @@
       "High": 3.0999999046325684,
       "Low": 2.950000047683716,
       "Close": 3.0,
-      "Volume": 84167.0
+      "Volume": 84300.0
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 3.0,
+      "High": 3.0399999618530273,
+      "Low": 2.950000047683716,
+      "Close": 2.950000047683716,
+      "Volume": 59515.0
     }
   ]
 }

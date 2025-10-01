@@ -1,22 +1,22 @@
 {
   "ticker": "GLIBA",
   "indicators": {
-    "score_0_100": 72.02,
-    "score_0_10": 7.2,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.029162306170889468,
-    "macd_slope": 0.020080697462337333,
-    "rsi": 60.28145829320261,
-    "rsi_slope": 0.9302628045217288,
-    "wave_strength": 0.998263146973493,
-    "adx": 18.498671517397327,
-    "atr": 1.0178441797241604,
-    "obv_slope": 22877.071428571428,
+    "score_0_100": 70.77,
+    "score_0_10": 7.08,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.08400570758403811,
+    "macd_slope": 0.020860494374483878,
+    "rsi": 52.86459803701188,
+    "rsi_slope": 0.7381936657007806,
+    "wave_strength": 1.0348438361036276,
+    "adx": 19.542386337467835,
+    "atr": 0.9876155955690086,
+    "obv_slope": 16418.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 55123.95,
-    "last_close": 37.55500030517578,
+    "avg_vol20": 53747.2,
+    "last_close": 37.380001068115234,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -473,9 +473,17 @@
       "Date": "2025-09-30",
       "Open": 36.439998626708984,
       "High": 37.55500030517578,
-      "Low": 36.345001220703125,
+      "Low": 36.34000015258789,
       "Close": 37.55500030517578,
-      "Volume": 36979.0
+      "Volume": 37100.0
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 37.52000045776367,
+      "High": 37.84000015258789,
+      "Low": 37.25,
+      "Close": 37.380001068115234,
+      "Volume": 30744.0
     }
   ]
 }

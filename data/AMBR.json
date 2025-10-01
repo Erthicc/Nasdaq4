@@ -1,34 +1,26 @@
 {
   "ticker": "AMBR",
   "indicators": {
-    "score_0_100": 71.35,
-    "score_0_10": 7.13,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.028790869511229444,
-    "macd_slope": -0.007876278885419705,
-    "rsi": 32.00000107245464,
-    "rsi_slope": -0.30455233585931146,
-    "wave_strength": 0.8901216615909194,
-    "adx": 46.97857118154929,
-    "atr": 0.4653948058637471,
-    "obv_slope": 13694.57142857143,
+    "score_0_100": 73.77,
+    "score_0_10": 7.38,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.013160560086089235,
+    "macd_slope": -0.00999505080121242,
+    "rsi": 28.813563260590428,
+    "rsi_slope": -0.6172127705415394,
+    "wave_strength": 0.8972485159704694,
+    "adx": 47.5105671789618,
+    "atr": 0.4528666027324676,
+    "obv_slope": -4690.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 191233.8,
-    "last_close": 3.3499999046325684,
+    "avg_vol20": 191628.1,
+    "last_close": 3.200000047683716,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 3.8399999141693115,
-      "High": 3.9100000858306885,
-      "Low": 3.8299999237060547,
-      "Close": 3.8499999046325684,
-      "Volume": 15900
-    },
     {
       "Date": "2023-12-29",
       "Open": 3.8499999046325684,
@@ -3539,7 +3531,15 @@
       "High": 3.700000047683716,
       "Low": 3.200000047683716,
       "Close": 3.3499999046325684,
-      "Volume": 166376
+      "Volume": 166400
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 3.3299999237060547,
+      "High": 3.3299999237060547,
+      "Low": 3.059999942779541,
+      "Close": 3.200000047683716,
+      "Volume": 154562
     }
   ]
 }
