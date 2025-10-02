@@ -1,20 +1,20 @@
 {
   "ticker": "FATN",
   "indicators": {
-    "score_0_100": 70.67,
-    "score_0_10": 7.07,
+    "score_0_100": 71.2,
+    "score_0_10": 7.12,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.008031173441784667,
-    "macd_slope": -0.0058969561236390045,
-    "rsi": 54.05777235420701,
-    "rsi_slope": -0.31551222938378437,
-    "wave_strength": 1.0514313494448482,
-    "adx": 30.114600971366873,
-    "atr": 0.7231890388658676,
-    "obv_slope": 756949.5714285715,
+    "macd_hist": 0.020594888374675907,
+    "macd_slope": -0.0056225893431809965,
+    "rsi": 53.20334264413916,
+    "rsi_slope": -0.19553420900628687,
+    "wave_strength": 1.0559228352119434,
+    "adx": 31.028704017305948,
+    "atr": 0.7172398025670466,
+    "obv_slope": 754148.1428571428,
     "mom14": 0.0,
-    "avg_vol20": 597794.7,
-    "last_close": 6.940000057220459,
+    "avg_vol20": 598406.3,
+    "last_close": 6.920000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -995,7 +995,15 @@
       "High": 6.940000057220459,
       "Low": 6.300000190734863,
       "Close": 6.940000057220459,
-      "Volume": 26294.0
+      "Volume": 28500.0
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 6.960000038146973,
+      "High": 7.289899826049805,
+      "Low": 6.650000095367432,
+      "Close": 6.920000076293945,
+      "Volume": 32126.0
     }
   ]
 }

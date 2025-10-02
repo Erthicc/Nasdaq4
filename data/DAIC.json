@@ -1,20 +1,20 @@
 {
   "ticker": "DAIC",
   "indicators": {
-    "score_0_100": 74.99,
-    "score_0_10": 7.5,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.04385641835441634,
-    "macd_slope": -0.00964745848091364,
-    "rsi": 28.93400613776403,
-    "rsi_slope": 0.48474131630096196,
-    "wave_strength": 1.066666645712025,
-    "adx": 46.655944151784986,
-    "atr": 0.409686618208839,
-    "obv_slope": -16497.35714285714,
+    "score_0_100": 70.54,
+    "score_0_10": 7.05,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.039353966065124646,
+    "macd_slope": -0.007301521013751993,
+    "rsi": 33.13953018150977,
+    "rsi_slope": 1.3344076631576363,
+    "wave_strength": 0.7966906405369547,
+    "adx": 46.14230925268316,
+    "atr": 0.40571612765955045,
+    "obv_slope": -18119.571428571428,
     "mom14": 0.0,
-    "avg_vol20": 73986.85,
-    "last_close": 2.5999999046325684,
+    "avg_vol20": 77403.7,
+    "last_close": 2.5899999141693115,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -583,11 +583,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 2.5490000247955322,
-      "High": 2.649399995803833,
-      "Low": 2.5199999809265137,
+      "Open": 2.5,
+      "High": 2.6489999294281006,
+      "Low": 2.5,
       "Close": 2.5999999046325684,
-      "Volume": 31737.0
+      "Volume": 32700.0
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 2.759999990463257,
+      "High": 2.828399896621704,
+      "Low": 2.492500066757202,
+      "Close": 2.5899999141693115,
+      "Volume": 83174.0
     }
   ]
 }

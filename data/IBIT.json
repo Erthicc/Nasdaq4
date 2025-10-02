@@ -1,22 +1,22 @@
 {
   "ticker": "IBIT",
   "indicators": {
-    "score_0_100": 72.58,
-    "score_0_10": 7.26,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.14051485973778677,
-    "macd_slope": 0.001310748658327068,
-    "rsi": 55.17867609862421,
-    "rsi_slope": 0.07630342576597775,
-    "wave_strength": 0.9983572285115735,
-    "adx": 10.367235959381357,
-    "atr": 1.6457015864964346,
-    "obv_slope": -757784.3571428572,
+    "score_0_100": 78.05,
+    "score_0_10": 7.8,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.37586994837452825,
+    "macd_slope": 0.007120498207295624,
+    "rsi": 56.95171330501114,
+    "rsi_slope": 0.46578383753013697,
+    "wave_strength": 0.993415248448125,
+    "adx": 11.40095791125111,
+    "atr": 1.6781513638838346,
+    "obv_slope": 156698.35714285713,
     "mom14": 0.0,
-    "avg_vol20": 42019880.95,
-    "last_close": 66.73999786376953,
+    "avg_vol20": 43448553.85,
+    "last_close": 68.7699966430664,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -3471,11 +3471,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 66.30999755859375,
+      "Open": 66.30000305175781,
       "High": 67.2300033569336,
-      "Low": 66.15499877929688,
+      "Low": 66.1500015258789,
       "Close": 66.73999786376953,
-      "Volume": 56852319.0
+      "Volume": 57783300.0
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 67.76000213623047,
+      "High": 68.83999633789062,
+      "Low": 67.37000274658203,
+      "Close": 68.7699966430664,
+      "Volume": 60422877.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "EDTK",
   "indicators": {
-    "score_0_100": 71.16,
-    "score_0_10": 7.12,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0010852768494264316,
-    "macd_slope": 0.00012733571849915054,
-    "rsi": 51.30889749943104,
-    "rsi_slope": -0.35858714383302775,
-    "wave_strength": 1.0577281587421987,
-    "adx": 16.71004761782324,
-    "atr": 0.06257922839743969,
-    "obv_slope": 7515.642857142857,
+    "score_0_100": 71.45,
+    "score_0_10": 7.15,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.0007276666276718226,
+    "macd_slope": -8.093690908618575e-05,
+    "rsi": 44.95644613567619,
+    "rsi_slope": -0.9325515513900997,
+    "wave_strength": 1.0287255549101824,
+    "adx": 17.268780082759946,
+    "atr": 0.061873558897334556,
+    "obv_slope": 7121.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 11140.95,
-    "last_close": 1.1100000143051147,
+    "avg_vol20": 11259.7,
+    "last_close": 1.100100040435791,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 1.1799999475479126,
-      "High": 1.3200000524520874,
-      "Low": 1.149999976158142,
-      "Close": 1.2599999904632568,
-      "Volume": 118000
-    },
     {
       "Date": "2024-01-02",
       "Open": 1.2100000381469727,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-01",
       "Open": 1.1200000047683716,
-      "High": 1.1260000467300415,
+      "High": 1.1399999856948853,
       "Low": 1.100000023841858,
       "Close": 1.1100000143051147,
-      "Volume": 4319
+      "Volume": 4300
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 1.139799952507019,
+      "High": 1.139799952507019,
+      "Low": 1.100100040435791,
+      "Close": 1.100100040435791,
+      "Volume": 3994
     }
   ]
 }

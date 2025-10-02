@@ -1,20 +1,20 @@
 {
   "ticker": "SCAG",
   "indicators": {
-    "score_0_100": 70.6,
-    "score_0_10": 7.06,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.033886018874169976,
-    "macd_slope": -0.0037982763966653804,
-    "rsi": 29.385947948678407,
-    "rsi_slope": -1.0478939081141765,
-    "wave_strength": 0.8715928375815465,
-    "adx": 15.63260208481499,
-    "atr": 0.3917727403306463,
-    "obv_slope": 2901.4285714285716,
+    "score_0_100": 77.33,
+    "score_0_10": 7.73,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.03923810296922592,
+    "macd_slope": -0.002588612736577583,
+    "rsi": 19.86047326965982,
+    "rsi_slope": -1.7479792075332377,
+    "wave_strength": 0.881736314241127,
+    "adx": 15.667642074130468,
+    "atr": 0.37588081539708984,
+    "obv_slope": -1218.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 1007221.0,
-    "last_close": 2.700000047683716,
+    "avg_vol20": 1006332.85,
+    "last_close": 2.677799940109253,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -553,9 +553,17 @@
       "Date": "2025-10-01",
       "Open": 2.609999895095825,
       "High": 2.7100000381469727,
-      "Low": 2.609999895095825,
+      "Low": 2.5999999046325684,
       "Close": 2.700000047683716,
-      "Volume": 2820.0
+      "Volume": 2900.0
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 2.5399999618530273,
+      "High": 2.677799940109253,
+      "Low": 2.5399999618530273,
+      "Close": 2.677799940109253,
+      "Volume": 6457.0
     }
   ]
 }

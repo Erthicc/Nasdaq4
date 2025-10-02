@@ -1,34 +1,26 @@
 {
   "ticker": "ALCY",
   "indicators": {
-    "score_0_100": 70.75,
+    "score_0_100": 70.79,
     "score_0_10": 7.08,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.022382407728897952,
-    "macd_slope": 0.0017925215451644499,
-    "rsi": 53.391462208391935,
-    "rsi_slope": 0.3601391979377639,
-    "wave_strength": 1.0413726041802511,
-    "adx": 24.643519429034363,
-    "atr": 0.23258595145564193,
-    "obv_slope": 1171.4285714285713,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.024374794197188247,
+    "macd_slope": 0.0006688182569471162,
+    "rsi": 53.164562476890936,
+    "rsi_slope": 0.36554830311686864,
+    "wave_strength": 1.0398823682442364,
+    "adx": 25.174794461144614,
+    "atr": 0.21740127333609435,
+    "obv_slope": 1143.0,
     "mom14": 0.0,
-    "avg_vol20": 11860.0,
-    "last_close": 11.699999809265137,
+    "avg_vol20": 11855.1,
+    "last_close": 11.720000267028809,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 10.430000305175781,
-      "High": 10.430000305175781,
-      "Low": 10.430000305175781,
-      "Close": 10.430000305175781,
-      "Volume": 0
-    },
     {
       "Date": "2024-01-02",
       "Open": 10.430000305175781,
@@ -3539,7 +3531,15 @@
       "High": 11.699999809265137,
       "Low": 11.579999923706055,
       "Close": 11.699999809265137,
-      "Volume": 2000
+      "Volume": 1900
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 11.720000267028809,
+      "High": 11.720000267028809,
+      "Low": 11.720000267028809,
+      "Close": 11.720000267028809,
+      "Volume": 2
     }
   ]
 }

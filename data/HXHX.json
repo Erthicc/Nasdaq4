@@ -1,20 +1,20 @@
 {
   "ticker": "HXHX",
   "indicators": {
-    "score_0_100": 71.5,
-    "score_0_10": 7.15,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.04415011641348675,
-    "macd_slope": -0.000520488065166458,
-    "rsi": 55.59999933913297,
-    "rsi_slope": -2.087684144926013,
-    "wave_strength": 1.3651877499040803,
-    "adx": 40.75223277042922,
-    "atr": 0.2001014857311588,
-    "obv_slope": -4128.714285714285,
+    "score_0_100": 71.07,
+    "score_0_10": 7.11,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.03638714117423268,
+    "macd_slope": -0.0016850742195988334,
+    "rsi": 55.15872988375017,
+    "rsi_slope": -1.5795709490612444,
+    "wave_strength": 1.2128371406931622,
+    "adx": 41.23871529663234,
+    "atr": 0.19652281499089258,
+    "obv_slope": 34080.857142857145,
     "mom14": 0.0,
-    "avg_vol20": 280809.9,
-    "last_close": 1.5399999618530273,
+    "avg_vol20": 281288.4,
+    "last_close": 1.4900000095367432,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -955,7 +955,15 @@
       "High": 1.6699999570846558,
       "Low": 1.468000054359436,
       "Close": 1.5399999618530273,
-      "Volume": 117998.0
+      "Volume": 125800.0
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 1.5800000429153442,
+      "High": 1.5800000429153442,
+      "Low": 1.4299999475479126,
+      "Close": 1.4900000095367432,
+      "Volume": 111768.0
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "ticker": "GDTC",
   "indicators": {
-    "score_0_100": 71.34,
-    "score_0_10": 7.13,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.000989607232063705,
-    "macd_slope": -0.0008748792412034725,
-    "rsi": 49.99999929292915,
-    "rsi_slope": -1.2370912097772515,
-    "wave_strength": 1.0073654166750885,
-    "adx": 17.34007858023207,
-    "atr": 0.10237532867947845,
-    "obv_slope": 4427.714285714285,
+    "score_0_100": 76.23,
+    "score_0_10": 7.62,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.001556555658809907,
+    "macd_slope": -0.002089265823299719,
+    "rsi": 32.191775506857056,
+    "rsi_slope": -3.0305789990064134,
+    "wave_strength": 1.004568520984584,
+    "adx": 16.893405367438483,
+    "atr": 0.10077045171844583,
+    "obv_slope": 1467.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 14499.4,
+    "avg_vol20": 15572.15,
     "last_close": 2.009999990463257,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 5.25,
-      "High": 5.25,
-      "Low": 4.449999809265137,
-      "Close": 4.900000095367432,
-      "Volume": 133200
-    },
     {
       "Date": "2024-01-02",
       "Open": 4.900000095367432,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-01",
       "Open": 2.0199999809265137,
       "High": 2.049999952316284,
-      "Low": 1.9608999490737915,
+      "Low": 1.9609999656677246,
       "Close": 2.009999990463257,
-      "Volume": 6688
+      "Volume": 6700
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 2.0299999713897705,
+      "High": 2.0299999713897705,
+      "Low": 1.9500000476837158,
+      "Close": 2.009999990463257,
+      "Volume": 23143
     }
   ]
 }

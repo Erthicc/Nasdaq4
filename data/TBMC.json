@@ -1,34 +1,26 @@
 {
   "ticker": "TBMC",
   "indicators": {
-    "score_0_100": 72.12,
-    "score_0_10": 7.21,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.005449225840890776,
-    "macd_slope": 0.00024092139933276041,
-    "rsi": 52.32564096643338,
-    "rsi_slope": 0.1661173523379286,
-    "wave_strength": 1.0136525592811971,
-    "adx": 36.78328321576093,
-    "atr": 0.07458088859304955,
-    "obv_slope": -3064.9285714285716,
+    "score_0_100": 71.53,
+    "score_0_10": 7.15,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.013121836873135749,
+    "macd_slope": 0.0008529491180891935,
+    "rsi": 63.5152747012846,
+    "rsi_slope": 1.0911955795911308,
+    "wave_strength": 1.0126538675401986,
+    "adx": 35.14434344376125,
+    "atr": 0.0808250895843282,
+    "obv_slope": -3001.9285714285716,
     "mom14": 0.0,
-    "avg_vol20": 15575.45,
-    "last_close": 11.678000450134277,
+    "avg_vol20": 5738.65,
+    "last_close": 11.84000015258789,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 10.460000038146973,
-      "High": 10.460000038146973,
-      "Low": 10.460000038146973,
-      "Close": 10.460000038146973,
-      "Volume": 100
-    },
     {
       "Date": "2024-01-02",
       "Open": 10.460000038146973,
@@ -3539,7 +3531,15 @@
       "High": 11.678000450134277,
       "Low": 11.678000450134277,
       "Close": 11.678000450134277,
-      "Volume": 309
+      "Volume": 300
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 11.84000015258789,
+      "High": 11.84000015258789,
+      "Low": 11.84000015258789,
+      "Close": 11.84000015258789,
+      "Volume": 273
     }
   ]
 }

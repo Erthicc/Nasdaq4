@@ -1,34 +1,26 @@
 {
   "ticker": "SEGG",
   "indicators": {
-    "score_0_100": 75.44,
-    "score_0_10": 7.54,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.04715414169308174,
-    "macd_slope": -0.000821799303388604,
-    "rsi": 25.570959922576833,
-    "rsi_slope": -0.7647796300926559,
-    "wave_strength": 1.0332536599314963,
-    "adx": 29.64010253989199,
-    "atr": 0.5823337715724003,
-    "obv_slope": -3955.0,
+    "score_0_100": 72.13,
+    "score_0_10": 7.21,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.05162912831284072,
+    "macd_slope": 0.00025005873470921154,
+    "rsi": 30.46510906610439,
+    "rsi_slope": 0.02335256472212726,
+    "wave_strength": 1.0500760595730672,
+    "adx": 30.0248768914929,
+    "atr": 0.5590196311736617,
+    "obv_slope": 4238.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 71821.5,
-    "last_close": 4.432000160217285,
+    "avg_vol20": 67336.65,
+    "last_close": 4.460000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 29.399999618530273,
-      "High": 30.450000762939453,
-      "Low": 25.200000762939453,
-      "Close": 27.100000381469727,
-      "Volume": 13740
-    },
     {
       "Date": "2024-01-02",
       "Open": 27.100000381469727,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 4.276500225067139,
+      "Open": 4.269999980926514,
       "High": 4.710000038146973,
-      "Low": 4.276500225067139,
+      "Low": 4.269999980926514,
       "Close": 4.432000160217285,
-      "Volume": 100230
+      "Volume": 100200
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 4.429999828338623,
+      "High": 4.5,
+      "Low": 4.250100135803223,
+      "Close": 4.460000038146973,
+      "Volume": 80633
     }
   ]
 }

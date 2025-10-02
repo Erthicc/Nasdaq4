@@ -1,34 +1,26 @@
 {
   "ticker": "ESOA",
   "indicators": {
-    "score_0_100": 71.61,
-    "score_0_10": 7.16,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03942162346300225,
-    "macd_slope": -0.00026100703188777573,
-    "rsi": 49.11660383948918,
-    "rsi_slope": -1.1721758990953428,
-    "wave_strength": 1.0503433696329358,
-    "adx": 17.38039379284984,
-    "atr": 0.462326473819402,
-    "obv_slope": 24038.285714285714,
+    "score_0_100": 71.21,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.02273151269356658,
+    "macd_slope": -0.0006246304475489033,
+    "rsi": 51.4814804296229,
+    "rsi_slope": 0.5750582653194353,
+    "wave_strength": 1.0232374422256347,
+    "adx": 17.806129151630284,
+    "atr": 0.470374569226108,
+    "obv_slope": 19986.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 132611.8,
-    "last_close": 10.369999885559082,
+    "avg_vol20": 134819.75,
+    "last_close": 10.15999984741211,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 5.783487185147616,
-      "High": 5.952130971697642,
-      "Low": 5.456120057389505,
-      "Close": 5.932290554046631,
-      "Volume": 191300
-    },
     {
       "Date": "2024-01-02",
       "Open": 5.912449763059962,
@@ -3539,7 +3531,15 @@
       "High": 10.510000228881836,
       "Low": 10.100000381469727,
       "Close": 10.369999885559082,
-      "Volume": 77836
+      "Volume": 79800
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 10.359999656677246,
+      "High": 10.604999542236328,
+      "Low": 10.029999732971191,
+      "Close": 10.15999984741211,
+      "Volume": 141895
     }
   ]
 }

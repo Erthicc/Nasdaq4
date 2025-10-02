@@ -1,34 +1,26 @@
 {
   "ticker": "CING",
   "indicators": {
-    "score_0_100": 72.74,
-    "score_0_10": 7.27,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.06220688068100258,
-    "macd_slope": 0.003154817330894675,
-    "rsi": 58.22784892239244,
-    "rsi_slope": 0.7233272309787756,
-    "wave_strength": 1.0010454554959054,
-    "adx": 11.693288146215588,
-    "atr": 0.24522086084037223,
-    "obv_slope": 17764.0,
+    "score_0_100": 70.25,
+    "score_0_10": 7.03,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.06422900837743027,
+    "macd_slope": 0.0026556190680860833,
+    "rsi": 53.25443467392108,
+    "rsi_slope": 0.8447044254747027,
+    "wave_strength": 1.091287940172616,
+    "adx": 12.662838909958705,
+    "atr": 0.24597602062526921,
+    "obv_slope": 3558.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 148684.8,
-    "last_close": 4.190000057220459,
+    "avg_vol20": 151638.85,
+    "last_close": 4.059999942779541,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 90.0,
-      "High": 114.23999786376953,
-      "Low": 89.16000366210938,
-      "Close": 91.80000305175781,
-      "Volume": 239258
-    },
     {
       "Date": "2024-01-02",
       "Open": 84.95999908447266,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 3.860100030899048,
+      "Open": 3.880000114440918,
       "High": 4.199999809265137,
-      "Low": 3.860100030899048,
+      "Low": 3.859999895095825,
       "Close": 4.190000057220459,
-      "Volume": 133996
+      "Volume": 139800
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 4.170000076293945,
+      "High": 4.25570011138916,
+      "Low": 4.0,
+      "Close": 4.059999942779541,
+      "Volume": 125977
     }
   ]
 }

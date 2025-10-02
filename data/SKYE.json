@@ -1,34 +1,26 @@
 {
   "ticker": "SKYE",
   "indicators": {
-    "score_0_100": 71.73,
-    "score_0_10": 7.17,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.007607955718861609,
-    "macd_slope": -0.005971059684682874,
-    "rsi": 49.9999996666668,
-    "rsi_slope": -1.4573072044129158,
-    "wave_strength": 1.0359168466433966,
-    "adx": 21.089286885090246,
-    "atr": 0.3359122207157285,
-    "obv_slope": -7233.5,
+    "score_0_100": 74.34,
+    "score_0_10": 7.43,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.03711345083315529,
+    "macd_slope": -0.003673571043367974,
+    "rsi": 55.172408144651634,
+    "rsi_slope": -1.9315958423682973,
+    "wave_strength": 1.0263453867434211,
+    "adx": 22.357884229014285,
+    "atr": 0.3341342913030525,
+    "obv_slope": 39213.357142857145,
     "mom14": 0.0,
-    "avg_vol20": 415161.55,
-    "last_close": 4.260000228881836,
+    "avg_vol20": 405934.35,
+    "last_close": 4.489999771118164,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 2.609999895095825,
-      "High": 2.7200000286102295,
-      "Low": 2.5,
-      "Close": 2.7200000286102295,
-      "Volume": 4300
-    },
     {
       "Date": "2024-01-02",
       "Open": 2.5799999237060547,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-01",
       "Open": 3.9100000858306885,
       "High": 4.460000038146973,
-      "Low": 3.8810999393463135,
+      "Low": 3.880000114440918,
       "Close": 4.260000228881836,
-      "Volume": 596331
+      "Volume": 606200
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 4.329999923706055,
+      "High": 4.570000171661377,
+      "Low": 4.28000020980835,
+      "Close": 4.489999771118164,
+      "Volume": 397987
     }
   ]
 }

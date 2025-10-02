@@ -1,8 +1,8 @@
 {
   "ticker": "BLUW",
   "indicators": {
-    "score_0_100": 73.45,
-    "score_0_10": 7.35,
+    "score_0_100": 73.33,
+    "score_0_10": 7.33,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
     "macd_hist": 0.002161241500252151,
     "macd_slope": -0.00023988515896854022,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0002303627835771,
     "adx": 15.18132644100845,
     "atr": 0.01768630415705702,
-    "obv_slope": -3690.6428571428573,
+    "obv_slope": -3692.8571428571427,
     "mom14": 0.0,
-    "avg_vol20": 52851.55,
+    "avg_vol20": 52850.0,
     "last_close": 10.029000282287598,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -371,7 +371,7 @@
       "High": 10.029000282287598,
       "Low": 10.029000282287598,
       "Close": 10.029000282287598,
-      "Volume": 131.0
+      "Volume": 100.0
     }
   ]
 }
