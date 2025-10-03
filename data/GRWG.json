@@ -1,34 +1,26 @@
 {
   "ticker": "GRWG",
   "indicators": {
-    "score_0_100": 73.74,
-    "score_0_10": 7.37,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.004446953429111181,
-    "macd_slope": 0.002037882708030595,
-    "rsi": 51.655627091672,
-    "rsi_slope": 0.3235134227489032,
-    "wave_strength": 1.2473887927180718,
-    "adx": 35.472434330372444,
-    "atr": 0.1508156635556068,
-    "obv_slope": -9253.42857142857,
+    "score_0_100": 71.1,
+    "score_0_10": 7.11,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0006315570033287171,
+    "macd_slope": 0.0015973185324301995,
+    "rsi": 55.944054113842014,
+    "rsi_slope": 1.0636728078095434,
+    "wave_strength": 1.2370523373200404,
+    "adx": 35.25092537909482,
+    "atr": 0.14551403978203795,
+    "obv_slope": 53937.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 717652.4,
-    "last_close": 1.7699999809265137,
+    "avg_vol20": 701500.95,
+    "last_close": 1.7899999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 2.4700000286102295,
-      "High": 2.630000114440918,
-      "Low": 2.430000066757202,
-      "Close": 2.549999952316284,
-      "Volume": 669500
-    },
     {
       "Date": "2024-01-03",
       "Open": 2.4800000190734863,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-02",
       "Open": 1.7799999713897705,
       "High": 1.850000023841858,
-      "Low": 1.7010999917984009,
+      "Low": 1.7009999752044678,
       "Close": 1.7699999809265137,
-      "Volume": 598748
+      "Volume": 601100
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 1.7599999904632568,
+      "High": 1.8265000581741333,
+      "Low": 1.75,
+      "Close": 1.7899999618530273,
+      "Volume": 330919
     }
   ]
 }

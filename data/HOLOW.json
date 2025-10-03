@@ -1,0 +1,33 @@
+{
+  "ticker": "HOLOW",
+  "indicators": {
+    "score_0_100": 70.48,
+    "score_0_10": 7.05,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0027803758299797306,
+    "macd_slope": 0.00017987998499011338,
+    "rsi": 55.306209837545374,
+    "rsi_slope": 0.5973180421968328,
+    "wave_strength": 1.3948827661561722,
+    "adx": 14.863730205670032,
+    "atr": 0.03030560634563475,
+    "obv_slope": 31626.5,
+    "mom14": 0.0,
+    "avg_vol20": 77268.0,
+    "last_close": 0.1318,
+    "macd_bull": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
+    "above_trend": 1
+  },
+  "history": [
+    {
+      "Date": "2025-10-03",
+      "Open": 0.1599999964237213,
+      "High": 0.17000000178813934,
+      "Low": 0.13099999725818634,
+      "Close": 0.13179999589920044,
+      "Volume": 117916.0
+    }
+  ]
+}

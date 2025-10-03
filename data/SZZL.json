@@ -1,20 +1,20 @@
 {
   "ticker": "SZZL",
   "indicators": {
-    "score_0_100": 74.89,
-    "score_0_10": 7.49,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.0008870361024236142,
-    "macd_slope": 9.102073104179265e-05,
-    "rsi": 49.99999562504836,
-    "rsi_slope": 4.0177267785728485e-07,
-    "wave_strength": 1.0016959832604142,
-    "adx": 57.471289945652664,
-    "atr": 0.03790258173027702,
-    "obv_slope": -7549.071428571428,
+    "score_0_100": 70.95,
+    "score_0_10": 7.09,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.002077843633586547,
+    "macd_slope": 0.00016091504147093647,
+    "rsi": 56.17954210750035,
+    "rsi_slope": 0.5405936911086268,
+    "wave_strength": 1.001596649554912,
+    "adx": 55.811455119811114,
+    "atr": 0.037338092533199474,
+    "obv_slope": -6936.0,
     "mom14": 0.0,
-    "avg_vol20": 13594.35,
-    "last_close": 10.09000015258789,
+    "avg_vol20": 13989.8,
+    "last_close": 10.109999656677246,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -747,7 +747,15 @@
       "High": 10.100000381469727,
       "Low": 10.09000015258789,
       "Close": 10.09000015258789,
-      "Volume": 587.0
+      "Volume": 600.0
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 10.100000381469727,
+      "High": 10.119999885559082,
+      "Low": 10.100000381469727,
+      "Close": 10.109999656677246,
+      "Volume": 7896.0
     }
   ]
 }

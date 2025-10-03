@@ -1,34 +1,26 @@
 {
   "ticker": "MLEC",
   "indicators": {
-    "score_0_100": 84.69,
-    "score_0_10": 8.47,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.04398274473652075,
-    "macd_slope": -0.004126625683222458,
-    "rsi": 14.698165138060602,
-    "rsi_slope": -1.173163272668192,
-    "wave_strength": 1.0539467806156149,
-    "adx": 45.87437241402393,
-    "atr": 0.14922418289614856,
-    "obv_slope": -19550.64285714286,
+    "score_0_100": 82.39,
+    "score_0_10": 8.24,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.04029920245178742,
+    "macd_slope": -0.004837369444409283,
+    "rsi": 15.517244016881051,
+    "rsi_slope": -1.5812201199945666,
+    "wave_strength": 0.816291443787097,
+    "adx": 46.3137150054585,
+    "atr": 0.14287756216001105,
+    "obv_slope": -20993.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 62924.55,
-    "last_close": 0.9495999813079834,
+    "avg_vol20": 60725.3,
+    "last_close": 0.9300000071525574,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 25.0,
-      "High": 25.0,
-      "Low": 24.0,
-      "Close": 24.25,
-      "Volume": 250
-    },
     {
       "Date": "2024-01-03",
       "Open": 24.600000381469727,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 1.0199999809265137,
-      "High": 0.9799000024795532,
-      "Low": 0.8773000240325928,
-      "Close": 0.9495999813079834,
-      "Volume": 26991
+      "Open": 0.9769999980926514,
+      "High": 0.9800000190734863,
+      "Low": 0.8769999742507935,
+      "Close": 0.949999988079071,
+      "Volume": 30200
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 0.9900000095367432,
+      "High": 0.9900000095367432,
+      "Low": 0.9300000071525574,
+      "Close": 0.9300000071525574,
+      "Volume": 40006
     }
   ]
 }

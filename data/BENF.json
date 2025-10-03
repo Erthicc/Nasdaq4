@@ -1,34 +1,26 @@
 {
   "ticker": "BENF",
   "indicators": {
-    "score_0_100": 76.81,
-    "score_0_10": 7.68,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0630880103141136,
-    "macd_slope": 0.0037704491253291498,
-    "rsi": 78.1065091364558,
-    "rsi_slope": 1.192804619500089,
-    "wave_strength": 1.9360748678993251,
-    "adx": 41.092797725191886,
-    "atr": 0.1247003424237193,
-    "obv_slope": 47043286.85714286,
+    "score_0_100": 74.97,
+    "score_0_10": 7.5,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.06257752535909625,
+    "macd_slope": 0.004193510806577472,
+    "rsi": 72.29575576376944,
+    "rsi_slope": 1.4939795595729655,
+    "wave_strength": 1.9801018781505992,
+    "adx": 43.827614481752896,
+    "atr": 0.1363646027936132,
+    "obv_slope": 46712246.71428572,
     "mom14": 0.0,
-    "avg_vol20": 34826055.8,
-    "last_close": 1.0199999809265137,
+    "avg_vol20": 35084162.3,
+    "last_close": 0.890500009059906,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 40.2400016784668,
-      "High": 40.79999923706055,
-      "Low": 38.79999923706055,
-      "Close": 39.20000076293945,
-      "Volume": 464
-    },
     {
       "Date": "2024-01-03",
       "Open": 37.91999816894531,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 0.8985999822616577,
+      "Open": 0.8899999856948853,
       "High": 1.2200000286102295,
-      "Low": 0.8751000165939331,
+      "Low": 0.875,
       "Close": 1.0199999809265137,
-      "Volume": 36155216
+      "Volume": 36381500
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 1.090000033378601,
+      "High": 1.149999976158142,
+      "Low": 0.8619999885559082,
+      "Close": 0.890500009059906,
+      "Volume": 5233946
     }
   ]
 }

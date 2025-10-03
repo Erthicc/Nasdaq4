@@ -1,34 +1,26 @@
 {
   "ticker": "TAOX",
   "indicators": {
-    "score_0_100": 72.15,
-    "score_0_10": 7.22,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.14513367223177212,
-    "macd_slope": 0.012164890528778729,
-    "rsi": 60.67960571362094,
-    "rsi_slope": 2.05500388461098,
-    "wave_strength": 1.066688411983826,
-    "adx": 12.643868524223638,
-    "atr": 0.7588940078914819,
-    "obv_slope": 56446.642857142855,
+    "score_0_100": 69.51,
+    "score_0_10": 6.95,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.1289374133924413,
+    "macd_slope": 0.011389580729239398,
+    "rsi": 55.066076395488594,
+    "rsi_slope": 1.4134499373451348,
+    "wave_strength": 1.1525644424898458,
+    "adx": 14.059136221456125,
+    "atr": 0.7654015719444166,
+    "obv_slope": 56969.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 232727.65,
-    "last_close": 7.090000152587891,
+    "avg_vol20": 236576.5,
+    "last_close": 6.409999847412109,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 6.875,
-      "High": 8.774999618530273,
-      "Low": 6.775000095367432,
-      "Close": 7.375,
-      "Volume": 23940
-    },
     {
       "Date": "2024-01-03",
       "Open": 7.525000095367432,
@@ -3539,7 +3531,15 @@
       "High": 7.570000171661377,
       "Low": 6.360000133514404,
       "Close": 7.090000152587891,
-      "Volume": 289453
+      "Volume": 289800
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 7.150000095367432,
+      "High": 7.199999809265137,
+      "Low": 6.349999904632568,
+      "Close": 6.409999847412109,
+      "Volume": 246230
     }
   ]
 }

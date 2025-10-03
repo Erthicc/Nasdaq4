@@ -1,23 +1,23 @@
 {
   "ticker": "INTJ",
   "indicators": {
-    "score_0_100": 88.66,
-    "score_0_10": 8.87,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.004179206481560158,
-    "macd_slope": -0.0021078955654492584,
-    "rsi": 7.531382398929907,
-    "rsi_slope": -3.7706611031310238,
-    "wave_strength": 1.243037768034489,
-    "adx": 28.66091696098002,
-    "atr": 0.058546536523298866,
-    "obv_slope": -180113.42857142858,
+    "score_0_100": 69.84,
+    "score_0_10": 6.98,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.00532780730354436,
+    "macd_slope": -0.002001401136909644,
+    "rsi": 8.33333509277152,
+    "rsi_slope": -3.950216271831832,
+    "wave_strength": 1.2527844777459662,
+    "adx": 28.3462714962314,
+    "atr": 0.05472739690213662,
+    "obv_slope": 282128.64285714284,
     "mom14": 0.0,
-    "avg_vol20": 255675.6,
+    "avg_vol20": 558915.05,
     "last_close": 0.5,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
@@ -3103,11 +3103,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 0.5098999738693237,
-      "High": 0.5098999738693237,
-      "Low": 0.49720001220703125,
+      "Open": 0.5099999904632568,
+      "High": 0.5099999904632568,
+      "Low": 0.4970000088214874,
       "Close": 0.5,
-      "Volume": 40312.0
+      "Volume": 40300.0
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 0.4952000081539154,
+      "High": 0.5,
+      "Low": 0.4952000081539154,
+      "Close": 0.5,
+      "Volume": 6274301.0
     }
   ]
 }

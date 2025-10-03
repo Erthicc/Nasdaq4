@@ -1,20 +1,20 @@
 {
   "ticker": "HAO",
   "indicators": {
-    "score_0_100": 74.56,
-    "score_0_10": 7.46,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.0007465751605293756,
-    "macd_slope": -0.002031207499851621,
-    "rsi": 45.83332061368771,
-    "rsi_slope": -0.7339786371512628,
-    "wave_strength": 1.0338975878128995,
-    "adx": 52.92722480800775,
-    "atr": 0.13620172636810216,
-    "obv_slope": 33249.857142857145,
+    "score_0_100": 73.12,
+    "score_0_10": 7.31,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0028025215021117164,
+    "macd_slope": -0.0014587765410185947,
+    "rsi": 52.173911455575094,
+    "rsi_slope": -0.47870173435079927,
+    "wave_strength": 1.0274106430171317,
+    "adx": 54.12539783088174,
+    "atr": 0.13075875034101134,
+    "obv_slope": 44941.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 1437725.1,
-    "last_close": 1.2799999713897705,
+    "avg_vol20": 1438518.9,
+    "last_close": 1.2999999523162842,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3399,11 +3399,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 1.2000000476837158,
+      "Open": 1.25,
       "High": 1.2899999618530273,
       "Low": 1.2300000190734863,
       "Close": 1.2799999713897705,
-      "Volume": 46002.0
+      "Volume": 46300.0
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 1.2899999618530273,
+      "High": 1.3200000524520874,
+      "Low": 1.2599999904632568,
+      "Close": 1.2999999523162842,
+      "Volume": 22578.0
     }
   ]
 }

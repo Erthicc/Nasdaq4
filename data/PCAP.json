@@ -1,22 +1,22 @@
 {
   "ticker": "PCAP",
   "indicators": {
-    "score_0_100": 74.3,
-    "score_0_10": 7.43,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.02217994530744924,
-    "macd_slope": 0.000910947749079801,
-    "rsi": 59.23077811252556,
-    "rsi_slope": 0.6593414219571498,
-    "wave_strength": 1.0196116530980774,
-    "adx": 39.47163018100372,
-    "atr": 0.10054724697651118,
-    "obv_slope": 9312.785714285714,
+    "score_0_100": 70.64,
+    "score_0_10": 7.06,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.018729928177775145,
+    "macd_slope": 0.0006566869033242104,
+    "rsi": 54.22539171801224,
+    "rsi_slope": 0.30181382234905535,
+    "wave_strength": 1.019164170753045,
+    "adx": 37.29086179186033,
+    "atr": 0.10265095510437479,
+    "obv_slope": 8740.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 50526.05,
-    "last_close": 10.369999885559082,
+    "avg_vol20": 50546.5,
+    "last_close": 10.3100004196167,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -491,7 +491,15 @@
       "High": 10.369999885559082,
       "Low": 10.300000190734863,
       "Close": 10.369999885559082,
-      "Volume": 51221.0
+      "Volume": 51000.0
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 10.420000076293945,
+      "High": 10.4399995803833,
+      "Low": 10.3100004196167,
+      "Close": 10.3100004196167,
+      "Volume": 3230.0
     }
   ]
 }

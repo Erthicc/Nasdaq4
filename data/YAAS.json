@@ -1,20 +1,20 @@
 {
   "ticker": "YAAS",
   "indicators": {
-    "score_0_100": 71.25,
-    "score_0_10": 7.12,
+    "score_0_100": 70.48,
+    "score_0_10": 7.05,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 1.0104668491434028,
-    "macd_slope": 0.07997536751793437,
-    "rsi": 34.437083778516495,
-    "rsi_slope": 1.6881866961255503,
-    "wave_strength": 1.4810932744638141,
-    "adx": 14.23467191976357,
-    "atr": 2.996156752361906,
-    "obv_slope": 515354.4285714286,
+    "macd_hist": 0.9862732303397168,
+    "macd_slope": 0.06697698155149474,
+    "rsi": 35.72649363553016,
+    "rsi_slope": 1.8507529344913516,
+    "wave_strength": 1.558107401211185,
+    "adx": 13.980817144010274,
+    "atr": 2.8421384141063895,
+    "obv_slope": 647682.4285714285,
     "mom14": 0.0,
-    "avg_vol20": 1670112.6,
-    "last_close": 2.559999942779541,
+    "avg_vol20": 1690977.65,
+    "last_close": 2.5799999237060547,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1579,7 +1579,15 @@
       "High": 2.640000104904175,
       "Low": 2.494999885559082,
       "Close": 2.559999942779541,
-      "Volume": 326332.0
+      "Volume": 350200.0
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 2.559999942779541,
+      "High": 3.339900016784668,
+      "Low": 2.5,
+      "Close": 2.5799999237060547,
+      "Volume": 1558217.0
     }
   ]
 }

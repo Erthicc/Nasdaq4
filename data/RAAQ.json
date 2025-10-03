@@ -1,8 +1,8 @@
 {
   "ticker": "RAAQ",
   "indicators": {
-    "score_0_100": 70.55,
-    "score_0_10": 7.05,
+    "score_0_100": 70.19,
+    "score_0_10": 7.02,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.0010895955071996634,
     "macd_slope": -7.777337252721971e-05,
@@ -11,9 +11,9 @@
     "wave_strength": 1.001530974841658,
     "adx": 55.37649140598241,
     "atr": 0.023024443950652,
-    "obv_slope": 5614.642857142857,
+    "obv_slope": 5607.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 4080.25,
+    "avg_vol20": 4075.0,
     "last_close": 10.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -707,7 +707,7 @@
       "High": 10.239999771118164,
       "Low": 10.130000114440918,
       "Close": 10.130000114440918,
-      "Volume": 905.0
+      "Volume": 800.0
     }
   ]
 }

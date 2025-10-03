@@ -1,34 +1,26 @@
 {
   "ticker": "BTBT",
   "indicators": {
-    "score_0_100": 72.94,
-    "score_0_10": 7.29,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.04152724465641465,
-    "macd_slope": -0.0004843077625849102,
-    "rsi": 67.22407099746101,
-    "rsi_slope": 0.92989056988931,
-    "wave_strength": 1.064714707459114,
-    "adx": 22.852209749367145,
-    "atr": 0.23849523732456784,
-    "obv_slope": 11980018.42857143,
+    "score_0_100": 72.28,
+    "score_0_10": 7.23,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.05101992914712959,
+    "macd_slope": -3.224974986495393e-06,
+    "rsi": 68.91890999461044,
+    "rsi_slope": 0.7799217576947274,
+    "wave_strength": 1.0474631923660915,
+    "adx": 24.386106369306713,
+    "atr": 0.24181701221786217,
+    "obv_slope": 16063899.714285715,
     "mom14": 0.0,
-    "avg_vol20": 29072277.9,
-    "last_close": 3.484999895095825,
+    "avg_vol20": 30267354.8,
+    "last_close": 3.5,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 4.829999923706055,
-      "High": 4.848999977111816,
-      "Low": 3.759999990463257,
-      "Close": 3.809999942779541,
-      "Volume": 17874800
-    },
     {
       "Date": "2024-01-03",
       "Open": 3.4549999237060547,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 3.4000000953674316,
+      "Open": 3.390000104904175,
       "High": 3.569999933242798,
       "Low": 3.2899999618530273,
       "Close": 3.484999895095825,
-      "Volume": 37522458
+      "Volume": 38183200
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 3.569999933242798,
+      "High": 3.7100000381469727,
+      "Low": 3.424999952316284,
+      "Close": 3.5,
+      "Volume": 38388896
     }
   ]
 }

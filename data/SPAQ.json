@@ -1,34 +1,26 @@
 {
   "ticker": "SPAQ",
   "indicators": {
-    "score_0_100": 71.44,
-    "score_0_10": 7.14,
+    "score_0_100": 71.05,
+    "score_0_10": 7.1,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.15223422536083137,
-    "macd_slope": 0.010830094074318041,
-    "rsi": 54.773118295099295,
-    "rsi_slope": 0.5206778791652427,
-    "wave_strength": 1.0111944780872306,
-    "adx": 46.69935043503898,
-    "atr": 0.6422408377010002,
-    "obv_slope": 65.85714285714286,
+    "macd_hist": 0.16634790170963004,
+    "macd_slope": 0.012288507824699353,
+    "rsi": 54.93972295468362,
+    "rsi_slope": 1.0429243901832461,
+    "wave_strength": 1.0106973876358725,
+    "adx": 44.6093966447955,
+    "atr": 0.6085092185041654,
+    "obv_slope": 65.14285714285714,
     "mom14": 0.0,
-    "avg_vol20": 146.1,
-    "last_close": 104.70500183105469,
+    "avg_vol20": 145.6,
+    "last_close": 104.875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 94.0108642578125,
-      "High": 94.0108642578125,
-      "Low": 94.0108642578125,
-      "Close": 94.0108642578125,
-      "Volume": 100
-    },
     {
       "Date": "2024-01-03",
       "Open": 94.70018768310547,
@@ -3539,7 +3531,15 @@
       "High": 104.70500183105469,
       "Low": 104.70500183105469,
       "Close": 104.70500183105469,
-      "Volume": 22
+      "Volume": 100
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 104.875,
+      "High": 104.875,
+      "Low": 104.875,
+      "Close": 104.875,
+      "Volume": 12
     }
   ]
 }

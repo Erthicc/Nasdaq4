@@ -1,16 +1,16 @@
 {
   "ticker": "RANGU",
   "indicators": {
-    "score_0_100": 73.19,
-    "score_0_10": 7.32,
+    "score_0_100": 72.93,
+    "score_0_10": 7.29,
     "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": -0.014574772724096324,
-    "macd_slope": -0.006414138807587768,
+    "macd_hist": -0.01642740812168346,
+    "macd_slope": -0.006115513600863876,
     "rsi": 0.0,
     "rsi_slope": -7.142856976190586,
     "wave_strength": 1.0,
-    "adx": 73.79660029381787,
-    "atr": 0.01682097053855677,
+    "adx": 74.58290189595311,
+    "atr": 0.01561947264294557,
     "obv_slope": 7.142857142857143,
     "mom14": 0.0,
     "avg_vol20": 15.0,
@@ -1567,6 +1567,14 @@
     },
     {
       "Date": "2025-10-01",
+      "Open": 11.0,
+      "High": 11.0,
+      "Low": 11.0,
+      "Close": 11.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-02",
       "Open": 11.0,
       "High": 11.0,
       "Low": 11.0,

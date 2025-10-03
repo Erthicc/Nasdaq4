@@ -1,20 +1,20 @@
 {
   "ticker": "ZBIO",
   "indicators": {
-    "score_0_100": 71.14,
-    "score_0_10": 7.11,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.07088074440185832,
-    "macd_slope": -0.011026179052853389,
-    "rsi": 52.400004020103744,
-    "rsi_slope": -0.8100081119785182,
-    "wave_strength": 1.0977871436111222,
-    "adx": 26.494544878986908,
-    "atr": 1.7427278691256858,
-    "obv_slope": 30676.64285714286,
+    "score_0_100": 71.85,
+    "score_0_10": 7.19,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.08455027168241436,
+    "macd_slope": -0.013669853238857665,
+    "rsi": 49.32576092430306,
+    "rsi_slope": -1.5795841270639686,
+    "wave_strength": 1.094404757823519,
+    "adx": 25.914932317487466,
+    "atr": 1.7325329123396433,
+    "obv_slope": 16338.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 295741.35,
-    "last_close": 20.950000762939453,
+    "avg_vol20": 274421.7,
+    "last_close": 21.760000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2131,7 +2131,15 @@
       "High": 22.770000457763672,
       "Low": 20.334999084472656,
       "Close": 20.950000762939453,
-      "Volume": 266427.0
+      "Volume": 269700.0
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 20.850000381469727,
+      "High": 21.969999313354492,
+      "Low": 20.3700008392334,
+      "Close": 21.760000228881836,
+      "Volume": 142134.0
     }
   ]
 }
