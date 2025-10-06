@@ -1,34 +1,26 @@
 {
   "ticker": "BTBT",
   "indicators": {
-    "score_0_100": 72.28,
-    "score_0_10": 7.23,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.05101992914712959,
-    "macd_slope": -3.224974986495393e-06,
-    "rsi": 68.91890999461044,
-    "rsi_slope": 0.7799217576947274,
-    "wave_strength": 1.0474631923660915,
-    "adx": 24.386106369306713,
-    "atr": 0.24181701221786217,
-    "obv_slope": 16063899.714285715,
+    "score_0_100": 69.32,
+    "score_0_10": 6.93,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.07147890427421653,
+    "macd_slope": 0.0013884209803534699,
+    "rsi": 73.56320929409479,
+    "rsi_slope": 1.1419604260381189,
+    "wave_strength": 1.0267928931816523,
+    "adx": 26.027741123030502,
+    "atr": 0.2466872215271458,
+    "obv_slope": 17517330.785714287,
     "mom14": 0.0,
-    "avg_vol20": 30267354.8,
-    "last_close": 3.5,
+    "avg_vol20": 30988806.55,
+    "last_close": 3.7799999713897705,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 3.4549999237060547,
-      "High": 3.9100000858306885,
-      "Low": 3.359999895095825,
-      "Close": 3.7300000190734863,
-      "Volume": 13036100
-    },
     {
       "Date": "2024-01-04",
       "Open": 3.759999990463257,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-03",
-      "Open": 3.569999933242798,
+      "Open": 3.565000057220459,
       "High": 3.7100000381469727,
       "Low": 3.424999952316284,
       "Close": 3.5,
-      "Volume": 38388896
+      "Volume": 38688300
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 3.6500000953674316,
+      "High": 3.809999942779541,
+      "Low": 3.6050000190734863,
+      "Close": 3.7799999713897705,
+      "Volume": 33509531
     }
   ]
 }

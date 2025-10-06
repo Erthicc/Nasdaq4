@@ -1,16 +1,16 @@
 {
   "ticker": "AFJKU",
   "indicators": {
-    "score_0_100": 100.0,
-    "score_0_10": 10.0,
+    "score_0_100": 98.94,
+    "score_0_10": 9.89,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 4.055778104886433e-07,
-    "macd_slope": -5.609906820334994e-08,
+    "macd_hist": 3.755381876023016e-07,
+    "macd_slope": -5.194570530152304e-08,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 98.00634697777924,
-    "atr": 1.0609868949242486e-05,
+    "adx": 98.00644940529833,
+    "atr": 9.852022004525868e-06,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 10.239999771118164,
-      "High": 10.25,
-      "Low": 10.225000381469727,
-      "Close": 10.239999771118164,
-      "Volume": 8300.0
-    },
     {
       "Date": "2024-01-04",
       "Open": 10.229999542236328,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-02",
+      "Open": 11.25,
+      "High": 11.25,
+      "Low": 11.25,
+      "Close": 11.25,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-03",
       "Open": 11.25,
       "High": 11.25,
       "Low": 11.25,

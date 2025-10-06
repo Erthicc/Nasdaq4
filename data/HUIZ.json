@@ -1,34 +1,26 @@
 {
   "ticker": "HUIZ",
   "indicators": {
-    "score_0_100": 69.72,
-    "score_0_10": 6.97,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.00892738883086433,
-    "macd_slope": -0.008381837013680926,
-    "rsi": 56.27376337302598,
-    "rsi_slope": -1.0046149721760536,
-    "wave_strength": 1.0313119501134203,
-    "adx": 46.515510390712834,
-    "atr": 0.3484587738064571,
-    "obv_slope": -28136.571428571428,
+    "score_0_100": 73.18,
+    "score_0_10": 7.32,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.009154087013994783,
+    "macd_slope": -0.009490261744339534,
+    "rsi": 47.395304240864434,
+    "rsi_slope": -1.774420952247149,
+    "wave_strength": 1.1327703373655331,
+    "adx": 47.74258578898703,
+    "atr": 0.3490117170789186,
+    "obv_slope": -43213.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 735574.4,
-    "last_close": 3.859999895095825,
+    "avg_vol20": 734444.4,
+    "last_close": 3.7225000858306885,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 4.175000190734863,
-      "High": 4.25,
-      "Low": 4.050000190734863,
-      "Close": 4.070000171661377,
-      "Volume": 4600
-    },
     {
       "Date": "2024-01-04",
       "Open": 4.050000190734863,
@@ -3539,7 +3531,15 @@
       "High": 3.9000000953674316,
       "Low": 3.490000009536743,
       "Close": 3.859999895095825,
-      "Volume": 79788
+      "Volume": 79800
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 3.9000000953674316,
+      "High": 3.9600000381469727,
+      "Low": 3.603800058364868,
+      "Close": 3.7225000858306885,
+      "Volume": 19888
     }
   ]
 }

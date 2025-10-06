@@ -1,20 +1,20 @@
 {
   "ticker": "ARMG",
   "indicators": {
-    "score_0_100": 70.3,
-    "score_0_10": 7.03,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.11407410782414984,
-    "macd_slope": -0.01953806809843972,
-    "rsi": 46.66251074272021,
-    "rsi_slope": -1.4029994618645059,
-    "wave_strength": 0.9604870895898918,
-    "adx": 14.698171238381773,
-    "atr": 0.7994751719734037,
-    "obv_slope": -12248.07142857143,
+    "score_0_100": 69.26,
+    "score_0_10": 6.93,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.1792169224298571,
+    "macd_slope": -0.014383365128476155,
+    "rsi": 51.19556625959633,
+    "rsi_slope": -0.959554919755744,
+    "wave_strength": 0.950708602167247,
+    "adx": 15.880327863000973,
+    "atr": 0.8355840419396937,
+    "obv_slope": 5516.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 250516.35,
-    "last_close": 12.68529987335205,
+    "avg_vol20": 263741.65,
+    "last_close": 13.260000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1474,8 +1474,16 @@
       "Open": 12.699999809265137,
       "High": 12.979999542236328,
       "Low": 12.380000114440918,
-      "Close": 12.68529987335205,
-      "Volume": 188927.0
+      "Close": 12.6850004196167,
+      "Volume": 191100.0
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 13.180000305175781,
+      "High": 13.989999771118164,
+      "Low": 13.010000228881836,
+      "Close": 13.260000228881836,
+      "Volume": 323033.0
     }
   ]
 }
