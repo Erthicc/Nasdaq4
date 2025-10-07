@@ -1,19 +1,19 @@
 {
   "ticker": "BLUW",
   "indicators": {
-    "score_0_100": 70.27,
-    "score_0_10": 7.03,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.0031215315426545917,
-    "macd_slope": -2.9952587305002564e-05,
-    "rsi": 49.99999663458771,
-    "rsi_slope": -1.0203905673092923,
+    "score_0_100": 64.92,
+    "score_0_10": 6.49,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.0025000352320795945,
+    "macd_slope": -3.262165302643747e-05,
+    "rsi": 52.52533152032971,
+    "rsi_slope": -0.6816698952419067,
     "wave_strength": 0.9997846888403293,
-    "adx": 16.574037046876835,
-    "atr": 0.016747413726636733,
-    "obv_slope": -425.07142857142856,
+    "adx": 15.747667406658133,
+    "atr": 0.016265471952008104,
+    "obv_slope": -164.28571428571428,
     "mom14": 0.0,
-    "avg_vol20": 31167.45,
+    "avg_vol20": 20915.0,
     "last_close": 10.0,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -395,7 +395,15 @@
       "High": 10.0,
       "Low": 10.0,
       "Close": 10.0,
-      "Volume": 16049.0
+      "Volume": 16000.0
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 10.0,
+      "High": 10.0,
+      "Low": 9.989999771118164,
+      "Close": 10.0,
+      "Volume": 3400.0
     }
   ]
 }

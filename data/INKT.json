@@ -1,34 +1,26 @@
 {
   "ticker": "INKT",
   "indicators": {
-    "score_0_100": 69.65,
-    "score_0_10": 6.97,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.09176367566424659,
-    "macd_slope": 0.005469336776952632,
-    "rsi": 53.48431728655464,
-    "rsi_slope": 0.5173359734464584,
-    "wave_strength": 1.050289584692075,
-    "adx": 24.275345571418484,
-    "atr": 1.3052914403476077,
-    "obv_slope": 7470.785714285715,
+    "score_0_100": 65.76,
+    "score_0_10": 6.58,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.08527829504833005,
+    "macd_slope": 0.0066002894698624056,
+    "rsi": 53.85964848669573,
+    "rsi_slope": 1.167265296210113,
+    "wave_strength": 1.0335618185834587,
+    "adx": 23.87570541472265,
+    "atr": 1.2899134230998432,
+    "obv_slope": 7114.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 41604.55,
-    "last_close": 15.1899995803833,
+    "avg_vol20": 41569.75,
+    "last_close": 14.899999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-04",
-      "Open": 11.0,
-      "High": 11.199999809265137,
-      "Low": 10.710000038146973,
-      "Close": 11.199999809265137,
-      "Volume": 1390
-    },
     {
       "Date": "2024-01-05",
       "Open": 10.600000381469727,
@@ -3539,7 +3531,15 @@
       "High": 16.0,
       "Low": 14.9399995803833,
       "Close": 15.1899995803833,
-      "Volume": 32791
+      "Volume": 32900
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 15.130000114440918,
+      "High": 15.130000114440918,
+      "Low": 14.100000381469727,
+      "Close": 14.899999618530273,
+      "Volume": 37795
     }
   ]
 }

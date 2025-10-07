@@ -1,20 +1,20 @@
 {
   "ticker": "APADU",
   "indicators": {
-    "score_0_100": 69.74,
-    "score_0_10": 6.97,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0040259233708552925,
-    "macd_slope": 0.00033014827841584994,
-    "rsi": 54.28580553534013,
-    "rsi_slope": 0.018774165907867006,
-    "wave_strength": 1.0044342505894324,
-    "adx": 36.353845731958,
-    "atr": 0.02916665817744029,
-    "obv_slope": 6747.214285714285,
+    "score_0_100": 68.47,
+    "score_0_10": 6.85,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.0028800323666370647,
+    "macd_slope": 0.0001315845095935644,
+    "rsi": 49.99999794117748,
+    "rsi_slope": -0.7142988852117657,
+    "wave_strength": 1.0042841421938002,
+    "adx": 36.34705694422611,
+    "atr": 0.027797627513468547,
+    "obv_slope": 6398.928571428572,
     "mom14": 0.0,
-    "avg_vol20": 22341.95,
-    "last_close": 10.0600004196167,
+    "avg_vol20": 22530.75,
+    "last_close": 10.050000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -403,7 +403,15 @@
       "High": 10.079999923706055,
       "Low": 10.0600004196167,
       "Close": 10.0600004196167,
-      "Volume": 6139.0
+      "Volume": 6100.0
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 10.050000190734863,
+      "High": 10.050000190734863,
+      "Low": 10.050000190734863,
+      "Close": 10.050000190734863,
+      "Volume": 4015.0
     }
   ]
 }

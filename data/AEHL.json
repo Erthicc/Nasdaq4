@@ -1,34 +1,26 @@
 {
   "ticker": "AEHL",
   "indicators": {
-    "score_0_100": 70.88,
-    "score_0_10": 7.09,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.006539160290829672,
-    "macd_slope": 0.0032288834570333405,
-    "rsi": 53.08641979624133,
-    "rsi_slope": -0.022434552376657178,
-    "wave_strength": 1.060562184724719,
-    "adx": 35.49429605090891,
-    "atr": 0.4844008513342958,
-    "obv_slope": -4932.214285714285,
+    "score_0_100": 68.82,
+    "score_0_10": 6.88,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.014782649303920398,
+    "macd_slope": 0.0016133638331022465,
+    "rsi": 43.703701318570054,
+    "rsi_slope": -1.004204039729798,
+    "wave_strength": 1.0628721081989005,
+    "adx": 35.09832505401525,
+    "atr": 0.46694364630290147,
+    "obv_slope": -32587.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 1993552.45,
-    "last_close": 3.5399999618530273,
+    "avg_vol20": 1997828.9,
+    "last_close": 3.549999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-04",
-      "Open": 88.0,
-      "High": 88.0,
-      "Low": 81.19999694824219,
-      "Close": 83.5999984741211,
-      "Volume": 655
-    },
     {
       "Date": "2024-01-05",
       "Open": 85.5999984741211,
@@ -3539,7 +3531,15 @@
       "High": 3.5399999618530273,
       "Low": 3.319999933242798,
       "Close": 3.5399999618530273,
-      "Volume": 87349
+      "Volume": 88800
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 3.4700000286102295,
+      "High": 3.5999999046325684,
+      "Low": 3.359999895095825,
+      "Close": 3.549999952316284,
+      "Volume": 123578
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "ticker": "CCIIU",
   "indicators": {
-    "score_0_100": 69.12,
-    "score_0_10": 6.91,
+    "score_0_100": 65.31,
+    "score_0_10": 6.53,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 6.11076177015682e-05,
     "macd_slope": -0.00023180594777607845,
     "rsi": 51.42860829707014,
     "rsi_slope": -0.7782419903580414,
     "wave_strength": 1.0038774917447384,
-    "adx": 11.283587511253769,
-    "atr": 0.0370679350377096,
-    "obv_slope": 1954.5,
+    "adx": 12.122663888121492,
+    "atr": 0.04028222620156284,
+    "obv_slope": 1957.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 7471.85,
+    "avg_vol20": 7470.0,
     "last_close": 10.3100004196167,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -560,10 +560,10 @@
     {
       "Date": "2025-10-06",
       "Open": 10.350000381469727,
-      "High": 10.350000381469727,
+      "High": 10.395000457763672,
       "Low": 10.3100004196167,
       "Close": 10.3100004196167,
-      "Volume": 2037.0
+      "Volume": 2000.0
     }
   ]
 }

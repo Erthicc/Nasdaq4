@@ -1,34 +1,26 @@
 {
   "ticker": "GCTK",
   "indicators": {
-    "score_0_100": 72.37,
-    "score_0_10": 7.24,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.060566168816055616,
-    "macd_slope": -0.029180653691479548,
-    "rsi": 43.65079540673469,
-    "rsi_slope": -1.5874509428705383,
-    "wave_strength": 1.1175293648840159,
-    "adx": 33.366569343304555,
-    "atr": 0.8326255758779054,
-    "obv_slope": -41652.78571428572,
+    "score_0_100": 69.08,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.08029776428145502,
+    "macd_slope": -0.024871946759895482,
+    "rsi": 48.97540581108883,
+    "rsi_slope": -1.03318030268447,
+    "wave_strength": 1.0930979829902734,
+    "adx": 33.74444702673326,
+    "atr": 0.8075309208081609,
+    "obv_slope": 1284.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 3759961.95,
-    "last_close": 7.260000228881836,
+    "avg_vol20": 3762363.9,
+    "last_close": 7.449999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-04",
-      "Open": 1362.0,
-      "High": 1584.0,
-      "Low": 1350.0,
-      "Close": 1416.0,
-      "Volume": 11
-    },
     {
       "Date": "2024-01-05",
       "Open": 1482.0,
@@ -3531,7 +3523,7 @@
       "High": 7.449999809265137,
       "Low": 6.900000095367432,
       "Close": 7.400000095367432,
-      "Volume": 106100
+      "Volume": 154000
     },
     {
       "Date": "2025-10-06",
@@ -3539,7 +3531,15 @@
       "High": 7.699999809265137,
       "Low": 7.110000133514404,
       "Close": 7.260000228881836,
-      "Volume": 55739
+      "Volume": 56000
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 7.309999942779541,
+      "High": 7.497300148010254,
+      "Low": 7.015999794006348,
+      "Close": 7.449999809265137,
+      "Volume": 72178
     }
   ]
 }

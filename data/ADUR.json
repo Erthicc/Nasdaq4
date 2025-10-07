@@ -1,20 +1,20 @@
 {
   "ticker": "ADUR",
   "indicators": {
-    "score_0_100": 69.51,
-    "score_0_10": 6.95,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.18331796566284608,
-    "macd_slope": -0.0031229044573588944,
-    "rsi": 63.389387379651346,
-    "rsi_slope": -0.38887657709280327,
-    "wave_strength": 1.0244773733869639,
-    "adx": 27.544322413876085,
-    "atr": 0.9346267388653822,
-    "obv_slope": 85053.92857142857,
+    "score_0_100": 64.99,
+    "score_0_10": 6.5,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.21170653040848586,
+    "macd_slope": 0.0016206867385835338,
+    "rsi": 66.48575311975495,
+    "rsi_slope": 0.24560483732058966,
+    "wave_strength": 1.1789411538575836,
+    "adx": 28.70199670993754,
+    "atr": 0.9197105118426316,
+    "obv_slope": 87015.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 276622.75,
-    "last_close": 16.0,
+    "avg_vol20": 259169.2,
+    "last_close": 15.5600004196167,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -2299,7 +2299,7 @@
       "High": 15.119999885559082,
       "Low": 13.789999961853027,
       "Close": 15.09000015258789,
-      "Volume": 441600.0
+      "Volume": 443100.0
     },
     {
       "Date": "2025-10-06",
@@ -2307,7 +2307,15 @@
       "High": 16.082000732421875,
       "Low": 15.09000015258789,
       "Close": 16.0,
-      "Volume": 368355.0
+      "Volume": 368900.0
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 16.100000381469727,
+      "High": 16.14579963684082,
+      "Low": 15.420000076293945,
+      "Close": 15.5600004196167,
+      "Volume": 280584.0
     }
   ]
 }
