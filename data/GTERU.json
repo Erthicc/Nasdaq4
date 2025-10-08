@@ -1,20 +1,20 @@
 {
   "ticker": "GTERU",
   "indicators": {
-    "score_0_100": 67.79,
-    "score_0_10": 6.78,
+    "score_0_100": 71.44,
+    "score_0_10": 7.14,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00811553530652084,
-    "macd_slope": 0.00048500724068588737,
-    "rsi": 60.308749673339314,
-    "rsi_slope": 0.2936036723703777,
-    "wave_strength": 1.0028698555141646,
-    "adx": 25.957948847523006,
-    "atr": 0.06081789333945374,
-    "obv_slope": 4174.071428571428,
+    "macd_hist": 0.0102588907123486,
+    "macd_slope": 0.0005386428726027269,
+    "rsi": 59.8253793300925,
+    "rsi_slope": 0.08604850268864743,
+    "wave_strength": 1.009478554359315,
+    "adx": 29.996862357969878,
+    "atr": 0.10290230228165516,
+    "obv_slope": 3446.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 14721.85,
-    "last_close": 10.303500175476074,
+    "avg_vol20": 15192.65,
+    "last_close": 10.300000190734863,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -530,8 +530,16 @@
       "Open": 10.229999542236328,
       "High": 10.574999809265137,
       "Low": 10.220000267028809,
-      "Close": 10.303500175476074,
-      "Volume": 9637.0
+      "Close": 10.303999900817871,
+      "Volume": 9600.0
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 10.729999542236328,
+      "High": 10.899999618530273,
+      "Low": 10.25,
+      "Close": 10.300000190734863,
+      "Volume": 10153.0
     }
   ]
 }

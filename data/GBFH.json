@@ -1,20 +1,20 @@
 {
   "ticker": "GBFH",
   "indicators": {
-    "score_0_100": 65.75,
-    "score_0_10": 6.57,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.10661893249689003,
-    "macd_slope": 0.009088954885894885,
-    "rsi": 61.70211840911032,
-    "rsi_slope": 1.2078181965830643,
-    "wave_strength": 0.9904562603761492,
-    "adx": 10.464055843480462,
-    "atr": 1.4760254069900505,
-    "obv_slope": 409.7142857142857,
+    "score_0_100": 71.92,
+    "score_0_10": 7.19,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.16883424572430705,
+    "macd_slope": 0.007554584535278513,
+    "rsi": 56.59572039201716,
+    "rsi_slope": 0.4428280840187903,
+    "wave_strength": 0.9865893074567984,
+    "adx": 11.349847045090469,
+    "atr": 1.4195236903064552,
+    "obv_slope": -2362.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 38076.8,
-    "last_close": 41.869998931884766,
+    "avg_vol20": 37946.45,
+    "last_close": 42.0099983215332,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -2527,11 +2527,19 @@
     },
     {
       "Date": "2025-10-07",
-      "Open": 40.560001373291016,
+      "Open": 40.86000061035156,
       "High": 41.974998474121094,
       "Low": 40.560001373291016,
       "Close": 41.869998931884766,
-      "Volume": 35936.0
+      "Volume": 37100.0
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 41.5,
+      "High": 42.185001373291016,
+      "Low": 41.5,
+      "Close": 42.0099983215332,
+      "Volume": 25229.0
     }
   ]
 }

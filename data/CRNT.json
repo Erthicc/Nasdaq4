@@ -1,19 +1,19 @@
 {
   "ticker": "CRNT",
   "indicators": {
-    "score_0_100": 65.37,
-    "score_0_10": 6.54,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.002035123626740007,
-    "macd_slope": -0.002925326809199591,
-    "rsi": 53.84616309461591,
-    "rsi_slope": -1.8188705945293246,
-    "wave_strength": 1.0765240102535245,
-    "adx": 30.310873828513625,
-    "atr": 0.10478700698794897,
-    "obv_slope": -75682.21428571429,
+    "score_0_100": 70.28,
+    "score_0_10": 7.03,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.0005385480470560811,
+    "macd_slope": -0.004406829118344878,
+    "rsi": 41.666671375431356,
+    "rsi_slope": -3.0534943683052034,
+    "wave_strength": 1.0668380597305864,
+    "adx": 30.683382750186528,
+    "atr": 0.10319507654588898,
+    "obv_slope": -157675.42857142858,
     "mom14": 0.0,
-    "avg_vol20": 769237.55,
+    "avg_vol20": 776417.2,
     "last_close": 2.4200000762939453,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 2.259999990463257,
-      "High": 2.299999952316284,
-      "Low": 2.2300000190734863,
-      "Close": 2.2699999809265137,
-      "Volume": 196200
-    },
     {
       "Date": "2024-01-08",
       "Open": 2.299999952316284,
@@ -3539,7 +3531,15 @@
       "High": 2.490000009536743,
       "Low": 2.4000000953674316,
       "Close": 2.4200000762939453,
-      "Volume": 462651
+      "Volume": 462800
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 2.4200000762939453,
+      "High": 2.4725000858306885,
+      "Low": 2.390000104904175,
+      "Close": 2.4200000762939453,
+      "Volume": 450044
     }
   ]
 }

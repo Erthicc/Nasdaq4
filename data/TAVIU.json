@@ -1,16 +1,16 @@
 {
   "ticker": "TAVIU",
   "indicators": {
-    "score_0_100": 98.02,
-    "score_0_10": 9.8,
+    "score_0_100": 99.28,
+    "score_0_10": 9.93,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.0030062171918421535,
-    "macd_slope": 0.00014205063263749828,
+    "macd_hist": 0.002769272970233643,
+    "macd_slope": 4.555708263797919e-05,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 89.21068997050149,
-    "atr": 0.0008855033767458606,
+    "adx": 89.44538821853595,
+    "atr": 0.0007635207687247471,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -1695,6 +1695,14 @@
     },
     {
       "Date": "2025-10-07",
+      "Open": 10.4399995803833,
+      "High": 10.4399995803833,
+      "Low": 10.4399995803833,
+      "Close": 10.4399995803833,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-08",
       "Open": 10.4399995803833,
       "High": 10.4399995803833,
       "Low": 10.4399995803833,

@@ -1,22 +1,22 @@
 {
   "ticker": "SVCO",
   "indicators": {
-    "score_0_100": 66.98,
-    "score_0_10": 6.7,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.006925821033636953,
-    "macd_slope": -0.001868849481393076,
-    "rsi": 53.29670029553483,
-    "rsi_slope": -1.0014545484758304,
-    "wave_strength": 1.0734463009253252,
-    "adx": 41.233618728846515,
-    "atr": 0.3394578552499753,
-    "obv_slope": -32239.928571428572,
+    "score_0_100": 71.94,
+    "score_0_10": 7.19,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.021917810309800417,
+    "macd_slope": -0.0010151230384260487,
+    "rsi": 60.576926857390966,
+    "rsi_slope": -0.32837091684768943,
+    "wave_strength": 1.0640411642048773,
+    "adx": 41.577930005452394,
+    "atr": 0.34378230095992174,
+    "obv_slope": -6283.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 136577.95,
-    "last_close": 5.75,
+    "avg_vol20": 135466.45,
+    "last_close": 6.039999961853027,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -2851,7 +2851,15 @@
       "High": 5.889999866485596,
       "Low": 5.630000114440918,
       "Close": 5.75,
-      "Volume": 97959.0
+      "Volume": 98500.0
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 5.892399787902832,
+      "High": 6.150000095367432,
+      "Low": 5.800000190734863,
+      "Close": 6.039999961853027,
+      "Volume": 95029.0
     }
   ]
 }

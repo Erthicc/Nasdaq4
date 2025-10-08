@@ -1,19 +1,19 @@
 {
   "ticker": "GFAI",
   "indicators": {
-    "score_0_100": 65.91,
-    "score_0_10": 6.59,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0029729517921612933,
-    "macd_slope": -0.0002734052886445046,
-    "rsi": 53.999994673302886,
-    "rsi_slope": 1.1785716478296469,
-    "wave_strength": 1.0340371030057125,
-    "adx": 24.2534421575671,
-    "atr": 0.06781328809874031,
-    "obv_slope": 395560.5714285714,
+    "score_0_100": 71.17,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.002467289385445425,
+    "macd_slope": -0.0004282921167369252,
+    "rsi": 49.99999847826104,
+    "rsi_slope": 0.132275085102823,
+    "wave_strength": 1.0313709161686353,
+    "adx": 25.305175458295142,
+    "atr": 0.06725520052298023,
+    "obv_slope": 397252.85714285716,
     "mom14": 0.0,
-    "avg_vol20": 705677.6,
+    "avg_vol20": 708842.0,
     "last_close": 1.1699999570846558,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 3.180000066757202,
-      "High": 3.2200000286102295,
-      "Low": 3.069999933242798,
-      "Close": 3.069999933242798,
-      "Volume": 159000
-    },
     {
       "Date": "2024-01-08",
       "Open": 3.109999895095825,
@@ -3539,7 +3531,15 @@
       "High": 1.2300000190734863,
       "Low": 1.149999976158142,
       "Close": 1.1699999570846558,
-      "Volume": 593852
+      "Volume": 597900
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 1.2000000476837158,
+      "High": 1.2100000381469727,
+      "Low": 1.149999976158142,
+      "Close": 1.1699999570846558,
+      "Volume": 415940
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "PTHL",
   "indicators": {
-    "score_0_100": 66.22,
-    "score_0_10": 6.62,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.17608464228000398,
-    "macd_slope": -0.021332522239625784,
-    "rsi": 29.397587016335507,
-    "rsi_slope": -2.440988761120447,
-    "wave_strength": 0.9375929438766755,
-    "adx": 25.397129766669263,
-    "atr": 0.19737530278352428,
-    "obv_slope": 5855.142857142857,
+    "score_0_100": 71.34,
+    "score_0_10": 7.13,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.16147356377445243,
+    "macd_slope": -0.02047135851241027,
+    "rsi": 26.901870466318783,
+    "rsi_slope": -2.498681487506974,
+    "wave_strength": 0.8925390541352785,
+    "adx": 25.42179570276185,
+    "atr": 0.18747553928511332,
+    "obv_slope": -25243.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 161603.6,
-    "last_close": 0.7390000224113464,
+    "avg_vol20": 155380.15,
+    "last_close": 0.7005000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2199,11 +2199,19 @@
     },
     {
       "Date": "2025-10-07",
-      "Open": 0.75,
-      "High": 0.7967000007629395,
+      "Open": 0.7400000095367432,
+      "High": 0.796999990940094,
       "Low": 0.7099999785423279,
       "Close": 0.7390000224113464,
-      "Volume": 95472.0
+      "Volume": 96700.0
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 0.7167999744415283,
+      "High": 0.7188000082969666,
+      "Low": 0.6804999709129333,
+      "Close": 0.7005000114440918,
+      "Volume": 146403.0
     }
   ]
 }
