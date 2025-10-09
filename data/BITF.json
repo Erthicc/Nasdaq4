@@ -1,34 +1,26 @@
 {
   "ticker": "BITF",
   "indicators": {
-    "score_0_100": 76.08,
-    "score_0_10": 7.61,
+    "score_0_100": 69.48,
+    "score_0_10": 6.95,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.06278266729912618,
-    "macd_slope": -0.009021979229652885,
-    "rsi": 65.81027257228477,
-    "rsi_slope": -2.0987166737326044,
-    "wave_strength": 0.9573092194677837,
-    "adx": 49.22641124140428,
-    "atr": 0.30384743856447677,
-    "obv_slope": 9656031.57142857,
+    "macd_hist": 0.09067556417450018,
+    "macd_slope": -0.006396338152523265,
+    "rsi": 70.03816843299691,
+    "rsi_slope": -1.5393291575288046,
+    "wave_strength": 0.9233841093043255,
+    "adx": 50.783645631055,
+    "atr": 0.3050012052164325,
+    "obv_slope": 24733078.714285713,
     "mom14": 0.0,
-    "avg_vol20": 105802677.1,
-    "last_close": 4.0,
+    "avg_vol20": 105227865.1,
+    "last_close": 4.170000076293945,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 2.7799999713897705,
-      "High": 3.069999933242798,
-      "Low": 2.5799999237060547,
-      "Close": 2.9700000286102295,
-      "Volume": 34010100
-    },
     {
       "Date": "2024-01-09",
       "Open": 2.9700000286102295,
@@ -3539,7 +3531,15 @@
       "High": 4.039999961853027,
       "Low": 3.4800000190734863,
       "Close": 4.0,
-      "Volume": 113071542
+      "Volume": 116178100
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 4.119999885559082,
+      "High": 4.260000228881836,
+      "Low": 3.940000057220459,
+      "Close": 4.170000076293945,
+      "Volume": 104608302
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "MOGO",
   "indicators": {
-    "score_0_100": 70.49,
-    "score_0_10": 7.05,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.007913740057908382,
-    "macd_slope": 0.00011637765515428954,
-    "rsi": 50.70423191965179,
-    "rsi_slope": -0.3465225781405416,
-    "wave_strength": 1.067935489629909,
-    "adx": 24.826008249560577,
-    "atr": 0.09979279902905927,
-    "obv_slope": 8514.5,
+    "score_0_100": 67.71,
+    "score_0_10": 6.77,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
+    "macd_hist": 0.0032841846145577475,
+    "macd_slope": -0.0006180162308724259,
+    "rsi": 44.92753281644099,
+    "rsi_slope": -1.2551756308182362,
+    "wave_strength": 1.0659630512914198,
+    "adx": 23.445665973238494,
+    "atr": 0.09945045828476497,
+    "obv_slope": -20682.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 270854.85,
-    "last_close": 1.940000057220459,
+    "avg_vol20": 257867.5,
+    "last_close": 1.909999966621399,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 1.850000023841858,
-      "High": 1.9600000381469727,
-      "Low": 1.850000023841858,
-      "Close": 1.9579999446868896,
-      "Volume": 58900
-    },
     {
       "Date": "2024-01-09",
       "Open": 1.9600000381469727,
@@ -3539,7 +3531,15 @@
       "High": 1.9900000095367432,
       "Low": 1.9299999475479126,
       "Close": 1.940000057220459,
-      "Volume": 179997
+      "Volume": 185600
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 1.9199999570846558,
+      "High": 1.9600000381469727,
+      "Low": 1.8650000095367432,
+      "Close": 1.909999966621399,
+      "Volume": 180950
     }
   ]
 }

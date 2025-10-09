@@ -1,34 +1,26 @@
 {
   "ticker": "BIOX",
   "indicators": {
-    "score_0_100": 80.11,
-    "score_0_10": 8.01,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.021976940790048527,
-    "macd_slope": 0.005296798036748076,
-    "rsi": 22.500022330505118,
-    "rsi_slope": 0.7829687276798235,
-    "wave_strength": 0.8529048237262059,
-    "adx": 72.31664706041111,
-    "atr": 0.1686181847185106,
-    "obv_slope": -75479.85714285714,
+    "score_0_100": 68.45,
+    "score_0_10": 6.85,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.03423888529970137,
+    "macd_slope": 0.00610197125619152,
+    "rsi": 34.17722337065277,
+    "rsi_slope": 1.6284225146572677,
+    "wave_strength": 0.8709372061358395,
+    "adx": 71.69304471667091,
+    "atr": 0.16621688511792337,
+    "obv_slope": 26205.35714285714,
     "mom14": 0.0,
-    "avg_vol20": 647674.1,
-    "last_close": 1.3300000429153442,
+    "avg_vol20": 663208.75,
+    "last_close": 1.4199999570846558,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 13.239999771118164,
-      "High": 13.699999809265137,
-      "Low": 13.149999618530273,
-      "Close": 13.699999809265137,
-      "Volume": 48900
-    },
     {
       "Date": "2024-01-09",
       "Open": 13.529999732971191,
@@ -3539,7 +3531,15 @@
       "High": 1.3700000047683716,
       "Low": 1.2300000190734863,
       "Close": 1.3300000429153442,
-      "Volume": 754582
+      "Volume": 754600
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 1.340000033378601,
+      "High": 1.434999942779541,
+      "Low": 1.2999999523162842,
+      "Close": 1.4199999570846558,
+      "Volume": 899475
     }
   ]
 }

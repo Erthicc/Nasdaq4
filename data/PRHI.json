@@ -1,19 +1,19 @@
 {
   "ticker": "PRHI",
   "indicators": {
-    "score_0_100": 73.67,
-    "score_0_10": 7.37,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.021071443305817866,
-    "macd_slope": -0.007137519384964623,
-    "rsi": 48.591245113538925,
-    "rsi_slope": -1.914387380776862,
-    "wave_strength": 1.3346873782558872,
-    "adx": 45.78440423613206,
-    "atr": 0.3308641202891765,
-    "obv_slope": 2618667.5714285714,
+    "score_0_100": 70.42,
+    "score_0_10": 7.04,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.029359694651869175,
+    "macd_slope": -0.005404344557706114,
+    "rsi": 51.61141888517301,
+    "rsi_slope": -1.3678750257561367,
+    "wave_strength": 1.2984263759825292,
+    "adx": 47.209123591953464,
+    "atr": 0.3321881147917401,
+    "obv_slope": 2665889.6428571427,
     "mom14": 0.0,
-    "avg_vol20": 4354727.7,
+    "avg_vol20": 4368997.75,
     "last_close": 1.7000000476837158,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 1.253999948501587,
-      "High": 1.3799999952316284,
-      "Low": 1.253999948501587,
-      "Close": 1.3799999952316284,
-      "Volume": 900
-    },
     {
       "Date": "2024-01-09",
       "Open": 1.440000057220459,
@@ -3539,7 +3531,15 @@
       "High": 1.940000057220459,
       "Low": 1.3200000524520874,
       "Close": 1.7000000476837158,
-      "Volume": 1132254
+      "Volume": 1152200
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 1.659999966621399,
+      "High": 2.0,
+      "Low": 1.6505999565124512,
+      "Close": 1.7000000476837158,
+      "Volume": 358455
     }
   ]
 }

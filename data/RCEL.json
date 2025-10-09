@@ -1,34 +1,26 @@
 {
   "ticker": "RCEL",
   "indicators": {
-    "score_0_100": 70.95,
-    "score_0_10": 7.1,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.004323994679948248,
-    "macd_slope": -0.015023248400309904,
-    "rsi": 49.36709417361047,
-    "rsi_slope": -1.0757687684106725,
-    "wave_strength": 1.014744936925217,
-    "adx": 29.887689891366527,
-    "atr": 0.37215941299780414,
-    "obv_slope": -140569.2142857143,
+    "score_0_100": 67.49,
+    "score_0_10": 6.75,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.004160151953598423,
+    "macd_slope": -0.012556701178496448,
+    "rsi": 51.29311182075443,
+    "rsi_slope": -0.904107033470668,
+    "wave_strength": 1.0041689284272393,
+    "adx": 30.136165231681016,
+    "atr": 0.35700519230229444,
+    "obv_slope": 9625.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 1314341.55,
-    "last_close": 5.510000228881836,
+    "avg_vol20": 1306837.55,
+    "last_close": 5.53000020980835,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 12.510000228881836,
-      "High": 13.550000190734863,
-      "Low": 12.279999732971191,
-      "Close": 13.489999771118164,
-      "Volume": 126200
-    },
     {
       "Date": "2024-01-09",
       "Open": 13.25,
@@ -3539,7 +3531,15 @@
       "High": 5.599999904632568,
       "Low": 5.400000095367432,
       "Close": 5.510000228881836,
-      "Volume": 143431
+      "Volume": 144100
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 5.510000228881836,
+      "High": 5.610000133514404,
+      "Low": 5.449999809265137,
+      "Close": 5.53000020980835,
+      "Volume": 139651
     }
   ]
 }

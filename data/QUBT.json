@@ -1,34 +1,26 @@
 {
   "ticker": "QUBT",
   "indicators": {
-    "score_0_100": 75.26,
-    "score_0_10": 7.53,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.1070247505315518,
-    "macd_slope": -0.017960620260973083,
-    "rsi": 55.565567403628584,
-    "rsi_slope": -0.7077843138134519,
-    "wave_strength": 1.2449906237397506,
-    "adx": 43.317332457187526,
-    "atr": 2.335540104180668,
-    "obv_slope": -5905688.285714285,
+    "score_0_100": 76.38,
+    "score_0_10": 7.64,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.0478946924747814,
+    "macd_slope": -0.04570664858321007,
+    "rsi": 44.51322367315025,
+    "rsi_slope": -2.6454929205149065,
+    "wave_strength": 1.2281292913827921,
+    "adx": 44.36188863218863,
+    "atr": 2.2419729848358343,
+    "obv_slope": -9908374.714285715,
     "mom14": 0.0,
-    "avg_vol20": 50251326.8,
-    "last_close": 20.81999969482422,
+    "avg_vol20": 51708197.7,
+    "last_close": 21.31999969482422,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 0.8539999723434448,
-      "High": 0.8799999952316284,
-      "Low": 0.8309999704360962,
-      "Close": 0.8799999952316284,
-      "Volume": 651300
-    },
     {
       "Date": "2024-01-09",
       "Open": 0.8899999856948853,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-08",
-      "Open": 22.040000915527344,
+      "Open": 22.030000686645508,
       "High": 22.739999771118164,
       "Low": 20.219999313354492,
       "Close": 20.81999969482422,
-      "Volume": 51864436
+      "Volume": 52578800
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 21.200000762939453,
+      "High": 21.40559959411621,
+      "Low": 20.3799991607666,
+      "Close": 21.31999969482422,
+      "Volume": 43233454
     }
   ]
 }

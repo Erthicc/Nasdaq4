@@ -1,20 +1,20 @@
 {
   "ticker": "KOYNU",
   "indicators": {
-    "score_0_100": 69.8,
-    "score_0_10": 6.98,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0005570813506654768,
-    "macd_slope": -0.000308853080613282,
+    "score_0_100": 67.09,
+    "score_0_10": 6.71,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.002302602673447056,
+    "macd_slope": -0.00043994992188729667,
     "rsi": 55.17233175177872,
-    "rsi_slope": -0.8210083406190181,
-    "wave_strength": 1.0074470121128458,
-    "adx": 55.209452529587416,
-    "atr": 0.06445550859181147,
-    "obv_slope": 4759.142857142857,
+    "rsi_slope": -1.2178278937817915,
+    "wave_strength": 1.0068491656379113,
+    "adx": 57.70564655858749,
+    "atr": 0.08924953249836186,
+    "obv_slope": -10512.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 97563.6,
-    "last_close": 10.130000114440918,
+    "avg_vol20": 96126.15,
+    "last_close": 10.170000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -255,11 +255,19 @@
     },
     {
       "Date": "2025-10-08",
-      "Open": 10.170000076293945,
-      "High": 10.1899995803833,
-      "Low": 10.119999885559082,
+      "Open": 10.40999984741211,
+      "High": 10.40999984741211,
+      "Low": 10.109999656677246,
       "Close": 10.130000114440918,
-      "Volume": 90972.0
+      "Volume": 91000.0
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 10.130000114440918,
+      "High": 10.32800006866455,
+      "Low": 10.130000114440918,
+      "Close": 10.170000076293945,
+      "Volume": 68123.0
     }
   ]
 }

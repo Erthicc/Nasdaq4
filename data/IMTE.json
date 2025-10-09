@@ -1,34 +1,26 @@
 {
   "ticker": "IMTE",
   "indicators": {
-    "score_0_100": 69.42,
-    "score_0_10": 6.94,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0024746901183083578,
-    "macd_slope": -0.0012206323797566473,
-    "rsi": 52.91374954039565,
-    "rsi_slope": -0.9653443430634796,
-    "wave_strength": 1.0246730361372507,
-    "adx": 32.033056890403444,
-    "atr": 0.11586292702362881,
-    "obv_slope": 82313.92857142857,
+    "score_0_100": 68.26,
+    "score_0_10": 6.83,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.00045751185157591814,
+    "macd_slope": -0.001760866107783011,
+    "rsi": 43.37956814142182,
+    "rsi_slope": -1.9720061004895173,
+    "wave_strength": 1.0438225196157704,
+    "adx": 33.18254943466979,
+    "atr": 0.11187271385809548,
+    "obv_slope": 52485.71428571428,
     "mom14": 0.0,
-    "avg_vol20": 1180294.75,
-    "last_close": 1.159999966621399,
+    "avg_vol20": 1176685.0,
+    "last_close": 1.1150000095367432,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 3.0,
-      "High": 3.0,
-      "Low": 2.9089999198913574,
-      "Close": 3.0,
-      "Volume": 8400
-    },
     {
       "Date": "2024-01-09",
       "Open": 2.994999885559082,
@@ -3539,7 +3531,15 @@
       "High": 1.2000000476837158,
       "Low": 1.0850000381469727,
       "Close": 1.159999966621399,
-      "Volume": 150695
+      "Volume": 151800
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 1.1109999418258667,
+      "High": 1.1349999904632568,
+      "Low": 1.100000023841858,
+      "Close": 1.1150000095367432,
+      "Volume": 30600
     }
   ]
 }

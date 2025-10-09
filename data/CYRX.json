@@ -1,34 +1,26 @@
 {
   "ticker": "CYRX",
   "indicators": {
-    "score_0_100": 70.59,
-    "score_0_10": 7.06,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.006062456884349532,
-    "macd_slope": 0.002836694544404062,
-    "rsi": 50.18726993527432,
-    "rsi_slope": -0.8328161141705225,
-    "wave_strength": 1.0495871576152134,
-    "adx": 25.220533678455975,
-    "atr": 0.5305061564414569,
-    "obv_slope": -1376.9285714285713,
+    "score_0_100": 68.12,
+    "score_0_10": 6.81,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.008065221717420107,
+    "macd_slope": 0.00032006609992621594,
+    "rsi": 49.44648174334504,
+    "rsi_slope": -0.7411809301812795,
+    "wave_strength": 1.0553924046894343,
+    "adx": 25.977684955214038,
+    "atr": 0.5178935054736933,
+    "obv_slope": 28451.5,
     "mom14": 0.0,
-    "avg_vol20": 574391.15,
-    "last_close": 10.0600004196167,
+    "avg_vol20": 566288.95,
+    "last_close": 9.9399995803833,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 15.420000076293945,
-      "High": 16.260000228881836,
-      "Low": 15.239999771118164,
-      "Close": 16.219999313354492,
-      "Volume": 289700
-    },
     {
       "Date": "2024-01-09",
       "Open": 15.920000076293945,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 9.789999961853027,
-      "High": 10.229999542236328,
-      "Low": 9.734999656677246,
+      "High": 10.25,
+      "Low": 9.739999771118164,
       "Close": 10.0600004196167,
-      "Volume": 350023
+      "Volume": 351800
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 10.0600004196167,
+      "High": 10.270000457763672,
+      "Low": 9.930000305175781,
+      "Close": 9.9399995803833,
+      "Volume": 370579
     }
   ]
 }

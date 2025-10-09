@@ -1,24 +1,24 @@
 {
   "ticker": "ETHA",
   "indicators": {
-    "score_0_100": 77.2,
-    "score_0_10": 7.72,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.19461484545884078,
-    "macd_slope": 0.02231875191249766,
-    "rsi": 48.03920961552619,
-    "rsi_slope": -0.5470166589394013,
-    "wave_strength": 1.0816937508454396,
-    "adx": 20.658903836068543,
-    "atr": 1.3977214146924752,
-    "obv_slope": 7807531.428571428,
+    "score_0_100": 66.81,
+    "score_0_10": 6.68,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.08790168274112597,
+    "macd_slope": 0.01828272418430928,
+    "rsi": 47.37569420068866,
+    "rsi_slope": -0.44038434922890446,
+    "wave_strength": 1.0337941607034515,
+    "adx": 19.32120851980095,
+    "atr": 1.4343127313115043,
+    "obv_slope": 6758017.571428572,
     "mom14": 0.0,
-    "avg_vol20": 44978172.0,
-    "last_close": 34.16999816894531,
+    "avg_vol20": 45794847.7,
+    "last_close": 32.810001373291016,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1
+    "above_trend": 0
   },
   "history": [
     {
@@ -2459,7 +2459,15 @@
       "High": 34.4900016784668,
       "Low": 33.57500076293945,
       "Close": 34.16999816894531,
-      "Volume": 40029040.0
+      "Volume": 40397000.0
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 33.29999923706055,
+      "High": 33.310001373291016,
+      "Low": 32.2599983215332,
+      "Close": 32.810001373291016,
+      "Volume": 50237254.0
     }
   ]
 }

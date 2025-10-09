@@ -1,8 +1,8 @@
 {
   "ticker": "HVIIU",
   "indicators": {
-    "score_0_100": 69.54,
-    "score_0_10": 6.95,
+    "score_0_100": 66.8,
+    "score_0_10": 6.68,
     "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": -9.956790285745032e-06,
     "macd_slope": -0.00076724629776214,
