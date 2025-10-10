@@ -1,34 +1,26 @@
 {
   "ticker": "UK",
   "indicators": {
-    "score_0_100": 70.4,
-    "score_0_10": 7.04,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.005264990162082806,
-    "macd_slope": 0.0007292156102033184,
-    "rsi": 57.267452827229974,
-    "rsi_slope": 0.3851753865302306,
-    "wave_strength": 0.9847893925559882,
-    "adx": 31.09408044539541,
-    "atr": 0.08157882773858913,
-    "obv_slope": 49614.142857142855,
+    "score_0_100": 74.82,
+    "score_0_10": 7.48,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.00602845747269826,
+    "macd_slope": 0.0008170238677184065,
+    "rsi": 50.917546235653376,
+    "rsi_slope": -0.022644263563047367,
+    "wave_strength": 1.0747908212275958,
+    "adx": 31.342291370516666,
+    "atr": 0.0841017747860394,
+    "obv_slope": 46923.71428571428,
     "mom14": 0.0,
-    "avg_vol20": 233354.9,
-    "last_close": 1.100000023841858,
+    "avg_vol20": 88603.4,
+    "last_close": 1.0470999479293823,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 3.799999952316284,
-      "High": 3.9700000286102295,
-      "Low": 3.4000000953674316,
-      "Close": 3.609999895095825,
-      "Volume": 80800
-    },
     {
       "Date": "2024-01-10",
       "Open": 3.740000009536743,
@@ -3539,7 +3531,15 @@
       "High": 1.1100000143051147,
       "Low": 1.0,
       "Close": 1.100000023841858,
-      "Volume": 173498
+      "Volume": 173700
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 1.0800000429153442,
+      "High": 1.1469000577926636,
+      "Low": 1.0299999713897705,
+      "Close": 1.0470999479293823,
+      "Volume": 55268
     }
   ]
 }

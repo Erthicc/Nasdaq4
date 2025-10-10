@@ -1,34 +1,26 @@
 {
   "ticker": "TSLQ",
   "indicators": {
-    "score_0_100": 71.62,
-    "score_0_10": 7.16,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.21328646398287998,
-    "macd_slope": 0.04631913699505652,
-    "rsi": 44.37500409388211,
-    "rsi_slope": 2.2099013414071,
-    "wave_strength": 0.9642066392282106,
-    "adx": 40.857733949624226,
-    "atr": 0.8635011400667171,
-    "obv_slope": -6895606.071428572,
+    "score_0_100": 76.34,
+    "score_0_10": 7.63,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.2889141916196647,
+    "macd_slope": 0.0491155400433899,
+    "rsi": 53.4008637745817,
+    "rsi_slope": 3.205532420653502,
+    "wave_strength": 0.971855028180252,
+    "adx": 39.459386105873065,
+    "atr": 0.8868020554137755,
+    "obv_slope": 3317838.285714286,
     "mom14": 0.0,
-    "avg_vol20": 67639015.75,
-    "last_close": 8.180000305175781,
+    "avg_vol20": 67212601.8,
+    "last_close": 9.029999732971191,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 166.51216944916357,
-      "High": 170.7890231910195,
-      "Low": 166.02746457918863,
-      "Close": 168.85018920898438,
-      "Volume": 438350
-    },
     {
       "Date": "2024-01-10",
       "Open": 168.73614270231835,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-09",
-      "Open": 8.310600280761719,
-      "High": 8.528200149536133,
+      "Open": 8.319999694824219,
+      "High": 8.527999877929688,
       "Low": 8.149999618530273,
       "Close": 8.180000305175781,
-      "Volume": 47132915
+      "Volume": 47388100
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 8.15999984741211,
+      "High": 9.089900016784668,
+      "Low": 7.900000095367432,
+      "Close": 9.029999732971191,
+      "Volume": 72315936
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "AYTU",
   "indicators": {
-    "score_0_100": 66.12,
-    "score_0_10": 6.61,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.05412015288845889,
-    "macd_slope": 0.002902537367731147,
-    "rsi": 51.91256616463453,
-    "rsi_slope": -0.5193661052670743,
-    "wave_strength": 0.9040844670096794,
-    "adx": 22.297431288247047,
-    "atr": 0.16841234503958083,
-    "obv_slope": 129284.21428571429,
+    "score_0_100": 74.7,
+    "score_0_10": 7.47,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.05432223597135777,
+    "macd_slope": 0.002507062724569424,
+    "rsi": 46.63212116576921,
+    "rsi_slope": -1.166489751233433,
+    "wave_strength": 1.151904553612193,
+    "adx": 23.163130666472323,
+    "atr": 0.17281146461343125,
+    "obv_slope": 94394.5,
     "mom14": 0.0,
-    "avg_vol20": 408198.95,
-    "last_close": 2.509999990463257,
+    "avg_vol20": 414028.85,
+    "last_close": 2.359999895095825,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 2.7100000381469727,
-      "High": 2.7799999713897705,
-      "Low": 2.690000057220459,
-      "Close": 2.700000047683716,
-      "Volume": 6000
-    },
     {
       "Date": "2024-01-10",
       "Open": 2.6700000762939453,
@@ -3539,7 +3531,15 @@
       "High": 2.5299999713897705,
       "Low": 2.3499999046325684,
       "Close": 2.509999990463257,
-      "Volume": 253079
+      "Volume": 254400
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 2.549999952316284,
+      "High": 2.5799999237060547,
+      "Low": 2.3499999046325684,
+      "Close": 2.359999895095825,
+      "Volume": 185777
     }
   ]
 }

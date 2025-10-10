@@ -1,34 +1,26 @@
 {
   "ticker": "WTO",
   "indicators": {
-    "score_0_100": 68.17,
-    "score_0_10": 6.82,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.003975899639741681,
-    "macd_slope": -0.00044514221557828096,
-    "rsi": 48.529395844960455,
-    "rsi_slope": -1.0767056774479238,
-    "wave_strength": 1.0544738935985294,
-    "adx": 28.657198318508637,
-    "atr": 0.10640524831155036,
-    "obv_slope": 9547.857142857143,
+    "score_0_100": 74.59,
+    "score_0_10": 7.46,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.0025920571336835105,
+    "macd_slope": -0.0004917690919567889,
+    "rsi": 47.142845039221555,
+    "rsi_slope": -1.1300082772230198,
+    "wave_strength": 1.0623760599116832,
+    "adx": 27.931003390096926,
+    "atr": 0.10380487717873157,
+    "obv_slope": -1883.4285714285713,
     "mom14": 0.0,
-    "avg_vol20": 254126.5,
-    "last_close": 1.1799999475479126,
+    "avg_vol20": 82598.4,
+    "last_close": 1.1699999570846558,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 59.5,
-      "High": 62.5,
-      "Low": 59.5,
-      "Close": 59.5,
-      "Volume": 76
-    },
     {
       "Date": "2024-01-10",
       "Open": 65.0,
@@ -3539,7 +3531,15 @@
       "High": 1.2100000381469727,
       "Low": 1.1299999952316284,
       "Close": 1.1799999475479126,
-      "Volume": 28030
+      "Volume": 75600
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 1.1399999856948853,
+      "High": 1.2000000476837158,
+      "Low": 1.1299999952316284,
+      "Close": 1.1699999570846558,
+      "Volume": 31368
     }
   ]
 }

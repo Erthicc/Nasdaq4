@@ -1,34 +1,26 @@
 {
   "ticker": "QETA",
   "indicators": {
-    "score_0_100": 100.0,
-    "score_0_10": 10.0,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.00015033554090745568,
-    "macd_slope": 0.00036278108989013766,
+    "score_0_100": 75.5,
+    "score_0_10": 7.55,
+    "explanation": "strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": -0.0004186045128386426,
+    "macd_slope": -8.127128383169488e-05,
     "rsi": 0.0,
     "rsi_slope": -3.41616044970316,
     "wave_strength": 1.0,
-    "adx": 55.90458275803998,
-    "atr": 0.01638044989327163,
+    "adx": 56.49477360699867,
+    "atr": 0.015210417758037942,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 75.0,
     "last_close": 11.180000305175781,
-    "macd_bull": 1,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 10.109999656677246,
-      "High": 10.109999656677246,
-      "Low": 10.109999656677246,
-      "Close": 10.109999656677246,
-      "Volume": 2300.0
-    },
     {
       "Date": "2024-01-10",
       "Open": 10.140000343322754,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-08",
+      "Open": 11.180000305175781,
+      "High": 11.180000305175781,
+      "Low": 11.180000305175781,
+      "Close": 11.180000305175781,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-09",
       "Open": 11.180000305175781,
       "High": 11.180000305175781,
       "Low": 11.180000305175781,

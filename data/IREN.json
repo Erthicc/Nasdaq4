@@ -1,34 +1,26 @@
 {
   "ticker": "IREN",
   "indicators": {
-    "score_0_100": 66.76,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 1.4232037311752377,
-    "macd_slope": 0.050840334294024715,
-    "rsi": 82.0493235288807,
-    "rsi_slope": 0.49615089865577033,
-    "wave_strength": 1.3406364123565016,
-    "adx": 63.06777845847869,
-    "atr": 4.327431009201323,
-    "obv_slope": 13106188.142857144,
+    "score_0_100": 73.6,
+    "score_0_10": 7.36,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 1.1147782904607038,
+    "macd_slope": 0.02110267176913919,
+    "rsi": 72.25404723581951,
+    "rsi_slope": -0.24859648078968938,
+    "wave_strength": 1.349937062153079,
+    "adx": 64.45172276874474,
+    "atr": 4.877614693829381,
+    "obv_slope": 5027013.785714285,
     "mom14": 0.0,
-    "avg_vol20": 42942971.7,
-    "last_close": 63.849998474121094,
+    "avg_vol20": 45279845.35,
+    "last_close": 59.77000045776367,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 6.28000020980835,
-      "High": 6.400000095367432,
-      "Low": 6.070000171661377,
-      "Close": 6.079999923706055,
-      "Volume": 3431500
-    },
     {
       "Date": "2024-01-10",
       "Open": 5.96999979019165,
@@ -3539,7 +3531,15 @@
       "High": 65.20500183105469,
       "Low": 60.915000915527344,
       "Close": 63.849998474121094,
-      "Volume": 57448434
+      "Volume": 57909000
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 67.76000213623047,
+      "High": 70.05000305175781,
+      "Low": 58.02000045776367,
+      "Close": 59.77000045776367,
+      "Volume": 67344707
     }
   ]
 }

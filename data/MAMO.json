@@ -1,20 +1,20 @@
 {
   "ticker": "MAMO",
   "indicators": {
-    "score_0_100": 69.05,
-    "score_0_10": 6.9,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.01125748903365055,
-    "macd_slope": -0.0016475625510759867,
-    "rsi": 51.408448778504905,
-    "rsi_slope": -0.2646563622105518,
-    "wave_strength": 1.0233439657874002,
-    "adx": 47.66114738985534,
-    "atr": 0.27741269733461554,
-    "obv_slope": -363.2857142857143,
+    "score_0_100": 75.13,
+    "score_0_10": 7.51,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.010229159252509855,
+    "macd_slope": -0.0013281825500577272,
+    "rsi": 51.590108235401814,
+    "rsi_slope": -0.7140851968857836,
+    "wave_strength": 1.0343935847189563,
+    "adx": 46.90876366092436,
+    "atr": 0.2776041442846873,
+    "obv_slope": 556.1428571428571,
     "mom14": 0.0,
-    "avg_vol20": 77835.7,
-    "last_close": 3.0,
+    "avg_vol20": 77200.7,
+    "last_close": 2.9600000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3081,9 +3081,17 @@
       "Date": "2025-10-09",
       "Open": 2.9600000381469727,
       "High": 3.0450000762939453,
-      "Low": 2.800100088119507,
+      "Low": 2.799999952316284,
       "Close": 3.0,
-      "Volume": 27214.0
+      "Volume": 27400.0
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 2.809999942779541,
+      "High": 3.0899999141693115,
+      "Low": 2.809999942779541,
+      "Close": 2.9600000381469727,
+      "Volume": 5214.0
     }
   ]
 }

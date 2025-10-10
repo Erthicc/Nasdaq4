@@ -1,19 +1,19 @@
 {
   "ticker": "OST",
   "indicators": {
-    "score_0_100": 91.32,
-    "score_0_10": 9.13,
+    "score_0_100": 95.02,
+    "score_0_10": 9.5,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.2876873435191636,
-    "macd_slope": -0.03661393095032656,
+    "macd_hist": 0.267043991894236,
+    "macd_slope": -0.034108017582737786,
     "rsi": 0.0,
-    "rsi_slope": -3.3673470104481695,
-    "wave_strength": 1.1142225076373444,
-    "adx": 44.57314435126408,
-    "atr": 0.19638707167032368,
+    "rsi_slope": -4.0993791942423075,
+    "wave_strength": 1.1150442048427665,
+    "adx": 44.53549418174125,
+    "atr": 0.18235942369387198,
     "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 10730.0,
+    "avg_vol20": 2855.0,
     "last_close": 1.6950000524520874,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 205.0,
-      "High": 205.0,
-      "Low": 185.0,
-      "Close": 185.0,
-      "Volume": 72.0
-    },
     {
       "Date": "2024-01-10",
       "Open": 177.5,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-08",
+      "Open": 1.6950000524520874,
+      "High": 1.6950000524520874,
+      "Low": 1.6950000524520874,
+      "Close": 1.6950000524520874,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-09",
       "Open": 1.6950000524520874,
       "High": 1.6950000524520874,
       "Low": 1.6950000524520874,

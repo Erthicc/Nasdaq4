@@ -1,34 +1,26 @@
 {
   "ticker": "VRME",
   "indicators": {
-    "score_0_100": 74.35,
-    "score_0_10": 7.44,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.011132475017722507,
-    "macd_slope": -0.0008495995806461757,
-    "rsi": 32.06814136202142,
-    "rsi_slope": -3.1774988798644777,
-    "wave_strength": 1.3146880151265148,
-    "adx": 26.053903938795873,
-    "atr": 0.09533287315429764,
-    "obv_slope": -176745.42857142858,
+    "score_0_100": 75.62,
+    "score_0_10": 7.56,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.006361977285253395,
+    "macd_slope": -0.0014234873586764399,
+    "rsi": 42.98877707613871,
+    "rsi_slope": -1.3726051738722067,
+    "wave_strength": 1.3021296661589323,
+    "adx": 26.36757730994848,
+    "atr": 0.0942376709943724,
+    "obv_slope": -86731.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 1005406.8,
-    "last_close": 1.0399999618530273,
+    "avg_vol20": 1014871.75,
+    "last_close": 1.0099999904632568,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 1.100000023841858,
-      "High": 1.149999976158142,
-      "Low": 1.100000023841858,
-      "Close": 1.1100000143051147,
-      "Volume": 48900
-    },
     {
       "Date": "2024-01-10",
       "Open": 1.1200000047683716,
@@ -3539,7 +3531,15 @@
       "High": 1.0700000524520874,
       "Low": 1.0199999809265137,
       "Close": 1.0399999618530273,
-      "Volume": 220636
+      "Volume": 224400
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 1.0399999618530273,
+      "High": 1.0800000429153442,
+      "Low": 1.0,
+      "Close": 1.0099999904632568,
+      "Volume": 302335
     }
   ]
 }

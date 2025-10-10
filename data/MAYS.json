@@ -1,17 +1,17 @@
 {
   "ticker": "MAYS",
   "indicators": {
-    "score_0_100": 86.28,
-    "score_0_10": 8.63,
+    "score_0_100": 92.08,
+    "score_0_10": 9.21,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0003817035276336162,
-    "macd_slope": -0.0048955094581742365,
+    "macd_hist": 0.00032562715243513937,
+    "macd_slope": -0.0036152503827589105,
     "rsi": 0.0,
-    "rsi_slope": -7.142856942857149,
+    "rsi_slope": -3.5714285214285724,
     "wave_strength": 1.012491781722551,
-    "adx": 8.222152689664677,
-    "atr": 0.05941022774597946,
-    "obv_slope": 21.428571428571427,
+    "adx": 7.968703315000404,
+    "atr": 0.055166640049838074,
+    "obv_slope": 85.71428571428571,
     "mom14": 0.0,
     "avg_vol20": 165.0,
     "last_close": 38.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 43.0,
-      "High": 43.0,
-      "Low": 43.0,
-      "Close": 43.0,
-      "Volume": 0.0
-    },
     {
       "Date": "2024-01-10",
       "Open": 43.0,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-08",
+      "Open": 38.0,
+      "High": 38.0,
+      "Low": 38.0,
+      "Close": 38.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-09",
       "Open": 38.0,
       "High": 38.0,
       "Low": 38.0,
