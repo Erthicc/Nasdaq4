@@ -1,34 +1,26 @@
 {
   "ticker": "GLTO",
   "indicators": {
-    "score_0_100": 77.12,
-    "score_0_10": 7.71,
+    "score_0_100": 75.75,
+    "score_0_10": 7.57,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 1.1355430042205439,
-    "macd_slope": 0.08013076120423823,
-    "rsi": 65.7226555909811,
-    "rsi_slope": 1.123046857689129,
-    "wave_strength": 2.6110816344737957,
-    "adx": 44.399239920212594,
-    "atr": 3.119247341811996,
-    "obv_slope": 10268715.642857144,
+    "macd_hist": 1.0339285666669062,
+    "macd_slope": 0.0666375972003068,
+    "rsi": 64.41365304641252,
+    "rsi_slope": -0.5259534722551251,
+    "wave_strength": 2.4003254892798864,
+    "adx": 45.499951396808186,
+    "atr": 2.9428368098262476,
+    "obv_slope": 6408756.642857143,
     "mom14": 0.0,
-    "avg_vol20": 7603789.05,
-    "last_close": 12.65999984741211,
+    "avg_vol20": 7607389.65,
+    "last_close": 12.75,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 19.5,
-      "High": 19.5,
-      "Low": 17.774999618530273,
-      "Close": 18.225000381469727,
-      "Volume": 7696
-    },
     {
       "Date": "2024-01-11",
       "Open": 18.024999618530273,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-10",
-      "Open": 13.699999809265137,
+      "Open": 13.710000038146973,
       "High": 14.75,
       "Low": 12.1899995803833,
       "Close": 12.65999984741211,
-      "Volume": 574681
+      "Volume": 590500
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 12.779999732971191,
+      "High": 13.059900283813477,
+      "Low": 12.410400390625,
+      "Close": 12.75,
+      "Volume": 164593
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "INDH",
   "indicators": {
-    "score_0_100": 72.77,
-    "score_0_10": 7.28,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.017774557370078665,
-    "macd_slope": -0.003748476292905454,
-    "rsi": 39.91878506110942,
-    "rsi_slope": -2.278528803939498,
-    "wave_strength": 1.000563778196636,
-    "adx": 12.499102686911653,
-    "atr": 0.21779827307955266,
-    "obv_slope": -745.1428571428571,
+    "score_0_100": 70.98,
+    "score_0_10": 7.1,
+    "explanation": "recent MACD bullish crossover",
+    "macd_hist": 0.031050410256348568,
+    "macd_slope": -0.0007943620727170862,
+    "rsi": 48.63583927386018,
+    "rsi_slope": -0.5675319389149271,
+    "wave_strength": 1.0005917523734782,
+    "adx": 13.063570004409394,
+    "atr": 0.2143839799395968,
+    "obv_slope": -604.6428571428571,
     "mom14": 0.0,
-    "avg_vol20": 1361.6,
-    "last_close": 42.93000030517578,
+    "avg_vol20": 1386.75,
+    "last_close": 43.07099914550781,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2875,7 +2875,15 @@
       "High": 43.290000915527344,
       "Low": 42.93000030517578,
       "Close": 42.93000030517578,
-      "Volume": 1332.0
+      "Volume": 1300.0
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 43.06999969482422,
+      "High": 43.099998474121094,
+      "Low": 43.04999923706055,
+      "Close": 43.07099914550781,
+      "Volume": 835.0
     }
   ]
 }

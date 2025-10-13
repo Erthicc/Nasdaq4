@@ -1,34 +1,26 @@
 {
   "ticker": "QMCO",
   "indicators": {
-    "score_0_100": 76.33,
-    "score_0_10": 7.63,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.11154213148923087,
-    "macd_slope": -0.024689322229809074,
-    "rsi": 46.966019955693014,
-    "rsi_slope": -2.041914532297816,
-    "wave_strength": 1.2640250296006774,
-    "adx": 36.26730940750266,
-    "atr": 1.2938277049408602,
-    "obv_slope": 335521.0,
+    "score_0_100": 70.6,
+    "score_0_10": 7.06,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.056826897470650284,
+    "macd_slope": -0.02740994841119097,
+    "rsi": 56.67870283420862,
+    "rsi_slope": -0.9320845832879822,
+    "wave_strength": 1.2409946870522504,
+    "adx": 36.187662168684064,
+    "atr": 1.2899828525401342,
+    "obv_slope": 821104.9285714285,
     "mom14": 0.0,
-    "avg_vol20": 4024095.3,
-    "last_close": 10.960000038146973,
+    "avg_vol20": 4070243.45,
+    "last_close": 11.800000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 6.0,
-      "High": 6.199999809265137,
-      "Low": 5.800000190734863,
-      "Close": 5.800000190734863,
-      "Volume": 10125
-    },
     {
       "Date": "2024-01-11",
       "Open": 5.800000190734863,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-10",
-      "Open": 12.649999618530273,
+      "Open": 12.65999984741211,
       "High": 13.0,
       "Low": 10.920000076293945,
       "Close": 10.960000038146973,
-      "Volume": 2627906
+      "Volume": 2737900
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 11.5600004196167,
+      "High": 12.199999809265137,
+      "Low": 11.5,
+      "Close": 11.800000190734863,
+      "Volume": 1969869
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "VCIG",
   "indicators": {
-    "score_0_100": 89.22,
-    "score_0_10": 8.92,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.35426491482949807,
-    "macd_slope": 0.07530546156462721,
-    "rsi": 6.108593798149698,
-    "rsi_slope": -1.1068616837988847,
-    "wave_strength": 0.836830949781315,
-    "adx": 23.27304730706098,
-    "atr": 1.6817187672525808,
-    "obv_slope": -337178.5,
+    "score_0_100": 70.51,
+    "score_0_10": 7.05,
+    "explanation": "recent MACD bullish crossover; recent volume spike (penalized); RSI oversold (preferred)",
+    "macd_hist": 0.3307177344171741,
+    "macd_slope": 0.06944635410853277,
+    "rsi": 6.783915347649312,
+    "rsi_slope": -0.8568750733023184,
+    "wave_strength": 0.8843654091253371,
+    "adx": 24.313241559987944,
+    "atr": 1.649096019993117,
+    "obv_slope": -793638.2142857143,
     "mom14": 0.0,
-    "avg_vol20": 338187.45,
-    "last_close": 3.799999952316284,
+    "avg_vol20": 658696.75,
+    "last_close": 3.440000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 54096.0,
-      "High": 58212.0,
-      "Low": 53067.0,
-      "Close": 54978.0,
-      "Volume": 3
-    },
     {
       "Date": "2024-01-11",
       "Open": 53214.0,
@@ -3539,7 +3531,15 @@
       "High": 4.46999979019165,
       "Low": 3.7300000190734863,
       "Close": 3.799999952316284,
-      "Volume": 221399
+      "Volume": 228700
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 4.460000038146973,
+      "High": 4.599999904632568,
+      "Low": 3.375,
+      "Close": 3.440000057220459,
+      "Volume": 6523935
     }
   ]
 }

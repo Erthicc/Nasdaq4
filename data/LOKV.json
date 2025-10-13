@@ -1,20 +1,20 @@
 {
   "ticker": "LOKV",
   "indicators": {
-    "score_0_100": 75.12,
-    "score_0_10": 7.51,
+    "score_0_100": 72.84,
+    "score_0_10": 7.28,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.006850426068588565,
-    "macd_slope": -0.0001705718432962159,
-    "rsi": 58.606427813666244,
-    "rsi_slope": 0.17921153151661023,
-    "wave_strength": 1.004389780445125,
+    "macd_hist": 0.0068568165016146924,
+    "macd_slope": -0.00017011538379434966,
+    "rsi": 58.62072084450853,
+    "rsi_slope": 0.18023246229105944,
+    "wave_strength": 1.0043892871988656,
     "adx": 21.632790865923585,
     "atr": 0.043035891084551955,
-    "obv_slope": -3384.8571428571427,
+    "obv_slope": -3385.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 17465.6,
-    "last_close": 10.239899635314941,
+    "avg_vol20": 17465.0,
+    "last_close": 10.239999771118164,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -985,9 +985,9 @@
       "Date": "2025-10-10",
       "Open": 10.239999771118164,
       "High": 10.239999771118164,
-      "Low": 10.239899635314941,
-      "Close": 10.239899635314941,
-      "Volume": 3512.0
+      "Low": 10.239999771118164,
+      "Close": 10.239999771118164,
+      "Volume": 3500.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "PRZO",
   "indicators": {
-    "score_0_100": 74.0,
-    "score_0_10": 7.4,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
-    "macd_hist": 0.0004925594126094363,
-    "macd_slope": -0.00392809346679075,
-    "rsi": 41.58415398303447,
-    "rsi_slope": -2.3868455997784404,
-    "wave_strength": 1.0682852695288558,
-    "adx": 24.129258278194243,
-    "atr": 0.11938210259483606,
-    "obv_slope": -170102.5,
+    "score_0_100": 70.73,
+    "score_0_10": 7.07,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.003965111919027299,
+    "macd_slope": -0.003666796314635121,
+    "rsi": 51.851849544454055,
+    "rsi_slope": -1.6534387739627558,
+    "wave_strength": 1.057692299081707,
+    "adx": 23.47624216473909,
+    "atr": 0.1215690935590054,
+    "obv_slope": -10344.5,
     "mom14": 0.0,
-    "avg_vol20": 1215571.75,
-    "last_close": 1.649999976158142,
+    "avg_vol20": 1012528.85,
+    "last_close": 1.7899999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 0.7699999809265137,
-      "High": 0.7760000228881836,
-      "Low": 0.7129999995231628,
-      "Close": 0.7229999899864197,
-      "Volume": 721700
-    },
     {
       "Date": "2024-01-11",
       "Open": 0.7099999785423279,
@@ -3539,7 +3531,15 @@
       "High": 1.8200000524520874,
       "Low": 1.6299999952316284,
       "Close": 1.649999976158142,
-      "Volume": 1414535
+      "Volume": 1520900
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 1.7100000381469727,
+      "High": 1.7999999523162842,
+      "Low": 1.7000000476837158,
+      "Close": 1.7899999618530273,
+      "Volume": 736877
     }
   ]
 }

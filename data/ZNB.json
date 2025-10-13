@@ -1,34 +1,26 @@
 {
   "ticker": "ZNB",
   "indicators": {
-    "score_0_100": 72.71,
-    "score_0_10": 7.27,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.32536557594949667,
-    "macd_slope": -0.024170966294961627,
-    "rsi": 48.621553661694044,
-    "rsi_slope": -1.113866499833757,
-    "wave_strength": 1.9181946980126547,
-    "adx": 21.03668698675046,
-    "atr": 0.6402316790375872,
-    "obv_slope": 9410536.857142856,
+    "score_0_100": 70.15,
+    "score_0_10": 7.02,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.2945069055252214,
+    "macd_slope": -0.02430071871482764,
+    "rsi": 52.02020121293997,
+    "rsi_slope": -0.4196096600966932,
+    "wave_strength": 1.9015660493703406,
+    "adx": 21.15087180952592,
+    "atr": 0.6066436742546859,
+    "obv_slope": 9585729.42857143,
     "mom14": 0.0,
-    "avg_vol20": 9026494.2,
-    "last_close": 1.7400000095367432,
+    "avg_vol20": 9053825.6,
+    "last_close": 1.8600000143051147,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 850.0,
-      "High": 925.0,
-      "Low": 850.0,
-      "Close": 900.0,
-      "Volume": 34
-    },
     {
       "Date": "2024-01-11",
       "Open": 900.0,
@@ -3539,7 +3531,15 @@
       "High": 1.9500000476837158,
       "Low": 1.7100000381469727,
       "Close": 1.7400000095367432,
-      "Volume": 1877084
+      "Volume": 2030900
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 1.75,
+      "High": 1.909999966621399,
+      "Low": 1.75,
+      "Close": 1.8600000143051147,
+      "Volume": 1303312
     }
   ]
 }

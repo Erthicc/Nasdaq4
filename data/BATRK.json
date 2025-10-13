@@ -1,34 +1,26 @@
 {
   "ticker": "BATRK",
   "indicators": {
-    "score_0_100": 76.07,
-    "score_0_10": 7.61,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.012118070233625211,
-    "macd_slope": 0.006972525252374843,
-    "rsi": 27.75668969227607,
-    "rsi_slope": 0.3577058795252149,
-    "wave_strength": 0.9871171675121968,
-    "adx": 30.117616249634814,
-    "atr": 0.6562570651708793,
-    "obv_slope": -17540.714285714286,
+    "score_0_100": 72.12,
+    "score_0_10": 7.21,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.006579958723182955,
+    "macd_slope": 0.004910199695962133,
+    "rsi": 30.22394151735702,
+    "rsi_slope": 0.3731386863216386,
+    "wave_strength": 0.988679250960447,
+    "adx": 30.982782360724165,
+    "atr": 0.6493816586179959,
+    "obv_slope": 11097.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 283433.5,
-    "last_close": 40.189998626708984,
+    "avg_vol20": 280973.05,
+    "last_close": 40.27000045776367,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 39.70000076293945,
-      "High": 39.93000030517578,
-      "Low": 39.38999938964844,
-      "Close": 39.529998779296875,
-      "Volume": 258700
-    },
     {
       "Date": "2024-01-11",
       "Open": 39.31999969482422,
@@ -3539,7 +3531,15 @@
       "High": 40.78499984741211,
       "Low": 40.130001068115234,
       "Close": 40.189998626708984,
-      "Volume": 179970
+      "Volume": 184200
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 40.34000015258789,
+      "High": 40.47999954223633,
+      "Low": 39.91999816894531,
+      "Close": 40.27000045776367,
+      "Volume": 184761
     }
   ]
 }

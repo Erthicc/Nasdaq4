@@ -1,20 +1,20 @@
 {
   "ticker": "KYTX",
   "indicators": {
-    "score_0_100": 75.47,
-    "score_0_10": 7.55,
+    "score_0_100": 70.29,
+    "score_0_10": 7.03,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03331548322977684,
-    "macd_slope": -0.015300721861891544,
-    "rsi": 51.153041086283054,
-    "rsi_slope": -2.5939278087328117,
-    "wave_strength": 1.2341010423229635,
-    "adx": 44.02742296843424,
-    "atr": 0.6319682170989627,
-    "obv_slope": 261660.2142857143,
+    "macd_hist": 0.038928947597372865,
+    "macd_slope": -0.0166464577870345,
+    "rsi": 56.378599933862596,
+    "rsi_slope": -1.8626813553247767,
+    "wave_strength": 1.2028815343966395,
+    "adx": 43.61524703255514,
+    "atr": 0.6182562056781398,
+    "obv_slope": 335481.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 862027.85,
-    "last_close": 6.630000114440918,
+    "avg_vol20": 860837.0,
+    "last_close": 6.929999828338623,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3371,7 +3371,15 @@
       "High": 7.230000019073486,
       "Low": 6.599999904632568,
       "Close": 6.630000114440918,
-      "Volume": 634257.0
+      "Volume": 640000.0
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 6.619999885559082,
+      "High": 6.940000057220459,
+      "Low": 6.5,
+      "Close": 6.929999828338623,
+      "Volume": 320440.0
     }
   ]
 }

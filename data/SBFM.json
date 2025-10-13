@@ -1,34 +1,26 @@
 {
   "ticker": "SBFM",
   "indicators": {
-    "score_0_100": 73.25,
-    "score_0_10": 7.33,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.010981861594545818,
-    "macd_slope": 0.00023027097176771968,
-    "rsi": 53.22580276879671,
-    "rsi_slope": -0.560723847455335,
-    "wave_strength": 1.0967846937217212,
-    "adx": 28.776672764980436,
-    "atr": 0.0881762530686402,
-    "obv_slope": 13807.714285714286,
+    "score_0_100": 72.38,
+    "score_0_10": 7.24,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.005823178618369399,
+    "macd_slope": -0.0004979364302196502,
+    "rsi": 48.21427500563389,
+    "rsi_slope": -1.5523248162477994,
+    "wave_strength": 1.0939280213334601,
+    "adx": 28.636536528257068,
+    "atr": 0.08542795083355988,
+    "obv_slope": 2031.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 71819.6,
-    "last_close": 1.5499999523162842,
+    "avg_vol20": 71782.3,
+    "last_close": 1.559999942779541,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 522.0,
-      "High": 522.0,
-      "Low": 482.0,
-      "Close": 498.0,
-      "Volume": 15
-    },
     {
       "Date": "2024-01-11",
       "Open": 500.0,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-10",
       "Open": 1.659999966621399,
-      "High": 1.6606999635696411,
+      "High": 1.6610000133514404,
       "Low": 1.5,
       "Close": 1.5499999523162842,
-      "Volume": 76192
+      "Volume": 76600
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 1.590000033378601,
+      "High": 1.590000033378601,
+      "Low": 1.5403000116348267,
+      "Close": 1.559999942779541,
+      "Volume": 22346
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "VUZI",
   "indicators": {
-    "score_0_100": 75.58,
-    "score_0_10": 7.56,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.03161251901227191,
-    "macd_slope": -0.0043761100977372305,
-    "rsi": 53.124996341817116,
-    "rsi_slope": -2.052877392425674,
-    "wave_strength": 1.266968309632323,
-    "adx": 49.9071374278109,
-    "atr": 0.3322945181848462,
-    "obv_slope": -510091.85714285716,
+    "score_0_100": 70.75,
+    "score_0_10": 7.07,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.008380215192982987,
+    "macd_slope": -0.007702438191851805,
+    "rsi": 57.96460355808083,
+    "rsi_slope": -1.5595266775954444,
+    "wave_strength": 1.2395054017312115,
+    "adx": 49.768382709174105,
+    "atr": 0.3239163321779809,
+    "obv_slope": 338400.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 3898839.3,
-    "last_close": 3.5199999809265137,
+    "avg_vol20": 3899475.4,
+    "last_close": 3.640000104904175,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 2.0199999809265137,
-      "High": 2.0299999713897705,
-      "Low": 1.9700000286102295,
-      "Close": 2.0,
-      "Volume": 671900
-    },
     {
       "Date": "2024-01-11",
       "Open": 2.009999990463257,
@@ -3539,7 +3531,15 @@
       "High": 3.930000066757202,
       "Low": 3.509999990463257,
       "Close": 3.5199999809265137,
-      "Volume": 2957086
+      "Volume": 2994700
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 3.700000047683716,
+      "High": 3.734999895095825,
+      "Low": 3.553499937057495,
+      "Close": 3.640000104904175,
+      "Volume": 1246108
     }
   ]
 }

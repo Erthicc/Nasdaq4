@@ -1,17 +1,17 @@
 {
   "ticker": "HVMCU",
   "indicators": {
-    "score_0_100": 73.34,
-    "score_0_10": 7.33,
+    "score_0_100": 70.69,
+    "score_0_10": 7.07,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0024333750783158796,
-    "macd_slope": 0.00010680974110581349,
+    "macd_hist": 0.004102914884799001,
+    "macd_slope": 0.00022661648575698603,
     "rsi": 68.4209155025678,
-    "rsi_slope": 0.7205562612222332,
-    "wave_strength": 1.0000495717820836,
-    "adx": 68.35981428338364,
-    "atr": 0.03359638156155135,
-    "obv_slope": 8007.142857142857,
+    "rsi_slope": 0.3417599129783661,
+    "wave_strength": 0.9996037442572749,
+    "adx": 67.7427978460517,
+    "atr": 0.031196640021440538,
+    "obv_slope": 7757.142857142857,
     "mom14": 0.0,
     "avg_vol20": 10385.0,
     "last_close": 10.149999618530273,
@@ -356,6 +356,14 @@
       "Low": 10.100000381469727,
       "Close": 10.149999618530273,
       "Volume": 13100.0
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 10.149999618530273,
+      "High": 10.149999618530273,
+      "Low": 10.149999618530273,
+      "Close": 10.149999618530273,
+      "Volume": 0.0
     }
   ]
 }
