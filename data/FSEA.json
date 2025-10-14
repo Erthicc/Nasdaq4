@@ -1,34 +1,26 @@
 {
   "ticker": "FSEA",
   "indicators": {
-    "score_0_100": 70.5,
-    "score_0_10": 7.05,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.0039660123176532905,
-    "macd_slope": 0.0013145580601901382,
-    "rsi": 53.46019118827905,
-    "rsi_slope": -0.027568712547243024,
-    "wave_strength": 1.0069707046882237,
-    "adx": 29.516788754204928,
-    "atr": 0.10704059731612203,
-    "obv_slope": -1831.857142857143,
+    "score_0_100": 70.38,
+    "score_0_10": 7.04,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 0.003221161335715775,
+    "macd_slope": 0.0005770045513984205,
+    "rsi": 42.831578736284044,
+    "rsi_slope": -0.3279351335320411,
+    "wave_strength": 1.0067959093457886,
+    "adx": 29.417898551060286,
+    "atr": 0.10296628253991115,
+    "obv_slope": -2771.5,
     "mom14": 0.0,
-    "avg_vol20": 4792.7,
-    "last_close": 11.600000381469727,
+    "avg_vol20": 4865.05,
+    "last_close": 11.550000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-11",
-      "Open": 7.40500020980835,
-      "High": 8.130000114440918,
-      "Low": 7.400000095367432,
-      "Close": 7.920000076293945,
-      "Volume": 60300
-    },
     {
       "Date": "2024-01-12",
       "Open": 7.909999847412109,
@@ -3539,7 +3531,15 @@
       "High": 11.600000381469727,
       "Low": 11.59000015258789,
       "Close": 11.600000381469727,
-      "Volume": 1054
+      "Volume": 1100
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 11.556900024414062,
+      "High": 11.600000381469727,
+      "Low": 11.550000190734863,
+      "Close": 11.550000190734863,
+      "Volume": 2001
     }
   ]
 }

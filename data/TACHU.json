@@ -1,8 +1,8 @@
 {
   "ticker": "TACHU",
   "indicators": {
-    "score_0_100": 72.98,
-    "score_0_10": 7.3,
+    "score_0_100": 70.96,
+    "score_0_10": 7.1,
     "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
     "macd_hist": 0.002760322910510874,
     "macd_slope": -0.00041945003158254103,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0093058425373398,
     "adx": 51.36297769722095,
     "atr": 0.05058185519416041,
-    "obv_slope": 5549.928571428572,
+    "obv_slope": 5550.0,
     "mom14": 0.0,
-    "avg_vol20": 4040.05,
+    "avg_vol20": 4040.0,
     "last_close": 10.289999961853027,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1048,10 +1048,10 @@
     {
       "Date": "2025-10-13",
       "Open": 10.289999961853027,
-      "High": 10.345399856567383,
+      "High": 10.345000267028809,
       "Low": 10.289999961853027,
       "Close": 10.289999961853027,
-      "Volume": 1001.0
+      "Volume": 1000.0
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "WENNU",
   "indicators": {
-    "score_0_100": 71.02,
-    "score_0_10": 7.1,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.012269363973525568,
-    "macd_slope": 0.0009791262730053033,
-    "rsi": 54.36241173052944,
-    "rsi_slope": 0.3598644479826036,
-    "wave_strength": 1.0112198816376563,
-    "adx": 40.523582075935835,
-    "atr": 0.15623105552001423,
-    "obv_slope": 5046.0,
+    "score_0_100": 71.22,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.011582476310231501,
+    "macd_slope": 6.952705071693614e-05,
+    "rsi": 48.08792283708747,
+    "rsi_slope": -0.5933887032007387,
+    "wave_strength": 1.0106895628828758,
+    "adx": 40.46196423073627,
+    "atr": 0.14507884696881485,
+    "obv_slope": 1538.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 8022.8,
-    "last_close": 10.550000190734863,
+    "avg_vol20": 6198.3,
+    "last_close": 10.54990005493164,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -843,7 +843,15 @@
       "High": 10.550000190734863,
       "Low": 10.489999771118164,
       "Close": 10.550000190734863,
-      "Volume": 6156.0
+      "Volume": 6200.0
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 10.54990005493164,
+      "High": 10.54990005493164,
+      "Low": 10.54990005493164,
+      "Close": 10.54990005493164,
+      "Volume": 466.0
     }
   ]
 }

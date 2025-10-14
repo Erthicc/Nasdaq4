@@ -1,34 +1,26 @@
 {
   "ticker": "FGNX",
   "indicators": {
-    "score_0_100": 70.91,
-    "score_0_10": 7.09,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.2853407923961675,
-    "macd_slope": 0.0011538144296054614,
-    "rsi": 31.413616192095276,
-    "rsi_slope": 0.31089353389126323,
-    "wave_strength": 0.9941753882186134,
-    "adx": 25.12823712772724,
-    "atr": 1.1185642496282775,
-    "obv_slope": 17449.214285714286,
+    "score_0_100": 67.8,
+    "score_0_10": 6.78,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.23229839834054622,
+    "macd_slope": -0.002376444728248019,
+    "rsi": 32.72727910688266,
+    "rsi_slope": 0.2725260114316228,
+    "wave_strength": 1.0144927631885376,
+    "adx": 25.598251125602484,
+    "atr": 1.0604525392345017,
+    "obv_slope": -41646.21428571428,
     "mom14": 0.0,
-    "avg_vol20": 837245.55,
-    "last_close": 4.539999961853027,
+    "avg_vol20": 882452.35,
+    "last_close": 4.300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-11",
-      "Open": 35.0,
-      "High": 35.625,
-      "Low": 32.75,
-      "Close": 33.75,
-      "Volume": 400
-    },
     {
       "Date": "2024-01-12",
       "Open": 35.0,
@@ -3531,7 +3523,7 @@
       "High": 6.0,
       "Low": 4.960000038146973,
       "Close": 5.0,
-      "Volume": 794500
+      "Volume": 797300
     },
     {
       "Date": "2025-10-13",
@@ -3539,7 +3531,15 @@
       "High": 5.630000114440918,
       "Low": 4.53000020980835,
       "Close": 4.539999961853027,
-      "Volume": 544111
+      "Volume": 624400
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 4.380000114440918,
+      "High": 4.545000076293945,
+      "Low": 4.239999771118164,
+      "Close": 4.300000190734863,
+      "Volume": 1001847
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "LMTS",
   "indicators": {
-    "score_0_100": 72.16,
-    "score_0_10": 7.22,
+    "score_0_100": 71.47,
+    "score_0_10": 7.15,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.03746128479026378,
-    "macd_slope": 0.005513813767834076,
-    "rsi": 33.62921641067068,
-    "rsi_slope": 1.2979123650363502,
-    "wave_strength": 0.9644380245610619,
-    "adx": 60.312884036209084,
-    "atr": 0.17744812367895105,
-    "obv_slope": 151.85714285714286,
+    "macd_hist": 0.054801929765391555,
+    "macd_slope": 0.006887237761038144,
+    "rsi": 31.863227578044373,
+    "rsi_slope": 0.9787957092207772,
+    "wave_strength": 0.985851881473704,
+    "adx": 59.539286740044815,
+    "atr": 0.17294474796241605,
+    "obv_slope": 207.07142857142858,
     "mom14": 0.0,
-    "avg_vol20": 281.3,
-    "last_close": 21.225000381469727,
+    "avg_vol20": 280.05,
+    "last_close": 21.110599517822266,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -387,7 +387,15 @@
       "High": 21.225000381469727,
       "Low": 21.225000381469727,
       "Close": 21.225000381469727,
-      "Volume": 26.0
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 21.110599517822266,
+      "High": 21.110599517822266,
+      "Low": 21.110599517822266,
+      "Close": 21.110599517822266,
+      "Volume": 1.0
     }
   ]
 }

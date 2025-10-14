@@ -1,19 +1,19 @@
 {
   "ticker": "LUCYW",
   "indicators": {
-    "score_0_100": 74.87,
-    "score_0_10": 7.49,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.0033280296431341307,
-    "macd_slope": 6.136453184679572e-05,
-    "rsi": 52.31544829615364,
-    "rsi_slope": -0.46486231844662385,
-    "wave_strength": 1.5334989620247248,
-    "adx": 39.14573254445382,
-    "atr": 0.0159455209843419,
-    "obv_slope": -1767.4285714285713,
+    "score_0_100": 73.27,
+    "score_0_10": 7.33,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.0026719218544218014,
+    "macd_slope": -0.00012569496963566216,
+    "rsi": 47.23490310420613,
+    "rsi_slope": -1.410444341985741,
+    "wave_strength": 1.50251276724972,
+    "adx": 39.882118012251695,
+    "atr": 0.014807065413725654,
+    "obv_slope": -1885.7142857142858,
     "mom14": 0.0,
-    "avg_vol20": 5357.8,
+    "avg_vol20": 5405.0,
     "last_close": 0.11010000109672546,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-11",
-      "Open": 0.07999999821186066,
-      "High": 0.07999999821186066,
-      "Low": 0.07999999821186066,
-      "Close": 0.07999999821186066,
-      "Volume": 0
-    },
     {
       "Date": "2024-01-12",
       "Open": 0.09000000357627869,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-13",
+      "Open": 0.10999999940395355,
+      "High": 0.10999999940395355,
+      "Low": 0.10999999940395355,
+      "Close": 0.10999999940395355,
+      "Volume": 1000
+    },
+    {
+      "Date": "2025-10-14",
       "Open": 0.0,
       "High": 0.11010000109672546,
       "Low": 0.10999999940395355,
       "Close": 0.11010000109672546,
-      "Volume": 956
+      "Volume": 900
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ticker": "SOUX",
   "indicators": {
-    "score_0_100": 70.24,
-    "score_0_10": 7.02,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.4122995487472281,
-    "macd_slope": -0.11114502011458065,
-    "rsi": 53.23674935211148,
-    "rsi_slope": -1.8777406160192085,
-    "wave_strength": 1.2022734155569852,
-    "adx": 32.91633178048666,
-    "atr": 7.60799095177663,
-    "obv_slope": -40208.642857142855,
+    "score_0_100": 69.42,
+    "score_0_10": 6.94,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 1.1265200680396958,
+    "macd_slope": -0.06587187826046938,
+    "rsi": 62.147163937907116,
+    "rsi_slope": -0.9519711779658405,
+    "wave_strength": 1.164557949598324,
+    "adx": 33.62674667411168,
+    "atr": 8.37241999512071,
+    "obv_slope": 28594.5,
     "mom14": 0.0,
-    "avg_vol20": 445198.95,
-    "last_close": 59.349998474121094,
+    "avg_vol20": 454671.15,
+    "last_close": 69.51000213623047,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -635,7 +635,7 @@
       "High": 60.56999969482422,
       "Low": 49.0099983215332,
       "Close": 49.04999923706055,
-      "Volume": 425700.0
+      "Volume": 433500.0
     },
     {
       "Date": "2025-10-13",
@@ -643,7 +643,15 @@
       "High": 60.5,
       "Low": 51.81999969482422,
       "Close": 59.349998474121094,
-      "Volume": 334579.0
+      "Volume": 350000.0
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 55.779998779296875,
+      "High": 74.08999633789062,
+      "Low": 55.779998779296875,
+      "Close": 69.51000213623047,
+      "Volume": 591923.0
     }
   ]
 }
