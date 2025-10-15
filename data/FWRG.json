@@ -1,34 +1,26 @@
 {
   "ticker": "FWRG",
   "indicators": {
-    "score_0_100": 68.8,
-    "score_0_10": 6.88,
+    "score_0_100": 69.77,
+    "score_0_10": 6.98,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.17515953495409903,
-    "macd_slope": 0.030614201953209665,
-    "rsi": 65.55944826892804,
-    "rsi_slope": 3.7448712817914154,
-    "wave_strength": 0.9917303496101197,
-    "adx": 26.58031111182773,
-    "atr": 0.740492763651065,
-    "obv_slope": 291912.5,
+    "macd_hist": 0.2604711693300977,
+    "macd_slope": 0.03477834931359785,
+    "rsi": 67.90541210218237,
+    "rsi_slope": 3.9124401270238676,
+    "wave_strength": 0.9878315026208487,
+    "adx": 26.487972868213095,
+    "atr": 0.7426004560984852,
+    "obv_slope": 484040.28571428574,
     "mom14": 0.0,
-    "avg_vol20": 1227283.75,
-    "last_close": 17.520000457763672,
+    "avg_vol20": 1261298.2,
+    "last_close": 17.790000915527344,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 19.649999618530273,
-      "High": 19.649999618530273,
-      "Low": 19.3799991607666,
-      "Close": 19.510000228881836,
-      "Volume": 222500
-    },
     {
       "Date": "2024-01-16",
       "Open": 19.34000015258789,
@@ -3539,7 +3531,15 @@
       "High": 17.549999237060547,
       "Low": 15.960000038146973,
       "Close": 17.520000457763672,
-      "Volume": 1315775
+      "Volume": 1326000
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 17.649999618530273,
+      "High": 18.290000915527344,
+      "Low": 17.649999618530273,
+      "Close": 17.790000915527344,
+      "Volume": 1349764
     }
   ]
 }

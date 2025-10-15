@@ -1,8 +1,8 @@
 {
   "ticker": "TDAC",
   "indicators": {
-    "score_0_100": 71.96,
-    "score_0_10": 7.2,
+    "score_0_100": 73.98,
+    "score_0_10": 7.4,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.0009851427014755353,
     "macd_slope": -6.063027145349375e-06,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0018355443256848,
     "adx": 52.042969262570395,
     "atr": 0.011549156981612251,
-    "obv_slope": 1011.5714285714286,
+    "obv_slope": 1014.2857142857143,
     "mom14": 0.0,
-    "avg_vol20": 1073.1,
+    "avg_vol20": 1075.0,
     "last_close": 10.380000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -1363,7 +1363,7 @@
       "High": 10.380000114440918,
       "Low": 10.380000114440918,
       "Close": 10.380000114440918,
-      "Volume": 962.0
+      "Volume": 1000.0
     }
   ]
 }

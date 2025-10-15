@@ -1,34 +1,26 @@
 {
   "ticker": "MCHB",
   "indicators": {
-    "score_0_100": 68.58,
-    "score_0_10": 6.86,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.07273442812674055,
-    "macd_slope": 0.0059930556238275545,
-    "rsi": 61.56250028945771,
-    "rsi_slope": 0.48529391311033165,
-    "wave_strength": 0.9891336704236556,
-    "adx": 15.81590530717477,
-    "atr": 0.516380215922491,
-    "obv_slope": 62051.78571428572,
+    "score_0_100": 71.62,
+    "score_0_10": 7.16,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.059908359802450496,
+    "macd_slope": 0.003286600721383101,
+    "rsi": 48.26589647541449,
+    "rsi_slope": -0.7616195934472445,
+    "wave_strength": 1.054156423488217,
+    "adx": 16.83216054536543,
+    "atr": 0.5348785411975874,
+    "obv_slope": 31614.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 299536.25,
-    "last_close": 14.1899995803833,
+    "avg_vol20": 294489.7,
+    "last_close": 13.630000114440918,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 10.859999656677246,
-      "High": 11.350000381469727,
-      "Low": 10.670000076293945,
-      "Close": 10.770000457763672,
-      "Volume": 195700
-    },
     {
       "Date": "2024-01-16",
       "Open": 13.65999984741211,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-14",
       "Open": 13.699999809265137,
       "High": 14.199999809265137,
-      "Low": 13.604999542236328,
+      "Low": 13.609999656677246,
       "Close": 14.1899995803833,
-      "Volume": 298125
+      "Volume": 299600
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 14.25,
+      "High": 14.25,
+      "Low": 13.470000267028809,
+      "Close": 13.630000114440918,
+      "Volume": 200794
     }
   ]
 }

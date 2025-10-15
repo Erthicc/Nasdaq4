@@ -1,34 +1,26 @@
 {
   "ticker": "SPRB",
   "indicators": {
-    "score_0_100": 72.65,
-    "score_0_10": 7.26,
+    "score_0_100": 73.06,
+    "score_0_10": 7.31,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 20.843538356358103,
-    "macd_slope": 0.5672588223525195,
-    "rsi": 83.76466984751012,
-    "rsi_slope": 2.5563276713444645,
-    "wave_strength": 2.7584350929856187,
-    "adx": 46.440815140095545,
-    "atr": 28.057735628230358,
-    "obv_slope": 1882850.357142857,
+    "macd_hist": 17.375036858737346,
+    "macd_slope": 0.3736197559878655,
+    "rsi": 78.3500672273118,
+    "rsi_slope": 2.421477841400392,
+    "wave_strength": 2.490597493059052,
+    "adx": 46.98298513157271,
+    "atr": 27.708356173350186,
+    "obv_slope": 1871169.0,
     "mom14": 0.0,
-    "avg_vol20": 1450780.25,
-    "last_close": 176.91000366210938,
+    "avg_vol20": 1458796.7,
+    "last_close": 159.05999755859375,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 15018.75,
-      "High": 15750.0,
-      "Low": 13837.5,
-      "Close": 13950.0,
-      "Volume": 26
-    },
     {
       "Date": "2024-01-16",
       "Open": 13837.5,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-14",
-      "Open": 161.881103515625,
+      "Open": 156.69000244140625,
       "High": 188.25,
-      "Low": 158.0,
+      "Low": 156.69000244140625,
       "Close": 176.91000366210938,
-      "Volume": 191805
+      "Volume": 192300
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 171.58999633789062,
+      "High": 179.9499969482422,
+      "Low": 158.0,
+      "Close": 159.05999755859375,
+      "Volume": 170734
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "FIGXU",
   "indicators": {
-    "score_0_100": 69.01,
-    "score_0_10": 6.9,
+    "score_0_100": 71.24,
+    "score_0_10": 7.12,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.001746967370263277,
     "macd_slope": 0.00025349511853325457,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0033908871653174,
     "adx": 57.61438881017095,
     "atr": 0.014004052148514865,
-    "obv_slope": 4843.857142857143,
+    "obv_slope": 4842.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 3910.7,
+    "avg_vol20": 3910.0,
     "last_close": 10.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -635,7 +635,7 @@
       "High": 10.130000114440918,
       "Low": 10.130000114440918,
       "Close": 10.130000114440918,
-      "Volume": 114.0
+      "Volume": 100.0
     }
   ]
 }

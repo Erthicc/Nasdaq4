@@ -1,20 +1,20 @@
 {
   "ticker": "MSDD",
   "indicators": {
-    "score_0_100": 68.07,
-    "score_0_10": 6.81,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.30174639725489927,
-    "macd_slope": 0.03680917780217927,
-    "rsi": 53.025358358097684,
-    "rsi_slope": 0.2444130364327479,
-    "wave_strength": 1.1025236267337122,
-    "adx": 14.077996705725663,
-    "atr": 2.284339975927382,
-    "obv_slope": 357.92857142857144,
+    "score_0_100": 71.5,
+    "score_0_10": 7.15,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
+    "macd_hist": 0.46918568327399474,
+    "macd_slope": 0.022943718524605222,
+    "rsi": 46.95927768313946,
+    "rsi_slope": -1.3979642978274265,
+    "wave_strength": 1.096031898404061,
+    "adx": 14.914605220840386,
+    "atr": 2.2997442633611405,
+    "obv_slope": -1375.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 15445.55,
-    "last_close": 31.312599182128906,
+    "avg_vol20": 15682.05,
+    "last_close": 32.200801849365234,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -721,9 +721,17 @@
       "Date": "2025-10-14",
       "Open": 31.135000228881836,
       "High": 31.3799991607666,
-      "Low": 29.55229949951172,
-      "Close": 31.312599182128906,
-      "Volume": 9211.0
+      "Low": 29.552000045776367,
+      "Close": 31.312999725341797,
+      "Volume": 9200.0
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 31.01099967956543,
+      "High": 32.54999923706055,
+      "Low": 30.049999237060547,
+      "Close": 32.200801849365234,
+      "Volume": 8341.0
     }
   ]
 }

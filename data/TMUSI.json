@@ -1,20 +1,20 @@
 {
   "ticker": "TMUSI",
   "indicators": {
-    "score_0_100": 68.85,
-    "score_0_10": 6.88,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.014669502927183192,
-    "macd_slope": -0.00047131742329226914,
-    "rsi": 45.437615632476444,
-    "rsi_slope": -1.2829332777302176,
-    "wave_strength": 1.002665650959578,
-    "adx": 17.047678350821254,
-    "atr": 0.34865233612156715,
-    "obv_slope": -18880.571428571428,
+    "score_0_100": 69.86,
+    "score_0_10": 6.99,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.04271711463468474,
+    "macd_slope": 0.002182273808533018,
+    "rsi": 52.61042085995855,
+    "rsi_slope": -0.6627747911601496,
+    "wave_strength": 1.0020610364315048,
+    "adx": 17.64623737216488,
+    "atr": 0.35122297201440544,
+    "obv_slope": 769.5714285714286,
     "mom14": 0.0,
-    "avg_vol20": 32558.6,
-    "last_close": 23.294300079345703,
+    "avg_vol20": 33118.7,
+    "last_close": 23.579999923706055,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -408,10 +408,18 @@
     {
       "Date": "2025-10-14",
       "Open": 23.1200008392334,
-      "High": 23.30500030517578,
+      "High": 23.309999465942383,
       "Low": 23.1200008392334,
-      "Close": 23.294300079345703,
-      "Volume": 14572.0
+      "Close": 23.29400062561035,
+      "Volume": 14200.0
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 23.40999984741211,
+      "High": 23.6299991607666,
+      "Low": 23.25,
+      "Close": 23.579999923706055,
+      "Volume": 18574.0
     }
   ]
 }

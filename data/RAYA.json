@@ -1,34 +1,26 @@
 {
   "ticker": "RAYA",
   "indicators": {
-    "score_0_100": 75.05,
-    "score_0_10": 7.51,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 2.233321943506885,
-    "macd_slope": -0.34097690264714015,
-    "rsi": 19.156060135446523,
-    "rsi_slope": -3.42915108136674,
-    "wave_strength": 0.7643836984311184,
-    "adx": 34.815285792422124,
-    "atr": 3.3959630928090876,
-    "obv_slope": -3795.214285714286,
+    "score_0_100": 71.18,
+    "score_0_10": 7.12,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 2.1252559553077326,
+    "macd_slope": -0.2976319507807509,
+    "rsi": 28.12192492999644,
+    "rsi_slope": -1.6858725017842775,
+    "wave_strength": 0.7818334865514731,
+    "adx": 34.36555866157624,
+    "atr": 3.2572335422675676,
+    "obv_slope": 17940.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 351481.1,
-    "last_close": 6.409999847412109,
+    "avg_vol20": 347947.5,
+    "last_close": 6.110000133514404,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 217.8000030517578,
-      "High": 224.39999389648438,
-      "Low": 195.8000030517578,
-      "Close": 224.39999389648438,
-      "Volume": 12
-    },
     {
       "Date": "2024-01-16",
       "Open": 224.39999389648438,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-14",
       "Open": 6.739999771118164,
-      "High": 7.179200172424316,
-      "Low": 6.240499973297119,
+      "High": 7.178999900817871,
+      "Low": 6.150000095367432,
       "Close": 6.409999847412109,
-      "Volume": 108972
+      "Volume": 110600
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 7.010000228881836,
+      "High": 7.099999904632568,
+      "Low": 5.730100154876709,
+      "Close": 6.110000133514404,
+      "Volume": 51275
     }
   ]
 }

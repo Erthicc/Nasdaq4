@@ -1,34 +1,26 @@
 {
   "ticker": "XPON",
   "indicators": {
-    "score_0_100": 72.28,
-    "score_0_10": 7.23,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.007137822613166159,
-    "macd_slope": -0.0015863158638071552,
-    "rsi": 44.61538399383509,
-    "rsi_slope": -1.3662362849175764,
-    "wave_strength": 1.1384304751715961,
-    "adx": 42.36886697891638,
-    "atr": 0.20427704358632742,
-    "obv_slope": 177192.42857142858,
+    "score_0_100": 73.69,
+    "score_0_10": 7.37,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.002485952160026013,
+    "macd_slope": -0.0017948505088338001,
+    "rsi": 51.78571211786601,
+    "rsi_slope": -0.31427537932225086,
+    "wave_strength": 1.1270423762905308,
+    "adx": 42.27270881015584,
+    "atr": 0.20540011389218812,
+    "obv_slope": 284628.64285714284,
     "mom14": 0.0,
-    "avg_vol20": 3314045.3,
-    "last_close": 1.600000023841858,
+    "avg_vol20": 3343824.95,
+    "last_close": 1.5199999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 510.0,
-      "High": 510.0,
-      "Low": 498.0,
-      "Close": 498.0,
-      "Volume": 72
-    },
     {
       "Date": "2024-01-16",
       "Open": 505.0,
@@ -3539,7 +3531,15 @@
       "High": 1.7000000476837158,
       "Low": 1.399999976158142,
       "Close": 1.600000023841858,
-      "Volume": 2374506
+      "Volume": 2421400
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 1.6200000047683716,
+      "High": 1.7200000286102295,
+      "Low": 1.5,
+      "Close": 1.5199999809265137,
+      "Volume": 941499
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CLSK",
   "indicators": {
-    "score_0_100": 69.91,
-    "score_0_10": 6.99,
+    "score_0_100": 70.33,
+    "score_0_10": 7.03,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.561091507554917,
-    "macd_slope": 0.0025762335511297046,
-    "rsi": 79.25408272607623,
-    "rsi_slope": -1.31691831647649,
-    "wave_strength": 1.263283668887707,
-    "adx": 47.632355551491464,
-    "atr": 1.522725985768017,
-    "obv_slope": 17583220.0,
+    "macd_hist": 0.6348154264339785,
+    "macd_slope": 0.013423414584632984,
+    "rsi": 85.73573818270008,
+    "rsi_slope": 0.01134355096533771,
+    "wave_strength": 1.2182402591162778,
+    "adx": 50.00682059175324,
+    "atr": 1.545388426260738,
+    "obv_slope": 23469164.57142857,
     "mom14": 0.0,
-    "avg_vol20": 41586144.0,
-    "last_close": 21.979999542236328,
+    "avg_vol20": 42433520.2,
+    "last_close": 23.200000762939453,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 9.010000228881836,
-      "High": 9.09000015258789,
-      "Low": 8.074999809265137,
-      "Close": 8.140000343322754,
-      "Volume": 28056200
-    },
     {
       "Date": "2024-01-16",
       "Open": 7.900000095367432,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-14",
-      "Open": 19.170000076293945,
+      "Open": 19.155000686645508,
       "High": 22.68000030517578,
       "Low": 18.81999969482422,
       "Close": 21.979999542236328,
-      "Volume": 50150180
+      "Volume": 50946600
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 22.5,
+      "High": 23.610000610351562,
+      "Low": 21.770000457763672,
+      "Close": 23.200000762939453,
+      "Volume": 44378404
     }
   ]
 }

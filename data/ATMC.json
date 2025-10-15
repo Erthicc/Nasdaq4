@@ -1,17 +1,17 @@
 {
   "ticker": "ATMC",
   "indicators": {
-    "score_0_100": 72.3,
-    "score_0_10": 7.23,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.003582504547819526,
-    "macd_slope": -0.003501925435876314,
-    "rsi": 49.99999974074082,
-    "rsi_slope": -2.3584849976798443,
-    "wave_strength": 1.0676682863683138,
-    "adx": 59.34325618542191,
-    "atr": 0.22113822337464442,
-    "obv_slope": 364.2857142857143,
+    "score_0_100": 72.91,
+    "score_0_10": 7.29,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0042525959306013855,
+    "macd_slope": -0.0026007440430515266,
+    "rsi": 53.35968409515799,
+    "rsi_slope": -0.8677834019911198,
+    "wave_strength": 1.065881115295391,
+    "adx": 59.229354953107226,
+    "atr": 0.20534263599024513,
+    "obv_slope": 628.5714285714286,
     "mom14": 0.0,
     "avg_vol20": 3300.0,
     "last_close": 12.289999961853027,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 10.789999961853027,
-      "High": 10.789999961853027,
-      "Low": 10.789999961853027,
-      "Close": 10.789999961853027,
-      "Volume": 700.0
-    },
     {
       "Date": "2024-01-16",
       "Open": 10.789999961853027,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-13",
+      "Open": 12.289999961853027,
+      "High": 12.289999961853027,
+      "Low": 12.289999961853027,
+      "Close": 12.289999961853027,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-14",
       "Open": 12.289999961853027,
       "High": 12.289999961853027,
       "Low": 12.289999961853027,

@@ -1,20 +1,20 @@
 {
   "ticker": "MASK",
   "indicators": {
-    "score_0_100": 73.74,
-    "score_0_10": 7.37,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.0004744921587071238,
-    "macd_slope": -0.0018672176693435283,
-    "rsi": 25.210086305382973,
-    "rsi_slope": -0.9837831228144793,
-    "wave_strength": 1.0385909786182816,
-    "adx": 27.30186115897688,
-    "atr": 0.07084639968204266,
-    "obv_slope": -475261.78571428574,
+    "score_0_100": 70.89,
+    "score_0_10": 7.09,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.00032630891374048343,
+    "macd_slope": -0.0016536173233116464,
+    "rsi": 31.87614147487676,
+    "rsi_slope": -0.5171073022425675,
+    "wave_strength": 1.050119361372172,
+    "adx": 26.199741533353727,
+    "atr": 0.06909971676688076,
+    "obv_slope": -427613.28571428574,
     "mom14": 0.0,
-    "avg_vol20": 2350728.25,
-    "last_close": 0.4733999967575073,
+    "avg_vol20": 2358665.7,
+    "last_close": 0.4884999990463257,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1552,10 +1552,18 @@
     {
       "Date": "2025-10-14",
       "Open": 0.4650000035762787,
-      "High": 0.48890000581741333,
+      "High": 0.48899999260902405,
       "Low": 0.45899999141693115,
-      "Close": 0.4733999967575073,
-      "Volume": 129465.0
+      "Close": 0.4729999899864197,
+      "Volume": 137500.0
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 0.4733999967575073,
+      "High": 0.512499988079071,
+      "Low": 0.46619999408721924,
+      "Close": 0.4884999990463257,
+      "Volume": 312714.0
     }
   ]
 }

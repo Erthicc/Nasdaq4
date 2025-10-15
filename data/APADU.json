@@ -1,8 +1,8 @@
 {
   "ticker": "APADU",
   "indicators": {
-    "score_0_100": 68.68,
-    "score_0_10": 6.87,
+    "score_0_100": 70.93,
+    "score_0_10": 7.09,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.005693422278675073,
     "macd_slope": 0.00020166284616432,

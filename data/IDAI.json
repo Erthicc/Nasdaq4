@@ -1,34 +1,26 @@
 {
   "ticker": "IDAI",
   "indicators": {
-    "score_0_100": 70.66,
-    "score_0_10": 7.07,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06163903368182949,
-    "macd_slope": 0.004251525668926785,
-    "rsi": 64.44444570927362,
-    "rsi_slope": 0.19588028991930884,
-    "wave_strength": 1.1343645839662297,
-    "adx": 51.92351835409449,
-    "atr": 0.36572869831358595,
-    "obv_slope": 70297.92857142857,
+    "score_0_100": 71.02,
+    "score_0_10": 7.1,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.04973111898507632,
+    "macd_slope": 0.0025250965476290637,
+    "rsi": 57.0000065151403,
+    "rsi_slope": -0.48566239193793387,
+    "wave_strength": 1.1254890222109293,
+    "adx": 52.79877200610286,
+    "atr": 0.3748276675103452,
+    "obv_slope": -6617.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 1649023.55,
-    "last_close": 3.859999895095825,
+    "avg_vol20": 1656302.35,
+    "last_close": 3.640000104904175,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 1.375,
-      "High": 1.375,
-      "Low": 1.2999999523162842,
-      "Close": 1.3300000429153442,
-      "Volume": 28400
-    },
     {
       "Date": "2024-01-16",
       "Open": 1.3899999856948853,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-14",
       "Open": 3.75,
-      "High": 4.065000057220459,
+      "High": 4.090000152587891,
       "Low": 3.5799999237060547,
       "Close": 3.859999895095825,
-      "Volume": 230246
+      "Volume": 232200
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 3.9000000953674316,
+      "High": 3.990000009536743,
+      "Low": 3.5201001167297363,
+      "Close": 3.640000104904175,
+      "Volume": 180147
     }
   ]
 }

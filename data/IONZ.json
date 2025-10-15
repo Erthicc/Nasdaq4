@@ -1,20 +1,20 @@
 {
   "ticker": "IONZ",
   "indicators": {
-    "score_0_100": 71.69,
-    "score_0_10": 7.17,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.2553131578819885,
-    "macd_slope": 0.0621244521959164,
-    "rsi": 41.18589621072083,
-    "rsi_slope": 2.42021326799987,
-    "wave_strength": 0.9072768524472404,
-    "adx": 42.92056126391263,
-    "atr": 0.9355044398527067,
-    "obv_slope": -5839643.928571428,
+    "score_0_100": 71.47,
+    "score_0_10": 7.15,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.2875653756886507,
+    "macd_slope": 0.052560111423952546,
+    "rsi": 39.93453352391604,
+    "rsi_slope": 2.212112452722159,
+    "wave_strength": 0.931058034821422,
+    "adx": 42.8704036598579,
+    "atr": 0.9128898243085926,
+    "obv_slope": -7043211.785714285,
     "mom14": 0.0,
-    "avg_vol20": 73267894.25,
-    "last_close": 2.569999933242798,
+    "avg_vol20": 75366196.75,
+    "last_close": 2.880000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -651,7 +651,15 @@
       "High": 2.6600000858306885,
       "Low": 2.369999885559082,
       "Close": 2.569999933242798,
-      "Volume": 72737185.0
+      "Volume": 73421000.0
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 2.4000000953674316,
+      "High": 3.018899917602539,
+      "Low": 2.4000000953674316,
+      "Close": 2.880000114440918,
+      "Volume": 69894135.0
     }
   ]
 }
