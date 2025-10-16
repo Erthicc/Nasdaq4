@@ -1,34 +1,26 @@
 {
   "ticker": "MDBH",
   "indicators": {
-    "score_0_100": 71.57,
-    "score_0_10": 7.16,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.04127832518778481,
-    "macd_slope": 0.0028383193697370883,
-    "rsi": 62.195121479693135,
-    "rsi_slope": 1.0921132290794786,
-    "wave_strength": 1.09053728837245,
-    "adx": 21.320513824173094,
-    "atr": 0.2087088864877972,
-    "obv_slope": 7405.642857142857,
+    "score_0_100": 71.5,
+    "score_0_10": 7.15,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04421110462456804,
+    "macd_slope": 0.002471687921669572,
+    "rsi": 53.603600605450815,
+    "rsi_slope": -0.1197074250718048,
+    "wave_strength": 1.087448996733415,
+    "adx": 21.14261345605339,
+    "atr": 0.22676590165758495,
+    "obv_slope": 4953.285714285715,
     "mom14": 0.0,
-    "avg_vol20": 17246.05,
-    "last_close": 3.799999952316284,
+    "avg_vol20": 18087.7,
+    "last_close": 3.75,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 10.850000381469727,
-      "High": 12.75,
-      "Low": 10.850000381469727,
-      "Close": 12.086000442504883,
-      "Volume": 91100
-    },
     {
       "Date": "2024-01-17",
       "Open": 12.079999923706055,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-15",
-      "Open": 3.742500066757202,
+      "Open": 3.7300000190734863,
       "High": 4.150000095367432,
-      "Low": 3.742500066757202,
+      "Low": 3.7300000190734863,
       "Close": 3.799999952316284,
-      "Volume": 8221
+      "Volume": 8200
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 3.742500066757202,
+      "High": 3.9398999214172363,
+      "Low": 3.490000009536743,
+      "Close": 3.75,
+      "Volume": 24554
     }
   ]
 }

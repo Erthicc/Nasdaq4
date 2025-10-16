@@ -1,20 +1,20 @@
 {
   "ticker": "ONCHU",
   "indicators": {
-    "score_0_100": 70.0,
-    "score_0_10": 7.0,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.0019975494758869526,
-    "macd_slope": -0.0005371059496475208,
-    "rsi": 58.97443209784094,
-    "rsi_slope": -0.209312809346583,
-    "wave_strength": 1.0047247693443575,
-    "adx": 64.9051356617235,
-    "atr": 0.2356766476384733,
-    "obv_slope": -537.7142857142857,
+    "score_0_100": 76.29,
+    "score_0_10": 7.63,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 0.0013394425131072647,
+    "macd_slope": -0.000687794803038634,
+    "rsi": 48.71804101973625,
+    "rsi_slope": -1.031424274090988,
+    "wave_strength": 1.0054350624639392,
+    "adx": 66.0056452085246,
+    "atr": 0.22611402744320985,
+    "obv_slope": -5151.214285714285,
     "mom14": 0.0,
-    "avg_vol20": 41323.6,
-    "last_close": 10.600000381469727,
+    "avg_vol20": 40165.85,
+    "last_close": 10.5600004196167,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -611,7 +611,15 @@
       "High": 10.609999656677246,
       "Low": 10.520000457763672,
       "Close": 10.600000381469727,
-      "Volume": 7172.0
+      "Volume": 7100.0
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 10.600000381469727,
+      "High": 10.626799583435059,
+      "Low": 10.524999618530273,
+      "Close": 10.5600004196167,
+      "Volume": 29717.0
     }
   ]
 }

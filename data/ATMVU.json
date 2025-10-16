@@ -1,19 +1,19 @@
 {
   "ticker": "ATMVU",
   "indicators": {
-    "score_0_100": 71.17,
-    "score_0_10": 7.12,
+    "score_0_100": 72.47,
+    "score_0_10": 7.25,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.27936992759741464,
-    "macd_slope": -0.05914129448811778,
+    "macd_hist": -0.29385468905779244,
+    "macd_slope": -0.05752433455987845,
     "rsi": 0.0,
     "rsi_slope": -4.923999773408666,
-    "wave_strength": 0.6223678148154228,
-    "adx": 66.34112300293444,
-    "atr": 0.9590868502863644,
+    "wave_strength": 0.6114239840964872,
+    "adx": 66.34245553728887,
+    "atr": 0.8905806466944812,
     "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 3350.0,
+    "avg_vol20": 3245.0,
     "last_close": 22.0,
     "macd_bull": 0,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 10.75,
-      "High": 10.75,
-      "Low": 10.75,
-      "Close": 10.75,
-      "Volume": 0.0
-    },
     {
       "Date": "2024-01-17",
       "Open": 10.75,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-14",
+      "Open": 22.0,
+      "High": 22.0,
+      "Low": 22.0,
+      "Close": 22.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-15",
       "Open": 22.0,
       "High": 22.0,
       "Low": 22.0,

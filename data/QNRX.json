@@ -1,34 +1,26 @@
 {
   "ticker": "QNRX",
   "indicators": {
-    "score_0_100": 70.26,
-    "score_0_10": 7.03,
+    "score_0_100": 71.55,
+    "score_0_10": 7.16,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.9277093249051416,
-    "macd_slope": 0.07037093295355852,
-    "rsi": 68.05236741006918,
-    "rsi_slope": 1.4346349412847412,
-    "wave_strength": 2.2306005794461172,
-    "adx": 44.02008788951357,
-    "atr": 3.2852630291967406,
-    "obv_slope": 969904.6428571428,
+    "macd_hist": 0.7549080777971178,
+    "macd_slope": 0.057980819088528465,
+    "rsi": 63.38781409600005,
+    "rsi_slope": 1.2163187410637255,
+    "wave_strength": 1.612911795420477,
+    "adx": 47.13240068507681,
+    "atr": 3.3774942371610956,
+    "obv_slope": 955492.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 809203.25,
-    "last_close": 15.270000457763672,
+    "avg_vol20": 817920.05,
+    "last_close": 13.539999961853027,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 154.35000610351562,
-      "High": 159.6699981689453,
-      "Low": 138.25,
-      "Close": 143.5,
-      "Volume": 731
-    },
     {
       "Date": "2024-01-17",
       "Open": 138.25,
@@ -3539,7 +3531,15 @@
       "High": 18.989999771118164,
       "Low": 13.319999694824219,
       "Close": 15.270000457763672,
-      "Volume": 569465
+      "Volume": 581700
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 18.0,
+      "High": 18.0,
+      "Low": 13.423500061035156,
+      "Close": 13.539999961853027,
+      "Volume": 237001
     }
   ]
 }

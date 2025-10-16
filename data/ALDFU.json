@@ -1,8 +1,8 @@
 {
   "ticker": "ALDFU",
   "indicators": {
-    "score_0_100": 71.54,
-    "score_0_10": 7.15,
+    "score_0_100": 72.74,
+    "score_0_10": 7.27,
     "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
     "macd_hist": 0.001446849630188124,
     "macd_slope": -0.0003511483100143436,
@@ -10,10 +10,10 @@
     "rsi_slope": 0.8836504465166161,
     "wave_strength": 0.9934395921076827,
     "adx": 11.761159727998043,
-    "atr": 0.09316465353730749,
-    "obv_slope": 192.28571428571428,
+    "atr": 0.09459318954369002,
+    "obv_slope": 192.85714285714286,
     "mom14": 0.0,
-    "avg_vol20": 15094.6,
+    "avg_vol20": 15095.0,
     "last_close": 10.75,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1983,11 +1983,11 @@
     },
     {
       "Date": "2025-10-15",
-      "Open": 10.75,
+      "Open": 10.59000015258789,
       "High": 10.75,
-      "Low": 10.729999542236328,
+      "Low": 10.59000015258789,
       "Close": 10.75,
-      "Volume": 3392.0
+      "Volume": 3400.0
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "YHNAU",
   "indicators": {
-    "score_0_100": 70.17,
-    "score_0_10": 7.02,
+    "score_0_100": 71.7,
+    "score_0_10": 7.17,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -4.565744736256824e-05,
     "macd_slope": 6.260762113485165e-06,

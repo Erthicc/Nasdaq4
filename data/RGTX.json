@@ -1,20 +1,20 @@
 {
   "ticker": "RGTX",
   "indicators": {
-    "score_0_100": 69.56,
-    "score_0_10": 6.96,
+    "score_0_100": 74.92,
+    "score_0_10": 7.49,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 25.400691612142822,
-    "macd_slope": 0.9240941349633667,
-    "rsi": 82.47346643673653,
-    "rsi_slope": -1.0724188112662512,
-    "wave_strength": 1.4263503349353992,
-    "adx": 65.80840544071845,
-    "atr": 60.430719986572186,
-    "obv_slope": 414327.9285714286,
+    "macd_hist": 14.753207587943848,
+    "macd_slope": 0.2732441819160541,
+    "rsi": 64.09918850534453,
+    "rsi_slope": -1.8903262398653635,
+    "wave_strength": 1.8513070197891484,
+    "adx": 65.10629466843315,
+    "atr": 67.45397038652685,
+    "obv_slope": 405807.21428571426,
     "mom14": 0.0,
-    "avg_vol20": 1056469.55,
-    "last_close": 472.2300109863281,
+    "avg_vol20": 1060689.95,
+    "last_close": 329.6199951171875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1115,7 +1115,15 @@
       "High": 499.05999755859375,
       "Low": 375.0,
       "Close": 472.2300109863281,
-      "Volume": 1063191.0
+      "Volume": 1090300.0
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 443.610107421875,
+      "High": 450.072998046875,
+      "Low": 313.4737854003906,
+      "Close": 329.6199951171875,
+      "Volume": 1172399.0
     }
   ]
 }

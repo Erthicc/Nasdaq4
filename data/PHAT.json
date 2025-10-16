@@ -1,34 +1,26 @@
 {
   "ticker": "PHAT",
   "indicators": {
-    "score_0_100": 70.89,
-    "score_0_10": 7.09,
+    "score_0_100": 73.66,
+    "score_0_10": 7.37,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.12389098548098279,
-    "macd_slope": 0.017377860229845086,
-    "rsi": 63.91913005043841,
-    "rsi_slope": 1.5109410573774287,
-    "wave_strength": 1.0591268164198817,
-    "adx": 20.850826952570173,
-    "atr": 0.9753474995474595,
-    "obv_slope": 440263.0,
+    "macd_hist": 0.15841947089650826,
+    "macd_slope": 0.018606282593191314,
+    "rsi": 61.86047240921896,
+    "rsi_slope": 1.3379652718546968,
+    "wave_strength": 1.1294453423027917,
+    "adx": 21.770058777298413,
+    "atr": 0.949965527141605,
+    "obv_slope": 311359.71428571426,
     "mom14": 0.0,
-    "avg_vol20": 1400199.1,
-    "last_close": 13.449999809265137,
+    "avg_vol20": 1395738.2,
+    "last_close": 13.3100004196167,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 7.5,
-      "High": 7.579999923706055,
-      "Low": 7.28000020980835,
-      "Close": 7.510000228881836,
-      "Volume": 527600
-    },
     {
       "Date": "2024-01-17",
       "Open": 7.360000133514404,
@@ -3539,7 +3531,15 @@
       "High": 13.850000381469727,
       "Low": 12.260000228881836,
       "Close": 13.449999809265137,
-      "Volume": 1970582
+      "Volume": 1971700
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 13.399999618530273,
+      "High": 13.84000015258789,
+      "Low": 13.220000267028809,
+      "Close": 13.3100004196167,
+      "Volume": 988264
     }
   ]
 }

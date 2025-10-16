@@ -1,34 +1,26 @@
 {
   "ticker": "ALMU",
   "indicators": {
-    "score_0_100": 70.12,
-    "score_0_10": 7.01,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.37509134914129566,
-    "macd_slope": 0.006029721122104219,
-    "rsi": 62.612606161110726,
-    "rsi_slope": 0.7961770742766967,
-    "wave_strength": 0.9965684034631711,
-    "adx": 11.751393087129701,
-    "atr": 1.9739851089311493,
-    "obv_slope": 31027.85714285714,
+    "score_0_100": 71.55,
+    "score_0_10": 7.16,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.31877763839014583,
+    "macd_slope": 0.00668239083715348,
+    "rsi": 53.49583106780189,
+    "rsi_slope": 0.26045978174952517,
+    "wave_strength": 1.1840903124010482,
+    "adx": 12.258939868993007,
+    "atr": 2.0597718323494485,
+    "obv_slope": 25326.428571428572,
     "mom14": 0.0,
-    "avg_vol20": 520084.5,
-    "last_close": 21.389999389648438,
+    "avg_vol20": 470161.5,
+    "last_close": 18.729999542236328,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 2.700000047683716,
-      "High": 2.7899999618530273,
-      "Low": 2.559999942779541,
-      "Close": 2.7899999618530273,
-      "Volume": 2500
-    },
     {
       "Date": "2024-01-17",
       "Open": 2.6500000953674316,
@@ -3539,7 +3531,15 @@
       "High": 22.184999465942383,
       "Low": 19.68000030517578,
       "Close": 21.389999389648438,
-      "Volume": 734490
+      "Volume": 738000
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 21.389999389648438,
+      "High": 21.75,
+      "Low": 18.575000762939453,
+      "Close": 18.729999542236328,
+      "Volume": 464630
     }
   ]
 }

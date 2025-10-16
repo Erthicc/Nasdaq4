@@ -1,34 +1,26 @@
 {
   "ticker": "STNC",
   "indicators": {
-    "score_0_100": 70.84,
-    "score_0_10": 7.08,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00592481236301335,
-    "macd_slope": 0.005925279803505044,
-    "rsi": 62.13467885716447,
-    "rsi_slope": 1.9579329844016142,
-    "wave_strength": 1.007040492875929,
-    "adx": 12.161092807840319,
-    "atr": 0.2422692952882119,
-    "obv_slope": 1116.5,
+    "score_0_100": 72.21,
+    "score_0_10": 7.22,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.008420229024230876,
+    "macd_slope": 0.004941607459800297,
+    "rsi": 51.05169049029331,
+    "rsi_slope": 0.582627640667034,
+    "wave_strength": 1.0120226744106415,
+    "adx": 12.802498651883885,
+    "atr": 0.25034751640438585,
+    "obv_slope": 992.5714285714286,
     "mom14": 0.0,
-    "avg_vol20": 1676.55,
-    "last_close": 32.949501037597656,
+    "avg_vol20": 1430.2,
+    "last_close": 32.64619827270508,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 27.44695243450758,
-      "High": 27.49649144025108,
-      "Low": 27.37462718686993,
-      "Close": 27.377599716186523,
-      "Volume": 1900
-    },
     {
       "Date": "2024-01-17",
       "Open": 27.374627943258126,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-15",
       "Open": 32.869998931884766,
-      "High": 32.95249938964844,
-      "Low": 32.720001220703125,
-      "Close": 32.949501037597656,
-      "Volume": 2331
+      "High": 32.952999114990234,
+      "Low": 32.66999816894531,
+      "Close": 32.95000076293945,
+      "Volume": 2300
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 33.0010986328125,
+      "High": 33.0010986328125,
+      "Low": 32.64619827270508,
+      "Close": 32.64619827270508,
+      "Volume": 704
     }
   ]
 }

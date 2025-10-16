@@ -1,8 +1,8 @@
 {
   "ticker": "SIMA",
   "indicators": {
-    "score_0_100": 72.58,
-    "score_0_10": 7.26,
+    "score_0_100": 73.8,
+    "score_0_10": 7.38,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 0.0005553261554337198,
     "macd_slope": -0.00014572972577063886,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0000475952402763,
     "adx": 35.94009490659375,
     "atr": 0.0334319164480693,
-    "obv_slope": -1743.7857142857142,
+    "obv_slope": -1742.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 14025.65,
+    "avg_vol20": 14025.0,
     "last_close": 10.520000457763672,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -2275,7 +2275,7 @@
       "High": 10.569999694824219,
       "Low": 10.479999542236328,
       "Close": 10.520000457763672,
-      "Volume": 5413.0
+      "Volume": 5400.0
     }
   ]
 }

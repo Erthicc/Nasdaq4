@@ -1,34 +1,26 @@
 {
   "ticker": "MARA",
   "indicators": {
-    "score_0_100": 71.79,
-    "score_0_10": 7.18,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.3271595277124639,
-    "macd_slope": 0.018563446430650093,
-    "rsi": 79.66696111302937,
-    "rsi_slope": 1.6582391500104587,
-    "wave_strength": 1.0797333300147545,
-    "adx": 33.88120141909029,
-    "atr": 1.6074832369565581,
-    "obv_slope": 27990312.35714286,
+    "score_0_100": 75.9,
+    "score_0_10": 7.59,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.19450697288234686,
+    "macd_slope": 0.016061864538523634,
+    "rsi": 64.84739630482812,
+    "rsi_slope": 0.5770601482559385,
+    "wave_strength": 1.1933592048639576,
+    "adx": 33.35538527888714,
+    "atr": 1.7219487908834736,
+    "obv_slope": 19827865.64285714,
     "mom14": 0.0,
-    "avg_vol20": 66728888.65,
-    "last_close": 22.84000015258789,
+    "avg_vol20": 65789389.05,
+    "last_close": 20.264999389648438,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 18.649999618530273,
-      "High": 19.040000915527344,
-      "Low": 17.18000030517578,
-      "Close": 17.780000686645508,
-      "Volume": 106408800
-    },
     {
       "Date": "2024-01-17",
       "Open": 17.5,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-15",
-      "Open": 22.75,
+      "Open": 22.700000762939453,
       "High": 23.450000762939453,
       "Low": 22.219999313354492,
       "Close": 22.84000015258789,
-      "Volume": 57516273
+      "Volume": 58503700
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 23.100000381469727,
+      "High": 23.110000610351562,
+      "Low": 19.899999618530273,
+      "Close": 20.264999389648438,
+      "Volume": 63337281
     }
   ]
 }

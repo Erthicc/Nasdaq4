@@ -1,34 +1,26 @@
 {
   "ticker": "IPDN",
   "indicators": {
-    "score_0_100": 75.37,
-    "score_0_10": 7.54,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.010867620449624048,
-    "macd_slope": -0.00201184699027467,
-    "rsi": 38.32923517486377,
-    "rsi_slope": -0.11759400493272665,
-    "wave_strength": 1.1421561971633305,
-    "adx": 34.38503780990008,
-    "atr": 0.6257220582268234,
-    "obv_slope": 34299.5,
+    "score_0_100": 73.35,
+    "score_0_10": 7.33,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04285762534356705,
+    "macd_slope": 0.0010144801775821203,
+    "rsi": 53.61110755446124,
+    "rsi_slope": 0.4245335865312236,
+    "wave_strength": 1.1236256426180655,
+    "adx": 34.181775867067245,
+    "atr": 0.6131705030750714,
+    "obv_slope": 66784.85714285714,
     "mom14": 0.0,
-    "avg_vol20": 2733680.35,
-    "last_close": 3.8499999046325684,
+    "avg_vol20": 2729149.4,
+    "last_close": 4.21999979019165,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 18.399999618530273,
-      "High": 19.100000381469727,
-      "Low": 18.200000762939453,
-      "Close": 19.100000381469727,
-      "Volume": 1020
-    },
     {
       "Date": "2024-01-17",
       "Open": 18.600000381469727,
@@ -3539,7 +3531,15 @@
       "High": 4.349999904632568,
       "Low": 3.7200000286102295,
       "Close": 3.8499999046325684,
-      "Volume": 309707
+      "Volume": 314000
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 4.070000171661377,
+      "High": 4.300000190734863,
+      "Low": 3.9000000953674316,
+      "Close": 4.21999979019165,
+      "Volume": 157888
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CLNE",
   "indicators": {
-    "score_0_100": 72.26,
-    "score_0_10": 7.23,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.013985428053809618,
-    "macd_slope": 0.0009858849688372162,
-    "rsi": 60.975599606647876,
-    "rsi_slope": -0.0323559807649616,
-    "wave_strength": 0.9786046850638751,
-    "adx": 29.960753302511602,
-    "atr": 0.1432849933290517,
-    "obv_slope": 184708.92857142858,
+    "score_0_100": 73.65,
+    "score_0_10": 7.36,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.014556438979877469,
+    "macd_slope": 0.0003716295718345577,
+    "rsi": 50.442476317573366,
+    "rsi_slope": -1.5230168787545568,
+    "wave_strength": 1.083487962230534,
+    "adx": 30.08400111832308,
+    "atr": 0.14552485378568478,
+    "obv_slope": -48194.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 1488556.25,
-    "last_close": 2.9200000762939453,
+    "avg_vol20": 1474085.9,
+    "last_close": 2.8399999141693115,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 3.4000000953674316,
-      "High": 3.430000066757202,
-      "Low": 3.3499999046325684,
-      "Close": 3.369999885559082,
-      "Volume": 1826300
-    },
     {
       "Date": "2024-01-17",
       "Open": 3.299999952316284,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-15",
       "Open": 2.940000057220459,
-      "High": 2.994999885559082,
-      "Low": 2.8901000022888184,
+      "High": 3.0,
+      "Low": 2.890000104904175,
       "Close": 2.9200000762939453,
-      "Volume": 1917725
+      "Volume": 1942900
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 2.950000047683716,
+      "High": 3.0,
+      "Low": 2.8299999237060547,
+      "Close": 2.8399999141693115,
+      "Volume": 1590218
     }
   ]
 }
