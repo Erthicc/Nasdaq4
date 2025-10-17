@@ -1,34 +1,26 @@
 {
   "ticker": "NUAI",
   "indicators": {
-    "score_0_100": 82.15,
-    "score_0_10": 8.22,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.12809971876812765,
-    "macd_slope": -0.000351234284224495,
-    "rsi": 62.81800550855729,
-    "rsi_slope": -1.9291453117645756,
-    "wave_strength": 1.754064420585782,
-    "adx": 57.528320525778305,
-    "atr": 0.5655694113371903,
-    "obv_slope": 17156383.42857143,
+    "score_0_100": 79.05,
+    "score_0_10": 7.9,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.20189232734361418,
+    "macd_slope": 0.00037502580268287754,
+    "rsi": 67.52136998971491,
+    "rsi_slope": -1.77110770076713,
+    "wave_strength": 1.5875648262480602,
+    "adx": 58.15436142944764,
+    "atr": 0.6366001635830726,
+    "obv_slope": 13954311.785714285,
     "mom14": 0.0,
-    "avg_vol20": 55266816.6,
-    "last_close": 3.1500000953674316,
+    "avg_vol20": 55942538.25,
+    "last_close": 4.550000190734863,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 10.729999542236328,
-      "High": 10.729999542236328,
-      "Low": 10.729999542236328,
-      "Close": 10.729999542236328,
-      "Volume": 100
-    },
     {
       "Date": "2024-01-18",
       "Open": 10.75,
@@ -3539,7 +3531,15 @@
       "High": 4.099999904632568,
       "Low": 2.9000000953674316,
       "Close": 3.1500000953674316,
-      "Volume": 23266032
+      "Volume": 24243700
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 3.375,
+      "High": 4.710000038146973,
+      "Low": 3.200000047683716,
+      "Close": 4.550000190734863,
+      "Volume": 29926565
     }
   ]
 }

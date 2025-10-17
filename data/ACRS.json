@@ -1,34 +1,26 @@
 {
   "ticker": "ACRS",
   "indicators": {
-    "score_0_100": 77.1,
-    "score_0_10": 7.71,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0070492844423183185,
-    "macd_slope": 0.001548645339227608,
-    "rsi": 53.57142463751779,
-    "rsi_slope": 0.6423645963928415,
-    "wave_strength": 1.0065876027514975,
-    "adx": 18.69155977110561,
-    "atr": 0.11487459967073115,
-    "obv_slope": 27993.5,
+    "score_0_100": 68.37,
+    "score_0_10": 6.84,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.003810484199720394,
+    "macd_slope": 0.0011820498661332733,
+    "rsi": 48.91304357898837,
+    "rsi_slope": 0.8047136300271112,
+    "wave_strength": 1.0806536437042196,
+    "adx": 18.217424733605153,
+    "atr": 0.12024069526647674,
+    "obv_slope": 20828.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 1089520.45,
-    "last_close": 2.049999952316284,
+    "avg_vol20": 1024785.35,
+    "last_close": 1.899999976158142,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 1.1299999952316284,
-      "High": 1.2400000095367432,
-      "Low": 1.090999960899353,
-      "Close": 1.1799999475479126,
-      "Volume": 2343100
-    },
     {
       "Date": "2024-01-18",
       "Open": 1.2000000476837158,
@@ -3539,7 +3531,15 @@
       "High": 2.0999999046325684,
       "Low": 1.899999976158142,
       "Close": 2.049999952316284,
-      "Volume": 1349009
+      "Volume": 1369100
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 2.009999990463257,
+      "High": 2.069999933242798,
+      "Low": 1.8799999952316284,
+      "Close": 1.899999976158142,
+      "Volume": 729507
     }
   ]
 }

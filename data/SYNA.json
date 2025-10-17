@@ -1,34 +1,26 @@
 {
   "ticker": "SYNA",
   "indicators": {
-    "score_0_100": 72.6,
-    "score_0_10": 7.26,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.061883060284701696,
-    "macd_slope": 0.030179745589791997,
-    "rsi": 50.66496226769913,
-    "rsi_slope": 0.24749825420176563,
-    "wave_strength": 0.995446074976656,
-    "adx": 16.88937075856239,
-    "atr": 2.7094150284115446,
-    "obv_slope": 3266.1428571428573,
+    "score_0_100": 66.54,
+    "score_0_10": 6.65,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.17729082618584624,
+    "macd_slope": 0.047399232969224346,
+    "rsi": 52.21043443529917,
+    "rsi_slope": 0.44971761855412445,
+    "wave_strength": 1.020378407181612,
+    "adx": 15.905928648855989,
+    "atr": 2.6612422430046374,
+    "obv_slope": -3150.9285714285716,
     "mom14": 0.0,
-    "avg_vol20": 376201.3,
-    "last_close": 69.9000015258789,
+    "avg_vol20": 347510.65,
+    "last_close": 69.44999694824219,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 102.0199966430664,
-      "High": 102.36000061035156,
-      "Low": 99.97000122070312,
-      "Close": 102.0,
-      "Volume": 336100
-    },
     {
       "Date": "2024-01-18",
       "Open": 104.72000122070312,
@@ -3539,7 +3531,15 @@
       "High": 70.70999908447266,
       "Low": 68.80000305175781,
       "Close": 69.9000015258789,
-      "Volume": 497826
+      "Volume": 508000
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 69.06999969482422,
+      "High": 70.69999694824219,
+      "Low": 68.66500091552734,
+      "Close": 69.44999694824219,
+      "Volume": 388813
     }
   ]
 }

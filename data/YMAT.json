@@ -1,20 +1,20 @@
 {
   "ticker": "YMAT",
   "indicators": {
-    "score_0_100": 72.87,
-    "score_0_10": 7.29,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.06369074664925084,
-    "macd_slope": -0.0019678821594890372,
-    "rsi": 29.729719026274253,
-    "rsi_slope": -1.3908256571548188,
-    "wave_strength": 1.023368219132453,
-    "adx": 25.245702654040088,
-    "atr": 0.16351537547833203,
-    "obv_slope": 2895.8571428571427,
+    "score_0_100": 71.34,
+    "score_0_10": 7.13,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.058482000941254386,
+    "macd_slope": -0.002501689274150045,
+    "rsi": 24.32430772996473,
+    "rsi_slope": -1.461954178582197,
+    "wave_strength": 1.046559508208198,
+    "adx": 25.921317671681585,
+    "atr": 0.16397856413625836,
+    "obv_slope": -9747.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 615567.9,
-    "last_close": 1.0700000524520874,
+    "avg_vol20": 135493.5,
+    "last_close": 1.0499999523162842,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -467,7 +467,15 @@
       "High": 1.1399999856948853,
       "Low": 1.0499999523162842,
       "Close": 1.0700000524520874,
-      "Volume": 20158.0
+      "Volume": 21200.0
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 1.0700000524520874,
+      "High": 1.100000023841858,
+      "Low": 0.9300000071525574,
+      "Close": 1.0499999523162842,
+      "Volume": 105270.0
     }
   ]
 }

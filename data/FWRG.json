@@ -1,34 +1,26 @@
 {
   "ticker": "FWRG",
   "indicators": {
-    "score_0_100": 73.55,
-    "score_0_10": 7.36,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.2908067946141444,
-    "macd_slope": 0.03314087563820765,
-    "rsi": 63.73056894066584,
-    "rsi_slope": 3.0189980908273655,
-    "wave_strength": 1.1065497766588732,
-    "adx": 25.312816071135256,
-    "atr": 0.7552718575475897,
-    "obv_slope": 333287.0,
+    "score_0_100": 66.1,
+    "score_0_10": 6.61,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.3182548770026637,
+    "macd_slope": 0.03234460133648002,
+    "rsi": 66.99999682369851,
+    "rsi_slope": 2.929012050495151,
+    "wave_strength": 1.0997774933871787,
+    "adx": 24.235155888253818,
+    "atr": 0.7413238295757892,
+    "obv_slope": 473502.78571428574,
     "mom14": 0.0,
-    "avg_vol20": 1260094.1,
-    "last_close": 17.59000015258789,
+    "avg_vol20": 1203541.95,
+    "last_close": 17.920000076293945,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 19.06999969482422,
-      "High": 19.559999465942383,
-      "Low": 19.06999969482422,
-      "Close": 19.5,
-      "Volume": 188100
-    },
     {
       "Date": "2024-01-18",
       "Open": 19.540000915527344,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-16",
       "Open": 17.84000015258789,
-      "High": 17.84000015258789,
+      "High": 17.950000762939453,
       "Low": 17.030000686645508,
       "Close": 17.59000015258789,
-      "Volume": 658882
+      "Volume": 682000
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 17.399999618530273,
+      "High": 17.959999084472656,
+      "Low": 17.399999618530273,
+      "Close": 17.920000076293945,
+      "Volume": 729339
     }
   ]
 }

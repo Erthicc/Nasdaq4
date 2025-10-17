@@ -1,34 +1,26 @@
 {
   "ticker": "SLNH",
   "indicators": {
-    "score_0_100": 79.51,
-    "score_0_10": 7.95,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.12595879595603687,
-    "macd_slope": -0.008747990748906698,
-    "rsi": 64.2292495604778,
-    "rsi_slope": -0.9796866066888096,
-    "wave_strength": 1.6496827502935143,
-    "adx": 36.66341014031151,
-    "atr": 0.6138275567026745,
-    "obv_slope": -478770.5,
+    "score_0_100": 71.39,
+    "score_0_10": 7.14,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.16278583310372308,
+    "macd_slope": -0.0028295326870435406,
+    "rsi": 68.77470452170414,
+    "rsi_slope": -0.34710710057703714,
+    "wave_strength": 1.5501354969191343,
+    "adx": 36.75984657490948,
+    "atr": 0.6599893405761795,
+    "obv_slope": 1516158.5,
     "mom14": 0.0,
-    "avg_vol20": 28462114.35,
-    "last_close": 4.190000057220459,
+    "avg_vol20": 28868855.95,
+    "last_close": 4.420000076293945,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 3.309999942779541,
-      "High": 3.390000104904175,
-      "Low": 3.2699999809265137,
-      "Close": 3.2699999809265137,
-      "Volume": 36800
-    },
     {
       "Date": "2024-01-18",
       "Open": 3.369999885559082,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-16",
       "Open": 4.769999980926514,
-      "High": 5.139900207519531,
+      "High": 5.139999866485596,
       "Low": 4.03000020980835,
       "Close": 4.190000057220459,
-      "Volume": 35335787
+      "Volume": 36284800
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 3.450000047683716,
+      "High": 4.599999904632568,
+      "Low": 3.3399999141693115,
+      "Close": 4.420000076293945,
+      "Volume": 19550319
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "AACBU",
   "indicators": {
-    "score_0_100": 75.33,
-    "score_0_10": 7.53,
+    "score_0_100": 69.74,
+    "score_0_10": 6.97,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.02047881353369553,
     "macd_slope": -0.0013213418481034874,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9951969030814174,
     "adx": 75.62028132686812,
     "atr": 0.1436862402822931,
-    "obv_slope": 1077.9285714285713,
+    "obv_slope": 1085.7142857142858,
     "mom14": 0.0,
-    "avg_vol20": 2044.55,
+    "avg_vol20": 2050.0,
     "last_close": 10.649999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1379,7 +1379,7 @@
       "High": 10.699999809265137,
       "Low": 10.649999618530273,
       "Close": 10.649999618530273,
-      "Volume": 1791.0
+      "Volume": 1900.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "SNEX",
   "indicators": {
-    "score_0_100": 71.64,
-    "score_0_10": 7.16,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.09883366338958521,
-    "macd_slope": 0.009103692950532118,
-    "rsi": 51.315292679048234,
-    "rsi_slope": -0.38702569846797324,
-    "wave_strength": 1.0510341338779539,
-    "adx": 10.84597266902674,
-    "atr": 3.354514951010073,
-    "obv_slope": 61976.42857142857,
+    "score_0_100": 66.65,
+    "score_0_10": 6.67,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.08820267048825003,
+    "macd_slope": -0.013752382368343394,
+    "rsi": 48.98121787800313,
+    "rsi_slope": -0.8202787704908232,
+    "wave_strength": 1.047037828386948,
+    "adx": 11.182276815258279,
+    "atr": 3.269702523130308,
+    "obv_slope": 50675.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 454891.5,
-    "last_close": 100.18000030517578,
+    "avg_vol20": 401907.7,
+    "last_close": 100.2699966430664,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 42.50666809082031,
-      "High": 43.77333450317383,
-      "Low": 42.50666809082031,
-      "Close": 43.753334045410156,
-      "Volume": 264150
-    },
     {
       "Date": "2024-01-18",
       "Open": 43.746665954589844,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-16",
       "Open": 103.9000015258789,
-      "High": 104.11000061035156,
+      "High": 104.1500015258789,
       "Low": 100.05000305175781,
       "Close": 100.18000030517578,
-      "Volume": 311430
+      "Volume": 356200
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 100.1500015258789,
+      "High": 100.62999725341797,
+      "Low": 98.5,
+      "Close": 100.2699966430664,
+      "Volume": 368954
     }
   ]
 }
