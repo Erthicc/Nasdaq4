@@ -1,24 +1,24 @@
 {
   "ticker": "EGHAU",
   "indicators": {
-    "score_0_100": 94.39,
-    "score_0_10": 9.44,
+    "score_0_100": 84.11,
+    "score_0_10": 8.41,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.0002964369364600404,
-    "macd_slope": -8.219127447963282e-05,
+    "macd_hist": 0.00024828781385869,
+    "macd_slope": -8.42675114070007e-05,
     "rsi": 0.0,
     "rsi_slope": -5.357140982186428,
-    "wave_strength": 1.0774278829746387,
-    "adx": 16.62243052293672,
-    "atr": 0.018506422507043045,
+    "wave_strength": 1.0773223590004835,
+    "adx": 16.63200448212433,
+    "atr": 0.0171845351851114,
     "obv_slope": 0.0,
     "mom14": 0.0,
-    "avg_vol20": 95.0,
+    "avg_vol20": 60.0,
     "last_close": 10.210000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1
+    "above_trend": 0
   },
   "history": [
     {
@@ -903,6 +903,14 @@
     },
     {
       "Date": "2025-10-16",
+      "Open": 10.210000038146973,
+      "High": 10.210000038146973,
+      "Low": 10.210000038146973,
+      "Close": 10.210000038146973,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-17",
       "Open": 10.210000038146973,
       "High": 10.210000038146973,
       "Low": 10.210000038146973,

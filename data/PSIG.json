@@ -1,20 +1,20 @@
 {
   "ticker": "PSIG",
   "indicators": {
-    "score_0_100": 67.71,
-    "score_0_10": 6.77,
+    "score_0_100": 65.17,
+    "score_0_10": 6.52,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.00618236943684651,
-    "macd_slope": 0.004088356121830833,
-    "rsi": 52.30099459895028,
-    "rsi_slope": 0.4083677201947106,
-    "wave_strength": 1.2103144180071672,
-    "adx": 22.92488705936544,
-    "atr": 0.5691709062900593,
-    "obv_slope": 42331.92857142857,
+    "macd_hist": 0.00017738790134685933,
+    "macd_slope": 0.0035141560084601614,
+    "rsi": 52.33064110489374,
+    "rsi_slope": 0.43433152699447014,
+    "wave_strength": 1.2083746610041775,
+    "adx": 22.365621422806644,
+    "atr": 0.5620872892190824,
+    "obv_slope": 43043.357142857145,
     "mom14": 0.0,
-    "avg_vol20": 46644.05,
-    "last_close": 4.019999980926514,
+    "avg_vol20": 47241.7,
+    "last_close": 4.03000020980835,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2531,7 +2531,15 @@
       "High": 4.320000171661377,
       "Low": 4.0,
       "Close": 4.019999980926514,
-      "Volume": 4166.0
+      "Volume": 4100.0
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 3.5999999046325684,
+      "High": 4.070000171661377,
+      "Low": 3.5999999046325684,
+      "Close": 4.03000020980835,
+      "Volume": 15119.0
     }
   ]
 }

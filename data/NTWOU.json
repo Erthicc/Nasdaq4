@@ -1,16 +1,16 @@
 {
   "ticker": "NTWOU",
   "indicators": {
-    "score_0_100": 66.6,
-    "score_0_10": 6.66,
+    "score_0_100": 64.01,
+    "score_0_10": 6.4,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.00651028442744056,
-    "macd_slope": 0.0004926893689349288,
+    "macd_hist": 0.005488209102928687,
+    "macd_slope": 0.00025908101818139203,
     "rsi": 54.16676284810519,
     "rsi_slope": 0.42990496604486034,
     "wave_strength": 1.0,
-    "adx": 35.74511132365139,
-    "atr": 0.020439919874011087,
+    "adx": 34.546127319004235,
+    "atr": 0.018979925597296006,
     "obv_slope": 4578.785714285715,
     "mom14": 0.0,
     "avg_vol20": 3327.1,
@@ -1935,6 +1935,14 @@
     },
     {
       "Date": "2025-10-17",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-20",
       "Open": 10.5,
       "High": 10.5,
       "Low": 10.5,

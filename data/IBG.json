@@ -1,20 +1,20 @@
 {
   "ticker": "IBG",
   "indicators": {
-    "score_0_100": 69.89,
-    "score_0_10": 6.99,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.025949818731051122,
-    "macd_slope": -0.009489939188710642,
-    "rsi": 52.904563617784504,
-    "rsi_slope": -0.736059329285751,
-    "wave_strength": 1.2212121715558786,
-    "adx": 39.10651046482849,
-    "atr": 0.6601003628528695,
-    "obv_slope": 6329701.5,
+    "score_0_100": 67.86,
+    "score_0_10": 6.79,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.034280778294218744,
+    "macd_slope": -0.014706913447297468,
+    "rsi": 42.0918391599515,
+    "rsi_slope": -1.9703985129732782,
+    "wave_strength": 1.1866029209278481,
+    "adx": 39.63370409749104,
+    "atr": 0.6536646178807216,
+    "obv_slope": 1604419.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 7260491.95,
-    "last_close": 3.430000066757202,
+    "avg_vol20": 7268028.6,
+    "last_close": 3.7699999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2147,7 +2147,15 @@
       "High": 3.75,
       "Low": 3.430000066757202,
       "Close": 3.430000066757202,
-      "Volume": 136779.0
+      "Volume": 136900.0
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 3.4800000190734863,
+      "High": 4.0,
+      "Low": 3.4800000190734863,
+      "Close": 3.7699999809265137,
+      "Volume": 189972.0
     }
   ]
 }

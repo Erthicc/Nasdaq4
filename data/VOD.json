@@ -1,34 +1,26 @@
 {
   "ticker": "VOD",
   "indicators": {
-    "score_0_100": 69.72,
-    "score_0_10": 6.97,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.032169793673070365,
-    "macd_slope": 0.0056609869686641895,
-    "rsi": 58.18182847556691,
-    "rsi_slope": 1.658749420516598,
-    "wave_strength": 0.9926648383140639,
-    "adx": 14.584104595378665,
-    "atr": 0.1470881042689908,
-    "obv_slope": 392758.71428571426,
+    "score_0_100": 64.0,
+    "score_0_10": 6.4,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.04313899419404385,
+    "macd_slope": 0.005045635249775691,
+    "rsi": 52.999972555119534,
+    "rsi_slope": 0.37230931517218785,
+    "wave_strength": 1.0239536805981704,
+    "adx": 14.730710130124107,
+    "atr": 0.14372469549638547,
+    "obv_slope": -191504.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 4619456.1,
-    "last_close": 11.670000076293945,
+    "avg_vol20": 4559423.3,
+    "last_close": 11.65999984741211,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-18",
-      "Open": 7.687017666162879,
-      "High": 7.687017666162879,
-      "Low": 7.542659811882387,
-      "Close": 7.623860836029053,
-      "Volume": 7960900
-    },
     {
       "Date": "2024-01-19",
       "Open": 7.72310671690688,
@@ -3539,7 +3531,15 @@
       "High": 11.670000076293945,
       "Low": 11.510000228881836,
       "Close": 11.670000076293945,
-      "Volume": 3859322
+      "Volume": 3917100
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 11.65999984741211,
+      "High": 11.670000076293945,
+      "Low": 11.569999694824219,
+      "Close": 11.65999984741211,
+      "Volume": 3719366
     }
   ]
 }
