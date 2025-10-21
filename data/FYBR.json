@@ -1,34 +1,26 @@
 {
   "ticker": "FYBR",
   "indicators": {
-    "score_0_100": 65.06,
-    "score_0_10": 6.51,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.007913673250658088,
-    "macd_slope": 0.001935835275740001,
-    "rsi": 64.47372264910108,
-    "rsi_slope": 1.0338374035075297,
-    "wave_strength": 1.0031951640566157,
-    "adx": 43.191284481700954,
-    "atr": 0.1451676495457234,
-    "obv_slope": 51212.42857142857,
+    "score_0_100": 63.03,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.004277575579340581,
+    "macd_slope": 0.0013539032847656193,
+    "rsi": 55.844161262768246,
+    "rsi_slope": 0.8782838304510793,
+    "wave_strength": 1.0042232437086287,
+    "adx": 42.51666581595181,
+    "atr": 0.14617608046318273,
+    "obv_slope": -260211.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 1905928.7,
-    "last_close": 37.56999969482422,
+    "avg_vol20": 1882148.2,
+    "last_close": 37.5,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 21.989999771118164,
-      "High": 22.5,
-      "Low": 21.65999984741211,
-      "Close": 22.479999542236328,
-      "Volume": 1360500
-    },
     {
       "Date": "2024-01-22",
       "Open": 22.829999923706055,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-20",
       "Open": 37.529998779296875,
       "High": 37.58000183105469,
-      "Low": 37.5099983215332,
+      "Low": 37.5,
       "Close": 37.56999969482422,
-      "Volume": 1051874
+      "Volume": 1090000
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 37.52000045776367,
+      "High": 37.55500030517578,
+      "Low": 37.41999816894531,
+      "Close": 37.5,
+      "Volume": 1269664
     }
   ]
 }

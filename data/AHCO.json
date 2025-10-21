@@ -1,34 +1,26 @@
 {
   "ticker": "AHCO",
   "indicators": {
-    "score_0_100": 65.29,
-    "score_0_10": 6.53,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.05621284451209714,
-    "macd_slope": 0.0059134427204691606,
+    "score_0_100": 64.42,
+    "score_0_10": 6.44,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.07829707357584223,
+    "macd_slope": 0.00584554770219179,
     "rsi": 61.50443336016181,
-    "rsi_slope": 1.0812606720260958,
-    "wave_strength": 1.0217113444910988,
-    "adx": 23.934347111114608,
-    "atr": 0.32240687573101867,
-    "obv_slope": 150157.7857142857,
+    "rsi_slope": 1.3814463878810008,
+    "wave_strength": 1.017980615133072,
+    "adx": 25.366080712159828,
+    "atr": 0.32009209618532486,
+    "obv_slope": 149917.64285714287,
     "mom14": 0.0,
-    "avg_vol20": 788340.45,
-    "last_close": 9.470000267028809,
+    "avg_vol20": 789922.35,
+    "last_close": 9.630000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 6.829999923706055,
-      "High": 6.889999866485596,
-      "Low": 6.664999961853027,
-      "Close": 6.869999885559082,
-      "Volume": 579600
-    },
     {
       "Date": "2024-01-22",
       "Open": 6.940000057220459,
@@ -3539,7 +3531,15 @@
       "High": 9.59000015258789,
       "Low": 9.149999618530273,
       "Close": 9.470000267028809,
-      "Volume": 895109
+      "Volume": 909900
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 9.470000267028809,
+      "High": 9.704999923706055,
+      "Low": 9.414999961853027,
+      "Close": 9.630000114440918,
+      "Volume": 923947
     }
   ]
 }

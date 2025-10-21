@@ -1,34 +1,26 @@
 {
   "ticker": "IMA",
   "indicators": {
-    "score_0_100": 64.52,
-    "score_0_10": 6.45,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.10720168387478213,
-    "macd_slope": -0.002358335770715877,
-    "rsi": 32.72727770399183,
-    "rsi_slope": -0.07381443021493997,
-    "wave_strength": 1.075443372119712,
-    "adx": 39.32924761874649,
-    "atr": 0.42792712605977623,
-    "obv_slope": -21791.85714285714,
+    "score_0_100": 76.48,
+    "score_0_10": 7.65,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.10084034678580278,
+    "macd_slope": -0.00730499536336401,
+    "rsi": 12.949603631305791,
+    "rsi_slope": -1.6239326377482766,
+    "wave_strength": 0.9495771871642259,
+    "adx": 39.40189008921714,
+    "atr": 0.40700374220514907,
+    "obv_slope": -27981.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 74820.7,
-    "last_close": 7.579999923706055,
+    "avg_vol20": 74037.25,
+    "last_close": 7.480000019073486,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 20.399999618530273,
-      "High": 21.360000610351562,
-      "Low": 17.520000457763672,
-      "Close": 18.239999771118164,
-      "Volume": 18400
-    },
     {
       "Date": "2024-01-22",
       "Open": 18.479999542236328,
@@ -3539,7 +3531,15 @@
       "High": 7.630000114440918,
       "Low": 7.519999980926514,
       "Close": 7.579999923706055,
-      "Volume": 9914
+      "Volume": 10000
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 7.550000190734863,
+      "High": 7.579999923706055,
+      "Low": 7.445000171661377,
+      "Close": 7.480000019073486,
+      "Volume": 24045
     }
   ]
 }
