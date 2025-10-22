@@ -1,34 +1,26 @@
 {
   "ticker": "LLYVA",
   "indicators": {
-    "score_0_100": 66.17,
-    "score_0_10": 6.62,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.28354919071652107,
-    "macd_slope": 0.07296700655500533,
-    "rsi": 46.50734966599722,
-    "rsi_slope": 1.9170888339462973,
-    "wave_strength": 0.9821556281707045,
-    "adx": 30.53268877501454,
-    "atr": 2.1384428676151606,
-    "obv_slope": 26897.428571428572,
+    "score_0_100": 63.64,
+    "score_0_10": 6.36,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.41087600688707004,
+    "macd_slope": 0.09610872647947001,
+    "rsi": 53.73718370160835,
+    "rsi_slope": 2.538169025542573,
+    "wave_strength": 0.9834952284086407,
+    "adx": 28.3936402494922,
+    "atr": 2.100696992063565,
+    "obv_slope": 45578.642857142855,
     "mom14": 0.0,
-    "avg_vol20": 102248.2,
-    "last_close": 90.31999969482422,
+    "avg_vol20": 104520.05,
+    "last_close": 90.37999725341797,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 36.029998779296875,
-      "High": 36.400001525878906,
-      "Low": 35.470001220703125,
-      "Close": 35.470001220703125,
-      "Volume": 110100
-    },
     {
       "Date": "2024-01-23",
       "Open": 35.470001220703125,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-21",
-      "Open": 90.30000305175781,
+      "Open": 90.33999633789062,
       "High": 91.05999755859375,
       "Low": 90.01000213623047,
       "Close": 90.31999969482422,
-      "Volume": 96164
+      "Volume": 96700
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 91.12000274658203,
+      "High": 91.5,
+      "Low": 89.88999938964844,
+      "Close": 90.37999725341797,
+      "Volume": 136701
     }
   ]
 }

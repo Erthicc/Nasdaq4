@@ -1,34 +1,26 @@
 {
   "ticker": "PHVS",
   "indicators": {
-    "score_0_100": 63.44,
-    "score_0_10": 6.34,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.02264807779555464,
-    "macd_slope": 0.006610244776184578,
-    "rsi": 49.62325225746047,
-    "rsi_slope": -0.38089253051270183,
-    "wave_strength": 0.946515001043745,
-    "adx": 16.976295593985192,
-    "atr": 1.456638384945505,
-    "obv_slope": 55649.0,
+    "score_0_100": 62.58,
+    "score_0_10": 6.26,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.07878963968057087,
+    "macd_slope": 0.017047965153565693,
+    "rsi": 51.56598885833091,
+    "rsi_slope": 0.12332187854639949,
+    "wave_strength": 1.0409050878955675,
+    "adx": 15.81102556755565,
+    "atr": 1.4511642909508986,
+    "obv_slope": 50670.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 252309.3,
-    "last_close": 23.989999771118164,
+    "avg_vol20": 233240.95,
+    "last_close": 23.459999084472656,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 30.75,
-      "High": 30.760000228881836,
-      "Low": 27.84000015258789,
-      "Close": 29.0,
-      "Volume": 677300
-    },
     {
       "Date": "2024-01-23",
       "Open": 30.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-21",
-      "Open": 23.610000610351562,
+      "Open": 23.43000030517578,
       "High": 24.190000534057617,
       "Low": 23.0,
       "Close": 23.989999771118164,
-      "Volume": 139686
+      "Volume": 141300
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 24.110000610351562,
+      "High": 24.110000610351562,
+      "Low": 22.729999542236328,
+      "Close": 23.459999084472656,
+      "Volume": 162419
     }
   ]
 }

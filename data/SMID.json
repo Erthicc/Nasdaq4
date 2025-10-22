@@ -1,34 +1,26 @@
 {
   "ticker": "SMID",
   "indicators": {
-    "score_0_100": 67.09,
-    "score_0_10": 6.71,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.4307253650989401,
-    "macd_slope": 0.06423102145423047,
-    "rsi": 58.99347476629849,
-    "rsi_slope": 1.7192801929111556,
-    "wave_strength": 1.03946211170846,
-    "adx": 32.54425628942857,
-    "atr": 2.051077444431057,
-    "obv_slope": -1181.9285714285713,
+    "score_0_100": 64.14,
+    "score_0_10": 6.41,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.4878485087785511,
+    "macd_slope": 0.0627692065975101,
+    "rsi": 62.80834693370947,
+    "rsi_slope": 1.7581685241991412,
+    "wave_strength": 1.0351688735696365,
+    "adx": 31.961753008706438,
+    "atr": 2.1763810429877672,
+    "obv_slope": 14.428571428571429,
     "mom14": 0.0,
-    "avg_vol20": 8047.65,
-    "last_close": 38.70000076293945,
+    "avg_vol20": 7560.1,
+    "last_close": 38.9900016784668,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 39.70000076293945,
-      "High": 41.11000061035156,
-      "Low": 38.38999938964844,
-      "Close": 40.75,
-      "Volume": 16300
-    },
     {
       "Date": "2024-01-23",
       "Open": 41.33000183105469,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-21",
-      "Open": 37.809898376464844,
-      "High": 39.62620162963867,
+      "Open": 37.810001373291016,
+      "High": 39.630001068115234,
       "Low": 37.7400016784668,
       "Close": 38.70000076293945,
-      "Volume": 7353
+      "Volume": 7900
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 38.369998931884766,
+      "High": 39.55179977416992,
+      "Low": 35.75,
+      "Close": 38.9900016784668,
+      "Volume": 5302
     }
   ]
 }

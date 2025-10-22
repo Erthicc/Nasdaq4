@@ -1,34 +1,26 @@
 {
   "ticker": "AGNG",
   "indicators": {
-    "score_0_100": 64.47,
-    "score_0_10": 6.45,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.001227172476234939,
-    "macd_slope": 0.00014796115087443697,
-    "rsi": 49.98104916236843,
-    "rsi_slope": -0.3573359303532335,
-    "wave_strength": 1.0159043924224207,
-    "adx": 26.736353386096205,
-    "atr": 0.3479391621620235,
-    "obv_slope": 2769.0,
+    "score_0_100": 63.27,
+    "score_0_10": 6.33,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0005938295817297101,
+    "macd_slope": -0.0034254305417498513,
+    "rsi": 51.06508780193687,
+    "rsi_slope": -0.5984684080964477,
+    "wave_strength": 1.0142041971583282,
+    "adx": 27.575960416426756,
+    "atr": 0.37951500169050306,
+    "obv_slope": 4712.214285714285,
     "mom14": 0.0,
-    "avg_vol20": 13726.7,
-    "last_close": 34.207000732421875,
+    "avg_vol20": 13793.55,
+    "last_close": 34.23619842529297,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 28.08033694254028,
-      "High": 28.159325155299047,
-      "Low": 28.04084189454713,
-      "Close": 28.070463180541992,
-      "Volume": 1200
-    },
     {
       "Date": "2024-01-23",
       "Open": 27.91248610173528,
@@ -3539,7 +3531,15 @@
       "High": 34.27000045776367,
       "Low": 34.060001373291016,
       "Close": 34.207000732421875,
-      "Volume": 13134
+      "Volume": 13200
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 34.31999969482422,
+      "High": 34.970001220703125,
+      "Low": 34.18000030517578,
+      "Close": 34.23619842529297,
+      "Volume": 11971
     }
   ]
 }

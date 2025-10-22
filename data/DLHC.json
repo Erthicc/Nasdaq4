@@ -1,34 +1,26 @@
 {
   "ticker": "DLHC",
   "indicators": {
-    "score_0_100": 64.21,
-    "score_0_10": 6.42,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.005694681506107696,
-    "macd_slope": 4.494681426935118e-05,
-    "rsi": 47.22222038364674,
-    "rsi_slope": -0.984126679795836,
-    "wave_strength": 1.006278046551187,
-    "adx": 26.912902113771587,
-    "atr": 0.15779860357546188,
-    "obv_slope": 4268.785714285715,
+    "score_0_100": 62.81,
+    "score_0_10": 6.28,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.009575723893623569,
+    "macd_slope": 0.00041214426219301386,
+    "rsi": 52.04081657608773,
+    "rsi_slope": -0.20815338293153982,
+    "wave_strength": 1.0144277830427093,
+    "adx": 26.24394606695437,
+    "atr": 0.16096551222069883,
+    "obv_slope": 4123.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 10068.15,
-    "last_close": 5.659999847412109,
+    "avg_vol20": 9973.85,
+    "last_close": 5.650000095367432,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 16.110000610351562,
-      "High": 16.610000610351562,
-      "Low": 15.960000038146973,
-      "Close": 16.530000686645508,
-      "Volume": 18500
-    },
     {
       "Date": "2024-01-23",
       "Open": 16.729999542236328,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-21",
       "Open": 5.639999866485596,
-      "High": 5.727700233459473,
+      "High": 5.730000019073486,
       "Low": 5.559999942779541,
       "Close": 5.659999847412109,
-      "Volume": 7063
+      "Volume": 7200
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 5.539999961853027,
+      "High": 5.730000019073486,
+      "Low": 5.53000020980835,
+      "Close": 5.650000095367432,
+      "Volume": 5177
     }
   ]
 }

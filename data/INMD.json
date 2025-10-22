@@ -1,34 +1,26 @@
 {
   "ticker": "INMD",
   "indicators": {
-    "score_0_100": 64.62,
-    "score_0_10": 6.46,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.05529533754457494,
-    "macd_slope": 0.0042001190437162645,
-    "rsi": 60.6104733718946,
-    "rsi_slope": 0.8390603032773295,
-    "wave_strength": 1.010983947735906,
-    "adx": 24.935746579514426,
-    "atr": 0.512368502095775,
-    "obv_slope": 214374.42857142858,
+    "score_0_100": 62.68,
+    "score_0_10": 6.27,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.03873404047606266,
+    "macd_slope": 0.001182735793638438,
+    "rsi": 51.76630601705557,
+    "rsi_slope": -0.8478604267291361,
+    "wave_strength": 1.008870057563032,
+    "adx": 24.99578677220911,
+    "atr": 0.5159279338078159,
+    "obv_slope": 133852.35714285713,
     "mom14": 0.0,
-    "avg_vol20": 788832.1,
-    "last_close": 16.010000228881836,
+    "avg_vol20": 787803.35,
+    "last_close": 15.59000015258789,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 22.700000762939453,
-      "High": 23.389999389648438,
-      "Low": 22.600000381469727,
-      "Close": 23.06999969482422,
-      "Volume": 1524200
-    },
     {
       "Date": "2024-01-23",
       "Open": 23.25,
@@ -3539,7 +3531,15 @@
       "High": 16.25,
       "Low": 15.960000038146973,
       "Close": 16.010000228881836,
-      "Volume": 453842
+      "Volume": 454500
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 16.030000686645508,
+      "High": 16.072200775146484,
+      "Low": 15.510000228881836,
+      "Close": 15.59000015258789,
+      "Volume": 510767
     }
   ]
 }

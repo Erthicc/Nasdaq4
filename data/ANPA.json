@@ -1,20 +1,20 @@
 {
   "ticker": "ANPA",
   "indicators": {
-    "score_0_100": 63.39,
-    "score_0_10": 6.34,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.08463567491752189,
-    "macd_slope": 0.1226672378209822,
-    "rsi": 32.48511272546786,
-    "rsi_slope": 0.7496589867162677,
-    "wave_strength": 0.9346523305044544,
-    "adx": 29.997824734797437,
-    "atr": 2.4960360166927607,
-    "obv_slope": -264.7857142857143,
+    "score_0_100": 62.7,
+    "score_0_10": 6.27,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.11234291961874643,
+    "macd_slope": 0.118118515878582,
+    "rsi": 32.35483583582466,
+    "rsi_slope": 0.35290187769486386,
+    "wave_strength": 0.9509977421729485,
+    "adx": 30.2851369225177,
+    "atr": 2.403462069996096,
+    "obv_slope": 585.6428571428571,
     "mom14": 0.0,
-    "avg_vol20": 9494.65,
-    "last_close": 25.700000762939453,
+    "avg_vol20": 9420.05,
+    "last_close": 24.5,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -617,9 +617,17 @@
       "Date": "2025-10-21",
       "Open": 25.510000228881836,
       "High": 25.700000762939453,
-      "Low": 25.700000762939453,
+      "Low": 25.5,
       "Close": 25.700000762939453,
-      "Volume": 1493.0
+      "Volume": 1500.0
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 25.510000228881836,
+      "High": 25.510000228881836,
+      "Low": 24.5,
+      "Close": 24.5,
+      "Volume": 3301.0
     }
   ]
 }
