@@ -1,34 +1,26 @@
 {
   "ticker": "CVCO",
   "indicators": {
-    "score_0_100": 66.58,
-    "score_0_10": 6.66,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 4.4751793629245284,
-    "macd_slope": 0.3138655725310941,
-    "rsi": 46.54766076491151,
-    "rsi_slope": -1.5971257659026878,
-    "wave_strength": 1.0577710951808816,
-    "adx": 30.361906802107665,
-    "atr": 21.62501281237467,
-    "obv_slope": 6797.785714285715,
+    "score_0_100": 69.16,
+    "score_0_10": 6.92,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 6.075806882640964,
+    "macd_slope": 0.5186368957885485,
+    "rsi": 54.8605546904609,
+    "rsi_slope": -0.3184615226420543,
+    "wave_strength": 1.0543067989933117,
+    "adx": 30.79810989823077,
+    "atr": 21.72346160353015,
+    "obv_slope": 29274.071428571428,
     "mom14": 0.0,
-    "avg_vol20": 173181.55,
-    "last_close": 572.8900146484375,
+    "avg_vol20": 173156.85,
+    "last_close": 593.260009765625,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-23",
-      "Open": 339.1499938964844,
-      "High": 339.1499938964844,
-      "Low": 320.8800048828125,
-      "Close": 324.010009765625,
-      "Volume": 88100
-    },
     {
       "Date": "2024-01-24",
       "Open": 329.8399963378906,
@@ -3539,7 +3531,15 @@
       "High": 579.719970703125,
       "Low": 559.2100219726562,
       "Close": 572.8900146484375,
-      "Volume": 112031
+      "Volume": 116200
+    },
+    {
+      "Date": "2025-10-23",
+      "Open": 577.4849853515625,
+      "High": 595.4033203125,
+      "Low": 572.4000244140625,
+      "Close": 593.260009765625,
+      "Volume": 192337
     }
   ]
 }

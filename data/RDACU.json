@@ -1,16 +1,16 @@
 {
   "ticker": "RDACU",
   "indicators": {
-    "score_0_100": 63.06,
-    "score_0_10": 6.31,
+    "score_0_100": 67.04,
+    "score_0_10": 6.7,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03763309480532351,
-    "macd_slope": -0.0003678458516969997,
+    "macd_hist": 0.02695626387771552,
+    "macd_slope": -0.0016969113398261715,
     "rsi": 59.00899509147715,
     "rsi_slope": -2.9279286998155074,
-    "wave_strength": 1.1049773610748619,
-    "adx": 91.8237031139049,
-    "atr": 0.20613079568903686,
+    "wave_strength": 1.1007779907491204,
+    "adx": 91.84230042853639,
+    "atr": 0.19140716742553424,
     "obv_slope": 242.85714285714286,
     "mom14": 0.0,
     "avg_vol20": 470.0,
@@ -2071,6 +2071,14 @@
     },
     {
       "Date": "2025-10-21",
+      "Open": 11.5,
+      "High": 11.5,
+      "Low": 11.5,
+      "Close": 11.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-22",
       "Open": 11.5,
       "High": 11.5,
       "Low": 11.5,

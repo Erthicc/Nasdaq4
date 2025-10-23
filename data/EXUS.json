@@ -1,20 +1,20 @@
 {
   "ticker": "EXUS",
   "indicators": {
-    "score_0_100": 65.66,
-    "score_0_10": 6.57,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.008863263233134154,
-    "macd_slope": 0.0047048611048218485,
-    "rsi": 48.136141904688415,
-    "rsi_slope": 1.2282420180684386,
-    "wave_strength": 1.0057892952824945,
-    "adx": 40.7925551929509,
-    "atr": 0.2280574988587043,
-    "obv_slope": -36.785714285714285,
+    "score_0_100": 69.1,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.023000487197178503,
+    "macd_slope": 0.004715313430220245,
+    "rsi": 46.71599401248963,
+    "rsi_slope": 0.39177191271259915,
+    "wave_strength": 1.0056727687753764,
+    "adx": 40.58413300051868,
+    "atr": 0.22295135783192663,
+    "obv_slope": 8.571428571428571,
     "mom14": 0.0,
-    "avg_vol20": 934.25,
-    "last_close": 25.90019989013672,
+    "avg_vol20": 961.0,
+    "last_close": 25.972999572753906,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -720,10 +720,18 @@
     {
       "Date": "2025-10-22",
       "Open": 25.850000381469727,
-      "High": 25.93000030517578,
+      "High": 26.020000457763672,
       "Low": 25.850000381469727,
-      "Close": 25.90019989013672,
-      "Volume": 1285.0
+      "Close": 25.899999618530273,
+      "Volume": 1800.0
+    },
+    {
+      "Date": "2025-10-23",
+      "Open": 25.950000762939453,
+      "High": 25.972999572753906,
+      "Low": 25.950000762939453,
+      "Close": 25.972999572753906,
+      "Volume": 120.0
     }
   ]
 }

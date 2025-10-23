@@ -1,20 +1,20 @@
 {
   "ticker": "RYOJ",
   "indicators": {
-    "score_0_100": 65.53,
-    "score_0_10": 6.55,
+    "score_0_100": 68.48,
+    "score_0_10": 6.85,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.5592673387756072,
-    "macd_slope": 0.03963775884995923,
-    "rsi": 65.40941769406867,
-    "rsi_slope": 1.1228554864596916,
-    "wave_strength": 3.071586104800762,
-    "adx": 44.53881421070598,
-    "atr": 1.2432276082585692,
-    "obv_slope": 4833074.214285715,
+    "macd_hist": 0.47539685312421254,
+    "macd_slope": 0.03398181445364103,
+    "rsi": 63.2284725272995,
+    "rsi_slope": 0.9889825906251991,
+    "wave_strength": 2.9033952135042393,
+    "adx": 47.7335265755409,
+    "atr": 1.214425613079438,
+    "obv_slope": 4823423.357142857,
     "mom14": 0.0,
-    "avg_vol20": 3611133.05,
-    "last_close": 6.099999904632568,
+    "avg_vol20": 3606243.65,
+    "last_close": 5.590000152587891,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -411,7 +411,15 @@
       "High": 8.34000015258789,
       "Low": 5.519999980926514,
       "Close": 6.099999904632568,
-      "Volume": 678361.0
+      "Volume": 711600.0
+    },
+    {
+      "Date": "2025-10-23",
+      "Open": 6.159999847412109,
+      "High": 6.159999847412109,
+      "Low": 5.320000171661377,
+      "Close": 5.590000152587891,
+      "Volume": 123473.0
     }
   ]
 }

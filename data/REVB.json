@@ -1,34 +1,26 @@
 {
   "ticker": "REVB",
   "indicators": {
-    "score_0_100": 75.52,
-    "score_0_10": 7.55,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.015837760103422527,
-    "macd_slope": 0.00041407267700983256,
-    "rsi": 12.765966240639443,
-    "rsi_slope": -0.8024313141159121,
-    "wave_strength": 1.1011154948205408,
-    "adx": 20.635441002868593,
-    "atr": 0.1253416510033275,
-    "obv_slope": -13262.142857142857,
+    "score_0_100": 73.73,
+    "score_0_10": 7.37,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.015569084308118014,
+    "macd_slope": -0.00035935722831283157,
+    "rsi": 19.14895718591582,
+    "rsi_slope": -1.693442310866404,
+    "wave_strength": 1.108695635272785,
+    "adx": 21.26024970074334,
+    "atr": 0.12138867938905429,
+    "obv_slope": 9347.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 211583.5,
-    "last_close": 1.1799999475479126,
+    "avg_vol20": 205693.5,
+    "last_close": 1.2100000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-23",
-      "Open": 606.239990234375,
-      "High": 653.760009765625,
-      "Low": 398.8800048828125,
-      "Close": 475.20001220703125,
-      "Volume": 1724
-    },
     {
       "Date": "2024-01-24",
       "Open": 489.6000061035156,
@@ -3539,7 +3531,15 @@
       "High": 1.25,
       "Low": 1.149999976158142,
       "Close": 1.1799999475479126,
-      "Volume": 194370
+      "Volume": 204300
+    },
+    {
+      "Date": "2025-10-23",
+      "Open": 1.159999966621399,
+      "High": 1.2200000286102295,
+      "Low": 1.149999976158142,
+      "Close": 1.2100000381469727,
+      "Volume": 114070
     }
   ]
 }
