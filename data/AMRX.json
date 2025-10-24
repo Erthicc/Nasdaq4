@@ -1,34 +1,26 @@
 {
   "ticker": "AMRX",
   "indicators": {
-    "score_0_100": 67.31,
-    "score_0_10": 6.73,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.009657109208725367,
-    "macd_slope": -0.001422726425157442,
-    "rsi": 50.76922363308113,
-    "rsi_slope": -1.1489093356469213,
-    "wave_strength": 1.0282447193828013,
-    "adx": 25.624649863205853,
-    "atr": 0.26875485216368433,
-    "obv_slope": 143193.85714285713,
+    "score_0_100": 64.35,
+    "score_0_10": 6.44,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.02442638881026435,
+    "macd_slope": -0.001264271255433069,
+    "rsi": 49.999999635416685,
+    "rsi_slope": -1.5306142926977162,
+    "wave_strength": 1.024205852729292,
+    "adx": 26.199539873015397,
+    "atr": 0.2634866266394368,
+    "obv_slope": 73528.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 1492789.3,
-    "last_close": 10.420000076293945,
+    "avg_vol20": 1445419.7,
+    "last_close": 10.550000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-24",
-      "Open": 5.53000020980835,
-      "High": 5.550000190734863,
-      "Low": 5.34499979019165,
-      "Close": 5.429999828338623,
-      "Volume": 996500
-    },
     {
       "Date": "2024-01-25",
       "Open": 5.514999866485596,
@@ -3539,7 +3531,15 @@
       "High": 10.494999885559082,
       "Low": 10.319999694824219,
       "Close": 10.420000076293945,
-      "Volume": 1029086
+      "Volume": 1044800
+    },
+    {
+      "Date": "2025-10-24",
+      "Open": 10.470000267028809,
+      "High": 10.614999771118164,
+      "Low": 10.449999809265137,
+      "Close": 10.550000190734863,
+      "Volume": 822294
     }
   ]
 }
