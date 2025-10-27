@@ -1,34 +1,26 @@
 {
   "ticker": "RETO",
   "indicators": {
-    "score_0_100": 69.57,
-    "score_0_10": 6.96,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.018679410533225138,
-    "macd_slope": 0.0001501331706657045,
-    "rsi": 22.13117470387205,
-    "rsi_slope": -0.4253755817131041,
-    "wave_strength": 0.9424130977582891,
-    "adx": 28.35814839260436,
-    "atr": 0.08278394673245482,
-    "obv_slope": 17731.214285714286,
+    "score_0_100": 73.05,
+    "score_0_10": 7.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.018496595580370173,
+    "macd_slope": -0.000165665932628906,
+    "rsi": 16.666723643314143,
+    "rsi_slope": -0.9394674122740858,
+    "wave_strength": 0.9497283025876581,
+    "adx": 28.589615930917784,
+    "atr": 0.07974121531412655,
+    "obv_slope": -1533.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 66848.15,
-    "last_close": 1.0299999713897705,
+    "avg_vol20": 68018.55,
+    "last_close": 1.0199999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 3.9000000953674316,
-      "High": 3.9100000858306885,
-      "Low": 3.799999952316284,
-      "Close": 3.799999952316284,
-      "Volume": 1810
-    },
     {
       "Date": "2024-01-26",
       "Open": 3.869999885559082,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-24",
       "Open": 1.0399999618530273,
-      "High": 1.048799991607666,
+      "High": 1.0490000247955322,
       "Low": 1.0199999809265137,
       "Close": 1.0299999713897705,
-      "Volume": 37763
+      "Volume": 40300
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 1.0,
+      "High": 1.0399999618530273,
+      "Low": 1.0,
+      "Close": 1.0199999809265137,
+      "Volume": 67871
     }
   ]
 }

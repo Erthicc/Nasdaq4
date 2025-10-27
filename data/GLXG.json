@@ -1,20 +1,20 @@
 {
   "ticker": "GLXG",
   "indicators": {
-    "score_0_100": 65.59,
-    "score_0_10": 6.56,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.016897852451587064,
-    "macd_slope": 0.0019824353529837462,
-    "rsi": 26.1127501899076,
-    "rsi_slope": -1.208101490278666,
-    "wave_strength": 0.9845397906504165,
-    "adx": 13.14983280107219,
-    "atr": 0.46722040126330144,
-    "obv_slope": -2892.8571428571427,
+    "score_0_100": 65.67,
+    "score_0_10": 6.57,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.016616569784705104,
+    "macd_slope": 0.00022498076563403396,
+    "rsi": 25.88234546821822,
+    "rsi_slope": -1.0026436248690551,
+    "wave_strength": 0.9800544122088709,
+    "adx": 12.223345840701423,
+    "atr": 0.4622117991567256,
+    "obv_slope": 436.92857142857144,
     "mom14": 0.0,
-    "avg_vol20": 978935.0,
-    "last_close": 4.375,
+    "avg_vol20": 978439.15,
+    "last_close": 4.260000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2268,6 +2268,14 @@
       "Low": 4.199999809265137,
       "Close": 4.375,
       "Volume": 3800.0
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 4.389999866485596,
+      "High": 4.400000095367432,
+      "Low": 4.002900123596191,
+      "Close": 4.260000228881836,
+      "Volume": 8783.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "SOFI",
   "indicators": {
-    "score_0_100": 66.36,
-    "score_0_10": 6.64,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.05429037426343808,
-    "macd_slope": 0.03651856518303156,
-    "rsi": 59.80755109232243,
-    "rsi_slope": 1.1183884416259755,
-    "wave_strength": 1.0531328343443287,
-    "adx": 13.822389341757226,
-    "atr": 1.6486260981347216,
-    "obv_slope": 17216640.85714286,
+    "score_0_100": 72.95,
+    "score_0_10": 7.3,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.15368514486654583,
+    "macd_slope": 0.032148135993319116,
+    "rsi": 57.31132458182018,
+    "rsi_slope": 0.18403393391922204,
+    "wave_strength": 1.0484282609595261,
+    "adx": 13.750949386122134,
+    "atr": 1.6158671292849462,
+    "obv_slope": 14130165.07142857,
     "mom14": 0.0,
-    "avg_vol20": 74471603.6,
-    "last_close": 29.010000228881836,
+    "avg_vol20": 75371695.55,
+    "last_close": 30.0,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 7.659999847412109,
-      "High": 7.75,
-      "Low": 7.550000190734863,
-      "Close": 7.650000095367432,
-      "Volume": 49509400
-    },
     {
       "Date": "2024-01-26",
       "Open": 7.690000057220459,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-24",
-      "Open": 28.799999237060547,
+      "Open": 28.844999313354492,
       "High": 29.8700008392334,
       "Low": 28.700000762939453,
       "Close": 29.010000228881836,
-      "Volume": 52651772
+      "Volume": 52835500
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 29.950000762939453,
+      "High": 30.200000762939453,
+      "Low": 29.270000457763672,
+      "Close": 30.0,
+      "Volume": 78213411
     }
   ]
 }

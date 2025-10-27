@@ -1,20 +1,20 @@
 {
   "ticker": "WOK",
   "indicators": {
-    "score_0_100": 69.51,
-    "score_0_10": 6.95,
+    "score_0_100": 67.65,
+    "score_0_10": 6.76,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 2.175072345961839,
-    "macd_slope": 0.5052806984719853,
-    "rsi": 28.57142983084927,
-    "rsi_slope": 1.1215111354850282,
-    "wave_strength": 0.7583965364426879,
-    "adx": 50.55557160654655,
-    "atr": 3.0753515568936107,
-    "obv_slope": 321407.5714285714,
+    "macd_hist": 2.2325321654646206,
+    "macd_slope": 0.4330684636040568,
+    "rsi": 30.70260062317736,
+    "rsi_slope": 1.2737375937856044,
+    "wave_strength": 0.7808142796538076,
+    "adx": 50.70783671174753,
+    "atr": 2.8956836134835617,
+    "obv_slope": 339366.14285714284,
     "mom14": 0.0,
-    "avg_vol20": 523856.2,
-    "last_close": 3.299999952316284,
+    "avg_vol20": 513559.1,
+    "last_close": 3.490000009536743,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2371,7 +2371,15 @@
       "High": 4.119999885559082,
       "Low": 2.7850000858306885,
       "Close": 3.299999952316284,
-      "Volume": 381615.0
+      "Volume": 391000.0
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 3.299999952316284,
+      "High": 3.6500000953674316,
+      "Low": 3.0899999141693115,
+      "Close": 3.490000009536743,
+      "Volume": 145272.0
     }
   ]
 }
