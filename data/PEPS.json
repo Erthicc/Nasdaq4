@@ -1,20 +1,20 @@
 {
   "ticker": "PEPS",
   "indicators": {
-    "score_0_100": 64.14,
-    "score_0_10": 6.41,
+    "score_0_100": 63.67,
+    "score_0_10": 6.37,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.04632319937342011,
-    "macd_slope": 0.002834053039591468,
-    "rsi": 60.6219207871234,
-    "rsi_slope": -0.6016859527804398,
-    "wave_strength": 1.0079584634855874,
-    "adx": 25.988320366974445,
-    "atr": 0.20585399551737846,
-    "obv_slope": 29.0,
+    "macd_hist": 0.060903441928168434,
+    "macd_slope": 0.0035337063693694415,
+    "rsi": 58.545792258904946,
+    "rsi_slope": -0.7840356839086294,
+    "wave_strength": 1.0062640878249811,
+    "adx": 26.61844682263715,
+    "atr": 0.19365012779557353,
+    "obv_slope": 29.214285714285715,
     "mom14": 0.0,
-    "avg_vol20": 135.3,
-    "last_close": 29.40999984741211,
+    "avg_vol20": 135.45,
+    "last_close": 29.44499969482422,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1067,7 +1067,15 @@
       "High": 29.40999984741211,
       "Low": 29.40999984741211,
       "Close": 29.40999984741211,
-      "Volume": 6.0
+      "Volume": 100.0
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 29.44499969482422,
+      "High": 29.44499969482422,
+      "Low": 29.44499969482422,
+      "Close": 29.44499969482422,
+      "Volume": 9.0
     }
   ]
 }
