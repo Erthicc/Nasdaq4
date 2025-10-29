@@ -1,34 +1,26 @@
 {
   "ticker": "FUTU",
   "indicators": {
-    "score_0_100": 65.85,
-    "score_0_10": 6.59,
+    "score_0_100": 63.74,
+    "score_0_10": 6.37,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 2.785137502987645,
-    "macd_slope": 0.21948026352407737,
-    "rsi": 55.9873619876654,
-    "rsi_slope": 0.16284909264398248,
-    "wave_strength": 1.0006712562372608,
-    "adx": 14.769147357061456,
-    "atr": 9.005851675644623,
-    "obv_slope": 166984.92857142858,
+    "macd_hist": 3.7197372389680323,
+    "macd_slope": 0.278258435765753,
+    "rsi": 64.55508979458183,
+    "rsi_slope": 1.2610260634017731,
+    "wave_strength": 0.9944404367559798,
+    "adx": 15.650213338241306,
+    "atr": 9.238290449233954,
+    "obv_slope": 500243.9285714286,
     "mom14": 0.0,
-    "avg_vol20": 2573589.45,
-    "last_close": 187.74000549316406,
+    "avg_vol20": 2650200.75,
+    "last_close": 197.6199951171875,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 47.70514631016007,
-      "High": 47.70514631016007,
-      "Low": 45.67305972496648,
-      "Close": 46.66956329345703,
-      "Volume": 1218600
-    },
     {
       "Date": "2024-01-30",
       "Open": 45.6242103043867,
@@ -3539,7 +3531,15 @@
       "High": 189.5,
       "Low": 178.02000427246094,
       "Close": 187.74000549316406,
-      "Volume": 2279589
+      "Volume": 2315700
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 190.99000549316406,
+      "High": 200.0,
+      "Low": 190.5,
+      "Close": 197.6199951171875,
+      "Volume": 2735715
     }
   ]
 }

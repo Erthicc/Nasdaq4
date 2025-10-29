@@ -1,20 +1,20 @@
 {
   "ticker": "TSEL",
   "indicators": {
-    "score_0_100": 65.14,
-    "score_0_10": 6.51,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.10261380471902225,
-    "macd_slope": 0.00973509559836147,
-    "rsi": 55.63117348371786,
-    "rsi_slope": 0.36826535703400304,
-    "wave_strength": 0.9942496569531497,
-    "adx": 18.082447797237997,
-    "atr": 0.43937816387169504,
-    "obv_slope": 22536.214285714286,
+    "score_0_100": 66.33,
+    "score_0_10": 6.63,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.13897412354043578,
+    "macd_slope": 0.011345428260801715,
+    "rsi": 56.423364148052656,
+    "rsi_slope": 0.5131135393445726,
+    "wave_strength": 0.9927944866832981,
+    "adx": 17.90680054392961,
+    "atr": 0.42585115216657393,
+    "obv_slope": -13036.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 45955.35,
-    "last_close": 30.84779930114746,
+    "avg_vol20": 45734.35,
+    "last_close": 30.959800720214844,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1658,8 +1658,16 @@
       "Open": 30.690000534057617,
       "High": 30.940000534057617,
       "Low": 30.649999618530273,
-      "Close": 30.84779930114746,
-      "Volume": 36507.0
+      "Close": 30.847999572753906,
+      "Volume": 36500.0
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 31.0,
+      "High": 31.059999465942383,
+      "Low": 30.809999465942383,
+      "Close": 30.959800720214844,
+      "Volume": 6887.0
     }
   ]
 }

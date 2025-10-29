@@ -1,34 +1,26 @@
 {
   "ticker": "AAL",
   "indicators": {
-    "score_0_100": 64.68,
-    "score_0_10": 6.47,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.16920395668254254,
-    "macd_slope": 0.01188785765416492,
-    "rsi": 58.30257923926956,
-    "rsi_slope": 1.7436680971395841,
-    "wave_strength": 1.137996503538099,
-    "adx": 24.213303632594993,
-    "atr": 0.5447819836018684,
-    "obv_slope": -997484.0,
+    "score_0_100": 64.9,
+    "score_0_10": 6.49,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.147163705966101,
+    "macd_slope": 0.009742515393097713,
+    "rsi": 62.29508579516884,
+    "rsi_slope": 2.0881324758912116,
+    "wave_strength": 1.1300639390371712,
+    "adx": 24.15845532545459,
+    "atr": 0.5315832459671024,
+    "obv_slope": 9362366.92857143,
     "mom14": 0.0,
-    "avg_vol20": 65772568.8,
-    "last_close": 12.710000038146973,
+    "avg_vol20": 63990641.85,
+    "last_close": 12.970000267028809,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 15.369999885559082,
-      "High": 15.390000343322754,
-      "Low": 14.859999656677246,
-      "Close": 14.9399995803833,
-      "Volume": 36835300
-    },
     {
       "Date": "2024-01-30",
       "Open": 14.789999961853027,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-28",
-      "Open": 13.4399995803833,
+      "Open": 13.449999809265137,
       "High": 13.460000038146973,
       "Low": 12.649999618530273,
       "Close": 12.710000038146973,
-      "Volume": 52814576
+      "Volume": 53810900
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 12.710000038146973,
+      "High": 13.0,
+      "Low": 12.640000343322754,
+      "Close": 12.970000267028809,
+      "Volume": 44497937
     }
   ]
 }

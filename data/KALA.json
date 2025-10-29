@@ -1,34 +1,26 @@
 {
   "ticker": "KALA",
   "indicators": {
-    "score_0_100": 77.24,
-    "score_0_10": 7.72,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.3144819837873922,
-    "macd_slope": 0.14246270103654593,
-    "rsi": 13.113115395947986,
-    "rsi_slope": -0.5139719029917801,
-    "wave_strength": 1.1998410836434261,
-    "adx": 51.58554515089369,
-    "atr": 0.7173520730676543,
-    "obv_slope": -557219.9285714285,
+    "score_0_100": 77.55,
+    "score_0_10": 7.76,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.3491246369929941,
+    "macd_slope": 0.1266758217722775,
+    "rsi": 12.928060025305598,
+    "rsi_slope": -0.045358659417487956,
+    "wave_strength": 0.6769963574890475,
+    "adx": 51.580857302463734,
+    "atr": 0.6704049835296125,
+    "obv_slope": -544527.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 1017671.05,
-    "last_close": 0.8330000042915344,
+    "avg_vol20": 875329.45,
+    "last_close": 0.7986999750137329,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 7.199999809265137,
-      "High": 7.382999897003174,
-      "Low": 7.125,
-      "Close": 7.289999961853027,
-      "Volume": 13800
-    },
     {
       "Date": "2024-01-30",
       "Open": 7.170000076293945,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-28",
-      "Open": 0.8100000023841858,
+      "Open": 0.8109999895095825,
       "High": 0.8330000042915344,
-      "Low": 0.7900999784469604,
+      "Low": 0.7900000214576721,
       "Close": 0.8330000042915344,
-      "Volume": 247221
+      "Volume": 247900
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 0.8180000185966492,
+      "High": 0.8180000185966492,
+      "Low": 0.7730000019073486,
+      "Close": 0.7986999750137329,
+      "Volume": 248089
     }
   ]
 }

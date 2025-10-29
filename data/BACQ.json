@@ -1,20 +1,20 @@
 {
   "ticker": "BACQ",
   "indicators": {
-    "score_0_100": 62.66,
-    "score_0_10": 6.27,
+    "score_0_100": 66.0,
+    "score_0_10": 6.6,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.059079544008775686,
-    "macd_slope": 0.0011349411743493039,
-    "rsi": 55.010432516593404,
-    "rsi_slope": -2.809231083134665,
-    "wave_strength": 1.1472791469917125,
-    "adx": 66.55774249340585,
-    "atr": 0.4687419017215678,
-    "obv_slope": 578695.5714285715,
+    "macd_hist": 0.01063306271406872,
+    "macd_slope": -0.0037685088113997727,
+    "rsi": 51.34264196762276,
+    "rsi_slope": -3.1990300788498693,
+    "wave_strength": 1.143318309162702,
+    "adx": 64.72022674644384,
+    "atr": 0.47454606522251747,
+    "obv_slope": 361555.64285714284,
     "mom14": 0.0,
-    "avg_vol20": 1621123.1,
-    "last_close": 11.289999961853027,
+    "avg_vol20": 1669136.05,
+    "last_close": 11.180000305175781,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1835,7 +1835,15 @@
       "High": 11.96500015258789,
       "Low": 11.260000228881836,
       "Close": 11.289999961853027,
-      "Volume": 1320962.0
+      "Volume": 1354400.0
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 11.329999923706055,
+      "High": 11.59000015258789,
+      "Low": 11.039999961853027,
+      "Close": 11.180000305175781,
+      "Volume": 942421.0
     }
   ]
 }

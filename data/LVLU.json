@@ -1,34 +1,26 @@
 {
   "ticker": "LVLU",
   "indicators": {
-    "score_0_100": 63.43,
-    "score_0_10": 6.34,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.014991092502377415,
-    "macd_slope": -0.002061374219526385,
-    "rsi": 50.66666274758442,
-    "rsi_slope": -1.5274720135737307,
-    "wave_strength": 0.9295304285308752,
-    "adx": 46.00172667291362,
-    "atr": 0.46039436395269195,
-    "obv_slope": 1541.857142857143,
+    "score_0_100": 65.97,
+    "score_0_10": 6.6,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.014663183593892265,
+    "macd_slope": -0.0017791183892535542,
+    "rsi": 48.284621845949864,
+    "rsi_slope": -1.0313277895863802,
+    "wave_strength": 1.117041788620843,
+    "adx": 45.65231342208829,
+    "atr": 0.47322942755583614,
+    "obv_slope": 2513.0,
     "mom14": 0.0,
-    "avg_vol20": 36924.3,
-    "last_close": 5.639999866485596,
+    "avg_vol20": 36255.9,
+    "last_close": 5.125,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 30.75,
-      "High": 31.350000381469727,
-      "Low": 29.549999237060547,
-      "Close": 29.549999237060547,
-      "Volume": 200
-    },
     {
       "Date": "2024-01-30",
       "Open": 29.549999237060547,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-28",
-      "Open": 5.03000020980835,
-      "High": 5.684800148010254,
+      "Open": 5.079999923706055,
+      "High": 5.684999942779541,
       "Low": 5.070000171661377,
       "Close": 5.639999866485596,
-      "Volume": 50986
+      "Volume": 55100
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 5.420000076293945,
+      "High": 5.605000019073486,
+      "Low": 5.000100135803223,
+      "Close": 5.125,
+      "Volume": 12318
     }
   ]
 }

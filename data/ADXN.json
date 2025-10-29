@@ -1,34 +1,26 @@
 {
   "ticker": "ADXN",
   "indicators": {
-    "score_0_100": 64.09,
-    "score_0_10": 6.41,
+    "score_0_100": 64.5,
+    "score_0_10": 6.45,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.04665535579905146,
-    "macd_slope": 0.008355246965411187,
-    "rsi": 51.01587522456348,
-    "rsi_slope": 0.7071707700896701,
-    "wave_strength": 1.0767952800261125,
-    "adx": 41.559930595052855,
-    "atr": 0.8783484058455581,
-    "obv_slope": 17604.14285714286,
+    "macd_hist": 0.03269053524571727,
+    "macd_slope": 0.007901704615913885,
+    "rsi": 53.017999686820964,
+    "rsi_slope": 0.2775136764435321,
+    "wave_strength": 1.0763279949320017,
+    "adx": 41.997718509493616,
+    "atr": 0.8227521183546156,
+    "obv_slope": 17990.5,
     "mom14": 0.0,
-    "avg_vol20": 24257.1,
-    "last_close": 9.460000038146973,
+    "avg_vol20": 24048.35,
+    "last_close": 9.470000267028809,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 12.270000457763672,
-      "High": 13.5,
-      "Low": 11.470000267028809,
-      "Close": 13.100000381469727,
-      "Volume": 18200
-    },
     {
       "Date": "2024-01-30",
       "Open": 11.479999542236328,
@@ -3539,7 +3531,15 @@
       "High": 9.829999923706055,
       "Low": 9.460000038146973,
       "Close": 9.460000038146973,
-      "Volume": 3242
+      "Volume": 3300
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 9.40999984741211,
+      "High": 9.510000228881836,
+      "Low": 9.40999984741211,
+      "Close": 9.470000267028809,
+      "Volume": 767
     }
   ]
 }
