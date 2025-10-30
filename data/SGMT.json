@@ -1,34 +1,26 @@
 {
   "ticker": "SGMT",
   "indicators": {
-    "score_0_100": 64.56,
-    "score_0_10": 6.46,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.08920190548360013,
-    "macd_slope": -0.00626140903903014,
-    "rsi": 47.238095475431486,
-    "rsi_slope": -2.3040198191377748,
-    "wave_strength": 1.179012584825738,
-    "adx": 30.787505566376268,
-    "atr": 0.6774814361145144,
-    "obv_slope": -137160.57142857142,
+    "score_0_100": 59.69,
+    "score_0_10": 5.97,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.06334569290696013,
+    "macd_slope": -0.0065707896310764945,
+    "rsi": 55.17241545025955,
+    "rsi_slope": -0.3634684625106677,
+    "wave_strength": 1.067777582784668,
+    "adx": 32.08603028754749,
+    "atr": 0.6512393656376524,
+    "obv_slope": -89292.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 650997.6,
-    "last_close": 8.329999923706055,
+    "avg_vol20": 654915.05,
+    "last_close": 8.140000343322754,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 10.40999984741211,
-      "High": 10.970000267028809,
-      "Low": 10.069999694824219,
-      "Close": 10.380000114440918,
-      "Volume": 1257500
-    },
     {
       "Date": "2024-01-31",
       "Open": 10.3100004196167,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-29",
       "Open": 8.199999809265137,
-      "High": 8.569899559020996,
+      "High": 8.569999694824219,
       "Low": 8.0600004196167,
       "Close": 8.329999923706055,
-      "Volume": 452652
+      "Volume": 454700
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 8.210000038146973,
+      "High": 8.359999656677246,
+      "Low": 8.050000190734863,
+      "Close": 8.140000343322754,
+      "Volume": 352001
     }
   ]
 }

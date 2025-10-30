@@ -1,20 +1,20 @@
 {
   "ticker": "GECCG",
   "indicators": {
-    "score_0_100": 64.39,
-    "score_0_10": 6.44,
+    "score_0_100": 59.13,
+    "score_0_10": 5.91,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.020765914696225025,
-    "macd_slope": 0.0024275060866051404,
-    "rsi": 60.32607139093786,
-    "rsi_slope": 0.8970183967948492,
-    "wave_strength": 1.0091321495849652,
-    "adx": 18.539214139638187,
-    "atr": 0.14534284003469838,
-    "obv_slope": 1568.5714285714287,
+    "macd_hist": 0.02573290740756536,
+    "macd_slope": 0.002966541944485805,
+    "rsi": 65.30841923860503,
+    "rsi_slope": 1.5131995358005368,
+    "wave_strength": 1.0087934838553152,
+    "adx": 17.549640002286335,
+    "atr": 0.14338978221204693,
+    "obv_slope": 1909.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 5663.0,
-    "last_close": 25.200000762939453,
+    "avg_vol20": 5151.4,
+    "last_close": 25.238000869750977,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -291,7 +291,15 @@
       "High": 25.238000869750977,
       "Low": 25.200000762939453,
       "Close": 25.200000762939453,
-      "Volume": 1060.0
+      "Volume": 1100.0
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 25.1200008392334,
+      "High": 25.238000869750977,
+      "Low": 25.1200008392334,
+      "Close": 25.238000869750977,
+      "Volume": 1228.0
     }
   ]
 }

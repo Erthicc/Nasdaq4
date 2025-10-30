@@ -1,34 +1,26 @@
 {
   "ticker": "CFLT",
   "indicators": {
-    "score_0_100": 65.39,
-    "score_0_10": 6.54,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.011668649774648321,
-    "macd_slope": -0.025903586154339946,
-    "rsi": 46.33730735134148,
-    "rsi_slope": -2.0062087262788455,
-    "wave_strength": 1.0587081535272724,
-    "adx": 37.300698236060605,
-    "atr": 1.1121466495900907,
-    "obv_slope": -2078589.142857143,
+    "score_0_100": 58.79,
+    "score_0_10": 5.88,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.013723319112110555,
+    "macd_slope": -0.0250439856979652,
+    "rsi": 58.36910275307618,
+    "rsi_slope": -0.3576205376824935,
+    "wave_strength": 1.0516760398540341,
+    "adx": 37.8656994291868,
+    "atr": 1.0984218943522612,
+    "obv_slope": -1821114.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 10243287.4,
-    "last_close": 23.649999618530273,
+    "avg_vol20": 10222954.85,
+    "last_close": 23.520000457763672,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 23.31999969482422,
-      "High": 23.690000534057617,
-      "Low": 22.690000534057617,
-      "Close": 23.010000228881836,
-      "Volume": 4008700
-    },
     {
       "Date": "2024-01-31",
       "Open": 22.780000686645508,
@@ -3539,7 +3531,15 @@
       "High": 24.020000457763672,
       "Low": 23.06999969482422,
       "Close": 23.649999618530273,
-      "Volume": 14988748
+      "Volume": 14989800
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 23.110000610351562,
+      "High": 24.030000686645508,
+      "Low": 23.110000610351562,
+      "Close": 23.520000457763672,
+      "Volume": 8198397
     }
   ]
 }

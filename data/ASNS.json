@@ -1,34 +1,26 @@
 {
   "ticker": "ASNS",
   "indicators": {
-    "score_0_100": 66.92,
-    "score_0_10": 6.69,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.002895483858068721,
-    "macd_slope": -0.0021554568781690744,
-    "rsi": 48.29495731065657,
-    "rsi_slope": -1.3388678350857484,
-    "wave_strength": 1.105110879275237,
-    "adx": 30.549623726854822,
-    "atr": 0.08758848223082123,
-    "obv_slope": 2603150.0714285714,
+    "score_0_100": 58.57,
+    "score_0_10": 5.86,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.006990359011243574,
+    "macd_slope": -0.0011027756359139307,
+    "rsi": 61.14742039323391,
+    "rsi_slope": 0.2432491270934187,
+    "wave_strength": 1.0792562079774106,
+    "adx": 31.366527746552833,
+    "atr": 0.09598930640737528,
+    "obv_slope": 3012797.285714286,
     "mom14": 0.0,
-    "avg_vol20": 24567299.95,
-    "last_close": 0.580299973487854,
+    "avg_vol20": 22775183.1,
+    "last_close": 0.6377999782562256,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 1.1200000047683716,
-      "High": 1.159999966621399,
-      "Low": 1.0700000524520874,
-      "Close": 1.1299999952316284,
-      "Volume": 46800
-    },
     {
       "Date": "2024-01-31",
       "Open": 1.1100000143051147,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-29",
       "Open": 0.6200000047683716,
-      "High": 0.6656000018119812,
-      "Low": 0.5582000017166138,
-      "Close": 0.580299973487854,
-      "Volume": 1904199
+      "High": 0.6660000085830688,
+      "Low": 0.5529999732971191,
+      "Close": 0.5799999833106995,
+      "Volume": 2174400
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 0.550000011920929,
+      "High": 0.75,
+      "Low": 0.550000011920929,
+      "Close": 0.6377999782562256,
+      "Volume": 3417862
     }
   ]
 }

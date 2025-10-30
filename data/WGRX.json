@@ -1,20 +1,20 @@
 {
   "ticker": "WGRX",
   "indicators": {
-    "score_0_100": 69.02,
-    "score_0_10": 6.9,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03919211137258885,
-    "macd_slope": 0.005783438812090025,
-    "rsi": 47.55521918680359,
-    "rsi_slope": 2.8105816136309913,
-    "wave_strength": 1.8274127627638974,
-    "adx": 37.98080154129092,
-    "atr": 0.18441110761108165,
-    "obv_slope": 51596789.64285714,
+    "score_0_100": 64.44,
+    "score_0_10": 6.44,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04519218553885182,
+    "macd_slope": 0.005845034768250269,
+    "rsi": 53.482016656982545,
+    "rsi_slope": 3.0210287413375134,
+    "wave_strength": 1.829549593960481,
+    "adx": 37.11060795635269,
+    "atr": 0.19031031134926715,
+    "obv_slope": 52707610.78571428,
     "mom14": 0.0,
-    "avg_vol20": 41605392.25,
-    "last_close": 0.6241000294685364,
+    "avg_vol20": 42316082.55,
+    "last_close": 0.7864000201225281,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1408,10 +1408,18 @@
     {
       "Date": "2025-10-29",
       "Open": 0.6299999952316284,
-      "High": 0.6366999745368958,
+      "High": 0.6370000243186951,
       "Low": 0.6000000238418579,
-      "Close": 0.6241000294685364,
-      "Volume": 3906945.0
+      "Close": 0.6240000128746033,
+      "Volume": 4063900.0
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 0.5655999779701233,
+      "High": 0.8169999718666077,
+      "Low": 0.550000011920929,
+      "Close": 0.7864000201225281,
+      "Volume": 15023151.0
     }
   ]
 }

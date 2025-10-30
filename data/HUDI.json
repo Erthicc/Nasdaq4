@@ -1,34 +1,26 @@
 {
   "ticker": "HUDI",
   "indicators": {
-    "score_0_100": 67.51,
-    "score_0_10": 6.75,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.006804860875661197,
-    "macd_slope": 0.0012878092481908247,
-    "rsi": 49.89154641193046,
-    "rsi_slope": 1.2199314389134355,
-    "wave_strength": 1.037975610135528,
-    "adx": 56.90976603838516,
-    "atr": 0.12210040672052165,
-    "obv_slope": -27484.785714285714,
+    "score_0_100": 62.46,
+    "score_0_10": 6.25,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.005031441593524601,
+    "macd_slope": 0.0014536911907615379,
+    "rsi": 54.761900233347845,
+    "rsi_slope": 1.4525471415702487,
+    "wave_strength": 1.0390913519451486,
+    "adx": 55.99495000826233,
+    "atr": 0.1154503808016298,
+    "obv_slope": -13208.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 49479.35,
-    "last_close": 1.4290000200271606,
+    "avg_vol20": 48311.25,
+    "last_close": 1.399999976158142,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 2.75,
-      "High": 2.7799999713897705,
-      "Low": 2.6700000762939453,
-      "Close": 2.700000047683716,
-      "Volume": 16900
-    },
     {
       "Date": "2024-01-31",
       "Open": 2.7009999752044678,
@@ -3539,7 +3531,15 @@
       "High": 1.4500000476837158,
       "Low": 1.3919999599456787,
       "Close": 1.4290000200271606,
-      "Volume": 10687
+      "Volume": 11200
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 1.4198999404907227,
+      "High": 1.4199999570846558,
+      "Low": 1.399999976158142,
+      "Close": 1.399999976158142,
+      "Volume": 4525
     }
   ]
 }

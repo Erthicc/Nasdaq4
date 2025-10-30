@@ -1,34 +1,26 @@
 {
   "ticker": "ASST",
   "indicators": {
-    "score_0_100": 71.37,
-    "score_0_10": 7.14,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.15863555209347335,
-    "macd_slope": 0.019873202379174375,
-    "rsi": 38.03418919997707,
-    "rsi_slope": 1.9156595441259345,
-    "wave_strength": 1.1395219545936932,
-    "adx": 22.06567203115041,
-    "atr": 0.4125034702392551,
-    "obv_slope": 32233192.35714286,
+    "score_0_100": 66.24,
+    "score_0_10": 6.62,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.1581850832530256,
+    "macd_slope": 0.01956333120392257,
+    "rsi": 41.88235479698826,
+    "rsi_slope": 2.2040227015133254,
+    "wave_strength": 1.1999707327977045,
+    "adx": 21.139760479461746,
+    "atr": 0.40303893457420925,
+    "obv_slope": 21744519.07142857,
     "mom14": 0.0,
-    "avg_vol20": 118453720.35,
-    "last_close": 1.25,
+    "avg_vol20": 127530301.65,
+    "last_close": 1.2100000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 1.899999976158142,
-      "High": 2.125,
-      "Low": 1.875,
-      "Close": 1.9500000476837158,
-      "Volume": 9540
-    },
     {
       "Date": "2024-01-31",
       "Open": 1.9500000476837158,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-29",
-      "Open": 1.3899999856948853,
+      "Open": 1.399999976158142,
       "High": 1.4600000381469727,
       "Low": 1.2000000476837158,
       "Close": 1.25,
-      "Volume": 166161807
+      "Volume": 177267100
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 1.1397000551223755,
+      "High": 1.3700000047683716,
+      "Low": 1.090000033378601,
+      "Close": 1.2100000381469727,
+      "Volume": 180114133
     }
   ]
 }

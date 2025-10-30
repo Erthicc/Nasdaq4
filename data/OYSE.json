@@ -1,8 +1,8 @@
 {
   "ticker": "OYSE",
   "indicators": {
-    "score_0_100": 66.47,
-    "score_0_10": 6.65,
+    "score_0_100": 64.09,
+    "score_0_10": 6.41,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 1.3154381032415285e-05,
     "macd_slope": -3.8800540867857786e-05,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0056055296303084,
     "adx": 56.610117373720286,
     "atr": 0.016657557723764697,
-    "obv_slope": -5616.571428571428,
+    "obv_slope": -5614.285714285715,
     "mom14": 0.0,
-    "avg_vol20": 37783.4,
+    "avg_vol20": 37785.0,
     "last_close": 10.050000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -643,7 +643,7 @@
       "High": 10.050000190734863,
       "Low": 10.050000190734863,
       "Close": 10.050000190734863,
-      "Volume": 168.0
+      "Volume": 200.0
     }
   ]
 }
