@@ -1,8 +1,8 @@
 {
   "ticker": "POLEU",
   "indicators": {
-    "score_0_100": 83.14,
-    "score_0_10": 8.31,
+    "score_0_100": 83.56,
+    "score_0_10": 8.36,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0003650007440427058,
     "macd_slope": -9.600124554296333e-06,

@@ -1,8 +1,8 @@
 {
   "ticker": "CUBWU",
   "indicators": {
-    "score_0_100": 84.42,
-    "score_0_10": 8.44,
+    "score_0_100": 84.8,
+    "score_0_10": 8.48,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.024057295680259716,
     "macd_slope": 0.00627184926584963,

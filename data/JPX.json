@@ -1,20 +1,20 @@
 {
   "ticker": "JPX",
   "indicators": {
-    "score_0_100": 58.4,
-    "score_0_10": 5.84,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.09279481169010434,
-    "macd_slope": 0.022083793608777873,
-    "rsi": 56.54050483759811,
-    "rsi_slope": 1.98877531244358,
-    "wave_strength": 0.9937551406940183,
-    "adx": 14.734318071397224,
-    "atr": 0.7335650157599695,
-    "obv_slope": 735.2857142857143,
+    "score_0_100": 61.67,
+    "score_0_10": 6.17,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.14692520484721464,
+    "macd_slope": 0.022692276296282978,
+    "rsi": 52.12683586477097,
+    "rsi_slope": 0.5941232303392461,
+    "wave_strength": 0.9933103089029759,
+    "adx": 14.461546954088385,
+    "atr": 0.7269532823257334,
+    "obv_slope": -4091.6428571428573,
     "mom14": 0.0,
-    "avg_vol20": 32794.7,
-    "last_close": 21.138700485229492,
+    "avg_vol20": 32840.85,
+    "last_close": 21.4153995513916,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -567,11 +567,19 @@
     },
     {
       "Date": "2025-10-30",
-      "Open": 20.700000762939453,
+      "Open": 20.600000381469727,
       "High": 21.540000915527344,
-      "Low": 20.700000762939453,
-      "Close": 21.138700485229492,
-      "Volume": 10394.0
+      "Low": 20.600000381469727,
+      "Close": 21.138999938964844,
+      "Volume": 14800.0
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 20.889999389648438,
+      "High": 21.5310001373291,
+      "Low": 20.889999389648438,
+      "Close": 21.4153995513916,
+      "Volume": 6917.0
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "ticker": "MAMK",
   "indicators": {
-    "score_0_100": 60.24,
-    "score_0_10": 6.02,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.09675132364216421,
-    "macd_slope": 0.0028393268557015644,
-    "rsi": 58.39636985433202,
-    "rsi_slope": -1.0463246303004863,
-    "wave_strength": 1.6446447781487523,
-    "adx": 51.5477899707738,
-    "atr": 1.3541329686872297,
-    "obv_slope": -35341.0,
+    "score_0_100": 65.21,
+    "score_0_10": 6.52,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.1379341370162292,
+    "macd_slope": 0.006124908790429734,
+    "rsi": 62.41331438908941,
+    "rsi_slope": -0.5155115073756227,
+    "wave_strength": 1.5960174825376914,
+    "adx": 54.3108004166127,
+    "atr": 1.3486846935160346,
+    "obv_slope": -17278.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 894716.3,
-    "last_close": 4.210000038146973,
+    "avg_vol20": 900910.25,
+    "last_close": 4.849999904632568,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -679,11 +679,19 @@
     },
     {
       "Date": "2025-10-30",
-      "Open": 4.142000198364258,
+      "Open": 4.289999961853027,
       "High": 4.400000095367432,
-      "Low": 3.6700000762939453,
+      "Low": 3.640000104904175,
       "Close": 4.210000038146973,
-      "Volume": 176326.0
+      "Volume": 180300.0
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 4.380000114440918,
+      "High": 5.400000095367432,
+      "Low": 4.150000095367432,
+      "Close": 4.849999904632568,
+      "Volume": 225605.0
     }
   ]
 }

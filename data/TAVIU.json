@@ -1,8 +1,8 @@
 {
   "ticker": "TAVIU",
   "indicators": {
-    "score_0_100": 88.57,
-    "score_0_10": 8.86,
+    "score_0_100": 88.8,
+    "score_0_10": 8.88,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0010457346650700338,
     "macd_slope": -0.00010502673855744546,

@@ -1,34 +1,26 @@
 {
   "ticker": "SGBX",
   "indicators": {
-    "score_0_100": 71.37,
-    "score_0_10": 7.14,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.27001053237593364,
-    "macd_slope": 8.696695506078227e-05,
-    "rsi": 14.669051498272324,
-    "rsi_slope": -1.5145373727034956,
-    "wave_strength": 0.7871536555838449,
-    "adx": 10.448691547090188,
-    "atr": 0.9017733457883529,
-    "obv_slope": -53182.42857142857,
+    "score_0_100": 69.15,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.27357632135005594,
+    "macd_slope": -0.005170622938465137,
+    "rsi": 19.362184091346776,
+    "rsi_slope": -0.9726744061917592,
+    "wave_strength": 0.8001280234139025,
+    "adx": 10.058733987792637,
+    "atr": 0.8466466864063932,
+    "obv_slope": 38084.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 8361097.7,
-    "last_close": 2.2899999618530273,
+    "avg_vol20": 8357993.85,
+    "last_close": 2.319999933242798,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 467.20001220703125,
-      "High": 492.79998779296875,
-      "Low": 460.79998779296875,
-      "Close": 486.3999938964844,
-      "Volume": 47
-    },
     {
       "Date": "2024-02-01",
       "Open": 492.79998779296875,
@@ -3539,7 +3531,15 @@
       "High": 2.380000114440918,
       "Low": 2.140000104904175,
       "Close": 2.2899999618530273,
-      "Volume": 573854
+      "Volume": 597500
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 2.299999952316284,
+      "High": 2.390000104904175,
+      "Low": 2.259999990463257,
+      "Close": 2.319999933242798,
+      "Volume": 220177
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DWSH",
   "indicators": {
-    "score_0_100": 65.86,
-    "score_0_10": 6.59,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.01452929705601574,
-    "macd_slope": -0.000387882682301829,
-    "rsi": 51.680671892126654,
-    "rsi_slope": -0.8775144470957729,
-    "wave_strength": 0.9932410024460553,
-    "adx": 15.106763412187382,
-    "atr": 0.1059323602539309,
-    "obv_slope": -10659.785714285714,
+    "score_0_100": 60.76,
+    "score_0_10": 6.08,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.02102507329167873,
+    "macd_slope": -0.00024598214888476514,
+    "rsi": 53.354225278339506,
+    "rsi_slope": -0.2982771616486483,
+    "wave_strength": 1.0327607161847956,
+    "adx": 16.14825011694297,
+    "atr": 0.10367289254414258,
+    "obv_slope": -5973.357142857143,
     "mom14": 0.0,
-    "avg_vol20": 51573.15,
-    "last_close": 7.083799839019775,
+    "avg_vol20": 50501.35,
+    "last_close": 7.025700092315674,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 6.80275872004484,
-      "High": 6.944090366363525,
-      "Low": 6.765070340930646,
-      "Close": 6.944090366363525,
-      "Volume": 96100
-    },
     {
       "Date": "2024-02-01",
       "Open": 6.887557771014003,
@@ -3538,8 +3530,16 @@
       "Open": 7.010000228881836,
       "High": 7.099999904632568,
       "Low": 6.96999979019165,
-      "Close": 7.083799839019775,
-      "Volume": 55663
+      "Close": 7.084000110626221,
+      "Volume": 62800
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 7.099999904632568,
+      "High": 7.099999904632568,
+      "Low": 7.025700092315674,
+      "Close": 7.025700092315674,
+      "Volume": 16527
     }
   ]
 }

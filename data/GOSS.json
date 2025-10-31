@@ -1,34 +1,26 @@
 {
   "ticker": "GOSS",
   "indicators": {
-    "score_0_100": 60.38,
-    "score_0_10": 6.04,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.02058068171510205,
-    "macd_slope": 0.006989224684492044,
-    "rsi": 55.30303395831967,
-    "rsi_slope": 2.164503407407075,
-    "wave_strength": 1.0490693667751894,
-    "adx": 25.560006371058346,
-    "atr": 0.1847990243500365,
-    "obv_slope": 139879.0,
+    "score_0_100": 63.89,
+    "score_0_10": 6.39,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.02587000070294046,
+    "macd_slope": 0.0065437676915812695,
+    "rsi": 50.420167137322686,
+    "rsi_slope": 1.2722482626326241,
+    "wave_strength": 1.0517387518858374,
+    "adx": 23.789238624132018,
+    "atr": 0.18159908450257647,
+    "obv_slope": 72750.5,
     "mom14": 0.0,
-    "avg_vol20": 3135860.3,
-    "last_close": 2.4200000762939453,
+    "avg_vol20": 3099835.35,
+    "last_close": 2.450000047683716,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 0.8500000238418579,
-      "High": 0.890999972820282,
-      "Low": 0.8370000123977661,
-      "Close": 0.8399999737739563,
-      "Volume": 575400
-    },
     {
       "Date": "2024-02-01",
       "Open": 0.8999999761581421,
@@ -3539,7 +3531,15 @@
       "High": 2.490000009536743,
       "Low": 2.359999895095825,
       "Close": 2.4200000762939453,
-      "Volume": 2131206
+      "Volume": 2166400
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 2.430000066757202,
+      "High": 2.5199999809265137,
+      "Low": 2.380000114440918,
+      "Close": 2.450000047683716,
+      "Volume": 2041807
     }
   ]
 }

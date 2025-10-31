@@ -1,34 +1,26 @@
 {
   "ticker": "DSGN",
   "indicators": {
-    "score_0_100": 61.89,
-    "score_0_10": 6.19,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.025061322921782217,
-    "macd_slope": 0.0021451081289011317,
-    "rsi": 47.1052662535229,
-    "rsi_slope": -0.4669801116605622,
-    "wave_strength": 1.1012797988474976,
-    "adx": 21.29356656425,
-    "atr": 0.5133737577910693,
-    "obv_slope": 64595.42857142857,
+    "score_0_100": 61.6,
+    "score_0_10": 6.16,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04144074219124684,
+    "macd_slope": 0.005031013122520987,
+    "rsi": 52.83018896489565,
+    "rsi_slope": -0.10754299105016127,
+    "wave_strength": 1.0961704591356944,
+    "adx": 20.54792549056881,
+    "atr": 0.4998419458224537,
+    "obv_slope": 83495.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 196451.8,
-    "last_close": 6.53000020980835,
+    "avg_vol20": 195461.55,
+    "last_close": 6.699999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 2.3399999141693115,
-      "High": 2.4700000286102295,
-      "Low": 2.3399999141693115,
-      "Close": 2.369999885559082,
-      "Volume": 281200
-    },
     {
       "Date": "2024-02-01",
       "Open": 2.4000000953674316,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-30",
       "Open": 6.429999828338623,
       "High": 6.769999980926514,
-      "Low": 6.420000076293945,
+      "Low": 6.40500020980835,
       "Close": 6.53000020980835,
-      "Volume": 74036
+      "Volume": 75300
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 6.489999771118164,
+      "High": 6.739999771118164,
+      "Low": 6.429999828338623,
+      "Close": 6.699999809265137,
+      "Volume": 60531
     }
   ]
 }

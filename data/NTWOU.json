@@ -1,8 +1,8 @@
 {
   "ticker": "NTWOU",
   "indicators": {
-    "score_0_100": 60.74,
-    "score_0_10": 6.07,
+    "score_0_100": 61.99,
+    "score_0_10": 6.2,
     "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": -0.00018260487686423514,
     "macd_slope": -0.0006980269846232042,
