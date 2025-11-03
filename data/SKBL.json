@@ -1,20 +1,20 @@
 {
   "ticker": "SKBL",
   "indicators": {
-    "score_0_100": 67.57,
-    "score_0_10": 6.76,
+    "score_0_100": 62.23,
+    "score_0_10": 6.22,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.012320300377757387,
-    "macd_slope": 0.003669213384301262,
-    "rsi": 51.17187362876014,
-    "rsi_slope": -0.9152000005383018,
-    "wave_strength": 1.0052995315341056,
-    "adx": 19.476013024035158,
-    "atr": 0.45510479032709555,
-    "obv_slope": 93039.57142857143,
+    "macd_hist": 0.0765628018045193,
+    "macd_slope": 0.00634383719091533,
+    "rsi": 60.56782402539014,
+    "rsi_slope": -0.042085662449692966,
+    "wave_strength": 0.9842767559540363,
+    "adx": 20.957855359548454,
+    "atr": 0.48259728214306963,
+    "obv_slope": 90031.78571428571,
     "mom14": 0.0,
-    "avg_vol20": 521542.7,
-    "last_close": 3.75,
+    "avg_vol20": 517602.25,
+    "last_close": 4.380000114440918,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1435,7 +1435,15 @@
       "High": 3.7899999618530273,
       "Low": 3.299999952316284,
       "Close": 3.75,
-      "Volume": 591654.0
+      "Volume": 592200.0
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 3.75,
+      "High": 4.489999771118164,
+      "Low": 3.6500000953674316,
+      "Close": 4.380000114440918,
+      "Volume": 775445.0
     }
   ]
 }

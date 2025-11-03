@@ -1,34 +1,26 @@
 {
   "ticker": "DWTX",
   "indicators": {
-    "score_0_100": 63.14,
-    "score_0_10": 6.31,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.015075004666554842,
-    "macd_slope": 0.007261950611350731,
-    "rsi": 50.439885648426426,
-    "rsi_slope": -0.5531989295634239,
-    "wave_strength": 1.0971786880714336,
-    "adx": 25.938056846447832,
-    "atr": 0.5886327071905387,
-    "obv_slope": 17457.785714285714,
+    "score_0_100": 62.86,
+    "score_0_10": 6.29,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.010996079588234287,
+    "macd_slope": 0.006255348025464046,
+    "rsi": 49.702380956471956,
+    "rsi_slope": -0.5813816350127153,
+    "wave_strength": 1.101449282459004,
+    "adx": 25.67395743765496,
+    "atr": 0.5787303573345793,
+    "obv_slope": 19062.0,
     "mom14": 0.0,
-    "avg_vol20": 81204.55,
-    "last_close": 6.210000038146973,
+    "avg_vol20": 76728.4,
+    "last_close": 6.21999979019165,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 10.75,
-      "High": 10.75,
-      "Low": 10.125,
-      "Close": 10.375,
-      "Volume": 2596
-    },
     {
       "Date": "2024-02-02",
       "Open": 10.5,
@@ -3539,7 +3531,15 @@
       "High": 6.760000228881836,
       "Low": 6.139999866485596,
       "Close": 6.210000038146973,
-      "Volume": 121691
+      "Volume": 122800
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 6.139999866485596,
+      "High": 6.349999904632568,
+      "Low": 5.900000095367432,
+      "Close": 6.21999979019165,
+      "Volume": 52268
     }
   ]
 }

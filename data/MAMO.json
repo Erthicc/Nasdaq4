@@ -1,20 +1,20 @@
 {
   "ticker": "MAMO",
   "indicators": {
-    "score_0_100": 63.13,
-    "score_0_10": 6.31,
+    "score_0_100": 61.9,
+    "score_0_10": 6.19,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.022324692290220882,
-    "macd_slope": 0.001108770745093313,
-    "rsi": 51.7241360973923,
-    "rsi_slope": 0.02254909420624226,
-    "wave_strength": 1.0874139419881732,
-    "adx": 32.67543480150177,
-    "atr": 0.2476926729841246,
-    "obv_slope": 9799.07142857143,
+    "macd_hist": 0.015008669384098582,
+    "macd_slope": 0.0005620041634962129,
+    "rsi": 52.8089860912263,
+    "rsi_slope": 0.004947375281601195,
+    "wave_strength": 1.0846751886039596,
+    "adx": 31.36861629339679,
+    "atr": 0.24015339923542722,
+    "obv_slope": 9748.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 13825.65,
-    "last_close": 2.990000009536743,
+    "avg_vol20": 13664.25,
+    "last_close": 3.0799999237060547,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3209,9 +3209,17 @@
       "Date": "2025-10-31",
       "Open": 3.109999895095825,
       "High": 3.109999895095825,
-      "Low": 2.930000066757202,
+      "Low": 2.890000104904175,
       "Close": 2.990000009536743,
-      "Volume": 8313.0
+      "Volume": 8300.0
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 3.0,
+      "High": 3.0899999141693115,
+      "Low": 2.984999895095825,
+      "Close": 3.0799999237060547,
+      "Volume": 2085.0
     }
   ]
 }

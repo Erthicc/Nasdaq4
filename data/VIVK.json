@@ -1,34 +1,26 @@
 {
   "ticker": "VIVK",
   "indicators": {
-    "score_0_100": 62.61,
-    "score_0_10": 6.26,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.014934350790505702,
-    "macd_slope": 0.0014811120460171332,
-    "rsi": 56.67520228239636,
-    "rsi_slope": 2.0893405660412374,
-    "wave_strength": 1.2033555562649978,
-    "adx": 36.4938419243819,
-    "atr": 0.08604872436170534,
-    "obv_slope": 24379228.714285713,
+    "score_0_100": 63.03,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.012382922034453597,
+    "macd_slope": 0.0011232438256224147,
+    "rsi": 53.86732492870475,
+    "rsi_slope": 1.7383021267509053,
+    "wave_strength": 0.9685726646662152,
+    "adx": 37.32973423798528,
+    "atr": 0.08143810058431535,
+    "obv_slope": 23198949.285714287,
     "mom14": 0.0,
-    "avg_vol20": 83991795.1,
-    "last_close": 0.2312999963760376,
+    "avg_vol20": 84507425.5,
+    "last_close": 0.2159000039100647,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 0.9574469923973083,
-      "High": 0.9864599704742432,
-      "Low": 0.9090909957885742,
-      "Close": 0.9090909957885742,
-      "Volume": 15717
-    },
     {
       "Date": "2024-02-02",
       "Open": 0.9090909957885742,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-31",
-      "Open": 0.2370000034570694,
+      "Open": 0.24150000512599945,
       "High": 0.24940000474452972,
       "Low": 0.21250000596046448,
       "Close": 0.2312999963760376,
-      "Volume": 21646602
+      "Volume": 21963600
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 0.2298000007867813,
+      "High": 0.23399999737739563,
+      "Low": 0.21250000596046448,
+      "Close": 0.2159000039100647,
+      "Volume": 12832210
     }
   ]
 }

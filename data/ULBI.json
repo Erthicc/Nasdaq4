@@ -1,34 +1,26 @@
 {
   "ticker": "ULBI",
   "indicators": {
-    "score_0_100": 61.09,
-    "score_0_10": 6.11,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0290893073486393,
-    "macd_slope": 0.0021347919527252186,
-    "rsi": 52.1072834039041,
-    "rsi_slope": 0.11745151993068045,
-    "wave_strength": 1.0201990299588368,
-    "adx": 9.46283589805145,
-    "atr": 0.33934014671548657,
-    "obv_slope": 10534.5,
+    "score_0_100": 61.42,
+    "score_0_10": 6.14,
+    "explanation": "recent MACD bullish crossover",
+    "macd_hist": 0.028797777606572133,
+    "macd_slope": -3.637747686388012e-05,
+    "rsi": 44.583325291541954,
+    "rsi_slope": -0.6781377235295051,
+    "wave_strength": 1.0299612040174901,
+    "adx": 9.011752460645221,
+    "atr": 0.33828317595211116,
+    "obv_slope": -8267.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 57039.15,
-    "last_close": 7.03000020980835,
+    "avg_vol20": 56717.35,
+    "last_close": 6.949999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 7.170000076293945,
-      "High": 7.320000171661377,
-      "Low": 7.0,
-      "Close": 7.019999980926514,
-      "Volume": 29900
-    },
     {
       "Date": "2024-02-02",
       "Open": 7.0,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-31",
       "Open": 6.869999885559082,
-      "High": 7.175000190734863,
+      "High": 7.179999828338623,
       "Low": 6.869999885559082,
       "Close": 7.03000020980835,
-      "Volume": 36383
+      "Volume": 36800
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 7.039999961853027,
+      "High": 7.050000190734863,
+      "Low": 6.730100154876709,
+      "Close": 6.949999809265137,
+      "Volume": 21047
     }
   ]
 }

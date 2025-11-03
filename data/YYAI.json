@@ -1,34 +1,26 @@
 {
   "ticker": "YYAI",
   "indicators": {
-    "score_0_100": 66.35,
-    "score_0_10": 6.63,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 3.368724435442857,
-    "macd_slope": 0.9457612583849999,
-    "rsi": 31.79696571223434,
-    "rsi_slope": 0.4483303693951462,
-    "wave_strength": 0.7892099404817704,
-    "adx": 37.57686526793485,
-    "atr": 9.753327350554327,
-    "obv_slope": -3886315.785714286,
+    "score_0_100": 67.16,
+    "score_0_10": 6.72,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 3.621700620038176,
+    "macd_slope": 0.9083044219340388,
+    "rsi": 32.673860543643585,
+    "rsi_slope": 0.7828166943561377,
+    "wave_strength": 1.633534977410025,
+    "adx": 37.79299393621743,
+    "atr": 9.099518255746096,
+    "obv_slope": -3892209.9285714286,
     "mom14": 0.0,
-    "avg_vol20": 11347670.05,
-    "last_close": 2.259999990463257,
+    "avg_vol20": 11618299.05,
+    "last_close": 1.7200000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 390.0,
-      "High": 451.0,
-      "Low": 317.0,
-      "Close": 407.0,
-      "Volume": 24971
-    },
     {
       "Date": "2024-02-02",
       "Open": 401.0,
@@ -3539,7 +3531,15 @@
       "High": 2.430000066757202,
       "Low": 2.190000057220459,
       "Close": 2.259999990463257,
-      "Volume": 3119143
+      "Volume": 3227100
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 2.2100000381469727,
+      "High": 2.21560001373291,
+      "Low": 1.659999966621399,
+      "Close": 1.7200000286102295,
+      "Volume": 5335651
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "IDAI",
   "indicators": {
-    "score_0_100": 61.29,
-    "score_0_10": 6.13,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.037916318578735675,
-    "macd_slope": -0.0009683760649078083,
-    "rsi": 57.9365120448137,
-    "rsi_slope": -0.8683533201268853,
-    "wave_strength": 1.1890482242358877,
-    "adx": 56.55369758755898,
-    "atr": 0.4317521763901621,
-    "obv_slope": 7731.0,
+    "score_0_100": 61.62,
+    "score_0_10": 6.16,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.018458592955879705,
+    "macd_slope": -0.003084317192183799,
+    "rsi": 56.37065706112291,
+    "rsi_slope": -0.5766991891536222,
+    "wave_strength": 1.0958199945676748,
+    "adx": 57.22296415092717,
+    "atr": 0.42532598757997986,
+    "obv_slope": -19253.64285714286,
     "mom14": 0.0,
-    "avg_vol20": 260136.7,
-    "last_close": 4.260000228881836,
+    "avg_vol20": 246577.55,
+    "last_close": 4.190000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 1.4600000381469727,
-      "High": 1.4600000381469727,
-      "Low": 1.399999976158142,
-      "Close": 1.4600000381469727,
-      "Volume": 42000
-    },
     {
       "Date": "2024-02-02",
       "Open": 1.4900000095367432,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-31",
       "Open": 4.179999828338623,
-      "High": 4.579999923706055,
-      "Low": 4.099999904632568,
+      "High": 4.614999771118164,
+      "Low": 4.090000152587891,
       "Close": 4.260000228881836,
-      "Volume": 237634
+      "Volume": 237800
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 4.210000038146973,
+      "High": 4.320000171661377,
+      "Low": 4.019999980926514,
+      "Close": 4.190000057220459,
+      "Volume": 145751
     }
   ]
 }

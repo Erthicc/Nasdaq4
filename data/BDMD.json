@@ -1,34 +1,26 @@
 {
   "ticker": "BDMD",
   "indicators": {
-    "score_0_100": 66.1,
-    "score_0_10": 6.61,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.008384230436071366,
-    "macd_slope": 0.005602386814034678,
-    "rsi": 28.333333003359286,
-    "rsi_slope": 1.2301575839942427,
-    "wave_strength": 0.942408416175858,
-    "adx": 46.70830100995381,
-    "atr": 0.14682780050482824,
-    "obv_slope": 23168.0,
+    "score_0_100": 70.35,
+    "score_0_10": 7.03,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.00026315934090659354,
+    "macd_slope": 0.004216689650450541,
+    "rsi": 21.42857951494716,
+    "rsi_slope": 0.5824449966160026,
+    "wave_strength": 0.9574468451901602,
+    "adx": 47.913280965462114,
+    "atr": 0.14776153400169825,
+    "obv_slope": -99658.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 561382.4,
-    "last_close": 1.309999942779541,
+    "avg_vol20": 456751.25,
+    "last_close": 1.190000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 10.800000190734863,
-      "High": 10.800000190734863,
-      "Low": 10.800000190734863,
-      "Close": 10.800000190734863,
-      "Volume": 100
-    },
     {
       "Date": "2024-02-02",
       "Open": 10.800000190734863,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-31",
-      "Open": 1.3799999952316284,
+      "Open": 1.409999966621399,
       "High": 1.409999966621399,
       "Low": 1.2899999618530273,
       "Close": 1.309999942779541,
-      "Volume": 210348
+      "Volume": 210600
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 1.340000033378601,
+      "High": 1.340000033378601,
+      "Low": 1.1800999641418457,
+      "Close": 1.190000057220459,
+      "Volume": 334025
     }
   ]
 }

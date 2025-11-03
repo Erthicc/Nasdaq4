@@ -1,19 +1,19 @@
 {
   "ticker": "MYPSW",
   "indicators": {
-    "score_0_100": 63.48,
-    "score_0_10": 6.35,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 4.61370820657777e-05,
-    "macd_slope": 3.067763801548061e-06,
-    "rsi": 46.66662931996926,
-    "rsi_slope": 0.03662922288144342,
-    "wave_strength": 1.2195121688055788,
-    "adx": 20.79014919758794,
-    "atr": 0.0022389035030269985,
-    "obv_slope": 3592.8571428571427,
+    "score_0_100": 61.03,
+    "score_0_10": 6.1,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 8.717758868790476e-05,
+    "macd_slope": 1.260865694889341e-05,
+    "rsi": 53.84609530699074,
+    "rsi_slope": 0.7849266377202403,
+    "wave_strength": 1.2121211813336892,
+    "adx": 20.164476441930706,
+    "atr": 0.0020789818243891083,
+    "obv_slope": 4985.714285714285,
     "mom14": 0.0,
-    "avg_vol20": 22875.0,
+    "avg_vol20": 22485.0,
     "last_close": 0.017000000923871994,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 0.07699999958276749,
-      "High": 0.07999999821186066,
-      "Low": 0.07000000029802322,
-      "Close": 0.07999999821186066,
-      "Volume": 10500.0
-    },
     {
       "Date": "2024-02-02",
       "Open": 0.07999999821186066,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-10-30",
+      "Open": 0.017000000923871994,
+      "High": 0.017000000923871994,
+      "Low": 0.017000000923871994,
+      "Close": 0.017000000923871994,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-31",
       "Open": 0.017000000923871994,
       "High": 0.017000000923871994,
       "Low": 0.017000000923871994,

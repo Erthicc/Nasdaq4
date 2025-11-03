@@ -1,16 +1,16 @@
 {
   "ticker": "NTWOU",
   "indicators": {
-    "score_0_100": 61.99,
-    "score_0_10": 6.2,
+    "score_0_100": 61.0,
+    "score_0_10": 6.1,
     "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": -0.00018260487686423514,
-    "macd_slope": -0.0006980269846232042,
+    "macd_hist": -0.0005272576737400322,
+    "macd_slope": -0.0007270505846280097,
     "rsi": 0.0,
-    "rsi_slope": -3.95642003640695,
+    "rsi_slope": -5.019305326972763,
     "wave_strength": 1.0,
-    "adx": 27.57481121284422,
-    "atr": 0.0104910036627949,
+    "adx": 26.959420073254712,
+    "atr": 0.009741646258309549,
     "obv_slope": 4478.857142857143,
     "mom14": 0.0,
     "avg_vol20": 3210.15,
@@ -2007,6 +2007,14 @@
     },
     {
       "Date": "2025-10-30",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-10-31",
       "Open": 10.5,
       "High": 10.5,
       "Low": 10.5,

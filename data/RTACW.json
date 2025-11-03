@@ -1,20 +1,20 @@
 {
   "ticker": "RTACW",
   "indicators": {
-    "score_0_100": 61.2,
-    "score_0_10": 6.12,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0011900890643209011,
-    "macd_slope": -0.0015570867720060561,
-    "rsi": 53.36577738570149,
-    "rsi_slope": -0.29257373634374517,
-    "wave_strength": 1.0544444799988026,
-    "adx": 21.74615702232335,
-    "atr": 0.17405845938492076,
-    "obv_slope": 16761.14285714286,
+    "score_0_100": 62.28,
+    "score_0_10": 6.23,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.0009259988770674923,
+    "macd_slope": -0.0021550216694060055,
+    "rsi": 47.488585508186766,
+    "rsi_slope": -0.9524231729068389,
+    "wave_strength": 1.0472666287157824,
+    "adx": 21.433463049542894,
+    "atr": 0.16520377120512594,
+    "obv_slope": 8073.0,
     "mom14": 0.0,
-    "avg_vol20": 83582.2,
-    "last_close": 1.4500000476837158,
+    "avg_vol20": 84011.1,
+    "last_close": 1.4850000143051147,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -831,11 +831,19 @@
     },
     {
       "Date": "2025-10-31",
-      "Open": 1.409999966621399,
+      "Open": 1.5,
       "High": 1.5,
-      "Low": 1.4000999927520752,
+      "Low": 1.399999976158142,
       "Close": 1.4500000476837158,
-      "Volume": 7444.0
+      "Volume": 15100.0
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 1.5,
+      "High": 1.5,
+      "Low": 1.4500000476837158,
+      "Close": 1.4850000143051147,
+      "Volume": 32622.0
     }
   ]
 }

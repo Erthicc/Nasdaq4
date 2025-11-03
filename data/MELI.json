@@ -1,34 +1,26 @@
 {
   "ticker": "MELI",
   "indicators": {
-    "score_0_100": 76.55,
-    "score_0_10": 7.65,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 34.91434248894464,
-    "macd_slope": 3.9517888308763554,
-    "rsi": 62.32713221683007,
-    "rsi_slope": 2.1466355939731154,
-    "wave_strength": 1.0832734707410068,
-    "adx": 23.556968871357803,
-    "atr": 89.34718500526125,
-    "obv_slope": 11954.07142857143,
+    "score_0_100": 74.44,
+    "score_0_10": 7.44,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 32.71301791268827,
+    "macd_slope": 3.6280054756259057,
+    "rsi": 63.06990153507686,
+    "rsi_slope": 2.3354031401073057,
+    "wave_strength": 1.0792576112864118,
+    "adx": 24.18105286683966,
+    "atr": 90.00984372400488,
+    "obv_slope": -925.2142857142857,
     "mom14": 0.0,
-    "avg_vol20": 524012.15,
-    "last_close": 2327.260009765625,
+    "avg_vol20": 516977.65,
+    "last_close": 2316.39990234375,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 1751.8299560546875,
-      "High": 1759.9599609375,
-      "Low": 1730.300048828125,
-      "Close": 1748.280029296875,
-      "Volume": 250700
-    },
     {
       "Date": "2024-02-02",
       "Open": 1727.0799560546875,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-31",
       "Open": 2375.0,
       "High": 2419.780029296875,
-      "Low": 2308.080078125,
+      "Low": 2308.0,
       "Close": 2327.260009765625,
-      "Volume": 754643
+      "Volume": 754700
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 2331.199951171875,
+      "High": 2387.550048828125,
+      "Low": 2289.0,
+      "Close": 2316.39990234375,
+      "Volume": 495853
     }
   ]
 }

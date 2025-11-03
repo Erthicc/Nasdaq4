@@ -1,22 +1,22 @@
 {
   "ticker": "FLX",
   "indicators": {
-    "score_0_100": 62.66,
-    "score_0_10": 6.27,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.04132930932681764,
-    "macd_slope": 0.0008855418800016872,
-    "rsi": 60.835510611524924,
-    "rsi_slope": -0.14679347195996786,
-    "wave_strength": 1.0994201989878212,
-    "adx": 20.219877410437338,
-    "atr": 0.3128994008984022,
-    "obv_slope": -5615.214285714285,
+    "score_0_100": 61.62,
+    "score_0_10": 6.16,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.029011889643706087,
+    "macd_slope": -0.00025268256189896595,
+    "rsi": 51.2643693256768,
+    "rsi_slope": -0.9107696680730335,
+    "wave_strength": 1.122811988310412,
+    "adx": 19.946414785619876,
+    "atr": 0.3262637294056591,
+    "obv_slope": -14184.5,
     "mom14": 0.0,
-    "avg_vol20": 76654.35,
-    "last_close": 3.944999933242798,
+    "avg_vol20": 83109.15,
+    "last_close": 3.634999990463257,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -2177,9 +2177,17 @@
       "Date": "2025-10-31",
       "Open": 3.7300000190734863,
       "High": 4.110000133514404,
-      "Low": 3.7300000190734863,
+      "Low": 3.700000047683716,
       "Close": 3.944999933242798,
-      "Volume": 75787.0
+      "Volume": 116800.0
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 4.079999923706055,
+      "High": 4.130000114440918,
+      "Low": 3.630000114440918,
+      "Close": 3.634999990463257,
+      "Volume": 107883.0
     }
   ]
 }

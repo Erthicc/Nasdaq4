@@ -1,34 +1,26 @@
 {
   "ticker": "HNRG",
   "indicators": {
-    "score_0_100": 60.65,
-    "score_0_10": 6.06,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.007519304370865398,
-    "macd_slope": -0.0052532292130407655,
-    "rsi": 53.742323414151784,
-    "rsi_slope": -1.466537085710981,
-    "wave_strength": 1.0340804046452832,
-    "adx": 24.20068098349075,
-    "atr": 1.0453063004061345,
-    "obv_slope": 106647.21428571429,
+    "score_0_100": 60.36,
+    "score_0_10": 6.04,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.07009620442958542,
+    "macd_slope": -0.0042532924032078045,
+    "rsi": 53.39925347178651,
+    "rsi_slope": -1.5500807859835624,
+    "wave_strength": 1.0279700316777893,
+    "adx": 25.092995296973292,
+    "atr": 1.0713486188011139,
+    "obv_slope": 92482.85714285714,
     "mom14": 0.0,
-    "avg_vol20": 475653.05,
-    "last_close": 21.6299991607666,
+    "avg_vol20": 468823.0,
+    "last_close": 21.959999084472656,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 8.630000114440918,
-      "High": 8.789999961853027,
-      "Low": 8.479999542236328,
-      "Close": 8.720000267028809,
-      "Volume": 233100
-    },
     {
       "Date": "2024-02-02",
       "Open": 8.850000381469727,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-31",
       "Open": 20.360000610351562,
       "High": 22.059999465942383,
-      "Low": 20.360000610351562,
+      "Low": 20.309999465942383,
       "Close": 21.6299991607666,
-      "Volume": 567861
+      "Volume": 578900
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 21.34000015258789,
+      "High": 22.059999465942383,
+      "Low": 20.650100708007812,
+      "Close": 21.959999084472656,
+      "Volume": 319060
     }
   ]
 }
