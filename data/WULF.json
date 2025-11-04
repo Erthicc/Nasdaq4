@@ -1,34 +1,26 @@
 {
   "ticker": "WULF",
   "indicators": {
-    "score_0_100": 65.75,
-    "score_0_10": 6.57,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0901821320389199,
-    "macd_slope": -0.010586426372412996,
-    "rsi": 53.36842244280019,
-    "rsi_slope": -2.294363560619911,
-    "wave_strength": 1.134842621944126,
-    "adx": 36.19823364400509,
-    "atr": 1.3539659971511955,
-    "obv_slope": 13691430.214285715,
+    "score_0_100": 66.85,
+    "score_0_10": 6.68,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04244812789192243,
+    "macd_slope": -0.017241165421157754,
+    "rsi": 47.826086893235804,
+    "rsi_slope": -3.187623848896401,
+    "wave_strength": 1.13448192774582,
+    "adx": 36.16700566137004,
+    "atr": 1.3673679312643732,
+    "obv_slope": 7407495.0,
     "mom14": 0.0,
-    "avg_vol20": 46721646.15,
-    "last_close": 16.100000381469727,
+    "avg_vol20": 47404438.5,
+    "last_close": 15.010000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 1.7599999904632568,
-      "High": 1.8700000047683716,
-      "Low": 1.7200000286102295,
-      "Close": 1.7799999713897705,
-      "Volume": 11952800
-    },
     {
       "Date": "2024-02-05",
       "Open": 1.7699999809265137,
@@ -3531,15 +3523,23 @@
       "High": 15.699999809265137,
       "Low": 14.800000190734863,
       "Close": 15.5,
-      "Volume": 48761900
+      "Volume": 48808100
     },
     {
       "Date": "2025-11-03",
-      "Open": 16.246000289916992,
+      "Open": 16.190000534057617,
       "High": 16.3799991607666,
-      "Low": 14.690099716186523,
+      "Low": 14.6899995803833,
       "Close": 16.100000381469727,
-      "Volume": 60923323
+      "Volume": 61777100
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 15.180000305175781,
+      "High": 16.36989974975586,
+      "Low": 14.828399658203125,
+      "Close": 15.010000228881836,
+      "Volume": 43278270
     }
   ]
 }

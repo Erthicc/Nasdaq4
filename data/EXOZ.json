@@ -1,20 +1,20 @@
 {
   "ticker": "EXOZ",
   "indicators": {
-    "score_0_100": 61.56,
-    "score_0_10": 6.16,
+    "score_0_100": 60.67,
+    "score_0_10": 6.07,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.11456236178856033,
-    "macd_slope": 0.0275938375387099,
-    "rsi": 54.52528120859477,
-    "rsi_slope": 1.5266672644414747,
+    "macd_hist": 0.12461545970108508,
+    "macd_slope": 0.028245454921362607,
+    "rsi": 56.43336795500749,
+    "rsi_slope": 1.750768339484084,
     "wave_strength": 1.127373618171608,
-    "adx": 29.478836873391447,
-    "atr": 0.6073575978869307,
-    "obv_slope": -5.571428571428571,
+    "adx": 28.5078157747804,
+    "atr": 0.5814749722688212,
+    "obv_slope": -12.857142857142858,
     "mom14": 0.0,
-    "avg_vol20": 1173.9,
-    "last_close": 13.520000457763672,
+    "avg_vol20": 1204.0,
+    "last_close": 13.5,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1963,7 +1963,15 @@
       "High": 13.979999542236328,
       "Low": 13.520000457763672,
       "Close": 13.520000457763672,
-      "Volume": 1678.0
+      "Volume": 1700.0
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 13.274999618530273,
+      "High": 13.5,
+      "Low": 13.274999618530273,
+      "Close": 13.5,
+      "Volume": 580.0
     }
   ]
 }

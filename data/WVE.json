@@ -1,34 +1,26 @@
 {
   "ticker": "WVE",
   "indicators": {
-    "score_0_100": 60.63,
-    "score_0_10": 6.06,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.12598377170235317,
-    "macd_slope": -0.0025798231744081734,
-    "rsi": 55.121959087316256,
-    "rsi_slope": -0.9535270962657866,
-    "wave_strength": 1.159569004288048,
-    "adx": 29.83744302470266,
-    "atr": 0.623062539239775,
-    "obv_slope": 1361012.4285714286,
+    "score_0_100": 63.45,
+    "score_0_10": 6.35,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.09007944583284713,
+    "macd_slope": -0.005610815206272139,
+    "rsi": 49.04761953288516,
+    "rsi_slope": -1.629845111914553,
+    "wave_strength": 1.1535026091045262,
+    "adx": 31.172884865459128,
+    "atr": 0.6062621796603332,
+    "obv_slope": 1094902.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 3571326.3,
-    "last_close": 8.3100004196167,
+    "avg_vol20": 3632823.3,
+    "last_close": 8.010000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 4.019999980926514,
-      "High": 4.050000190734863,
-      "Low": 3.7799999713897705,
-      "Close": 3.940000057220459,
-      "Volume": 743800
-    },
     {
       "Date": "2024-02-05",
       "Open": 3.859999895095825,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-03",
       "Open": 8.899999618530273,
       "High": 9.130000114440918,
-      "Low": 8.229999542236328,
+      "Low": 8.199999809265137,
       "Close": 8.3100004196167,
-      "Volume": 4223326
+      "Volume": 4224500
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 8.010000228881836,
+      "High": 8.270000457763672,
+      "Low": 7.949999809265137,
+      "Close": 8.010000228881836,
+      "Volume": 2126666
     }
   ]
 }

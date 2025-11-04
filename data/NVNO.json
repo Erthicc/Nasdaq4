@@ -1,34 +1,26 @@
 {
   "ticker": "NVNO",
   "indicators": {
-    "score_0_100": 62.06,
-    "score_0_10": 6.21,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.02610057407174568,
-    "macd_slope": -0.0017781831138199997,
-    "rsi": 33.54868163485864,
-    "rsi_slope": 0.3669320925546892,
-    "wave_strength": 0.938844506636189,
-    "adx": 53.50854460860528,
-    "atr": 0.07541400933881562,
-    "obv_slope": 16955.5,
+    "score_0_100": 67.49,
+    "score_0_10": 6.75,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.022138275542038427,
+    "macd_slope": -0.001772765044480978,
+    "rsi": 25.8181859421081,
+    "rsi_slope": -0.288779834703949,
+    "wave_strength": 0.9461620210489468,
+    "adx": 53.84957249899689,
+    "atr": 0.07559973993096002,
+    "obv_slope": -5209.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 333283.85,
-    "last_close": 0.7096999883651733,
+    "avg_vol20": 333986.9,
+    "last_close": 0.6499999761581421,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 4.380000114440918,
-      "High": 4.380000114440918,
-      "Low": 4.110000133514404,
-      "Close": 4.309999942779541,
-      "Volume": 25500
-    },
     {
       "Date": "2024-02-05",
       "Open": 4.360000133514404,
@@ -3531,15 +3523,23 @@
       "High": 0.7099999785423279,
       "Low": 0.6200000047683716,
       "Close": 0.7049999833106995,
-      "Volume": 789400
+      "Volume": 795200
     },
     {
       "Date": "2025-11-03",
       "Open": 0.7200000286102295,
-      "High": 0.7419000267982483,
-      "Low": 0.7027000188827515,
-      "Close": 0.7096999883651733,
-      "Volume": 167477
+      "High": 0.7419999837875366,
+      "Low": 0.703000009059906,
+      "Close": 0.7099999785423279,
+      "Volume": 169100
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 0.6809999942779541,
+      "High": 0.684499979019165,
+      "Low": 0.6317999958992004,
+      "Close": 0.6499999761581421,
+      "Volume": 167438
     }
   ]
 }

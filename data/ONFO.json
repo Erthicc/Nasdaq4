@@ -1,19 +1,19 @@
 {
   "ticker": "ONFO",
   "indicators": {
-    "score_0_100": 63.44,
-    "score_0_10": 6.34,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0014399424122926389,
-    "macd_slope": 0.00028352048504535983,
-    "rsi": 46.77419745407836,
-    "rsi_slope": -0.07513494880143666,
-    "wave_strength": 1.0805902856461322,
-    "adx": 31.078755840805066,
-    "atr": 0.08681876605457935,
-    "obv_slope": 27283.0,
+    "score_0_100": 61.76,
+    "score_0_10": 6.18,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0025511677496400913,
+    "macd_slope": 0.0007318809831386019,
+    "rsi": 53.703695770416005,
+    "rsi_slope": 0.6931210488857167,
+    "wave_strength": 1.0786313656328754,
+    "adx": 30.462527835566345,
+    "atr": 0.08276028071936237,
+    "obv_slope": 30282.0,
     "mom14": 0.0,
-    "avg_vol20": 100833.1,
+    "avg_vol20": 99597.4,
     "last_close": 1.1100000143051147,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 0.5529999732971191,
-      "High": 0.5799999833106995,
-      "Low": 0.5049999952316284,
-      "Close": 0.5049999952316284,
-      "Volume": 2400
-    },
     {
       "Date": "2024-02-05",
       "Open": 0.5049999952316284,
@@ -3539,7 +3531,15 @@
       "High": 1.1100000143051147,
       "Low": 1.0750000476837158,
       "Close": 1.1100000143051147,
-      "Volume": 42662
+      "Volume": 43000
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 1.100000023841858,
+      "High": 1.1200000047683716,
+      "Low": 1.090000033378601,
+      "Close": 1.1100000143051147,
+      "Volume": 21248
     }
   ]
 }

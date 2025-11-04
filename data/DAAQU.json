@@ -1,8 +1,8 @@
 {
   "ticker": "DAAQU",
   "indicators": {
-    "score_0_100": 61.83,
-    "score_0_10": 6.18,
+    "score_0_100": 62.02,
+    "score_0_10": 6.2,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.009355479207166208,
     "macd_slope": -0.00022664993842844174,
@@ -11,9 +11,9 @@
     "wave_strength": 1.01723653842807,
     "adx": 41.65412039660207,
     "atr": 0.09709035014096352,
-    "obv_slope": 356.7857142857143,
+    "obv_slope": 357.14285714285717,
     "mom14": 0.0,
-    "avg_vol20": 1364.75,
+    "avg_vol20": 1365.0,
     "last_close": 10.800000190734863,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -1059,7 +1059,7 @@
       "High": 10.800000190734863,
       "Low": 10.569999694824219,
       "Close": 10.800000190734863,
-      "Volume": 1395.0
+      "Volume": 1400.0
     }
   ]
 }

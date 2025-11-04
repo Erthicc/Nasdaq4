@@ -1,19 +1,19 @@
 {
   "ticker": "FSHP",
   "indicators": {
-    "score_0_100": 60.5,
-    "score_0_10": 6.05,
+    "score_0_100": 60.68,
+    "score_0_10": 6.07,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.004896405243592805,
-    "macd_slope": 0.0005556440964650884,
+    "macd_hist": 0.004896405243184215,
+    "macd_slope": 0.0005556440965216468,
     "rsi": 54.71703400819886,
     "rsi_slope": -0.9617728030652266,
     "wave_strength": 1.008553393712,
-    "adx": 34.19029351279952,
-    "atr": 0.04020607376024461,
-    "obv_slope": 218.71428571428572,
+    "adx": 34.19029390808727,
+    "atr": 0.04020607376055564,
+    "obv_slope": 228.57142857142858,
     "mom14": 0.0,
-    "avg_vol20": 2643.1,
+    "avg_vol20": 2650.0,
     "last_close": 10.710000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -2467,7 +2467,7 @@
       "High": 10.710000038146973,
       "Low": 10.710000038146973,
       "Close": 10.710000038146973,
-      "Volume": 962.0
+      "Volume": 1100.0
     }
   ]
 }

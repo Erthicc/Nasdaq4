@@ -1,16 +1,16 @@
 {
   "ticker": "CHARU",
   "indicators": {
-    "score_0_100": 83.8,
-    "score_0_10": 8.38,
+    "score_0_100": 83.74,
+    "score_0_10": 8.37,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.007933327490461675,
-    "macd_slope": 0.003429641716811483,
+    "macd_hist": 0.008570790275402959,
+    "macd_slope": 0.0030553706197804513,
     "rsi": 0.0,
     "rsi_slope": -3.037383514689206,
     "wave_strength": 1.1028571355910528,
-    "adx": 40.648903679544205,
-    "atr": 0.05223217903045422,
+    "adx": 39.80636530114339,
+    "atr": 0.04850130909970749,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -2063,6 +2063,14 @@
     },
     {
       "Date": "2025-10-31",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-03",
       "Open": 10.5,
       "High": 10.5,
       "Low": 10.5,

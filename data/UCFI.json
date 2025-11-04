@@ -1,16 +1,16 @@
 {
   "ticker": "UCFI",
   "indicators": {
-    "score_0_100": 86.34,
-    "score_0_10": 8.63,
+    "score_0_100": 86.38,
+    "score_0_10": 8.64,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.17220597784133762,
-    "macd_slope": 0.026108340324870544,
+    "macd_hist": 0.17084532048765044,
+    "macd_slope": 0.021545669912709446,
     "rsi": 0.0,
     "rsi_slope": -1.6608390776253015,
     "wave_strength": 1.8784028950158662,
-    "adx": 45.32706511794749,
-    "atr": 0.3106306298573108,
+    "adx": 45.81310698153435,
+    "atr": 0.2884427277302097,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -3447,6 +3447,14 @@
     },
     {
       "Date": "2025-10-31",
+      "Open": 5.510000228881836,
+      "High": 5.510000228881836,
+      "Low": 5.510000228881836,
+      "Close": 5.510000228881836,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-03",
       "Open": 5.510000228881836,
       "High": 5.510000228881836,
       "Low": 5.510000228881836,
