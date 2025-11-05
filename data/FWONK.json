@@ -1,34 +1,26 @@
 {
   "ticker": "FWONK",
   "indicators": {
-    "score_0_100": 62.63,
-    "score_0_10": 6.26,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.2897925561271155,
-    "macd_slope": 0.04151707245160095,
-    "rsi": 41.53661351144111,
-    "rsi_slope": -0.5178533250848213,
-    "wave_strength": 1.001135485057188,
-    "adx": 21.0687737850752,
-    "atr": 3.0991925427407234,
-    "obv_slope": 103295.57142857143,
+    "score_0_100": 61.51,
+    "score_0_10": 6.15,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.4613832898490082,
+    "macd_slope": 0.07047016002952392,
+    "rsi": 53.644750862997235,
+    "rsi_slope": 1.1488039127877612,
+    "wave_strength": 1.0038177173701825,
+    "adx": 21.9059537081975,
+    "atr": 3.313536368501159,
+    "obv_slope": 366732.0,
     "mom14": 0.0,
-    "avg_vol20": 1403036.9,
-    "last_close": 100.75,
+    "avg_vol20": 1439122.4,
+    "last_close": 101.41000366210938,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 66.33000183105469,
-      "High": 66.5,
-      "Low": 65.18000030517578,
-      "Close": 65.30000305175781,
-      "Volume": 559300
-    },
     {
       "Date": "2024-02-06",
       "Open": 65.5,
@@ -3539,7 +3531,15 @@
       "High": 101.20999908447266,
       "Low": 97.66999816894531,
       "Close": 100.75,
-      "Volume": 1439238
+      "Volume": 1439200
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 99.30999755859375,
+      "High": 105.41000366210938,
+      "Low": 99.30999755859375,
+      "Close": 101.41000366210938,
+      "Volume": 2118848
     }
   ]
 }

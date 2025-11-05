@@ -1,34 +1,26 @@
 {
   "ticker": "WULF",
   "indicators": {
-    "score_0_100": 66.85,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.04244812789192243,
-    "macd_slope": -0.017241165421157754,
-    "rsi": 47.826086893235804,
-    "rsi_slope": -3.187623848896401,
-    "wave_strength": 1.13448192774582,
-    "adx": 36.16700566137004,
-    "atr": 1.3673679312643732,
-    "obv_slope": 7407495.0,
+    "score_0_100": 63.47,
+    "score_0_10": 6.35,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.024194955601435697,
+    "macd_slope": -0.011517316422106905,
+    "rsi": 58.04721047673313,
+    "rsi_slope": -1.023637255986883,
+    "wave_strength": 1.122381422056081,
+    "adx": 36.138008428860886,
+    "atr": 1.3281268959385326,
+    "obv_slope": 13007518.0,
     "mom14": 0.0,
-    "avg_vol20": 47404438.5,
-    "last_close": 15.010000228881836,
+    "avg_vol20": 48008482.6,
+    "last_close": 15.359999656677246,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 1.7699999809265137,
-      "High": 1.7899999618530273,
-      "Low": 1.5499999523162842,
-      "Close": 1.559999942779541,
-      "Volume": 11607500
-    },
     {
       "Date": "2024-02-06",
       "Open": 1.600000023841858,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-04",
-      "Open": 15.180000305175781,
-      "High": 16.36989974975586,
-      "Low": 14.828399658203125,
+      "Open": 15.15999984741211,
+      "High": 16.3700008392334,
+      "Low": 14.819999694824219,
       "Close": 15.010000228881836,
-      "Volume": 43278270
+      "Volume": 43491700
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 15.079999923706055,
+      "High": 15.660099983215332,
+      "Low": 14.850000381469727,
+      "Close": 15.359999656677246,
+      "Volume": 39560752
     }
   ]
 }

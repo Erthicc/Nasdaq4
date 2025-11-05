@@ -1,34 +1,26 @@
 {
   "ticker": "MIRA",
   "indicators": {
-    "score_0_100": 60.46,
-    "score_0_10": 6.05,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.01042424686007714,
-    "macd_slope": 0.000588634440694591,
-    "rsi": 58.169934261022625,
-    "rsi_slope": 0.37348197112193,
-    "wave_strength": 1.1234099114404368,
-    "adx": 31.667228728287853,
-    "atr": 0.14847538954496103,
-    "obv_slope": 7687517.571428572,
+    "score_0_100": 64.84,
+    "score_0_10": 6.48,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.00022160828099329621,
+    "macd_slope": -0.0024077923347338875,
+    "rsi": 37.614681024695855,
+    "rsi_slope": -3.027522045329181,
+    "wave_strength": 1.1156686155889342,
+    "adx": 32.01461016057279,
+    "atr": 0.14215572328711693,
+    "obv_slope": -494067.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 8900087.7,
-    "last_close": 1.5700000524520874,
+    "avg_vol20": 8908971.95,
+    "last_close": 1.5299999713897705,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 1.0399999618530273,
-      "High": 1.5399999618530273,
-      "Low": 1.0,
-      "Close": 1.3580000400543213,
-      "Volume": 4938000
-    },
     {
       "Date": "2024-02-06",
       "Open": 1.3700000047683716,
@@ -3539,7 +3531,15 @@
       "High": 1.725000023841858,
       "Low": 1.559999942779541,
       "Close": 1.5700000524520874,
-      "Volume": 432054
+      "Volume": 437200
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 1.5499999523162842,
+      "High": 1.5699000358581543,
+      "Low": 1.5099999904632568,
+      "Close": 1.5299999713897705,
+      "Volume": 335239
     }
   ]
 }

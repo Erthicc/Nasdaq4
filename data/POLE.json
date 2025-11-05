@@ -1,20 +1,20 @@
 {
   "ticker": "POLE",
   "indicators": {
-    "score_0_100": 61.32,
-    "score_0_10": 6.13,
+    "score_0_100": 61.78,
+    "score_0_10": 6.18,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.011783903887978522,
-    "macd_slope": 0.0007604108862518681,
-    "rsi": 60.8938960612416,
-    "rsi_slope": 2.184216701997093,
-    "wave_strength": 1.0146774298896122,
-    "adx": 71.07801737103028,
-    "atr": 0.09570627545811063,
-    "obv_slope": 3692.785714285714,
+    "macd_hist": 0.008400007141693387,
+    "macd_slope": 0.0003804928541823995,
+    "rsi": 57.7777462672313,
+    "rsi_slope": -0.6438103911436512,
+    "wave_strength": 1.013768394210436,
+    "adx": 70.4777738570787,
+    "atr": 0.09101301911435329,
+    "obv_slope": 976.0,
     "mom14": 0.0,
-    "avg_vol20": 5385.05,
-    "last_close": 10.720000267028809,
+    "avg_vol20": 5396.8,
+    "last_close": 10.6899995803833,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2067,7 +2067,15 @@
       "High": 10.8100004196167,
       "Low": 10.720000267028809,
       "Close": 10.720000267028809,
-      "Volume": 801.0
+      "Volume": 2700.0
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 10.6899995803833,
+      "High": 10.6899995803833,
+      "Low": 10.6899995803833,
+      "Close": 10.6899995803833,
+      "Volume": 436.0
     }
   ]
 }

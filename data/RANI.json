@@ -1,34 +1,26 @@
 {
   "ticker": "RANI",
   "indicators": {
-    "score_0_100": 62.7,
-    "score_0_10": 6.27,
+    "score_0_100": 62.07,
+    "score_0_10": 6.21,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0375324965908892,
-    "macd_slope": 0.002688359908477068,
-    "rsi": 68.72028685443605,
-    "rsi_slope": 0.9955486265500316,
-    "wave_strength": 1.4708832272293848,
-    "adx": 45.427378298440246,
-    "atr": 0.43682097553220733,
-    "obv_slope": 52592856.21428572,
+    "macd_hist": 0.045190608936655885,
+    "macd_slope": 0.003235367935063125,
+    "rsi": 69.44659533286968,
+    "rsi_slope": 1.0474278035810047,
+    "wave_strength": 1.4650063603706929,
+    "adx": 45.4283804541127,
+    "atr": 0.4304638336328916,
+    "obv_slope": 51744481.0,
     "mom14": 0.0,
-    "avg_vol20": 52198369.35,
-    "last_close": 2.380000114440918,
+    "avg_vol20": 51604506.7,
+    "last_close": 2.5,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 3.509999990463257,
-      "High": 3.75,
-      "Low": 3.3499999046325684,
-      "Close": 3.690000057220459,
-      "Volume": 180800
-    },
     {
       "Date": "2024-02-06",
       "Open": 3.799999952316284,
@@ -3539,7 +3531,15 @@
       "High": 2.5999999046325684,
       "Low": 2.059999942779541,
       "Close": 2.380000114440918,
-      "Volume": 25556587
+      "Volume": 26733600
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 2.430000066757202,
+      "High": 2.6010000705718994,
+      "Low": 2.1700000762939453,
+      "Close": 2.5,
+      "Volume": 13679334
     }
   ]
 }

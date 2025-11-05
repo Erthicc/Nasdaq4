@@ -1,7 +1,7 @@
 {
   "ticker": "MSGY",
   "indicators": {
-    "score_0_100": 64.02,
+    "score_0_100": 64.04,
     "score_0_10": 6.4,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.42329656073897026,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9974747799726887,
     "adx": 41.40134614023548,
     "atr": 0.6368684699805133,
-    "obv_slope": 1002.1428571428571,
+    "obv_slope": 1589.4285714285713,
     "mom14": 0.0,
-    "avg_vol20": 143548.5,
+    "avg_vol20": 143137.4,
     "last_close": 1.4500000476837158,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -696,10 +696,18 @@
     {
       "Date": "2025-11-04",
       "Open": 1.4199999570846558,
+      "High": 1.5499999523162842,
+      "Low": 1.399999976158142,
+      "Close": 1.4500000476837158,
+      "Volume": 34600.0
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 1.4199999570846558,
       "High": 1.5299999713897705,
       "Low": 1.4199999570846558,
       "Close": 1.4500000476837158,
-      "Volume": 34570.0
+      "Volume": 26348.0
     }
   ]
 }

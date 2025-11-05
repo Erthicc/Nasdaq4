@@ -1,34 +1,26 @@
 {
   "ticker": "CECO",
   "indicators": {
-    "score_0_100": 61.18,
-    "score_0_10": 6.12,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.09952254729546117,
-    "macd_slope": 0.03042784217313858,
-    "rsi": 52.49094740249973,
-    "rsi_slope": -0.33959378878064833,
-    "wave_strength": 1.0612675305974693,
-    "adx": 20.35933828437201,
-    "atr": 3.041606014534309,
-    "obv_slope": -85709.28571428571,
+    "score_0_100": 62.92,
+    "score_0_10": 6.29,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.36712006119659263,
+    "macd_slope": 0.04551986904802382,
+    "rsi": 60.250677182109484,
+    "rsi_slope": 0.4457867443858764,
+    "wave_strength": 1.057617995747633,
+    "adx": 20.053746710998674,
+    "atr": 3.0068739794846744,
+    "obv_slope": -2756.3571428571427,
     "mom14": 0.0,
-    "avg_vol20": 634843.5,
-    "last_close": 53.630001068115234,
+    "avg_vol20": 643740.55,
+    "last_close": 55.5,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 19.420000076293945,
-      "High": 19.93000030517578,
-      "Low": 19.260000228881836,
-      "Close": 19.760000228881836,
-      "Volume": 155900
-    },
     {
       "Date": "2024-02-06",
       "Open": 19.690000534057617,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-04",
       "Open": 51.08000183105469,
       "High": 54.060001373291016,
-      "Low": 50.55500030517578,
+      "Low": 50.560001373291016,
       "Close": 53.630001068115234,
-      "Volume": 588770
+      "Volume": 596000
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 53.66999816894531,
+      "High": 56.15999984741211,
+      "Low": 53.599998474121094,
+      "Close": 55.5,
+      "Volume": 659911
     }
   ]
 }

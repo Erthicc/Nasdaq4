@@ -1,20 +1,20 @@
 {
   "ticker": "BBOT",
   "indicators": {
-    "score_0_100": 62.0,
-    "score_0_10": 6.2,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.08022897938293792,
-    "macd_slope": 0.013609553242376508,
-    "rsi": 52.000006926633105,
-    "rsi_slope": 0.0457266548592834,
-    "wave_strength": 1.0674193927357256,
-    "adx": 24.416588054117543,
-    "atr": 0.7757340085390089,
-    "obv_slope": -27204.85714285714,
+    "score_0_100": 59.83,
+    "score_0_10": 5.98,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.09937422984536018,
+    "macd_slope": 0.014977071131261996,
+    "rsi": 56.130785657468984,
+    "rsi_slope": 0.3407822784904176,
+    "wave_strength": 1.0408760801641328,
+    "adx": 25.410633703596893,
+    "atr": 0.8218125542358822,
+    "obv_slope": -8862.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 189883.4,
-    "last_close": 12.100000381469727,
+    "avg_vol20": 187276.45,
+    "last_close": 12.399999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3505,9 +3505,17 @@
       "Date": "2025-11-04",
       "Open": 12.029999732971191,
       "High": 12.380000114440918,
-      "Low": 11.900099754333496,
+      "Low": 11.899999618530273,
       "Close": 12.100000381469727,
-      "Volume": 154468.0
+      "Volume": 154600.0
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 12.055000305175781,
+      "High": 13.180000305175781,
+      "Low": 12.055000305175781,
+      "Close": 12.399999618530273,
+      "Volume": 102329.0
     }
   ]
 }

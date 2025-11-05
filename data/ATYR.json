@@ -1,34 +1,26 @@
 {
   "ticker": "ATYR",
   "indicators": {
-    "score_0_100": 68.77,
-    "score_0_10": 6.88,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.08031918169724889,
-    "macd_slope": -0.00716546462364243,
-    "rsi": 20.643577748961363,
-    "rsi_slope": -2.6273801639310936,
-    "wave_strength": 0.9092973225174763,
-    "adx": 29.893327218593786,
-    "atr": 0.12728524619868478,
-    "obv_slope": -27292.0,
+    "score_0_100": 68.4,
+    "score_0_10": 6.84,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.07245784485885809,
+    "macd_slope": -0.007661121065978533,
+    "rsi": 21.10488333667493,
+    "rsi_slope": -2.753921309058581,
+    "wave_strength": 0.9181004289793389,
+    "adx": 30.30818125624989,
+    "atr": 0.12101741821448497,
+    "obv_slope": 375408.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 6772639.4,
-    "last_close": 0.8266000151634216,
+    "avg_vol20": 6361079.1,
+    "last_close": 0.8137999773025513,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 1.75,
-      "High": 1.7869999408721924,
-      "Low": 1.659999966621399,
-      "Close": 1.7000000476837158,
-      "Volume": 742200
-    },
     {
       "Date": "2024-02-06",
       "Open": 1.7200000286102295,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-04",
       "Open": 0.8399999737739563,
-      "High": 0.8695999979972839,
-      "Low": 0.8174999952316284,
-      "Close": 0.8266000151634216,
-      "Volume": 2657788
+      "High": 0.8700000047683716,
+      "Low": 0.8180000185966492,
+      "Close": 0.8270000219345093,
+      "Volume": 2682700
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 0.8062999844551086,
+      "High": 0.8299999833106995,
+      "Low": 0.7900000214576721,
+      "Close": 0.8137999773025513,
+      "Volume": 3681582
     }
   ]
 }

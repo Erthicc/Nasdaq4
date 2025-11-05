@@ -1,7 +1,7 @@
 {
   "ticker": "QSEAU",
   "indicators": {
-    "score_0_100": 85.25,
+    "score_0_100": 85.15,
     "score_0_10": 8.52,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0005303825132738122,
@@ -1287,6 +1287,14 @@
     },
     {
       "Date": "2025-11-03",
+      "Open": 10.369999885559082,
+      "High": 10.369999885559082,
+      "Low": 10.369999885559082,
+      "Close": 10.369999885559082,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-04",
       "Open": 10.369999885559082,
       "High": 10.369999885559082,
       "Low": 10.369999885559082,

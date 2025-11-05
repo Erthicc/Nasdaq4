@@ -1,20 +1,20 @@
 {
   "ticker": "NTHI",
   "indicators": {
-    "score_0_100": 62.24,
-    "score_0_10": 6.22,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.02456973971407568,
-    "macd_slope": 0.015172339894689647,
-    "rsi": 47.35249271252187,
-    "rsi_slope": -0.4780185423877081,
-    "wave_strength": 1.0036613483481345,
-    "adx": 17.826102618363837,
-    "atr": 0.8908465858817529,
-    "obv_slope": 5084.5,
+    "score_0_100": 60.38,
+    "score_0_10": 6.04,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0974059739447237,
+    "macd_slope": 0.02387875161425685,
+    "rsi": 53.91433371516012,
+    "rsi_slope": 0.04957162881397435,
+    "wave_strength": 1.0090386920030643,
+    "adx": 18.380258027551292,
+    "atr": 0.9169085786490206,
+    "obv_slope": 9173.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 41434.15,
-    "last_close": 10.489999771118164,
+    "avg_vol20": 40196.4,
+    "last_close": 11.010000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1255,11 +1255,19 @@
     },
     {
       "Date": "2025-11-04",
-      "Open": 10.140000343322754,
+      "Open": 10.0,
       "High": 10.5,
-      "Low": 10.0600004196167,
+      "Low": 10.0,
       "Close": 10.489999771118164,
-      "Volume": 29283.0
+      "Volume": 29300.0
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 10.630000114440918,
+      "High": 11.470000267028809,
+      "Low": 10.270000457763672,
+      "Close": 11.010000228881836,
+      "Volume": 31628.0
     }
   ]
 }

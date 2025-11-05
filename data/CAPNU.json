@@ -1,7 +1,7 @@
 {
   "ticker": "CAPNU",
   "indicators": {
-    "score_0_100": 82.34,
+    "score_0_100": 82.35,
     "score_0_10": 8.23,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
     "macd_hist": 1.4878210418845714e-05,
@@ -2263,6 +2263,14 @@
     },
     {
       "Date": "2025-11-03",
+      "Open": 10.449999809265137,
+      "High": 10.449999809265137,
+      "Low": 10.449999809265137,
+      "Close": 10.449999809265137,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-04",
       "Open": 10.449999809265137,
       "High": 10.449999809265137,
       "Low": 10.449999809265137,
