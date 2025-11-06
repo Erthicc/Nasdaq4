@@ -1,16 +1,16 @@
 {
   "ticker": "OAKU",
   "indicators": {
-    "score_0_100": 71.82,
-    "score_0_10": 7.18,
+    "score_0_100": 71.74,
+    "score_0_10": 7.17,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
     "macd_hist": 0.002850420066451184,
     "macd_slope": -0.003698423959830749,
     "rsi": 25.438585171506517,
     "rsi_slope": -4.879385059723774,
     "wave_strength": 1.0531097738612671,
-    "adx": 31.286844528680493,
-    "atr": 0.16007874220253066,
+    "adx": 31.286844504894866,
+    "atr": 0.16007874220333698,
     "obv_slope": -11342.857142857143,
     "mom14": 0.0,
     "avg_vol20": 9145.0,
@@ -21,14 +21,6 @@
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 10.600000381469727,
-      "High": 10.600000381469727,
-      "Low": 10.600000381469727,
-      "Close": 10.600000381469727,
-      "Volume": 0.0
-    },
     {
       "Date": "2024-02-07",
       "Open": 10.600000381469727,

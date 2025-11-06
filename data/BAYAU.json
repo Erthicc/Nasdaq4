@@ -1,16 +1,16 @@
 {
   "ticker": "BAYAU",
   "indicators": {
-    "score_0_100": 61.09,
-    "score_0_10": 6.11,
+    "score_0_100": 61.04,
+    "score_0_10": 6.1,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -9.642579483406177e-05,
-    "macd_slope": 1.327870405591864e-05,
+    "macd_hist": -8.92927847423381e-05,
+    "macd_slope": 1.2301485146472813e-05,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 99.90509230844418,
-    "atr": 2.0729672597206542e-05,
+    "adx": 99.90538771989408,
+    "atr": 1.9248985326029657e-05,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 10.229999542236328,
-      "High": 10.229999542236328,
-      "Low": 10.229999542236328,
-      "Close": 10.229999542236328,
-      "Volume": 100.0
-    },
     {
       "Date": "2024-02-07",
       "Open": 10.229999542236328,

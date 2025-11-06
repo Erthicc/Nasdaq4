@@ -1,7 +1,7 @@
 {
   "ticker": "CCIIW",
   "indicators": {
-    "score_0_100": 60.61,
+    "score_0_100": 60.56,
     "score_0_10": 6.06,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
     "macd_hist": 0.0006286494253083981,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0655454438755299,
     "adx": 35.30719874419155,
     "atr": 0.054098234769771984,
-    "obv_slope": 24527.0,
+    "obv_slope": 24535.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 28673.9,
+    "avg_vol20": 28680.0,
     "last_close": 0.9200000166893005,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -436,14 +436,6 @@
       "Low": 0.8080000281333923,
       "Close": 0.8999999761581421,
       "Volume": 13100.0
-    },
-    {
-      "Date": "2025-11-05",
-      "Open": 0.8600000143051147,
-      "High": 0.9200000166893005,
-      "Low": 0.8600000143051147,
-      "Close": 0.9200000166893005,
-      "Volume": 4078.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "ATYR",
   "indicators": {
-    "score_0_100": 68.4,
-    "score_0_10": 6.84,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.07245784485885809,
-    "macd_slope": -0.007661121065978533,
-    "rsi": 21.10488333667493,
-    "rsi_slope": -2.753921309058581,
-    "wave_strength": 0.9181004289793389,
-    "adx": 30.30818125624989,
-    "atr": 0.12101741821448497,
-    "obv_slope": 375408.4285714286,
+    "score_0_100": 73.03,
+    "score_0_10": 7.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.06389415950236799,
+    "macd_slope": -0.008154043144748538,
+    "rsi": 13.884853282112417,
+    "rsi_slope": -3.5878986145964498,
+    "wave_strength": 0.9269147111622627,
+    "adx": 30.80684696028482,
+    "atr": 0.11628046097274626,
+    "obv_slope": -323038.5,
     "mom14": 0.0,
-    "avg_vol20": 6361079.1,
-    "last_close": 0.8137999773025513,
+    "avg_vol20": 6016246.95,
+    "last_close": 0.7702999711036682,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 1.7200000286102295,
-      "High": 1.7200000286102295,
-      "Low": 1.649999976158142,
-      "Close": 1.649999976158142,
-      "Volume": 196100
-    },
     {
       "Date": "2024-02-07",
       "Open": 1.659999966621399,
@@ -3534,12 +3526,12 @@
       "Volume": 2682700
     },
     {
-      "Date": "2025-11-05",
-      "Open": 0.8062999844551086,
-      "High": 0.8299999833106995,
-      "Low": 0.7900000214576721,
-      "Close": 0.8137999773025513,
-      "Volume": 3681582
+      "Date": "2025-11-06",
+      "Open": 0.8100000023841858,
+      "High": 0.824999988079071,
+      "Low": 0.7702999711036682,
+      "Close": 0.7702999711036682,
+      "Volume": 3375239
     }
   ]
 }

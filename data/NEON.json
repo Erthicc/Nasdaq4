@@ -1,34 +1,26 @@
 {
   "ticker": "NEON",
   "indicators": {
-    "score_0_100": 74.56,
-    "score_0_10": 7.46,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.2412216482492815,
-    "macd_slope": -0.026400171258457696,
-    "rsi": 14.912285838825866,
-    "rsi_slope": -2.022394124386953,
-    "wave_strength": 0.9860632317300866,
-    "adx": 55.54437541512583,
-    "atr": 0.3158053476404552,
-    "obv_slope": -199817.7857142857,
+    "score_0_100": 59.34,
+    "score_0_10": 5.93,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred)",
+    "macd_hist": 0.17847530382111731,
+    "macd_slope": -0.025902949370644763,
+    "rsi": 12.4087634432572,
+    "rsi_slope": -2.5815680939614887,
+    "wave_strength": 1.0247624893675655,
+    "adx": 56.61008538063719,
+    "atr": 0.3177753172174391,
+    "obv_slope": -237372.5,
     "mom14": 0.0,
-    "avg_vol20": 373382.45,
-    "last_close": 2.809999942779541,
+    "avg_vol20": 386275.75,
+    "last_close": 2.3299999237060547,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 1.6200000047683716,
-      "High": 1.6699999570846558,
-      "Low": 1.600000023841858,
-      "Close": 1.6100000143051147,
-      "Volume": 22400
-    },
     {
       "Date": "2024-02-07",
       "Open": 1.6100000143051147,
@@ -3534,12 +3526,12 @@
       "Volume": 443000
     },
     {
-      "Date": "2025-11-05",
-      "Open": 2.799999952316284,
-      "High": 2.890000104904175,
-      "Low": 2.7799999713897705,
-      "Close": 2.809999942779541,
-      "Volume": 230149
+      "Date": "2025-11-06",
+      "Open": 2.7100000381469727,
+      "High": 2.75,
+      "Low": 2.309999942779541,
+      "Close": 2.3299999237060547,
+      "Volume": 932415
     }
   ]
 }

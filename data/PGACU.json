@@ -1,7 +1,7 @@
 {
   "ticker": "PGACU",
   "indicators": {
-    "score_0_100": 59.41,
+    "score_0_100": 59.35,
     "score_0_10": 5.94,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
     "macd_hist": -0.019990968648348015,

@@ -1,20 +1,20 @@
 {
   "ticker": "EDHL",
   "indicators": {
-    "score_0_100": 62.97,
-    "score_0_10": 6.3,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.008796185274762745,
-    "macd_slope": -0.0030570462499353453,
-    "rsi": 47.177417542954984,
-    "rsi_slope": -1.5090724209221125,
-    "wave_strength": 1.076526228552213,
-    "adx": 23.78455751350086,
-    "atr": 0.1791775584665468,
-    "obv_slope": 1275970.642857143,
+    "score_0_100": 62.48,
+    "score_0_10": 6.25,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.01285852040242394,
+    "macd_slope": -0.003998174637814329,
+    "rsi": 51.209680136182044,
+    "rsi_slope": -1.0417529053136323,
+    "wave_strength": 1.0940207753271973,
+    "adx": 24.518541539558083,
+    "atr": 0.1698799917102895,
+    "obv_slope": 1210743.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 6188334.45,
-    "last_close": 1.0199999809265137,
+    "avg_vol20": 6345660.5,
+    "last_close": 1.0700000524520874,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1134,12 +1134,12 @@
       "Volume": 936800.0
     },
     {
-      "Date": "2025-11-05",
-      "Open": 0.9800000190734863,
-      "High": 1.0886000394821167,
-      "Low": 0.9800000190734863,
-      "Close": 1.0199999809265137,
-      "Volume": 1042589.0
+      "Date": "2025-11-06",
+      "Open": 1.0199999809265137,
+      "High": 1.1200000047683716,
+      "Low": 1.0,
+      "Close": 1.0700000524520874,
+      "Volume": 2442810.0
     }
   ]
 }

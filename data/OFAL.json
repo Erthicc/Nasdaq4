@@ -1,20 +1,20 @@
 {
   "ticker": "OFAL",
   "indicators": {
-    "score_0_100": 61.35,
-    "score_0_10": 6.13,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0025128217273387016,
-    "macd_slope": -0.0002749550994815384,
-    "rsi": 30.658441488226472,
-    "rsi_slope": 0.6160389829087082,
-    "wave_strength": 0.923966249183055,
-    "adx": 14.138931325217527,
-    "atr": 0.10206309747927296,
-    "obv_slope": 31590.0,
+    "score_0_100": 66.66,
+    "score_0_10": 6.67,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.003117503601041044,
+    "macd_slope": -0.0007817749863705774,
+    "rsi": 21.778580919544382,
+    "rsi_slope": -1.5056120441786496,
+    "wave_strength": 0.9378796444542529,
+    "adx": 13.70889906967349,
+    "atr": 0.09563487080469084,
+    "obv_slope": -69883.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 408312.0,
-    "last_close": 0.9919999837875366,
+    "avg_vol20": 388143.15,
+    "last_close": 0.9501000046730042,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -950,12 +950,12 @@
       "Volume": 110500.0
     },
     {
-      "Date": "2025-11-05",
-      "Open": 0.9800000190734863,
-      "High": 1.0499999523162842,
-      "Low": 0.9700000286102295,
-      "Close": 0.9919999837875366,
-      "Volume": 101240.0
+      "Date": "2025-11-06",
+      "Open": 0.9894999861717224,
+      "High": 0.9998000264167786,
+      "Low": 0.949999988079071,
+      "Close": 0.9501000046730042,
+      "Volume": 57063.0
     }
   ]
 }

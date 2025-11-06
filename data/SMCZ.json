@@ -1,20 +1,20 @@
 {
   "ticker": "SMCZ",
   "indicators": {
-    "score_0_100": 60.65,
-    "score_0_10": 6.06,
+    "score_0_100": 59.1,
+    "score_0_10": 5.91,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.15359745642196443,
-    "macd_slope": 0.011777943254087427,
-    "rsi": 67.78975286078953,
-    "rsi_slope": 3.032279676380997,
-    "wave_strength": 1.0166464104769088,
-    "adx": 21.52651708808904,
-    "atr": 0.3861109715813141,
-    "obv_slope": 2519477.1428571427,
+    "macd_hist": 0.17593366310265368,
+    "macd_slope": 0.013373386588422373,
+    "rsi": 70.56650103367463,
+    "rsi_slope": 3.230618831587075,
+    "wave_strength": 1.0109003203394726,
+    "adx": 22.051286580981138,
+    "atr": 0.41111096476935466,
+    "obv_slope": 2112612.8571428573,
     "mom14": 0.0,
-    "avg_vol20": 11134184.0,
-    "last_close": 4.239999771118164,
+    "avg_vol20": 10849379.0,
+    "last_close": 4.590000152587891,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1230,12 +1230,12 @@
       "Volume": 14342200.0
     },
     {
-      "Date": "2025-11-05",
-      "Open": 3.8299999237060547,
-      "High": 4.25,
-      "Low": 3.625,
-      "Close": 4.239999771118164,
-      "Volume": 13938480.0
+      "Date": "2025-11-06",
+      "Open": 4.159999847412109,
+      "High": 4.599999904632568,
+      "Low": 4.09499979019165,
+      "Close": 4.590000152587891,
+      "Volume": 8242380.0
     }
   ]
 }

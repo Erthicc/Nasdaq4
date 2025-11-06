@@ -1,34 +1,26 @@
 {
   "ticker": "ZNB",
   "indicators": {
-    "score_0_100": 75.09,
-    "score_0_10": 7.51,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.02322498869500722,
-    "macd_slope": -0.01603118410325649,
-    "rsi": 9.47368592014378,
-    "rsi_slope": -3.0639987548279266,
-    "wave_strength": 1.0068793116612558,
-    "adx": 15.634720574487053,
-    "atr": 0.27186248399520313,
-    "obv_slope": -241386.57142857142,
+    "score_0_100": 73.7,
+    "score_0_10": 7.37,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.013832621970877201,
+    "macd_slope": -0.012656940546207687,
+    "rsi": 11.392407917558742,
+    "rsi_slope": -2.8072882596002593,
+    "wave_strength": 1.0616551432132975,
+    "adx": 13.867493096302711,
+    "atr": 0.2507969086548429,
+    "obv_slope": -281156.14285714284,
     "mom14": 0.0,
-    "avg_vol20": 2111275.6,
-    "last_close": 1.059999942779541,
+    "avg_vol20": 1578999.3,
+    "last_close": 1.0499999523162842,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 775.0,
-      "High": 775.0,
-      "Low": 725.0,
-      "Close": 725.0,
-      "Volume": 18
-    },
     {
       "Date": "2024-02-07",
       "Open": 750.0,
@@ -3534,12 +3526,12 @@
       "Volume": 817000
     },
     {
-      "Date": "2025-11-05",
-      "Open": 1.0499999523162842,
-      "High": 1.090000033378601,
-      "Low": 1.0499999523162842,
-      "Close": 1.059999942779541,
-      "Volume": 522012
+      "Date": "2025-11-06",
+      "Open": 1.2000000476837158,
+      "High": 1.2000000476837158,
+      "Low": 1.024999976158142,
+      "Close": 1.0499999523162842,
+      "Volume": 808486
     }
   ]
 }

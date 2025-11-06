@@ -1,34 +1,26 @@
 {
   "ticker": "MSAI",
   "indicators": {
-    "score_0_100": 68.01,
-    "score_0_10": 6.8,
+    "score_0_100": 66.2,
+    "score_0_10": 6.62,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06715041602457897,
-    "macd_slope": 0.005796428473311359,
-    "rsi": 59.59420133567701,
-    "rsi_slope": 3.0857680031836887,
-    "wave_strength": 2.2155085722776846,
-    "adx": 50.492671766748074,
-    "atr": 0.35002605183439384,
-    "obv_slope": 37510240.928571425,
+    "macd_hist": 0.052513529192638436,
+    "macd_slope": 0.00465932564321573,
+    "rsi": 61.55973387287379,
+    "rsi_slope": 3.138470329378193,
+    "wave_strength": 2.1237799096935612,
+    "adx": 50.14433038561473,
+    "atr": 0.35145276276462456,
+    "obv_slope": 38854062.28571428,
     "mom14": 0.0,
-    "avg_vol20": 33449526.35,
-    "last_close": 1.1699999570846558,
+    "avg_vol20": 34394878.6,
+    "last_close": 1.340000033378601,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 2.259999990463257,
-      "High": 2.299999952316284,
-      "Low": 2.0,
-      "Close": 2.0,
-      "Volume": 64500
-    },
     {
       "Date": "2024-02-07",
       "Open": 1.9800000190734863,
@@ -3534,12 +3526,12 @@
       "Volume": 25683700
     },
     {
-      "Date": "2025-11-05",
-      "Open": 1.4500000476837158,
+      "Date": "2025-11-06",
+      "Open": 1.2000000476837158,
       "High": 1.5,
-      "Low": 1.0,
-      "Close": 1.1699999570846558,
-      "Volume": 17651227
+      "Low": 1.1299999952316284,
+      "Close": 1.340000033378601,
+      "Volume": 19187172
     }
   ]
 }

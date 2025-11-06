@@ -1,20 +1,20 @@
 {
   "ticker": "WSBK",
   "indicators": {
-    "score_0_100": 61.52,
-    "score_0_10": 6.15,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.0014287781172021893,
-    "macd_slope": 0.00035762869412700053,
-    "rsi": 51.34670698046351,
-    "rsi_slope": -0.08297567491949362,
-    "wave_strength": 1.00475876211753,
-    "adx": 16.055501136004587,
-    "atr": 0.09732068865691026,
-    "obv_slope": -372.57142857142856,
+    "score_0_100": 59.41,
+    "score_0_10": 5.94,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0014497292526879767,
+    "macd_slope": 0.0011166128098200627,
+    "rsi": 55.339789791245586,
+    "rsi_slope": 0.4189294863684237,
+    "wave_strength": 1.0051768741107545,
+    "adx": 15.865625582755206,
+    "atr": 0.09389831676336073,
+    "obv_slope": 271.7857142857143,
     "mom14": 0.0,
-    "avg_vol20": 3235.8,
-    "last_close": 9.629899978637695,
+    "avg_vol20": 2904.75,
+    "last_close": 9.619999885559082,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1054,12 +1054,12 @@
       "Volume": 0.0
     },
     {
-      "Date": "2025-11-05",
-      "Open": 9.629899978637695,
-      "High": 9.629899978637695,
-      "Low": 9.629899978637695,
-      "Close": 9.629899978637695,
-      "Volume": 1516.0
+      "Date": "2025-11-06",
+      "Open": 9.619999885559082,
+      "High": 9.619999885559082,
+      "Low": 9.580499649047852,
+      "Close": 9.619999885559082,
+      "Volume": 1295.0
     }
   ]
 }

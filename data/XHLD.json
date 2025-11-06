@@ -1,24 +1,24 @@
 {
   "ticker": "XHLD",
   "indicators": {
-    "score_0_100": 67.61,
-    "score_0_10": 6.76,
+    "score_0_100": 60.05,
+    "score_0_10": 6.0,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.006859744287717773,
-    "macd_slope": 0.0008992909296668987,
-    "rsi": 57.0806072339836,
-    "rsi_slope": 0.8973097653487062,
-    "wave_strength": 1.197287881205133,
-    "adx": 32.93685854292496,
-    "atr": 0.06487136351608261,
-    "obv_slope": 60636326.928571425,
+    "macd_hist": 0.004415091564278644,
+    "macd_slope": 0.0007943763313100717,
+    "rsi": 55.28592297473127,
+    "rsi_slope": 0.8108214202269289,
+    "wave_strength": 1.1259956143886902,
+    "adx": 34.24680597422019,
+    "atr": 0.06293718540611877,
+    "obv_slope": 60623419.78571428,
     "mom14": 0.0,
-    "avg_vol20": 46028203.85,
-    "last_close": 0.3400000035762787,
+    "avg_vol20": 46020096.15,
+    "last_close": 0.3111000061035156,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1
+    "above_trend": 0
   },
   "history": [
     {
@@ -1486,12 +1486,12 @@
       "Volume": 2007600.0
     },
     {
-      "Date": "2025-11-05",
-      "Open": 0.3499999940395355,
-      "High": 0.36500000953674316,
-      "Low": 0.32010000944137573,
-      "Close": 0.3400000035762787,
-      "Volume": 1740977.0
+      "Date": "2025-11-06",
+      "Open": 0.32659998536109924,
+      "High": 0.3418999910354614,
+      "Low": 0.3041999936103821,
+      "Close": 0.3111000061035156,
+      "Volume": 1016623.0
     }
   ]
 }

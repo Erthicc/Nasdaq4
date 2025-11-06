@@ -1,20 +1,20 @@
 {
   "ticker": "EPWK",
   "indicators": {
-    "score_0_100": 70.69,
-    "score_0_10": 7.07,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.012796690487247589,
-    "macd_slope": 0.0024660779893358126,
-    "rsi": 36.63365945700831,
-    "rsi_slope": 1.1691794993155835,
-    "wave_strength": 0.9392611414660711,
-    "adx": 21.07194714710682,
-    "atr": 0.03413970936026585,
-    "obv_slope": 91407554.85714285,
+    "score_0_100": 69.05,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.012942846100952102,
+    "macd_slope": 0.0021690724223368788,
+    "rsi": 45.2380881207842,
+    "rsi_slope": 2.027287800695377,
+    "wave_strength": 0.9658725320143962,
+    "adx": 20.232436292903316,
+    "atr": 0.03278687326178902,
+    "obv_slope": 96365281.64285715,
     "mom14": 0.0,
-    "avg_vol20": 152802116.6,
-    "last_close": 0.07000000029802322,
+    "avg_vol20": 116107452.15,
+    "last_close": 0.07100000232458115,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1526,12 +1526,12 @@
       "Volume": 75055300.0
     },
     {
-      "Date": "2025-11-05",
-      "Open": 0.07129999995231628,
-      "High": 0.07240000367164612,
-      "Low": 0.06700000166893005,
-      "Close": 0.07000000029802322,
-      "Volume": 36134332.0
+      "Date": "2025-11-06",
+      "Open": 0.07500000298023224,
+      "High": 0.08340000361204147,
+      "Low": 0.0681999996304512,
+      "Close": 0.07100000232458115,
+      "Volume": 29161743.0
     }
   ]
 }
