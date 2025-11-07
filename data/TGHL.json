@@ -1,20 +1,20 @@
 {
   "ticker": "TGHL",
   "indicators": {
-    "score_0_100": 76.09,
-    "score_0_10": 7.61,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.02371093902446908,
-    "macd_slope": 7.963933226918478e-05,
-    "rsi": 13.271158402562008,
-    "rsi_slope": -1.6030806245610145,
-    "wave_strength": 0.7126098873248785,
-    "adx": 66.50066403930767,
-    "atr": 0.1416113701000962,
-    "obv_slope": -102193.07142857143,
+    "score_0_100": 65.38,
+    "score_0_10": 6.54,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.025445546078701864,
+    "macd_slope": 0.002499792707437169,
+    "rsi": 30.20407575504332,
+    "rsi_slope": 0.8310438320061522,
+    "wave_strength": 0.7512279461047668,
+    "adx": 66.57787464171675,
+    "atr": 0.13789117094478937,
+    "obv_slope": 21460.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 476525.15,
-    "last_close": 0.6007999777793884,
+    "avg_vol20": 477692.5,
+    "last_close": 0.5820000171661377,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -406,12 +406,28 @@
       "Volume": 67500.0
     },
     {
+      "Date": "2025-11-05",
+      "Open": 0.6600000262260437,
+      "High": 0.6600000262260437,
+      "Low": 0.6200000047683716,
+      "Close": 0.6460000276565552,
+      "Volume": 23000.0
+    },
+    {
       "Date": "2025-11-06",
       "Open": 0.6399999856948853,
       "High": 0.6399999856948853,
-      "Low": 0.600600004196167,
-      "Close": 0.6007999777793884,
-      "Volume": 28003.0
+      "Low": 0.6010000109672546,
+      "Close": 0.6010000109672546,
+      "Volume": 49700.0
+    },
+    {
+      "Date": "2025-11-07",
+      "Open": 0.5699999928474426,
+      "High": 0.6198999881744385,
+      "Low": 0.5299999713897705,
+      "Close": 0.5820000171661377,
+      "Volume": 48250.0
     }
   ]
 }

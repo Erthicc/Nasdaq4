@@ -1,23 +1,23 @@
 {
   "ticker": "ETS",
   "indicators": {
-    "score_0_100": 76.05,
-    "score_0_10": 7.6,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.014974386534646042,
-    "macd_slope": -0.0019732123886628448,
-    "rsi": 14.06166281031551,
-    "rsi_slope": -1.4872894234891194,
-    "wave_strength": 0.9692398279227346,
-    "adx": 66.41295171399379,
-    "atr": 0.05492264849824356,
-    "obv_slope": -35947.92857142857,
+    "score_0_100": 62.99,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred)",
+    "macd_hist": 0.009053602319631288,
+    "macd_slope": -0.002308489038643732,
+    "rsi": 8.746365742015598,
+    "rsi_slope": -1.7937066754587991,
+    "wave_strength": 0.981190439860166,
+    "adx": 66.80745703130648,
+    "atr": 0.05561388723727806,
+    "obv_slope": -50031.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 89773.55,
-    "last_close": 0.6401000022888184,
+    "avg_vol20": 83942.0,
+    "last_close": 0.5799000263214111,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
@@ -446,12 +446,28 @@
       "Volume": 56500.0
     },
     {
+      "Date": "2025-11-05",
+      "Open": 0.6959999799728394,
+      "High": 0.6959999799728394,
+      "Low": 0.6600000262260437,
+      "Close": 0.6700000166893005,
+      "Volume": 121200.0
+    },
+    {
       "Date": "2025-11-06",
       "Open": 0.6600000262260437,
       "High": 0.6600000262260437,
       "Low": 0.6299999952316284,
-      "Close": 0.6401000022888184,
-      "Volume": 43071.0
+      "Close": 0.6399999856948853,
+      "Volume": 70600.0
+    },
+    {
+      "Date": "2025-11-07",
+      "Open": 0.6200000047683716,
+      "High": 0.6200000047683716,
+      "Low": 0.5753999948501587,
+      "Close": 0.5799000263214111,
+      "Volume": 139840.0
     }
   ]
 }

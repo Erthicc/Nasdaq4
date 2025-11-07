@@ -1,7 +1,7 @@
 {
   "ticker": "KCHV",
   "indicators": {
-    "score_0_100": 61.68,
+    "score_0_100": 61.66,
     "score_0_10": 6.17,
     "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
     "macd_hist": 0.00026726689159861823,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0005795795353623,
     "adx": 25.05979768902079,
     "atr": 0.017175153952611055,
-    "obv_slope": 23350.214285714286,
+    "obv_slope": 23364.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 75395.15,
+    "avg_vol20": 75405.0,
     "last_close": 10.119999885559082,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -630,12 +630,20 @@
       "Volume": 18800.0
     },
     {
+      "Date": "2025-11-05",
+      "Open": 10.100000381469727,
+      "High": 10.109999656677246,
+      "Low": 10.09000015258789,
+      "Close": 10.109999656677246,
+      "Volume": 399200.0
+    },
+    {
       "Date": "2025-11-06",
       "Open": 10.130000114440918,
       "High": 10.130000114440918,
       "Low": 10.119999885559082,
       "Close": 10.119999885559082,
-      "Volume": 103.0
+      "Volume": 300.0
     }
   ]
 }
