@@ -1,8 +1,8 @@
 {
   "ticker": "FVNNR",
   "indicators": {
-    "score_0_100": 62.33,
-    "score_0_10": 6.23,
+    "score_0_100": 64.69,
+    "score_0_10": 6.47,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
     "macd_hist": 0.0002163416586111874,
     "macd_slope": 5.638742715721722e-05,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9862791012185889,
     "adx": 19.562116845492277,
     "atr": 0.014019116871686338,
-    "obv_slope": -1889.7857142857142,
+    "obv_slope": -1881.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 11473.7,
+    "avg_vol20": 11479.25,
     "last_close": 0.17990000545978546,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -763,7 +763,7 @@
       "High": 0.17990000545978546,
       "Low": 0.17990000545978546,
       "Close": 0.17990000545978546,
-      "Volume": 129.0
+      "Volume": 240.0
     }
   ]
 }

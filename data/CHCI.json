@@ -1,34 +1,26 @@
 {
   "ticker": "CHCI",
   "indicators": {
-    "score_0_100": 62.26,
-    "score_0_10": 6.23,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.1874065858018631,
-    "macd_slope": 0.014060089741377358,
-    "rsi": 60.42780333594038,
-    "rsi_slope": 0.48297578465521135,
-    "wave_strength": 1.050971034096555,
-    "adx": 14.196481537823061,
-    "atr": 0.9169125432695739,
-    "obv_slope": -6742.571428571428,
+    "score_0_100": 63.74,
+    "score_0_10": 6.37,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.23344831743525268,
+    "macd_slope": 0.01415604311360322,
+    "rsi": 62.88477827241744,
+    "rsi_slope": 1.4229871802002496,
+    "wave_strength": 1.043236180642639,
+    "adx": 14.554353056223567,
+    "atr": 0.899675936776862,
+    "obv_slope": 1015.1428571428571,
     "mom14": 0.0,
-    "avg_vol20": 26905.2,
-    "last_close": 15.649999618530273,
+    "avg_vol20": 27395.6,
+    "last_close": 15.835000038146973,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 4.809999942779541,
-      "High": 4.809999942779541,
-      "Low": 4.800000190734863,
-      "Close": 4.809999942779541,
-      "Volume": 2700
-    },
     {
       "Date": "2024-02-09",
       "Open": 4.809999942779541,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-07",
-      "Open": 14.774999618530273,
+      "Open": 14.529999732971191,
       "High": 15.670000076293945,
       "Low": 14.350000381469727,
       "Close": 15.649999618530273,
-      "Volume": 13704
+      "Volume": 13700
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 15.649999618530273,
+      "High": 16.0,
+      "Low": 15.324399948120117,
+      "Close": 15.835000038146973,
+      "Volume": 29512
     }
   ]
 }

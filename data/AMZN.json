@@ -1,34 +1,26 @@
 {
   "ticker": "AMZN",
   "indicators": {
-    "score_0_100": 60.85,
-    "score_0_10": 6.09,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 2.5037023663778557,
-    "macd_slope": 0.21899700388463694,
-    "rsi": 68.70730374408751,
-    "rsi_slope": 1.6155510977620213,
-    "wave_strength": 1.0935625198307786,
-    "adx": 24.85096380758364,
-    "atr": 7.272930208005714,
-    "obv_slope": 25934903.5,
+    "score_0_100": 62.97,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 2.260394760711481,
+    "macd_slope": 0.1634944955043189,
+    "rsi": 68.03940102570917,
+    "rsi_slope": 1.1748929352761084,
+    "wave_strength": 1.086833747943529,
+    "adx": 25.133840838561895,
+    "atr": 7.277720645931604,
+    "obv_slope": 24777416.07142857,
     "mom14": 0.0,
-    "avg_vol20": 55399077.45,
-    "last_close": 244.41000366210938,
+    "avg_vol20": 55223081.25,
+    "last_close": 248.39999389648438,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 169.64999389648438,
-      "High": 171.42999267578125,
-      "Low": 168.8800048828125,
-      "Close": 169.83999633789062,
-      "Volume": 42316500
-    },
     {
       "Date": "2024-02-09",
       "Open": 170.89999389648438,
@@ -3539,7 +3531,15 @@
       "High": 244.89999389648438,
       "Low": 238.49000549316406,
       "Close": 244.41000366210938,
-      "Volume": 46128349
+      "Volume": 46294900
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 248.30999755859375,
+      "High": 251.75,
+      "Low": 245.58999633789062,
+      "Close": 248.39999389648438,
+      "Volume": 34123225
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CJET",
   "indicators": {
-    "score_0_100": 64.81,
+    "score_0_100": 64.79,
     "score_0_10": 6.48,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 1.2497113595331752,
-    "macd_slope": -0.18582406135660884,
-    "rsi": 26.086956241513818,
-    "rsi_slope": 0.3927661571795643,
-    "wave_strength": 1.4469048813840273,
-    "adx": 14.511733924602243,
-    "atr": 3.0071185022760956,
-    "obv_slope": -146255.92857142858,
+    "macd_hist": 1.2184754497707049,
+    "macd_slope": -0.16392500003807514,
+    "rsi": 30.211855569496237,
+    "rsi_slope": 0.8648864190664877,
+    "wave_strength": 1.5415291312532722,
+    "adx": 14.833463155691746,
+    "atr": 2.7994671757124236,
+    "obv_slope": -114356.35714285714,
     "mom14": 0.0,
-    "avg_vol20": 279030.9,
-    "last_close": 2.5,
+    "avg_vol20": 273216.4,
+    "last_close": 2.5425000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 1359.0,
-      "High": 1359.0,
-      "Low": 1200.0,
-      "Close": 1269.0,
-      "Volume": 4
-    },
     {
       "Date": "2024-02-09",
       "Open": 1200.0,
@@ -3539,7 +3531,15 @@
       "High": 2.799999952316284,
       "Low": 2.430000066757202,
       "Close": 2.5,
-      "Volume": 128291
+      "Volume": 130800
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 2.5299999713897705,
+      "High": 2.5999999046325684,
+      "Low": 2.5,
+      "Close": 2.5425000190734863,
+      "Volume": 56140
     }
   ]
 }

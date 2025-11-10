@@ -1,34 +1,26 @@
 {
   "ticker": "SITM",
   "indicators": {
-    "score_0_100": 68.65,
-    "score_0_10": 6.87,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 4.716929959132512,
-    "macd_slope": 0.6663743808592911,
-    "rsi": 61.29483093001567,
-    "rsi_slope": 1.0559894284004636,
-    "wave_strength": 1.1863631441758822,
-    "adx": 22.072023053401182,
-    "atr": 23.20968083025237,
-    "obv_slope": -14300.714285714286,
+    "score_0_100": 66.56,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 5.0108849974455865,
+    "macd_slope": 0.6477439677899063,
+    "rsi": 59.852193591014625,
+    "rsi_slope": 0.857947751661292,
+    "wave_strength": 1.1807875604569515,
+    "adx": 22.76551196447648,
+    "atr": 23.51614029646931,
+    "obv_slope": -34993.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 364340.5,
-    "last_close": 326.94000244140625,
+    "avg_vol20": 376980.2,
+    "last_close": 321.489990234375,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 109.83000183105469,
-      "High": 117.87999725341797,
-      "Low": 108.8499984741211,
-      "Close": 116.37000274658203,
-      "Volume": 244200
-    },
     {
       "Date": "2024-02-09",
       "Open": 117.72000122070312,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-07",
       "Open": 323.04998779296875,
       "High": 330.0,
-      "Low": 299.0801086425781,
+      "Low": 299.0799865722656,
       "Close": 326.94000244140625,
-      "Volume": 526310
+      "Volume": 527100
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 342.1600036621094,
+      "High": 347.5,
+      "Low": 320.0,
+      "Close": 321.489990234375,
+      "Volume": 470804
     }
   ]
 }

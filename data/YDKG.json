@@ -1,34 +1,26 @@
 {
   "ticker": "YDKG",
   "indicators": {
-    "score_0_100": 62.54,
-    "score_0_10": 6.25,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.10526364506458719,
-    "macd_slope": 0.034212466227336834,
-    "rsi": 55.65409410837283,
-    "rsi_slope": 3.070738851971567,
-    "wave_strength": 0.3263251122646598,
-    "adx": 45.27098743899653,
-    "atr": 0.20799532242910987,
-    "obv_slope": 215089312.64285713,
+    "score_0_100": 67.28,
+    "score_0_10": 6.73,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.11262055904970347,
+    "macd_slope": 0.03214637736262922,
+    "rsi": 34.246571150879305,
+    "rsi_slope": 1.5280389799689118,
+    "wave_strength": 0.5338621169673969,
+    "adx": 45.80078135352487,
+    "atr": 0.1946987180243915,
+    "obv_slope": 133532534.0,
     "mom14": 0.0,
-    "avg_vol20": 243051953.85,
-    "last_close": 0.050200000405311584,
+    "avg_vol20": 258654501.2,
+    "last_close": 0.03240000084042549,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 0.8399999737739563,
-      "High": 0.8399999737739563,
-      "Low": 0.7400000095367432,
-      "Close": 0.7400000095367432,
-      "Volume": 1600
-    },
     {
       "Date": "2024-02-09",
       "Open": 0.75,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-07",
       "Open": 0.05000000074505806,
-      "High": 0.05119999870657921,
-      "Low": 0.041999999433755875,
-      "Close": 0.050200000405311584,
-      "Volume": 47083177
+      "High": 0.05000000074505806,
+      "Low": 0.03999999910593033,
+      "Close": 0.05000000074505806,
+      "Volume": 47823500
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 0.03660000115633011,
+      "High": 0.038100000470876694,
+      "Low": 0.02889999933540821,
+      "Close": 0.03240000084042549,
+      "Volume": 311605224
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "BIDU",
   "indicators": {
-    "score_0_100": 61.31,
-    "score_0_10": 6.13,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.03182392703367137,
-    "macd_slope": 0.22375980182167834,
-    "rsi": 55.24016974125313,
-    "rsi_slope": 1.0436373732180562,
-    "wave_strength": 1.0336943339927827,
-    "adx": 17.236413741401325,
-    "atr": 4.743363794406845,
-    "obv_slope": 424443.85714285716,
+    "score_0_100": 64.25,
+    "score_0_10": 6.43,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.5116582890378231,
+    "macd_slope": 0.24890147519693426,
+    "rsi": 66.46677474873385,
+    "rsi_slope": 2.5154840508535394,
+    "wave_strength": 1.0309261589507492,
+    "adx": 18.188153934619674,
+    "atr": 4.875266664103039,
+    "obv_slope": 921883.0714285715,
     "mom14": 0.0,
-    "avg_vol20": 3921524.3,
-    "last_close": 125.95999908447266,
+    "avg_vol20": 3869293.15,
+    "last_close": 132.32000732421875,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 104.62000274658203,
-      "High": 104.9000015258789,
-      "Low": 102.87000274658203,
-      "Close": 103.16999816894531,
-      "Volume": 1906900
-    },
     {
       "Date": "2024-02-09",
       "Open": 103.55999755859375,
@@ -3539,7 +3531,15 @@
       "High": 126.61000061035156,
       "Low": 124.26000213623047,
       "Close": 125.95999908447266,
-      "Volume": 3031286
+      "Volume": 3039500
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 130.02000427246094,
+      "High": 132.5500030517578,
+      "Low": 129.02000427246094,
+      "Close": 132.32000732421875,
+      "Volume": 4193263
     }
   ]
 }

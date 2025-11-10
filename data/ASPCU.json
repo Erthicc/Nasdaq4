@@ -1,20 +1,20 @@
 {
   "ticker": "ASPCU",
   "indicators": {
-    "score_0_100": 62.34,
-    "score_0_10": 6.23,
+    "score_0_100": 63.79,
+    "score_0_10": 6.38,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.13992134389801988,
-    "macd_slope": 0.010261432809346892,
-    "rsi": 53.83064613352607,
-    "rsi_slope": 0.5483416304480119,
-    "wave_strength": 1.1985985612601613,
-    "adx": 35.961466806623235,
-    "atr": 0.35250831168894275,
-    "obv_slope": 272.2857142857143,
+    "macd_hist": 0.0748598472158657,
+    "macd_slope": 0.005634538335996865,
+    "rsi": 55.185907564852634,
+    "rsi_slope": 0.645146018399909,
+    "wave_strength": 1.1963924183927388,
+    "adx": 33.479020790282355,
+    "atr": 0.3601862921502306,
+    "obv_slope": 255.14285714285714,
     "mom14": 0.0,
-    "avg_vol20": 1698.7,
-    "last_close": 10.850000381469727,
+    "avg_vol20": 1943.0,
+    "last_close": 11.0,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2015,11 +2015,19 @@
     },
     {
       "Date": "2025-11-07",
-      "Open": 12.420000076293945,
-      "High": 12.420000076293945,
+      "Open": 13.0,
+      "High": 13.0,
       "Low": 10.850000381469727,
       "Close": 10.850000381469727,
-      "Volume": 1721.0
+      "Volume": 4234.0
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 11.210000038146973,
+      "High": 11.210000038146973,
+      "Low": 10.75,
+      "Close": 11.0,
+      "Volume": 2373.0
     }
   ]
 }

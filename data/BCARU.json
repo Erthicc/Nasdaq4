@@ -1,19 +1,19 @@
 {
   "ticker": "BCARU",
   "indicators": {
-    "score_0_100": 61.51,
-    "score_0_10": 6.15,
+    "score_0_100": 63.9,
+    "score_0_10": 6.39,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.01347635397899083,
     "macd_slope": 0.0003014760912802888,
     "rsi": 54.21690116393234,
     "rsi_slope": -0.918305596488174,
     "wave_strength": 1.0319003829384548,
-    "adx": 41.306042416703335,
-    "atr": 0.08884116501817778,
-    "obv_slope": 1571.4285714285713,
+    "adx": 40.9156288233659,
+    "atr": 0.0974126535348491,
+    "obv_slope": 1557.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 2440.0,
+    "avg_vol20": 2450.0,
     "last_close": 10.350000381469727,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -583,11 +583,11 @@
     },
     {
       "Date": "2025-11-07",
-      "Open": 10.350000381469727,
-      "High": 10.350000381469727,
-      "Low": 10.350000381469727,
+      "Open": 10.300000190734863,
+      "High": 10.680000305175781,
+      "Low": 10.300000190734863,
       "Close": 10.350000381469727,
-      "Volume": 100.0
+      "Volume": 300.0
     }
   ]
 }

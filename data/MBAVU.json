@@ -1,16 +1,16 @@
 {
   "ticker": "MBAVU",
   "indicators": {
-    "score_0_100": 83.26,
-    "score_0_10": 8.33,
+    "score_0_100": 84.32,
+    "score_0_10": 8.43,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.00832518914115589,
-    "macd_slope": 0.0017450543896508758,
+    "macd_hist": 0.008578346566205146,
+    "macd_slope": 0.0015917044051079832,
     "rsi": 0.0,
     "rsi_slope": -2.2408973446208242,
     "wave_strength": 1.0,
-    "adx": 35.073486335940366,
-    "atr": 0.011508330023254545,
+    "adx": 35.277716899327,
+    "atr": 0.010686306451390922,
     "obv_slope": 42.857142857142854,
     "mom14": 0.0,
     "avg_vol20": 30.0,
@@ -2567,6 +2567,14 @@
     },
     {
       "Date": "2025-11-06",
+      "Open": 11.010000228881836,
+      "High": 11.010000228881836,
+      "Low": 11.010000228881836,
+      "Close": 11.010000228881836,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-07",
       "Open": 11.010000228881836,
       "High": 11.010000228881836,
       "Low": 11.010000228881836,

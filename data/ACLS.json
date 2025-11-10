@@ -1,34 +1,26 @@
 {
   "ticker": "ACLS",
   "indicators": {
-    "score_0_100": 61.86,
-    "score_0_10": 6.19,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.3747171105980809,
-    "macd_slope": 0.0945722080379274,
-    "rsi": 53.41912104322377,
-    "rsi_slope": 1.9434926714346699,
-    "wave_strength": 1.021173145328016,
-    "adx": 17.813912637362602,
-    "atr": 4.064060125688258,
-    "obv_slope": -172381.7857142857,
+    "score_0_100": 67.78,
+    "score_0_10": 6.78,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.6268337965832398,
+    "macd_slope": 0.09926517049425294,
+    "rsi": 57.299397899112094,
+    "rsi_slope": 2.0596621719401256,
+    "wave_strength": 1.0174882443726394,
+    "adx": 18.503049829656227,
+    "atr": 4.063770487518851,
+    "obv_slope": -91278.35714285714,
     "mom14": 0.0,
-    "avg_vol20": 666947.75,
-    "last_close": 85.73999786376953,
+    "avg_vol20": 654245.15,
+    "last_close": 87.41999816894531,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 117.44999694824219,
-      "High": 124.91000366210938,
-      "Low": 110.0,
-      "Close": 122.25,
-      "Volume": 2533800
-    },
     {
       "Date": "2024-02-09",
       "Open": 124.62000274658203,
@@ -3539,7 +3531,15 @@
       "High": 85.77999877929688,
       "Low": 80.01000213623047,
       "Close": 85.73999786376953,
-      "Volume": 635855
+      "Volume": 636400
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 87.94999694824219,
+      "High": 89.80000305175781,
+      "Low": 86.11000061035156,
+      "Close": 87.41999816894531,
+      "Volume": 654503
     }
   ]
 }

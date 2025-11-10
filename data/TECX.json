@@ -1,34 +1,26 @@
 {
   "ticker": "TECX",
   "indicators": {
-    "score_0_100": 62.37,
-    "score_0_10": 6.24,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.11881251952306027,
-    "macd_slope": -0.03005559294387204,
-    "rsi": 51.20428355752908,
-    "rsi_slope": -1.4485070554793151,
-    "wave_strength": 1.0290966496163996,
-    "adx": 36.3106428690569,
-    "atr": 2.0680170232931965,
-    "obv_slope": -198139.2857142857,
+    "score_0_100": 65.52,
+    "score_0_10": 6.55,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.1390204636403785,
+    "macd_slope": -0.030706209840553885,
+    "rsi": 49.52545044622424,
+    "rsi_slope": -1.548910664285182,
+    "wave_strength": 1.0809298532427896,
+    "adx": 37.66441944410749,
+    "atr": 2.0424443135373047,
+    "obv_slope": -176821.14285714287,
     "mom14": 0.0,
-    "avg_vol20": 692872.5,
-    "last_close": 19.31999969482422,
+    "avg_vol20": 693254.8,
+    "last_close": 18.8799991607666,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 15.479999542236328,
-      "High": 15.960000038146973,
-      "Low": 15.239999771118164,
-      "Close": 15.600000381469727,
-      "Volume": 11708
-    },
     {
       "Date": "2024-02-09",
       "Open": 15.479999542236328,
@@ -3539,7 +3531,15 @@
       "High": 20.239999771118164,
       "Low": 17.700000762939453,
       "Close": 19.31999969482422,
-      "Volume": 639150
+      "Volume": 639300
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 19.690000534057617,
+      "High": 20.389999389648438,
+      "Low": 18.68000030517578,
+      "Close": 18.8799991607666,
+      "Volume": 298196
     }
   ]
 }

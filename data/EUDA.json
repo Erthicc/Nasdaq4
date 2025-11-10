@@ -1,34 +1,26 @@
 {
   "ticker": "EUDA",
   "indicators": {
-    "score_0_100": 62.23,
-    "score_0_10": 6.22,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.05758002616815068,
-    "macd_slope": -0.004986179946015328,
-    "rsi": 50.70621377528041,
-    "rsi_slope": -1.9177302904560112,
-    "wave_strength": 1.139896392921145,
-    "adx": 27.8432872476788,
-    "atr": 0.4105117506140123,
-    "obv_slope": 7976.0,
+    "score_0_100": 65.35,
+    "score_0_10": 6.53,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.058167771773095706,
+    "macd_slope": -0.0019666105742650896,
+    "rsi": 48.5135116406428,
+    "rsi_slope": -1.5226425623152597,
+    "wave_strength": 1.232482954174617,
+    "adx": 28.45994861466943,
+    "atr": 0.4171160169111879,
+    "obv_slope": 8917.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 98043.2,
-    "last_close": 3.430000066757202,
+    "avg_vol20": 92542.65,
+    "last_close": 3.049999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 1.4700000286102295,
-      "High": 1.5700000524520874,
-      "Low": 1.4600000381469727,
-      "Close": 1.5700000524520874,
-      "Volume": 90000
-    },
     {
       "Date": "2024-02-09",
       "Open": 1.5789999961853027,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-07",
       "Open": 3.0399999618530273,
-      "High": 3.55679988861084,
+      "High": 3.559999942779541,
       "Low": 3.0399999618530273,
       "Close": 3.430000066757202,
-      "Volume": 139064
+      "Volume": 139100
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 3.5,
+      "High": 3.5,
+      "Low": 3.0,
+      "Close": 3.049999952316284,
+      "Volume": 48853
     }
   ]
 }
