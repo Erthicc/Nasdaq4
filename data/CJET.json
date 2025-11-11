@@ -1,34 +1,26 @@
 {
   "ticker": "CJET",
   "indicators": {
-    "score_0_100": 64.79,
-    "score_0_10": 6.48,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 1.2184754497707049,
-    "macd_slope": -0.16392500003807514,
-    "rsi": 30.211855569496237,
-    "rsi_slope": 0.8648864190664877,
-    "wave_strength": 1.5415291312532722,
-    "adx": 14.833463155691746,
-    "atr": 2.7994671757124236,
-    "obv_slope": -114356.35714285714,
+    "score_0_100": 68.78,
+    "score_0_10": 6.88,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 1.1991469006927291,
+    "macd_slope": -0.15496271456884367,
+    "rsi": 20.399486311857714,
+    "rsi_slope": 0.06485461009281478,
+    "wave_strength": 0.36400592280326094,
+    "adx": 15.168926506297822,
+    "atr": 2.612576671315962,
+    "obv_slope": -150941.85714285713,
     "mom14": 0.0,
-    "avg_vol20": 273216.4,
-    "last_close": 2.5425000190734863,
+    "avg_vol20": 269884.95,
+    "last_close": 2.4200000762939453,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 1200.0,
-      "High": 1200.0,
-      "Low": 1116.0,
-      "Close": 1140.0,
-      "Volume": 22
-    },
     {
       "Date": "2024-02-12",
       "Open": 1197.0,
@@ -3531,15 +3523,23 @@
       "High": 2.799999952316284,
       "Low": 2.430000066757202,
       "Close": 2.5,
-      "Volume": 130800
+      "Volume": 132000
     },
     {
       "Date": "2025-11-10",
-      "Open": 2.5299999713897705,
+      "Open": 2.549999952316284,
       "High": 2.5999999046325684,
       "Low": 2.5,
-      "Close": 2.5425000190734863,
-      "Volume": 56140
+      "Close": 2.5429999828338623,
+      "Volume": 58600
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 2.5299999713897705,
+      "High": 2.5399999618530273,
+      "Low": 2.359999895095825,
+      "Close": 2.4200000762939453,
+      "Volume": 73692
     }
   ]
 }

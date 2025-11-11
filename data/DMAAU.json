@@ -1,8 +1,8 @@
 {
   "ticker": "DMAAU",
   "indicators": {
-    "score_0_100": 64.59,
-    "score_0_10": 6.46,
+    "score_0_100": 64.69,
+    "score_0_10": 6.47,
     "explanation": "recent MACD bullish crossover",
     "macd_hist": 0.004456311032082737,
     "macd_slope": 0.0009098446685219792,

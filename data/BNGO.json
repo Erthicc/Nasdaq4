@@ -1,19 +1,19 @@
 {
   "ticker": "BNGO",
   "indicators": {
-    "score_0_100": 72.21,
-    "score_0_10": 7.22,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.0020231216822470532,
-    "macd_slope": -0.004130407893165931,
-    "rsi": 16.666656650052843,
-    "rsi_slope": -2.841782488608671,
-    "wave_strength": 0.8834688383829672,
-    "adx": 24.852995809765712,
-    "atr": 0.11935139968840616,
-    "obv_slope": -133951.92857142858,
+    "score_0_100": 75.07,
+    "score_0_10": 7.51,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.0032994696258631107,
+    "macd_slope": -0.003690238009218113,
+    "rsi": 12.499992111916853,
+    "rsi_slope": -2.7750969593374597,
+    "wave_strength": 0.894866869564827,
+    "adx": 25.31075567513583,
+    "atr": 0.11582629485564858,
+    "obv_slope": -147004.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 334986.35,
+    "avg_vol20": 317286.65,
     "last_close": 1.6200000047683716,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 72.0,
-      "High": 74.4000015258789,
-      "Low": 70.19999694824219,
-      "Close": 73.80000305175781,
-      "Volume": 20277
-    },
     {
       "Date": "2024-02-12",
       "Open": 75.0,
@@ -3539,7 +3531,15 @@
       "High": 1.7000000476837158,
       "Low": 1.6100000143051147,
       "Close": 1.6200000047683716,
-      "Volume": 242727
+      "Volume": 254000
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 1.6399999856948853,
+      "High": 1.6699999570846558,
+      "Low": 1.600000023841858,
+      "Close": 1.6200000047683716,
+      "Volume": 190533
     }
   ]
 }

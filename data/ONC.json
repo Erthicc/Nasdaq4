@@ -1,34 +1,26 @@
 {
   "ticker": "ONC",
   "indicators": {
-    "score_0_100": 68.89,
-    "score_0_10": 6.89,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 1.964262346601961,
-    "macd_slope": 0.3634214580728515,
-    "rsi": 59.31772009071774,
-    "rsi_slope": 1.5152675813942724,
-    "wave_strength": 1.050104731361778,
-    "adx": 21.575105237723353,
-    "atr": 11.685735073269319,
-    "obv_slope": 24433.5,
+    "score_0_100": 66.55,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 3.14171523018067,
+    "macd_slope": 0.4383084335423953,
+    "rsi": 67.81446195678424,
+    "rsi_slope": 2.8025221185309497,
+    "wave_strength": 1.0463507841319595,
+    "adx": 23.250172686421273,
+    "atr": 11.973890867677936,
+    "obv_slope": 54706.0,
     "mom14": 0.0,
-    "avg_vol20": 226583.45,
-    "last_close": 329.20001220703125,
+    "avg_vol20": 220064.2,
+    "last_close": 343.6499938964844,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 144.61000061035156,
-      "High": 147.17999267578125,
-      "Low": 143.01199340820312,
-      "Close": 146.97999572753906,
-      "Volume": 147300
-    },
     {
       "Date": "2024-02-12",
       "Open": 147.64999389648438,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-10",
       "Open": 329.0,
-      "High": 333.2200927734375,
-      "Low": 327.03009033203125,
+      "High": 333.2200012207031,
+      "Low": 327.0299987792969,
       "Close": 329.20001220703125,
-      "Volume": 134969
+      "Volume": 137400
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 328.239990234375,
+      "High": 343.9599914550781,
+      "Low": 328.239990234375,
+      "Close": 343.6499938964844,
+      "Volume": 234584
     }
   ]
 }

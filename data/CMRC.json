@@ -1,34 +1,26 @@
 {
   "ticker": "CMRC",
   "indicators": {
-    "score_0_100": 63.94,
-    "score_0_10": 6.39,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.012640220564315852,
-    "macd_slope": 0.0010976088389466124,
-    "rsi": 51.572333380066304,
-    "rsi_slope": 0.0027571376106852847,
-    "wave_strength": 0.9937625122493562,
-    "adx": 17.983711663161735,
-    "atr": 0.2792710994756549,
-    "obv_slope": 133208.2857142857,
+    "score_0_100": 65.13,
+    "score_0_10": 6.51,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0403766806836614,
+    "macd_slope": 0.0024317619777787414,
+    "rsi": 60.11905556542885,
+    "rsi_slope": 0.6578552121358311,
+    "wave_strength": 0.9883292614167443,
+    "adx": 19.111163375878725,
+    "atr": 0.2789660277583722,
+    "obv_slope": 254636.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 889225.8,
-    "last_close": 5.0,
+    "avg_vol20": 906705.4,
+    "last_close": 5.190000057220459,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 8.550000190734863,
-      "High": 8.736000061035156,
-      "Low": 8.520000457763672,
-      "Close": 8.649999618530273,
-      "Volume": 487900
-    },
     {
       "Date": "2024-02-12",
       "Open": 8.609999656677246,
@@ -3539,7 +3531,15 @@
       "High": 5.139999866485596,
       "Low": 4.659999847412109,
       "Close": 5.0,
-      "Volume": 1175416
+      "Volume": 1175500
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 4.929999828338623,
+      "High": 5.204999923706055,
+      "Low": 4.929999828338623,
+      "Close": 5.190000057220459,
+      "Volume": 987808
     }
   ]
 }

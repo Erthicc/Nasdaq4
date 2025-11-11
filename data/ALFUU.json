@@ -1,16 +1,16 @@
 {
   "ticker": "ALFUU",
   "indicators": {
-    "score_0_100": 65.88,
+    "score_0_100": 65.9,
     "score_0_10": 6.59,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.009399694653270382,
-    "macd_slope": -0.003586604263282208,
+    "macd_hist": -0.010565430514682186,
+    "macd_slope": -0.003523038927951253,
     "rsi": 0.0,
     "rsi_slope": -7.14285685714318,
     "wave_strength": 1.0,
-    "adx": 70.50134105650598,
-    "atr": 0.0077848064233848446,
+    "adx": 71.85172476024958,
+    "atr": 0.0072287488216569605,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 186.5,
@@ -2855,6 +2855,14 @@
     },
     {
       "Date": "2025-11-07",
+      "Open": 11.0,
+      "High": 11.0,
+      "Low": 11.0,
+      "Close": 11.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-10",
       "Open": 11.0,
       "High": 11.0,
       "Low": 11.0,

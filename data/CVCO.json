@@ -1,34 +1,26 @@
 {
   "ticker": "CVCO",
   "indicators": {
-    "score_0_100": 64.56,
-    "score_0_10": 6.46,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 2.5237302266312307,
-    "macd_slope": -0.07693607001080204,
-    "rsi": 48.81322198122042,
-    "rsi_slope": 0.0615886500357402,
-    "wave_strength": 1.0409317299038117,
-    "adx": 23.498712787816405,
-    "atr": 27.94919368494164,
-    "obv_slope": 3148.6428571428573,
+    "score_0_100": 64.34,
+    "score_0_10": 6.43,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 3.009242879901964,
+    "macd_slope": -0.10470974895687066,
+    "rsi": 50.90450155942593,
+    "rsi_slope": 0.31120291389388705,
+    "wave_strength": 1.03481084637687,
+    "adx": 23.64130184286321,
+    "atr": 26.83042635485623,
+    "obv_slope": 15702.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 150885.95,
-    "last_close": 572.9400024414062,
+    "avg_vol20": 147106.85,
+    "last_close": 576.47998046875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 354.3599853515625,
-      "High": 362.55999755859375,
-      "Low": 352.8999938964844,
-      "Close": 361.6000061035156,
-      "Volume": 52300
-    },
     {
       "Date": "2024-02-12",
       "Open": 362.5400085449219,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-10",
       "Open": 577.8699951171875,
       "High": 586.3400268554688,
-      "Low": 566.885009765625,
+      "Low": 566.1699829101562,
       "Close": 572.9400024414062,
-      "Volume": 84419
+      "Volume": 85800
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 576.8900146484375,
+      "High": 584.5625,
+      "Low": 573.4199829101562,
+      "Close": 576.47998046875,
+      "Volume": 60937
     }
   ]
 }

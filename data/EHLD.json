@@ -1,7 +1,7 @@
 {
   "ticker": "EHLD",
   "indicators": {
-    "score_0_100": 63.64,
+    "score_0_100": 63.63,
     "score_0_10": 6.36,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.014355266688046917,
@@ -9,11 +9,11 @@
     "rsi": 56.322569121054265,
     "rsi_slope": 1.2088444292516252,
     "wave_strength": 1.0207222495971868,
-    "adx": 42.12136859348425,
-    "atr": 0.18479674271738403,
-    "obv_slope": 1006.2857142857143,
+    "adx": 41.65685808784305,
+    "atr": 0.19036105769584735,
+    "obv_slope": 1000.0,
     "mom14": 0.0,
-    "avg_vol20": 2285.6,
+    "avg_vol20": 2290.0,
     "last_close": 7.047999858856201,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1391,11 +1391,11 @@
     },
     {
       "Date": "2025-11-10",
-      "Open": 6.9274001121521,
-      "High": 7.082499980926514,
-      "Low": 6.9274001121521,
+      "Open": 6.849999904632568,
+      "High": 7.083000183105469,
+      "Low": 6.849999904632568,
       "Close": 7.047999858856201,
-      "Volume": 1412.0
+      "Volume": 1500.0
     }
   ]
 }

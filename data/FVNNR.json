@@ -1,8 +1,8 @@
 {
   "ticker": "FVNNR",
   "indicators": {
-    "score_0_100": 64.69,
-    "score_0_10": 6.47,
+    "score_0_100": 64.77,
+    "score_0_10": 6.48,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
     "macd_hist": 0.0002163416586111874,
     "macd_slope": 5.638742715721722e-05,
