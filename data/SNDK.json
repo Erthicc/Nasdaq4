@@ -1,20 +1,20 @@
 {
   "ticker": "SNDK",
   "indicators": {
-    "score_0_100": 64.74,
-    "score_0_10": 6.47,
+    "score_0_100": 59.82,
+    "score_0_10": 5.98,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 6.611588150033171,
-    "macd_slope": 0.45539464450746536,
-    "rsi": 80.32803246878963,
-    "rsi_slope": 1.3111996186673542,
-    "wave_strength": 1.1447364552112187,
-    "adx": 56.93308344873178,
-    "atr": 18.938946352844678,
-    "obv_slope": 4059478.5714285714,
+    "macd_hist": 7.43948226879478,
+    "macd_slope": 0.4469443150897365,
+    "rsi": 79.47077590959185,
+    "rsi_slope": 0.8629312981581754,
+    "wave_strength": 1.1042171868037378,
+    "adx": 58.45495019967346,
+    "atr": 18.880347228440673,
+    "obv_slope": 4391226.428571428,
     "mom14": 0.0,
-    "avg_vol20": 9726830.0,
-    "last_close": 271.5799865722656,
+    "avg_vol20": 9961068.5,
+    "last_close": 283.1000061035156,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1520,10 +1520,18 @@
     {
       "Date": "2025-11-11",
       "Open": 262.2900085449219,
-      "High": 275.8699035644531,
-      "Low": 256.30999755859375,
+      "High": 275.8699951171875,
+      "Low": 255.8699951171875,
       "Close": 271.5799865722656,
-      "Volume": 12013000.0
+      "Volume": 12180900.0
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 271.010009765625,
+      "High": 284.7598876953125,
+      "Low": 267.04998779296875,
+      "Close": 283.1000061035156,
+      "Volume": 13487970.0
     }
   ]
 }

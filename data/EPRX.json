@@ -1,20 +1,20 @@
 {
   "ticker": "EPRX",
   "indicators": {
-    "score_0_100": 64.11,
-    "score_0_10": 6.41,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.07847433698400767,
-    "macd_slope": 0.01112814938232397,
-    "rsi": 63.9037409286281,
-    "rsi_slope": 2.232191760650349,
-    "wave_strength": 0.9946059916058259,
-    "adx": 24.174104892317626,
-    "atr": 0.41875888070054584,
-    "obv_slope": 76463.92857142857,
+    "score_0_100": 59.55,
+    "score_0_10": 5.95,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.1082779759304891,
+    "macd_slope": 0.01270486925562341,
+    "rsi": 62.70717683812193,
+    "rsi_slope": 1.3097369996710146,
+    "wave_strength": 0.9886230074775908,
+    "adx": 26.579818270001685,
+    "atr": 0.4087964938583406,
+    "obv_slope": 77334.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 101369.75,
-    "last_close": 6.53000020980835,
+    "avg_vol20": 103674.2,
+    "last_close": 6.599999904632568,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3241,9 +3241,17 @@
       "Date": "2025-11-11",
       "Open": 6.139999866485596,
       "High": 6.739999771118164,
-      "Low": 6.019999980926514,
+      "Low": 6.010000228881836,
       "Close": 6.53000020980835,
-      "Volume": 140895.0
+      "Volume": 141000.0
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 6.639999866485596,
+      "High": 6.739999771118164,
+      "Low": 6.46999979019165,
+      "Close": 6.599999904632568,
+      "Volume": 76984.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "PRAA",
   "indicators": {
-    "score_0_100": 64.37,
-    "score_0_10": 6.44,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.25409335838069763,
-    "macd_slope": 0.014374747004629576,
-    "rsi": 62.534821279953896,
-    "rsi_slope": 1.556137602050232,
-    "wave_strength": 1.0332181163508969,
-    "adx": 18.31389060440981,
-    "atr": 0.7927745075337753,
-    "obv_slope": 130554.14285714286,
+    "score_0_100": 59.96,
+    "score_0_10": 6.0,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.2968181884756725,
+    "macd_slope": 0.014515784423436068,
+    "rsi": 61.603374840170126,
+    "rsi_slope": 1.2612275827053518,
+    "wave_strength": 1.1204874151672233,
+    "adx": 19.08064116169133,
+    "atr": 0.778402822894855,
+    "obv_slope": 87900.5,
     "mom14": 0.0,
-    "avg_vol20": 378267.9,
-    "last_close": 16.0,
+    "avg_vol20": 383969.65,
+    "last_close": 15.960000038146973,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 23.989999771118164,
-      "High": 24.920000076293945,
-      "Low": 23.989999771118164,
-      "Close": 24.719999313354492,
-      "Volume": 189300
-    },
     {
       "Date": "2024-02-13",
       "Open": 22.90999984741211,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-11",
       "Open": 15.380000114440918,
-      "High": 16.030000686645508,
-      "Low": 15.1899995803833,
+      "High": 16.040000915527344,
+      "Low": 15.180000305175781,
       "Close": 16.0,
-      "Volume": 449258
+      "Volume": 459100
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 15.949999809265137,
+      "High": 16.322999954223633,
+      "Low": 15.75,
+      "Close": 15.960000038146973,
+      "Volume": 367693
     }
   ]
 }

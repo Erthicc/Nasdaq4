@@ -1,34 +1,26 @@
 {
   "ticker": "CMBM",
   "indicators": {
-    "score_0_100": 68.7,
-    "score_0_10": 6.87,
+    "score_0_100": 63.09,
+    "score_0_10": 6.31,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03557519570979606,
-    "macd_slope": 0.004754168850687819,
-    "rsi": 61.29076993336872,
-    "rsi_slope": 1.9824417742865563,
-    "wave_strength": 1.616729634034411,
-    "adx": 44.09292950922778,
-    "atr": 0.6524337791177436,
-    "obv_slope": 58254295.64285714,
+    "macd_hist": 0.05275353807842126,
+    "macd_slope": 0.005597543694278369,
+    "rsi": 64.9667122902415,
+    "rsi_slope": 2.266820029695014,
+    "wave_strength": 1.5161502966812692,
+    "adx": 45.241110024973004,
+    "atr": 0.6986885057783389,
+    "obv_slope": 59535038.85714286,
     "mom14": 0.0,
-    "avg_vol20": 47488393.05,
-    "last_close": 2.25,
+    "avg_vol20": 48392627.2,
+    "last_close": 3.059999942779541,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 4.5,
-      "High": 4.75,
-      "Low": 4.480000019073486,
-      "Close": 4.730000019073486,
-      "Volume": 89200
-    },
     {
       "Date": "2024-02-13",
       "Open": 4.599999904632568,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-11",
-      "Open": 2.1700000762939453,
+      "Open": 2.2200000286102295,
       "High": 2.3499999046325684,
       "Low": 2.049999952316284,
       "Close": 2.25,
-      "Volume": 2221361
+      "Volume": 2265500
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 2.25,
+      "High": 3.5,
+      "Low": 2.200000047683716,
+      "Close": 3.059999942779541,
+      "Volume": 18180244
     }
   ]
 }

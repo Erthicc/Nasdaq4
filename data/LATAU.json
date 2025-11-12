@@ -1,22 +1,22 @@
 {
   "ticker": "LATAU",
   "indicators": {
-    "score_0_100": 65.2,
-    "score_0_10": 6.52,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.008459310647445557,
-    "macd_slope": 0.0002690987756868109,
-    "rsi": 65.62496918910915,
-    "rsi_slope": -0.3545233064080508,
-    "wave_strength": 1.0118411674967798,
-    "adx": 67.34192161984606,
-    "atr": 0.05572393827903077,
-    "obv_slope": 35579.28571428572,
+    "score_0_100": 63.16,
+    "score_0_10": 6.32,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.004730924433310527,
+    "macd_slope": -0.00011195442992951615,
+    "rsi": 48.57138770291259,
+    "rsi_slope": -1.9313124698242998,
+    "wave_strength": 1.0117909322076462,
+    "adx": 67.56197405320019,
+    "atr": 0.05677678022329603,
+    "obv_slope": 35328.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 29954.5,
-    "last_close": 10.149999618530273,
+    "avg_vol20": 28575.0,
+    "last_close": 10.079999923706055,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -320,10 +320,18 @@
     {
       "Date": "2025-11-11",
       "Open": 10.574999809265137,
-      "High": 10.617500305175781,
+      "High": 10.618000030517578,
       "Low": 10.149999618530273,
       "Close": 10.149999618530273,
-      "Volume": 6390.0
+      "Volume": 6400.0
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 10.079999923706055,
+      "High": 10.079999923706055,
+      "Low": 10.079999923706055,
+      "Close": 10.079999923706055,
+      "Volume": 200.0
     }
   ]
 }
