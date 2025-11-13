@@ -1,34 +1,26 @@
 {
   "ticker": "CDT",
   "indicators": {
-    "score_0_100": 62.88,
-    "score_0_10": 6.29,
+    "score_0_100": 69.2,
+    "score_0_10": 6.92,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.13794185297761363,
-    "macd_slope": 0.009416584478151404,
-    "rsi": 26.356587858343545,
-    "rsi_slope": -0.3681900784549969,
-    "wave_strength": 0.9234508174504389,
-    "adx": 30.769586598493596,
-    "atr": 0.4080099234516501,
-    "obv_slope": 9443.857142857143,
+    "macd_hist": 0.12678650735110097,
+    "macd_slope": 0.0074534508777987585,
+    "rsi": 24.637676903279157,
+    "rsi_slope": 0.7454642495041648,
+    "wave_strength": 0.9457778082953558,
+    "adx": 30.93071613541562,
+    "atr": 0.3924377876464091,
+    "obv_slope": 12124.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 111009.3,
-    "last_close": 2.490000009536743,
+    "avg_vol20": 82893.0,
+    "last_close": 2.309999942779541,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 33780.0,
-      "High": 39480.0,
-      "Low": 32040.0,
-      "Close": 38880.0,
-      "Volume": 6
-    },
     {
       "Date": "2024-02-14",
       "Open": 40200.0,
@@ -3539,7 +3531,15 @@
       "High": 2.6600000858306885,
       "Low": 2.440000057220459,
       "Close": 2.490000009536743,
-      "Volume": 46886
+      "Volume": 52200
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 2.359999895095825,
+      "High": 2.4198999404907227,
+      "Low": 2.299999952316284,
+      "Close": 2.309999942779541,
+      "Volume": 37160
     }
   ]
 }

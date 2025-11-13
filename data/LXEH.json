@@ -1,34 +1,26 @@
 {
   "ticker": "LXEH",
   "indicators": {
-    "score_0_100": 67.46,
-    "score_0_10": 6.75,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.06288583682191068,
-    "macd_slope": 0.008290501705635297,
-    "rsi": 21.239268411569114,
-    "rsi_slope": 0.8536436984232054,
-    "wave_strength": 0.9565934134331538,
-    "adx": 31.941048569060715,
-    "atr": 0.12692188993322392,
-    "obv_slope": -123834.14285714286,
+    "score_0_100": 70.68,
+    "score_0_10": 7.07,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.06003417176582382,
+    "macd_slope": 0.006050341681510767,
+    "rsi": 21.88939534092509,
+    "rsi_slope": -0.5010185432910207,
+    "wave_strength": 0.9495438282848281,
+    "adx": 31.495459523901495,
+    "atr": 0.12252594095632098,
+    "obv_slope": 12876.214285714286,
     "mom14": 0.0,
-    "avg_vol20": 1765606.1,
-    "last_close": 0.40790000557899475,
+    "avg_vol20": 1728116.65,
+    "last_close": 0.3625999987125397,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 45.599998474121094,
-      "High": 46.5,
-      "Low": 42.70000076293945,
-      "Close": 46.400001525878906,
-      "Volume": 13260
-    },
     {
       "Date": "2024-02-14",
       "Open": 45.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-12",
       "Open": 0.41999998688697815,
-      "High": 0.42989999055862427,
-      "Low": 0.3952000141143799,
-      "Close": 0.40790000557899475,
-      "Volume": 166222
+      "High": 0.4300000071525574,
+      "Low": 0.39500001072883606,
+      "Close": 0.40799999237060547,
+      "Volume": 368600
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 0.4000000059604645,
+      "High": 0.41510000824928284,
+      "Low": 0.3499999940395355,
+      "Close": 0.3625999987125397,
+      "Volume": 544233
     }
   ]
 }

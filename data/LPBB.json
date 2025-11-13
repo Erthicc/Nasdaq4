@@ -1,8 +1,8 @@
 {
   "ticker": "LPBB",
   "indicators": {
-    "score_0_100": 64.15,
-    "score_0_10": 6.41,
+    "score_0_100": 68.79,
+    "score_0_10": 6.88,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.00010867436051527433,
     "macd_slope": -0.0003618956727120715,

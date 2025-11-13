@@ -1,34 +1,26 @@
 {
   "ticker": "PCYO",
   "indicators": {
-    "score_0_100": 59.99,
-    "score_0_10": 6.0,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.014124776892978466,
-    "macd_slope": 0.0026376339776288046,
-    "rsi": 60.46508176914278,
-    "rsi_slope": 0.980423053594433,
-    "wave_strength": 1.0029980827481375,
-    "adx": 18.687818272003334,
-    "atr": 0.17910548309934438,
-    "obv_slope": -17265.5,
+    "score_0_100": 64.58,
+    "score_0_10": 6.46,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.01062736217763624,
+    "macd_slope": 0.002191027137358228,
+    "rsi": 51.48513564770577,
+    "rsi_slope": 0.4444240863276064,
+    "wave_strength": 1.020074437099672,
+    "adx": 20.590667325233,
+    "atr": 0.20462037794193316,
+    "obv_slope": -7139.142857142857,
     "mom14": 0.0,
-    "avg_vol20": 60664.15,
-    "last_close": 11.229999542236328,
+    "avg_vol20": 61082.4,
+    "last_close": 11.050000190734863,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 9.829999923706055,
-      "High": 9.829999923706055,
-      "Low": 9.40999984741211,
-      "Close": 9.539999961853027,
-      "Volume": 88500
-    },
     {
       "Date": "2024-02-14",
       "Open": 9.729999542236328,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-12",
       "Open": 11.170000076293945,
       "High": 11.3149995803833,
-      "Low": 11.096799850463867,
+      "Low": 11.097000122070312,
       "Close": 11.229999542236328,
-      "Volume": 42683
+      "Volume": 45700
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 11.100000381469727,
+      "High": 11.546500205993652,
+      "Low": 11.010000228881836,
+      "Close": 11.050000190734863,
+      "Volume": 33648
     }
   ]
 }
