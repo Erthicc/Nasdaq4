@@ -1,20 +1,20 @@
 {
   "ticker": "BUUU",
   "indicators": {
-    "score_0_100": 65.6,
-    "score_0_10": 6.56,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.05874975742632023,
-    "macd_slope": 0.01301347346143709,
-    "rsi": 49.83922456007295,
-    "rsi_slope": 1.0373946113856047,
-    "wave_strength": 1.101935320688543,
-    "adx": 18.19210686379244,
-    "atr": 0.945092943149283,
-    "obv_slope": 13568.642857142857,
+    "score_0_100": 64.7,
+    "score_0_10": 6.47,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.039952459966661774,
+    "macd_slope": 0.01297750737201335,
+    "rsi": 52.013420119231604,
+    "rsi_slope": 1.6100291334235546,
+    "wave_strength": 1.105062993795995,
+    "adx": 17.983381696234968,
+    "atr": 0.9061067011304674,
+    "obv_slope": 16870.5,
     "mom14": 0.0,
-    "avg_vol20": 40676.95,
-    "last_close": 8.079999923706055,
+    "avg_vol20": 41015.65,
+    "last_close": 8.0,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -536,10 +536,18 @@
     {
       "Date": "2025-11-13",
       "Open": 8.050000190734863,
-      "High": 8.470000267028809,
-      "Low": 8.050000190734863,
+      "High": 8.5,
+      "Low": 7.900000095367432,
       "Close": 8.079999923706055,
-      "Volume": 3039.0
+      "Volume": 8500.0
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 7.860000133514404,
+      "High": 8.0,
+      "Low": 7.820000171661377,
+      "Close": 8.0,
+      "Volume": 1713.0
     }
   ]
 }

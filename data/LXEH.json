@@ -1,34 +1,26 @@
 {
   "ticker": "LXEH",
   "indicators": {
-    "score_0_100": 70.68,
-    "score_0_10": 7.07,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.06003417176582382,
-    "macd_slope": 0.006050341681510767,
-    "rsi": 21.88939534092509,
-    "rsi_slope": -0.5010185432910207,
-    "wave_strength": 0.9495438282848281,
-    "adx": 31.495459523901495,
-    "atr": 0.12252594095632098,
-    "obv_slope": 12876.214285714286,
+    "score_0_100": 67.21,
+    "score_0_10": 6.72,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.05972152912153861,
+    "macd_slope": 0.0043066978477518825,
+    "rsi": 27.135678587242296,
+    "rsi_slope": -0.40805756559775325,
+    "wave_strength": 0.9412198761277211,
+    "adx": 31.081698254752954,
+    "atr": 0.11588173959297633,
+    "obv_slope": -27169.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 1728116.65,
-    "last_close": 0.3625999987125397,
+    "avg_vol20": 1673381.6,
+    "last_close": 0.39160001277923584,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 45.5,
-      "High": 47.400001525878906,
-      "Low": 43.900001525878906,
-      "Close": 46.400001525878906,
-      "Volume": 9260
-    },
     {
       "Date": "2024-02-15",
       "Open": 45.689998626708984,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-13",
       "Open": 0.4000000059604645,
-      "High": 0.41510000824928284,
+      "High": 0.41499999165534973,
       "Low": 0.3499999940395355,
-      "Close": 0.3625999987125397,
-      "Volume": 544233
+      "Close": 0.3630000054836273,
+      "Volume": 548100
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 0.3781999945640564,
+      "High": 0.39259999990463257,
+      "Low": 0.36329999566078186,
+      "Close": 0.39160001277923584,
+      "Volume": 43732
     }
   ]
 }

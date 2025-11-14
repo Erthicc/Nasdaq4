@@ -1,20 +1,20 @@
 {
   "ticker": "WTF",
   "indicators": {
-    "score_0_100": 65.29,
-    "score_0_10": 6.53,
+    "score_0_100": 64.99,
+    "score_0_10": 6.5,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 0.0707919938655246,
-    "macd_slope": 0.011777373097662072,
-    "rsi": 60.84141832892604,
-    "rsi_slope": 2.110635677510097,
-    "wave_strength": 1.063850212605734,
-    "adx": 15.075891151446202,
-    "atr": 0.5020697082843548,
-    "obv_slope": -9898.714285714286,
+    "macd_hist": 0.09832692510989159,
+    "macd_slope": 0.013149260403364274,
+    "rsi": 61.34185295546027,
+    "rsi_slope": 1.7907620588463626,
+    "wave_strength": 1.0586661561571904,
+    "adx": 16.4974688040324,
+    "atr": 0.5062575819588854,
+    "obv_slope": -3609.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 106970.9,
-    "last_close": 5.679999828338623,
+    "avg_vol20": 105268.5,
+    "last_close": 5.869999885559082,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1283,7 +1283,15 @@
       "High": 5.809999942779541,
       "Low": 5.269000053405762,
       "Close": 5.679999828338623,
-      "Volume": 61018.0
+      "Volume": 104300.0
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 5.389999866485596,
+      "High": 5.950699806213379,
+      "Low": 5.389999866485596,
+      "Close": 5.869999885559082,
+      "Volume": 85970.0
     }
   ]
 }

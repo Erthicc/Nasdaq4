@@ -1,34 +1,26 @@
 {
   "ticker": "PLCE",
   "indicators": {
-    "score_0_100": 65.69,
-    "score_0_10": 6.57,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.08420349368713276,
-    "macd_slope": 0.0014513847311872854,
-    "rsi": 49.99999986055775,
-    "rsi_slope": -1.0927501941361584,
-    "wave_strength": 1.1302150931424273,
-    "adx": 29.77872467678197,
-    "atr": 0.7432519436138489,
-    "obv_slope": 187462.2857142857,
+    "score_0_100": 65.54,
+    "score_0_10": 6.55,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.052316061969958305,
+    "macd_slope": -0.0005672164574614788,
+    "rsi": 50.300598399429404,
+    "rsi_slope": -0.6731679716136496,
+    "wave_strength": 1.1215067781427375,
+    "adx": 28.574159494754166,
+    "atr": 0.7348783079696384,
+    "obv_slope": 183037.2142857143,
     "mom14": 0.0,
-    "avg_vol20": 576596.4,
-    "last_close": 8.6899995803833,
+    "avg_vol20": 576568.95,
+    "last_close": 8.529999732971191,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 13.130000114440918,
-      "High": 14.789999961853027,
-      "Low": 12.869999885559082,
-      "Close": 14.520000457763672,
-      "Volume": 3549200
-    },
     {
       "Date": "2024-02-15",
       "Open": 18.579999923706055,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-13",
-      "Open": 8.970000267028809,
+      "Open": 9.09000015258789,
       "High": 9.300000190734863,
-      "Low": 8.511099815368652,
+      "Low": 8.510000228881836,
       "Close": 8.6899995803833,
-      "Volume": 380228
+      "Volume": 382300
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 8.510000228881836,
+      "High": 8.895000457763672,
+      "Low": 8.270000457763672,
+      "Close": 8.529999732971191,
+      "Volume": 313179
     }
   ]
 }

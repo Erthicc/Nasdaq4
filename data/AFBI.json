@@ -1,34 +1,26 @@
 {
   "ticker": "AFBI",
   "indicators": {
-    "score_0_100": 66.42,
-    "score_0_10": 6.64,
+    "score_0_100": 65.76,
+    "score_0_10": 6.58,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.06295390026498893,
-    "macd_slope": 0.009453019011335327,
-    "rsi": 59.8393684756714,
-    "rsi_slope": 2.113828980159309,
-    "wave_strength": 1.0051587171085832,
-    "adx": 25.371454495462167,
-    "atr": 0.2754795517638372,
-    "obv_slope": 829.3571428571429,
+    "macd_hist": 0.08675943629634084,
+    "macd_slope": 0.010441323096776905,
+    "rsi": 61.240325218583266,
+    "rsi_slope": 2.19328145269158,
+    "wave_strength": 1.002891902005893,
+    "adx": 26.351488587662423,
+    "atr": 0.26223102325126957,
+    "obv_slope": 925.8571428571429,
     "mom14": 0.0,
-    "avg_vol20": 8245.55,
-    "last_close": 19.270000457763672,
+    "avg_vol20": 8233.1,
+    "last_close": 19.360000610351562,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 15.412835568445564,
-      "High": 15.856636047363281,
-      "Low": 15.25565601172391,
-      "Close": 15.856636047363281,
-      "Volume": 800
-    },
     {
       "Date": "2024-02-15",
       "Open": 15.264902114868164,
@@ -3539,7 +3531,15 @@
       "High": 19.309999465942383,
       "Low": 18.899999618530273,
       "Close": 19.270000457763672,
-      "Volume": 1611
+      "Volume": 1900
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 19.360000610351562,
+      "High": 19.360000610351562,
+      "Low": 19.360000610351562,
+      "Close": 19.360000610351562,
+      "Volume": 1062
     }
   ]
 }

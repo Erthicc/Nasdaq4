@@ -1,34 +1,26 @@
 {
   "ticker": "KLRS",
   "indicators": {
-    "score_0_100": 66.17,
-    "score_0_10": 6.62,
+    "score_0_100": 65.79,
+    "score_0_10": 6.58,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.03456474482366656,
-    "macd_slope": 0.014436723543861314,
-    "rsi": 61.29031665253302,
-    "rsi_slope": 2.7088788701091633,
-    "wave_strength": 1.0438542626605787,
-    "adx": 28.49879332168029,
-    "atr": 0.5483783154715037,
-    "obv_slope": 30409.928571428572,
+    "macd_hist": 0.05889156704145311,
+    "macd_slope": 0.0140135920192824,
+    "rsi": 61.904755253479244,
+    "rsi_slope": 2.58157443626948,
+    "wave_strength": 1.0350107497892198,
+    "adx": 28.91241811266326,
+    "atr": 0.5441793348124574,
+    "obv_slope": 28978.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 102191.95,
-    "last_close": 5.329999923706055,
+    "avg_vol20": 100569.8,
+    "last_close": 5.460000038146973,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 15.180000305175781,
-      "High": 16.329999923706055,
-      "Low": 14.788999557495117,
-      "Close": 15.38700008392334,
-      "Volume": 96748
-    },
     {
       "Date": "2024-02-15",
       "Open": 15.593999862670898,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-13",
       "Open": 4.869999885559082,
-      "High": 5.449900150299072,
+      "High": 5.449999809265137,
       "Low": 4.869999885559082,
       "Close": 5.329999923706055,
-      "Volume": 78739
+      "Volume": 79200
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 5.0,
+      "High": 5.489500045776367,
+      "Low": 5.0,
+      "Close": 5.460000038146973,
+      "Volume": 48096
     }
   ]
 }

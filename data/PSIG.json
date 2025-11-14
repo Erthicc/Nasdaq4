@@ -1,7 +1,7 @@
 {
   "ticker": "PSIG",
   "indicators": {
-    "score_0_100": 64.62,
+    "score_0_100": 64.61,
     "score_0_10": 6.46,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.005859326972079783,
@@ -9,11 +9,11 @@
     "rsi": 50.26596314358044,
     "rsi_slope": -0.06338842502948491,
     "wave_strength": 1.0415473804399724,
-    "adx": 14.311036881070846,
-    "atr": 0.34227035226849445,
-    "obv_slope": 4958.285714285715,
+    "adx": 14.343684084086632,
+    "atr": 0.3429846202716857,
+    "obv_slope": 4992.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 7775.8,
+    "avg_vol20": 7800.0,
     "last_close": 4.010000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -2680,10 +2680,10 @@
     {
       "Date": "2025-11-13",
       "Open": 4.0,
-      "High": 4.010000228881836,
+      "High": 4.019999980926514,
       "Low": 4.0,
       "Close": 4.010000228881836,
-      "Volume": 316.0
+      "Volume": 800.0
     }
   ]
 }

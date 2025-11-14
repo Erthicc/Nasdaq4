@@ -1,34 +1,26 @@
 {
   "ticker": "CENN",
   "indicators": {
-    "score_0_100": 65.2,
-    "score_0_10": 6.52,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.00820643067518223,
-    "macd_slope": 0.0011437215996265046,
-    "rsi": 31.683905554863628,
-    "rsi_slope": 2.0172237653060034,
-    "wave_strength": 0.8803190233984597,
-    "adx": 19.020029052241167,
-    "atr": 0.03393649204705991,
-    "obv_slope": 534347.6428571428,
+    "score_0_100": 73.72,
+    "score_0_10": 7.37,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.008001191281862031,
+    "macd_slope": 0.0007328335486819161,
+    "rsi": 17.55853295651866,
+    "rsi_slope": 0.673715763718639,
+    "wave_strength": 0.8906820628006032,
+    "adx": 18.458444918397646,
+    "atr": 0.03221960002024464,
+    "obv_slope": -2928314.285714286,
     "mom14": 0.0,
-    "avg_vol20": 16207556.65,
-    "last_close": 0.1648000031709671,
+    "avg_vol20": 16208250.0,
+    "last_close": 0.15870000422000885,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 1.309999942779541,
-      "High": 1.3799999952316284,
-      "Low": 1.2640000581741333,
-      "Close": 1.3799999952316284,
-      "Volume": 119100
-    },
     {
       "Date": "2024-02-15",
       "Open": 1.4299999475479126,
@@ -3539,7 +3531,15 @@
       "High": 0.18330000340938568,
       "Low": 0.14399999380111694,
       "Close": 0.1648000031709671,
-      "Volume": 7768933
+      "Volume": 7879400
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 0.15839999914169312,
+      "High": 0.1639000028371811,
+      "Low": 0.15489999949932098,
+      "Close": 0.15870000422000885,
+      "Volume": 4402600
     }
   ]
 }
