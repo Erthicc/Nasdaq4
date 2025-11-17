@@ -1,34 +1,26 @@
 {
   "ticker": "LXEH",
   "indicators": {
-    "score_0_100": 67.21,
-    "score_0_10": 6.72,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.05972152912153861,
-    "macd_slope": 0.0043066978477518825,
-    "rsi": 27.135678587242296,
-    "rsi_slope": -0.40805756559775325,
-    "wave_strength": 0.9412198761277211,
-    "adx": 31.081698254752954,
-    "atr": 0.11588173959297633,
-    "obv_slope": -27169.14285714286,
+    "score_0_100": 62.66,
+    "score_0_10": 6.27,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.05814987360737889,
+    "macd_slope": 0.002911227290781685,
+    "rsi": 28.14814260050376,
+    "rsi_slope": -0.711941822341356,
+    "wave_strength": 0.9011494029543172,
+    "adx": 30.592110956436773,
+    "atr": 0.10963100337092915,
+    "obv_slope": 16887.928571428572,
     "mom14": 0.0,
-    "avg_vol20": 1673381.6,
-    "last_close": 0.39160001277923584,
+    "avg_vol20": 1636483.45,
+    "last_close": 0.3779999911785126,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 45.689998626708984,
-      "High": 46.900001525878906,
-      "Low": 43.5,
-      "Close": 46.70000076293945,
-      "Volume": 9050
-    },
     {
       "Date": "2024-02-16",
       "Open": 46.70000076293945,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-14",
-      "Open": 0.3781999945640564,
-      "High": 0.39259999990463257,
-      "Low": 0.36329999566078186,
-      "Close": 0.39160001277923584,
-      "Volume": 43732
+      "Open": 0.3779999911785126,
+      "High": 0.3930000066757202,
+      "Low": 0.3630000054836273,
+      "Close": 0.3919999897480011,
+      "Volume": 45900
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 0.4034000039100647,
+      "High": 0.4034000039100647,
+      "Low": 0.37540000677108765,
+      "Close": 0.3779999911785126,
+      "Volume": 47069
     }
   ]
 }

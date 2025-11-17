@@ -1,20 +1,20 @@
 {
   "ticker": "RIFR",
   "indicators": {
-    "score_0_100": 64.76,
-    "score_0_10": 6.48,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.02229114938579478,
-    "macd_slope": 0.0023232927430760406,
-    "rsi": 46.632921299618374,
-    "rsi_slope": -0.3856874131849826,
-    "wave_strength": 1.0109598100144288,
-    "adx": 16.77949508237131,
-    "atr": 0.15527678243096027,
-    "obv_slope": 203.0,
+    "score_0_100": 61.08,
+    "score_0_10": 6.11,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.014078898268289605,
+    "macd_slope": 0.0030092500333562125,
+    "rsi": 50.067804907480216,
+    "rsi_slope": 0.3750025716271814,
+    "wave_strength": 1.0048402680383433,
+    "adx": 15.655172867770544,
+    "atr": 0.1552503563891014,
+    "obv_slope": 123.21428571428571,
     "mom14": 0.0,
-    "avg_vol20": 3597.1,
-    "last_close": 26.19849967956543,
+    "avg_vol20": 2303.75,
+    "last_close": 26.104999542236328,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1048,10 +1048,18 @@
     {
       "Date": "2025-11-14",
       "Open": 26.09000015258789,
-      "High": 26.230100631713867,
+      "High": 26.229999542236328,
       "Low": 26.07699966430664,
-      "Close": 26.19849967956543,
-      "Volume": 1742.0
+      "Close": 26.198999404907227,
+      "Volume": 1800.0
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 26.200000762939453,
+      "High": 26.260000228881836,
+      "Low": 26.104999542236328,
+      "Close": 26.104999542236328,
+      "Volume": 1875.0
     }
   ]
 }

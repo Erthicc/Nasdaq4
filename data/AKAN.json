@@ -1,34 +1,26 @@
 {
   "ticker": "AKAN",
   "indicators": {
-    "score_0_100": 65.82,
-    "score_0_10": 6.58,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred)",
-    "macd_hist": 0.012422079806811315,
-    "macd_slope": 0.000442580521532688,
-    "rsi": 2.999997454604639,
-    "rsi_slope": -2.60684262114881,
-    "wave_strength": 0.8096442943861867,
-    "adx": 27.29034430229797,
-    "atr": 0.2608376569545351,
-    "obv_slope": -719659.1428571428,
+    "score_0_100": 79.6,
+    "score_0_10": 7.96,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.007049057385153712,
+    "macd_slope": 0.0004315271312067072,
+    "rsi": 3.1249968500186753,
+    "rsi_slope": -1.8910708233536357,
+    "wave_strength": 0.8388589090548235,
+    "adx": 25.498979202473407,
+    "atr": 0.25624924997453413,
+    "obv_slope": -737019.7857142857,
     "mom14": 0.0,
-    "avg_vol20": 684701.4,
-    "last_close": 1.159999966621399,
+    "avg_vol20": 651933.85,
+    "last_close": 1.0399999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 73.0,
-      "High": 75.5,
-      "Low": 70.0,
-      "Close": 72.75,
-      "Volume": 1110
-    },
     {
       "Date": "2024-02-16",
       "Open": 72.5,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-14",
-      "Open": 1.468999981880188,
+      "Open": 1.4700000286102295,
       "High": 1.5,
       "Low": 1.149999976158142,
       "Close": 1.159999966621399,
-      "Volume": 7680528
+      "Volume": 7711100
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 1.1100000143051147,
+      "High": 1.1399999856948853,
+      "Low": 0.9634000062942505,
+      "Close": 1.0399999618530273,
+      "Volume": 412577
     }
   ]
 }

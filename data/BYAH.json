@@ -1,20 +1,20 @@
 {
   "ticker": "BYAH",
   "indicators": {
-    "score_0_100": 73.24,
-    "score_0_10": 7.32,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.006738060122372436,
-    "macd_slope": -0.0015104896371098508,
-    "rsi": 19.14192131956588,
-    "rsi_slope": -0.4394424828614031,
-    "wave_strength": 1.105249190374931,
-    "adx": 40.6742132525477,
-    "atr": 0.03644070527405454,
-    "obv_slope": -159084.64285714287,
+    "score_0_100": 69.06,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.006800484261033926,
+    "macd_slope": -0.0013877027308537263,
+    "rsi": 20.254639147091382,
+    "rsi_slope": -0.2501620652428187,
+    "wave_strength": 0.820287851335583,
+    "adx": 41.51165336252867,
+    "atr": 0.03499442999176764,
+    "obv_slope": -144874.14285714287,
     "mom14": 0.0,
-    "avg_vol20": 276850.75,
-    "last_close": 0.2727999985218048,
+    "avg_vol20": 275846.9,
+    "last_close": 0.2702000141143799,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1791,11 +1791,19 @@
     },
     {
       "Date": "2025-11-14",
-      "Open": 0.26109999418258667,
-      "High": 0.2736000120639801,
-      "Low": 0.26109999418258667,
-      "Close": 0.2727999985218048,
-      "Volume": 149515.0
+      "Open": 0.26100000739097595,
+      "High": 0.27399998903274536,
+      "Low": 0.25999999046325684,
+      "Close": 0.27300000190734863,
+      "Volume": 151600.0
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 0.265500009059906,
+      "High": 0.2782000005245209,
+      "Low": 0.26339998841285706,
+      "Close": 0.2702000141143799,
+      "Volume": 155038.0
     }
   ]
 }

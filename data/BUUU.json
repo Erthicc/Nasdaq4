@@ -1,20 +1,20 @@
 {
   "ticker": "BUUU",
   "indicators": {
-    "score_0_100": 64.7,
-    "score_0_10": 6.47,
+    "score_0_100": 60.94,
+    "score_0_10": 6.09,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.039952459966661774,
-    "macd_slope": 0.01297750737201335,
+    "macd_hist": 0.025109875577275287,
+    "macd_slope": 0.012449475416592708,
     "rsi": 52.013420119231604,
-    "rsi_slope": 1.6100291334235546,
-    "wave_strength": 1.105062993795995,
-    "adx": 17.983381696234968,
-    "atr": 0.9061067011304674,
-    "obv_slope": 16870.5,
+    "rsi_slope": 1.6851235014371078,
+    "wave_strength": 1.1072979461817956,
+    "adx": 18.775910384579067,
+    "atr": 0.9420991027818103,
+    "obv_slope": 16508.64285714286,
     "mom14": 0.0,
-    "avg_vol20": 41015.65,
-    "last_close": 8.0,
+    "avg_vol20": 41298.95,
+    "last_close": 7.989999771118164,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -547,7 +547,15 @@
       "High": 8.0,
       "Low": 7.820000171661377,
       "Close": 8.0,
-      "Volume": 1713.0
+      "Volume": 2800.0
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 7.5,
+      "High": 8.010000228881836,
+      "Low": 6.599999904632568,
+      "Close": 7.989999771118164,
+      "Volume": 5579.0
     }
   ]
 }

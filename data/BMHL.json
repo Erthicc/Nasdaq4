@@ -1,20 +1,20 @@
 {
   "ticker": "BMHL",
   "indicators": {
-    "score_0_100": 64.93,
-    "score_0_10": 6.49,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.014943084773953896,
-    "macd_slope": 0.0013489247272499203,
-    "rsi": 51.65234450451964,
-    "rsi_slope": 0.2702593079718985,
-    "wave_strength": 0.9628983336888782,
-    "adx": 29.70707717680745,
-    "atr": 0.2888047802584507,
-    "obv_slope": 1142.0714285714287,
+    "score_0_100": 62.04,
+    "score_0_10": 6.2,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.032884881385930695,
+    "macd_slope": 0.0012590477061302438,
+    "rsi": 49.63855144627432,
+    "rsi_slope": 0.47155369680954706,
+    "wave_strength": 0.9599088181338669,
+    "adx": 28.328115773803557,
+    "atr": 0.28077791321082946,
+    "obv_slope": 1314.5,
     "mom14": 0.0,
-    "avg_vol20": 4959.45,
-    "last_close": 3.5,
+    "avg_vol20": 4180.15,
+    "last_close": 3.549999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -736,10 +736,18 @@
     {
       "Date": "2025-11-14",
       "Open": 3.1700000762939453,
-      "High": 3.5,
+      "High": 3.549999952316284,
       "Low": 3.1500000953674316,
       "Close": 3.5,
-      "Volume": 3289.0
+      "Volume": 5200.0
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 3.630000114440918,
+      "High": 3.630000114440918,
+      "Low": 3.549999952316284,
+      "Close": 3.549999952316284,
+      "Volume": 903.0
     }
   ]
 }

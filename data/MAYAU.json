@@ -1,16 +1,16 @@
 {
   "ticker": "MAYAU",
   "indicators": {
-    "score_0_100": 67.76,
-    "score_0_10": 6.78,
+    "score_0_100": 64.25,
+    "score_0_10": 6.43,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.005533757034866582,
-    "macd_slope": -0.003358371986776833,
+    "macd_hist": -0.007232550773963453,
+    "macd_slope": -0.0036107742898733113,
     "rsi": 0.0,
     "rsi_slope": -7.14285685714318,
     "wave_strength": 1.0,
-    "adx": 95.95317019380691,
-    "atr": 0.036979527456542594,
+    "adx": 96.21767847810854,
+    "atr": 0.034338132638218125,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 30.0,
@@ -1535,6 +1535,14 @@
     },
     {
       "Date": "2025-11-13",
+      "Open": 11.0,
+      "High": 11.0,
+      "Low": 11.0,
+      "Close": 11.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-14",
       "Open": 11.0,
       "High": 11.0,
       "Low": 11.0,

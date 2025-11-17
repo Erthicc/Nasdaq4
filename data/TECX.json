@@ -1,34 +1,26 @@
 {
   "ticker": "TECX",
   "indicators": {
-    "score_0_100": 65.92,
-    "score_0_10": 6.59,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.032664395236625565,
-    "macd_slope": -0.019544883002393217,
-    "rsi": 49.62756093625784,
-    "rsi_slope": -1.2994179772334806,
-    "wave_strength": 1.0454707942526658,
-    "adx": 39.47238063002061,
-    "atr": 1.9154974477735238,
-    "obv_slope": -136029.0,
+    "score_0_100": 60.99,
+    "score_0_10": 6.1,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
+    "macd_hist": 0.014467840297345436,
+    "macd_slope": -0.01729079755912146,
+    "rsi": 52.46062896205303,
+    "rsi_slope": -0.665362127447776,
+    "wave_strength": 1.023122394549111,
+    "adx": 39.292303171387516,
+    "atr": 1.8815333827091723,
+    "obv_slope": -146517.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 675434.7,
-    "last_close": 18.540000915527344,
+    "avg_vol20": 668192.4,
+    "last_close": 18.3799991607666,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 15.359999656677246,
-      "High": 15.720000267028809,
-      "Low": 15.0,
-      "Close": 15.720000267028809,
-      "Volume": 28858
-    },
     {
       "Date": "2024-02-16",
       "Open": 15.359999656677246,
@@ -3539,7 +3531,15 @@
       "High": 19.149999618530273,
       "Low": 17.170000076293945,
       "Close": 18.540000915527344,
-      "Volume": 419994
+      "Volume": 422900
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 18.510000228881836,
+      "High": 19.110000610351562,
+      "Low": 17.670000076293945,
+      "Close": 18.3799991607666,
+      "Volume": 409148
     }
   ]
 }

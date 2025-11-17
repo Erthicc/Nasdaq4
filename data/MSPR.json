@@ -1,34 +1,26 @@
 {
   "ticker": "MSPR",
   "indicators": {
-    "score_0_100": 69.79,
-    "score_0_10": 6.98,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.042232075595021845,
-    "macd_slope": -0.0006182186348794583,
-    "rsi": 40.659780081074075,
-    "rsi_slope": 0.5468703208989508,
-    "wave_strength": 0.9477218792225819,
-    "adx": 13.342816620851638,
-    "atr": 0.23225857723381624,
-    "obv_slope": 93097204.71428572,
+    "score_0_100": 67.36,
+    "score_0_10": 6.74,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.048050005685484676,
+    "macd_slope": -0.0009229970506552863,
+    "rsi": 39.28516514508373,
+    "rsi_slope": -0.14034530796986036,
+    "wave_strength": 0.9791231807281727,
+    "adx": 13.172105536913136,
+    "atr": 0.22562582218308838,
+    "obv_slope": 94909213.57142857,
     "mom14": 0.0,
-    "avg_vol20": 84792011.7,
-    "last_close": 0.44940000772476196,
+    "avg_vol20": 87152999.5,
+    "last_close": 0.5321000218391418,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 139.125,
-      "High": 145.25,
-      "Low": 136.5,
-      "Close": 143.6750030517578,
-      "Volume": 1109
-    },
     {
       "Date": "2024-02-16",
       "Open": 143.5,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-14",
-      "Open": 0.46309998631477356,
+      "Open": 0.46299999952316284,
       "High": 0.4779999852180481,
       "Low": 0.4490000009536743,
-      "Close": 0.44940000772476196,
-      "Volume": 1760234
+      "Close": 0.4490000009536743,
+      "Volume": 11238000
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 0.5490000247955322,
+      "High": 0.5884000062942505,
+      "Low": 0.4912000000476837,
+      "Close": 0.5321000218391418,
+      "Volume": 38142390
     }
   ]
 }

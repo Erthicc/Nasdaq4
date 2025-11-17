@@ -1,34 +1,26 @@
 {
   "ticker": "BKYI",
   "indicators": {
-    "score_0_100": 71.47,
-    "score_0_10": 7.15,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.018926491354540623,
-    "macd_slope": -2.3894121836209275e-05,
-    "rsi": 46.6605685443813,
-    "rsi_slope": -2.0242449597419934,
-    "wave_strength": 1.1831432917433324,
-    "adx": 42.82368995714565,
-    "atr": 0.16558156437942095,
-    "obv_slope": 35541682.78571428,
+    "score_0_100": 68.09,
+    "score_0_10": 6.81,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.02103093555088965,
+    "macd_slope": -0.00016859450903192581,
+    "rsi": 51.65345183723934,
+    "rsi_slope": -1.0320172873704014,
+    "wave_strength": 1.1662719336740501,
+    "adx": 44.126914330419986,
+    "atr": 0.15949717045308182,
+    "obv_slope": 36104828.071428575,
     "mom14": 0.0,
-    "avg_vol20": 40612042.05,
-    "last_close": 0.9470000267028809,
+    "avg_vol20": 40705744.65,
+    "last_close": 0.9742000102996826,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 1.8700000047683716,
-      "High": 1.9600000381469727,
-      "Low": 1.8300000429153442,
-      "Close": 1.8300000429153442,
-      "Volume": 57500
-    },
     {
       "Date": "2024-02-16",
       "Open": 1.7899999618530273,
@@ -3538,8 +3530,16 @@
       "Open": 0.949999988079071,
       "High": 1.0299999713897705,
       "Low": 0.9200000166893005,
-      "Close": 0.9470000267028809,
-      "Volume": 2456441
+      "Close": 0.949999988079071,
+      "Volume": 2464200
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 0.9860000014305115,
+      "High": 1.030400037765503,
+      "Low": 0.9700000286102295,
+      "Close": 0.9742000102996826,
+      "Volume": 1913193
     }
   ]
 }

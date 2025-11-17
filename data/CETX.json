@@ -1,34 +1,26 @@
 {
   "ticker": "CETX",
   "indicators": {
-    "score_0_100": 66.79,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.06376792750815163,
-    "macd_slope": -0.01928527577457518,
-    "rsi": 27.35849190799668,
-    "rsi_slope": -1.8152562264348866,
-    "wave_strength": 1.0405934821558507,
-    "adx": 35.29150261391633,
-    "atr": 0.5423386013056419,
-    "obv_slope": -29959.714285714286,
+    "score_0_100": 63.35,
+    "score_0_10": 6.34,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.015715382562073388,
+    "macd_slope": -0.02059391151942427,
+    "rsi": 27.61905179797401,
+    "rsi_slope": -1.1713573475751093,
+    "wave_strength": 1.0713907188799625,
+    "adx": 36.369666748107655,
+    "atr": 0.5236001687912415,
+    "obv_slope": -33360.78571428572,
     "mom14": 0.0,
-    "avg_vol20": 89876.8,
-    "last_close": 3.3399999141693115,
+    "avg_vol20": 76877.55,
+    "last_close": 3.200000047683716,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 97650.0,
-      "High": 100485.0,
-      "Low": 97650.0,
-      "Close": 100485.0,
-      "Volume": 0
-    },
     {
       "Date": "2024-02-16",
       "Open": 103635.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-14",
-      "Open": 3.640000104904175,
-      "High": 3.699899911880493,
+      "Open": 3.700000047683716,
+      "High": 3.700000047683716,
       "Low": 3.2300000190734863,
       "Close": 3.3399999141693115,
-      "Volume": 66336
+      "Volume": 97300
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 3.299999952316284,
+      "High": 3.3499999046325684,
+      "Low": 3.069999933242798,
+      "Close": 3.200000047683716,
+      "Volume": 67451
     }
   ]
 }

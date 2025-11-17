@@ -1,16 +1,16 @@
 {
   "ticker": "LPAAU",
   "indicators": {
-    "score_0_100": 66.76,
-    "score_0_10": 6.68,
+    "score_0_100": 63.21,
+    "score_0_10": 6.32,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.003964121653540251,
-    "macd_slope": -0.0015224218789915455,
+    "macd_hist": -0.004638720278914266,
+    "macd_slope": -0.0016055434524205184,
     "rsi": 0.0,
     "rsi_slope": -7.142856517856601,
     "wave_strength": 1.0,
-    "adx": 81.5278360975161,
-    "atr": 0.005405514554101633,
+    "adx": 82.59827743844805,
+    "atr": 0.0050194063712083,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 50.0,
@@ -2719,6 +2719,14 @@
     },
     {
       "Date": "2025-11-13",
+      "Open": 10.75,
+      "High": 10.75,
+      "Low": 10.75,
+      "Close": 10.75,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-14",
       "Open": 10.75,
       "High": 10.75,
       "Low": 10.75,

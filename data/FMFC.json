@@ -1,20 +1,20 @@
 {
   "ticker": "FMFC",
   "indicators": {
-    "score_0_100": 89.3,
-    "score_0_10": 8.93,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06080630335253234,
-    "macd_slope": 0.045339609522454305,
-    "rsi": 1.9080313845109345,
-    "rsi_slope": -1.567264854302941,
-    "wave_strength": 2.733437801959357,
-    "adx": 65.89695942252273,
-    "atr": 0.9288158475552519,
-    "obv_slope": 960255.0,
+    "score_0_100": 82.41,
+    "score_0_10": 8.24,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.13091660643577852,
+    "macd_slope": 0.056176258251069054,
+    "rsi": 3.024456293552305,
+    "rsi_slope": -1.3042377563095247,
+    "wave_strength": 0.24008446586101884,
+    "adx": 66.02441842266985,
+    "atr": 0.868891753394893,
+    "obv_slope": 978357.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 3047233.5,
-    "last_close": 0.6725999712944031,
+    "avg_vol20": 3054909.9,
+    "last_close": 0.6266000270843506,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -824,10 +824,18 @@
     {
       "Date": "2025-11-14",
       "Open": 0.6890000104904175,
-      "High": 0.7497000098228455,
-      "Low": 0.6725999712944031,
-      "Close": 0.6725999712944031,
-      "Volume": 719670.0
+      "High": 0.75,
+      "Low": 0.6729999780654907,
+      "Close": 0.6729999780654907,
+      "Volume": 725900.0
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 0.6011000275611877,
+      "High": 0.6906999945640564,
+      "Low": 0.6011000275611877,
+      "Close": 0.6266000270843506,
+      "Volume": 362398.0
     }
   ]
 }
