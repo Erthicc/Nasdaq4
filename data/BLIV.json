@@ -1,8 +1,8 @@
 {
   "ticker": "BLIV",
   "indicators": {
-    "score_0_100": 64.54,
-    "score_0_10": 6.45,
+    "score_0_100": 65.59,
+    "score_0_10": 6.56,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
     "macd_hist": 0.002527439398808626,
     "macd_slope": 0.0016329918304576663,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0338775343428221,
     "adx": 64.34058573073276,
     "atr": 0.15413602639136106,
-    "obv_slope": -456.14285714285717,
+    "obv_slope": -442.85714285714283,
     "mom14": 0.0,
-    "avg_vol20": 2450.7,
+    "avg_vol20": 2460.0,
     "last_close": 3.5999999046325684,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1275,7 +1275,7 @@
       "High": 3.5999999046325684,
       "Low": 3.4000000953674316,
       "Close": 3.5999999046325684,
-      "Volume": 1714.0
+      "Volume": 1900.0
     }
   ]
 }

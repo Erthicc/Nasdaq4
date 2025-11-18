@@ -1,34 +1,26 @@
 {
   "ticker": "SDA",
   "indicators": {
-    "score_0_100": 60.47,
-    "score_0_10": 6.05,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.006619470255233309,
-    "macd_slope": 0.0007004093913770103,
-    "rsi": 30.769238571073927,
-    "rsi_slope": -0.5998161652928832,
-    "wave_strength": 0.9909208689443773,
-    "adx": 25.73822968782539,
-    "atr": 0.17953946292971887,
-    "obv_slope": 81137.0,
+    "score_0_100": 63.53,
+    "score_0_10": 6.35,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.00502501206256023,
+    "macd_slope": -0.00029878726061360883,
+    "rsi": 27.69231330320467,
+    "rsi_slope": -0.9145394025441276,
+    "wave_strength": 0.9543676939528546,
+    "adx": 24.6645125980327,
+    "atr": 0.17100093427402285,
+    "obv_slope": -55813.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 503755.9,
-    "last_close": 1.8300000429153442,
+    "avg_vol20": 502614.2,
+    "last_close": 1.809999942779541,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 6.360000133514404,
-      "High": 6.849999904632568,
-      "Low": 6.360000133514404,
-      "Close": 6.429999828338623,
-      "Volume": 327700
-    },
     {
       "Date": "2024-02-20",
       "Open": 6.320000171661377,
@@ -3539,7 +3531,15 @@
       "High": 1.840000033378601,
       "Low": 1.7400000095367432,
       "Close": 1.8300000429153442,
-      "Volume": 66818
+      "Volume": 66800
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 1.7999999523162842,
+      "High": 1.840000033378601,
+      "Low": 1.7799999713897705,
+      "Close": 1.809999942779541,
+      "Volume": 82384
     }
   ]
 }

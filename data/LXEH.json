@@ -1,34 +1,26 @@
 {
   "ticker": "LXEH",
   "indicators": {
-    "score_0_100": 62.66,
-    "score_0_10": 6.27,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.05814987360737889,
-    "macd_slope": 0.002911227290781685,
-    "rsi": 28.14814260050376,
-    "rsi_slope": -0.711941822341356,
-    "wave_strength": 0.9011494029543172,
-    "adx": 30.592110956436773,
-    "atr": 0.10963100337092915,
-    "obv_slope": 16887.928571428572,
+    "score_0_100": 66.58,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.05537329247965178,
+    "macd_slope": 0.0016285154677889396,
+    "rsi": 23.920023437897285,
+    "rsi_slope": -1.1283063528166974,
+    "wave_strength": 0.9016779709369414,
+    "adx": 30.285498803205392,
+    "atr": 0.10422572733688631,
+    "obv_slope": -44899.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 1636483.45,
-    "last_close": 0.3779999911785126,
+    "avg_vol20": 1629819.6,
+    "last_close": 0.3589000105857849,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 46.70000076293945,
-      "High": 48.0,
-      "Low": 43.20000076293945,
-      "Close": 46.70000076293945,
-      "Volume": 11760
-    },
     {
       "Date": "2024-02-20",
       "Open": 45.38999938964844,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-17",
-      "Open": 0.4034000039100647,
-      "High": 0.4034000039100647,
-      "Low": 0.37540000677108765,
+      "Open": 0.40299999713897705,
+      "High": 0.40299999713897705,
+      "Low": 0.37299999594688416,
       "Close": 0.3779999911785126,
-      "Volume": 47069
+      "Volume": 115200
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 0.3824999928474426,
+      "High": 0.3831999897956848,
+      "Low": 0.35109999775886536,
+      "Close": 0.3589000105857849,
+      "Volume": 155892
     }
   ]
 }

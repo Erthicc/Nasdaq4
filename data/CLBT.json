@@ -1,34 +1,26 @@
 {
   "ticker": "CLBT",
   "indicators": {
-    "score_0_100": 63.06,
-    "score_0_10": 6.31,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.23008003589793413,
-    "macd_slope": 0.02490991056362198,
-    "rsi": 48.152426593849626,
-    "rsi_slope": 0.2693145213130507,
-    "wave_strength": 1.11969340148897,
-    "adx": 34.22498860560286,
-    "atr": 0.825982526217512,
-    "obv_slope": -165852.85714285713,
+    "score_0_100": 61.36,
+    "score_0_10": 6.14,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.2604351378692835,
+    "macd_slope": 0.031173381720069317,
+    "rsi": 55.91677499521776,
+    "rsi_slope": 1.502511868422793,
+    "wave_strength": 1.1203440480546563,
+    "adx": 33.581347020602195,
+    "atr": 0.8147899010857019,
+    "obv_slope": 75927.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 1479217.0,
-    "last_close": 18.170000076293945,
+    "avg_vol20": 1497213.95,
+    "last_close": 18.299999237060547,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 11.010000228881836,
-      "High": 11.449999809265137,
-      "Low": 10.899999618530273,
-      "Close": 11.390000343322754,
-      "Volume": 2458800
-    },
     {
       "Date": "2024-02-20",
       "Open": 11.770000457763672,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-17",
       "Open": 18.329999923706055,
       "High": 18.674999237060547,
-      "Low": 18.059999465942383,
+      "Low": 18.049999237060547,
       "Close": 18.170000076293945,
-      "Volume": 1872440
+      "Volume": 1896600
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 18.010000228881836,
+      "High": 18.469999313354492,
+      "Low": 17.809999465942383,
+      "Close": 18.299999237060547,
+      "Volume": 1431679
     }
   ]
 }

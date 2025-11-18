@@ -1,34 +1,26 @@
 {
   "ticker": "QRHC",
   "indicators": {
-    "score_0_100": 61.49,
-    "score_0_10": 6.15,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.036324348892247615,
-    "macd_slope": 0.0009232287460835145,
-    "rsi": 59.74025583921451,
-    "rsi_slope": 0.344444508706466,
-    "wave_strength": 1.0555363717740265,
-    "adx": 16.993939831757793,
-    "atr": 0.15802748144368425,
-    "obv_slope": 1035.0714285714287,
+    "score_0_100": 60.93,
+    "score_0_10": 6.09,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0327049917570508,
+    "macd_slope": -7.416661018365312e-05,
+    "rsi": 52.87356646246727,
+    "rsi_slope": -0.34893224946334706,
+    "wave_strength": 1.1736608836387146,
+    "adx": 18.368389217932613,
+    "atr": 0.15869592785950087,
+    "obv_slope": 9365.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 193169.55,
-    "last_close": 1.7200000286102295,
+    "avg_vol20": 191264.0,
+    "last_close": 1.6100000143051147,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 7.090000152587891,
-      "High": 7.090000152587891,
-      "Low": 6.860000133514404,
-      "Close": 7.059999942779541,
-      "Volume": 13800
-    },
     {
       "Date": "2024-02-20",
       "Open": 7.039999961853027,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-17",
       "Open": 1.6299999952316284,
       "High": 1.7599999904632568,
-      "Low": 1.5717999935150146,
+      "Low": 1.5099999904632568,
       "Close": 1.7200000286102295,
-      "Volume": 223291
+      "Volume": 289300
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 1.7200000286102295,
+      "High": 1.7200000286102295,
+      "Low": 1.6100000143051147,
+      "Close": 1.6100000143051147,
+      "Volume": 151780
     }
   ]
 }

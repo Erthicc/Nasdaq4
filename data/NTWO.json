@@ -1,20 +1,20 @@
 {
   "ticker": "NTWO",
   "indicators": {
-    "score_0_100": 59.84,
-    "score_0_10": 5.98,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.001496956974359565,
-    "macd_slope": -5.441074105657606e-05,
-    "rsi": 53.73140140359824,
-    "rsi_slope": -0.382820301642531,
-    "wave_strength": 1.0017479337290198,
-    "adx": 31.289197635291437,
-    "atr": 0.017183760016322425,
-    "obv_slope": 2035.7142857142858,
+    "score_0_100": 62.95,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.00418075614728187,
+    "macd_slope": 0.0002522357814964657,
+    "rsi": 49.99999513892335,
+    "rsi_slope": -0.1879548993900738,
+    "wave_strength": 1.0017238204263819,
+    "adx": 27.838171753599408,
+    "atr": 0.016245213527805592,
+    "obv_slope": 2592.6428571428573,
     "mom14": 0.0,
-    "avg_vol20": 3580.0,
-    "last_close": 10.420000076293945,
+    "avg_vol20": 3450.15,
+    "last_close": 10.399999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1796,6 +1796,22 @@
       "Low": 10.420000076293945,
       "Close": 10.420000076293945,
       "Volume": 200.0
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 10.420000076293945,
+      "High": 10.420000076293945,
+      "Low": 10.420000076293945,
+      "Close": 10.420000076293945,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 10.399999618530273,
+      "High": 10.399999618530273,
+      "Low": 10.399999618530273,
+      "Close": 10.399999618530273,
+      "Volume": 103.0
     }
   ]
 }

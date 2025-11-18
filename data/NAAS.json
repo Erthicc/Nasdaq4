@@ -1,34 +1,26 @@
 {
   "ticker": "NAAS",
   "indicators": {
-    "score_0_100": 61.88,
-    "score_0_10": 6.19,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.02962514247160767,
-    "macd_slope": 0.004225741882974092,
-    "rsi": 59.0277780087433,
-    "rsi_slope": 1.1318542050155433,
-    "wave_strength": 1.0178139077382007,
-    "adx": 13.73240413998049,
-    "atr": 0.2759926243473584,
-    "obv_slope": 4105.714285714285,
+    "score_0_100": 60.87,
+    "score_0_10": 6.09,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.02823416472316675,
+    "macd_slope": 0.0029896539311953696,
+    "rsi": 52.77778324352211,
+    "rsi_slope": 0.8585351871750291,
+    "wave_strength": 1.0683335658075364,
+    "adx": 13.524993810920039,
+    "atr": 0.26697171766228406,
+    "obv_slope": 1631.5,
     "mom14": 0.0,
-    "avg_vol20": 12249.0,
-    "last_close": 3.759999990463257,
+    "avg_vol20": 11532.95,
+    "last_close": 3.6700000762939453,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 524.7999877929688,
-      "High": 592.0,
-      "Low": 524.7999877929688,
-      "Close": 582.4000244140625,
-      "Volume": 3873
-    },
     {
       "Date": "2024-02-20",
       "Open": 592.0,
@@ -3539,7 +3531,15 @@
       "High": 3.799999952316284,
       "Low": 3.5999999046325684,
       "Close": 3.759999990463257,
-      "Volume": 9380
+      "Volume": 10600
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 3.75,
+      "High": 3.7997000217437744,
+      "Low": 3.6500000953674316,
+      "Close": 3.6700000762939453,
+      "Volume": 6159
     }
   ]
 }

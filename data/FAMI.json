@@ -1,34 +1,26 @@
 {
   "ticker": "FAMI",
   "indicators": {
-    "score_0_100": 59.96,
-    "score_0_10": 6.0,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.0007862243756921461,
-    "macd_slope": 0.0001304628739998769,
-    "rsi": 30.35712917373087,
-    "rsi_slope": -1.1283366604997944,
-    "wave_strength": 0.9483022057237634,
-    "adx": 19.872644147342413,
-    "atr": 0.08023977289077992,
-    "obv_slope": -124.92857142857143,
+    "score_0_100": 62.77,
+    "score_0_10": 6.28,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.0014245532168399438,
+    "macd_slope": 0.000382277666715916,
+    "rsi": 27.997352875391,
+    "rsi_slope": -1.3335221095158996,
+    "wave_strength": 0.9652628773439201,
+    "adx": 19.95551550148241,
+    "atr": 0.08002265019303675,
+    "obv_slope": 280.0,
     "mom14": 0.0,
-    "avg_vol20": 12277.55,
-    "last_close": 1.559999942779541,
+    "avg_vol20": 11259.0,
+    "last_close": 1.5027999877929688,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 16.200000762939453,
-      "High": 16.799999237060547,
-      "Low": 15.0,
-      "Close": 15.119999885559082,
-      "Volume": 11742
-    },
     {
       "Date": "2024-02-20",
       "Open": 14.880000114440918,
@@ -3539,7 +3531,15 @@
       "High": 1.5700000524520874,
       "Low": 1.559999942779541,
       "Close": 1.559999942779541,
-      "Volume": 2351
+      "Volume": 2900
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 1.5,
+      "High": 1.5772000551223755,
+      "Low": 1.5,
+      "Close": 1.5027999877929688,
+      "Volume": 1480
     }
   ]
 }

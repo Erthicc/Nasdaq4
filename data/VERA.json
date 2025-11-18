@@ -1,34 +1,26 @@
 {
   "ticker": "VERA",
   "indicators": {
-    "score_0_100": 62.26,
-    "score_0_10": 6.23,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.1861573021661104,
-    "macd_slope": 0.03651064162994499,
-    "rsi": 48.70867718255311,
-    "rsi_slope": 0.12397063136454937,
-    "wave_strength": 1.1019908855468683,
-    "adx": 25.654211371834936,
-    "atr": 2.032695313798329,
-    "obv_slope": -65788.14285714286,
+    "score_0_100": 63.38,
+    "score_0_10": 6.34,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 0.18563381183082062,
+    "macd_slope": 0.037635957300416065,
+    "rsi": 48.83479823302523,
+    "rsi_slope": 0.35708463484864084,
+    "wave_strength": 1.0471873848554578,
+    "adx": 25.202663478954264,
+    "atr": 1.9725028294785616,
+    "obv_slope": -54863.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 1604563.3,
-    "last_close": 29.459999084472656,
+    "avg_vol20": 1635699.5,
+    "last_close": 28.90999984741211,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-16",
-      "Open": 45.29999923706055,
-      "High": 46.79999923706055,
-      "Low": 44.630001068115234,
-      "Close": 45.959999084472656,
-      "Volume": 637600
-    },
     {
       "Date": "2024-02-20",
       "Open": 45.599998474121094,
@@ -3539,7 +3531,15 @@
       "High": 29.899999618530273,
       "Low": 27.850000381469727,
       "Close": 29.459999084472656,
-      "Volume": 1345666
+      "Volume": 1380800
+    },
+    {
+      "Date": "2025-11-18",
+      "Open": 29.0,
+      "High": 29.84000015258789,
+      "Low": 28.649999618530273,
+      "Close": 28.90999984741211,
+      "Volume": 1404590
     }
   ]
 }
