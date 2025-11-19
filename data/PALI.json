@@ -1,34 +1,26 @@
 {
   "ticker": "PALI",
   "indicators": {
-    "score_0_100": 63.92,
-    "score_0_10": 6.39,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.001523660622147427,
-    "macd_slope": 0.0014695308904521234,
-    "rsi": 48.44720592734804,
-    "rsi_slope": -0.16051696066736806,
-    "wave_strength": 1.1437734478852424,
-    "adx": 30.085398258833354,
-    "atr": 0.22078843746930518,
-    "obv_slope": 171781.07142857142,
+    "score_0_100": 60.53,
+    "score_0_10": 6.05,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.008532056860142023,
+    "macd_slope": 0.0018741725329414918,
+    "rsi": 57.51633893559144,
+    "rsi_slope": 0.6778587171829048,
+    "wave_strength": 1.127502695571398,
+    "adx": 30.713086261504916,
+    "atr": 0.22287497764472078,
+    "obv_slope": 920678.9285714285,
     "mom14": 0.0,
-    "avg_vol20": 4366861.75,
-    "last_close": 2.069999933242798,
+    "avg_vol20": 4358890.25,
+    "last_close": 2.1700000762939453,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 6.75,
-      "High": 6.75,
-      "Low": 6.449999809265137,
-      "Close": 6.599999904632568,
-      "Volume": 9187
-    },
     {
       "Date": "2024-02-21",
       "Open": 6.449999809265137,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-18",
-      "Open": 2.0199999809265137,
+      "Open": 2.0299999713897705,
       "High": 2.190000057220459,
       "Low": 2.0,
       "Close": 2.069999933242798,
-      "Volume": 2840235
+      "Volume": 2892400
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 2.0899999141693115,
+      "High": 2.319999933242798,
+      "Low": 2.0899999141693115,
+      "Close": 2.1700000762939453,
+      "Volume": 4971905
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "WHLR",
   "indicators": {
-    "score_0_100": 62.43,
-    "score_0_10": 6.24,
+    "score_0_100": 61.13,
+    "score_0_10": 6.11,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.12032722999111667,
-    "macd_slope": -0.0021513584032970385,
-    "rsi": 30.29045206854238,
-    "rsi_slope": 0.8346993181030921,
-    "wave_strength": 0.9078616615451612,
-    "adx": 26.299592180885078,
-    "atr": 0.4246380256712802,
-    "obv_slope": 18261.5,
+    "macd_hist": 0.13543383849029733,
+    "macd_slope": -0.0009110755191390961,
+    "rsi": 32.365139211197516,
+    "rsi_slope": 0.7021368986529362,
+    "wave_strength": 0.9301404755619292,
+    "adx": 25.829077916328252,
+    "atr": 0.40790680745929003,
+    "obv_slope": 30216.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 143658.05,
-    "last_close": 2.049999952316284,
+    "avg_vol20": 142436.3,
+    "last_close": 2.0999999046325684,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 511056.0,
-      "High": 541296.0,
-      "Low": 498960.0,
-      "Close": 520128.0,
-      "Volume": 0
-    },
     {
       "Date": "2024-02-21",
       "Open": 486864.0,
@@ -3539,7 +3531,15 @@
       "High": 2.1500000953674316,
       "Low": 1.909999966621399,
       "Close": 2.049999952316284,
-      "Volume": 76761
+      "Volume": 79500
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 1.9500000476837158,
+      "High": 2.130000114440918,
+      "Low": 1.9395999908447266,
+      "Close": 2.0999999046325684,
+      "Volume": 80826
     }
   ]
 }

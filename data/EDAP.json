@@ -1,34 +1,26 @@
 {
   "ticker": "EDAP",
   "indicators": {
-    "score_0_100": 63.0,
-    "score_0_10": 6.3,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.009823259827710942,
-    "macd_slope": 0.00295065215193008,
-    "rsi": 47.107428784281446,
-    "rsi_slope": -0.22307038464555923,
-    "wave_strength": 1.0005899221177785,
-    "adx": 28.645273377433494,
-    "atr": 0.1985030411433292,
-    "obv_slope": 3305.3571428571427,
+    "score_0_100": 60.82,
+    "score_0_10": 6.08,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.01930313471358555,
+    "macd_slope": 0.0034330828750056145,
+    "rsi": 54.41176049197248,
+    "rsi_slope": 0.1434222456772812,
+    "wave_strength": 1.0026010345099983,
+    "adx": 28.12435174585116,
+    "atr": 0.19544160865648838,
+    "obv_slope": 9508.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 53573.75,
-    "last_close": 2.1449999809265137,
+    "avg_vol20": 53131.0,
+    "last_close": 2.2300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 5.909999847412109,
-      "High": 6.139999866485596,
-      "Low": 5.630000114440918,
-      "Close": 5.789999961853027,
-      "Volume": 37900
-    },
     {
       "Date": "2024-02-21",
       "Open": 5.789999961853027,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-18",
       "Open": 2.140000104904175,
-      "High": 2.184999942779541,
+      "High": 2.190000057220459,
       "Low": 1.9500000476837158,
-      "Close": 2.1449999809265137,
-      "Volume": 27275
+      "Close": 2.1500000953674316,
+      "Volume": 31300
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 2.200000047683716,
+      "High": 2.2709999084472656,
+      "Low": 2.119999885559082,
+      "Close": 2.2300000190734863,
+      "Volume": 42720
     }
   ]
 }

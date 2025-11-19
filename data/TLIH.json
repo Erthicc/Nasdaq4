@@ -1,20 +1,20 @@
 {
   "ticker": "TLIH",
   "indicators": {
-    "score_0_100": 64.79,
-    "score_0_10": 6.48,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.0037827784455723157,
-    "macd_slope": -0.0005441218765250307,
-    "rsi": 25.64102729014094,
-    "rsi_slope": -1.5982031627399198,
-    "wave_strength": 1.0496351197663876,
-    "adx": 17.968948551929763,
-    "atr": 0.046315663796300956,
-    "obv_slope": -71807.71428571429,
+    "score_0_100": 62.25,
+    "score_0_10": 6.23,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.0021630449703679278,
+    "macd_slope": -0.0006768161531665333,
+    "rsi": 29.928741456166975,
+    "rsi_slope": -1.3332595023752505,
+    "wave_strength": 1.0589139344821648,
+    "adx": 17.26360078896273,
+    "atr": 0.04503393295355403,
+    "obv_slope": 16701.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 3960370.4,
-    "last_close": 0.38029998540878296,
+    "avg_vol20": 3961383.75,
+    "last_close": 0.37049999833106995,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -775,11 +775,19 @@
     },
     {
       "Date": "2025-11-18",
-      "Open": 0.3792000114917755,
-      "High": 0.3882000148296356,
-      "Low": 0.36640000343322754,
-      "Close": 0.38029998540878296,
-      "Volume": 117208.0
+      "Open": 0.3779999911785126,
+      "High": 0.3880000114440918,
+      "Low": 0.3659999966621399,
+      "Close": 0.3799999952316284,
+      "Volume": 117800.0
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 0.38839998841285706,
+      "High": 0.3889999985694885,
+      "Low": 0.3610000014305115,
+      "Close": 0.37049999833106995,
+      "Volume": 63175.0
     }
   ]
 }

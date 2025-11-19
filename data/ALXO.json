@@ -1,34 +1,26 @@
 {
   "ticker": "ALXO",
   "indicators": {
-    "score_0_100": 61.84,
-    "score_0_10": 6.18,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.015074485323883946,
-    "macd_slope": 0.0040787222132347145,
-    "rsi": 51.51514932677777,
-    "rsi_slope": 0.9702939030901108,
-    "wave_strength": 0.8872332877325166,
-    "adx": 20.553040509808415,
-    "atr": 0.18106204340516202,
-    "obv_slope": 32804.21428571428,
+    "score_0_100": 62.9,
+    "score_0_10": 6.29,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.016530514584191455,
+    "macd_slope": 0.0042559453320614804,
+    "rsi": 47.22222452259147,
+    "rsi_slope": 0.07169560808530306,
+    "wave_strength": 1.1092208252034543,
+    "adx": 19.600590798770202,
+    "atr": 0.18170046445013832,
+    "obv_slope": 21108.928571428572,
     "mom14": 0.0,
-    "avg_vol20": 402987.95,
-    "last_close": 1.6299999952316284,
+    "avg_vol20": 406443.75,
+    "last_close": 1.4700000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 15.850000381469727,
-      "High": 16.34000015258789,
-      "Low": 15.850000381469727,
-      "Close": 16.25,
-      "Volume": 261600
-    },
     {
       "Date": "2024-02-21",
       "Open": 16.1200008392334,
@@ -3539,7 +3531,15 @@
       "High": 1.6299999952316284,
       "Low": 1.5299999713897705,
       "Close": 1.6299999952316284,
-      "Volume": 327559
+      "Volume": 327700
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 1.649999976158142,
+      "High": 1.659999966621399,
+      "Low": 1.4700000286102295,
+      "Close": 1.4700000286102295,
+      "Volume": 286875
     }
   ]
 }

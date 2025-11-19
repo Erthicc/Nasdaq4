@@ -1,20 +1,20 @@
 {
   "ticker": "NESR",
   "indicators": {
-    "score_0_100": 62.51,
-    "score_0_10": 6.25,
+    "score_0_100": 62.25,
+    "score_0_10": 6.22,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.06387436177526307,
-    "macd_slope": -0.013433856125969392,
-    "rsi": 51.540036737680275,
-    "rsi_slope": -2.7563068387236216,
-    "wave_strength": 1.0795773033038394,
-    "adx": 43.4802743481642,
-    "atr": 0.6236333108284567,
-    "obv_slope": 46073.28571428572,
+    "macd_hist": 0.047720681067777715,
+    "macd_slope": -0.01542719353756729,
+    "rsi": 53.06553823033843,
+    "rsi_slope": -2.068979500039192,
+    "wave_strength": 1.090721207204114,
+    "adx": 44.26556177117,
+    "atr": 0.6111798330318441,
+    "obv_slope": 108176.71428571429,
     "mom14": 0.0,
-    "avg_vol20": 1440461.3,
-    "last_close": 14.25,
+    "avg_vol20": 1454011.3,
+    "last_close": 13.970000267028809,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2768,10 +2768,18 @@
     {
       "Date": "2025-11-18",
       "Open": 14.010000228881836,
-      "High": 14.390000343322754,
+      "High": 14.399999618530273,
       "Low": 13.859999656677246,
       "Close": 14.25,
-      "Volume": 1993126.0
+      "Volume": 2056100.0
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 14.010000228881836,
+      "High": 14.194999694824219,
+      "Low": 13.8100004196167,
+      "Close": 13.970000267028809,
+      "Volume": 912526.0
     }
   ]
 }

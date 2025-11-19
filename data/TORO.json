@@ -1,34 +1,26 @@
 {
   "ticker": "TORO",
   "indicators": {
-    "score_0_100": 62.3,
-    "score_0_10": 6.23,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0035644678986277503,
-    "macd_slope": 0.006385680141024274,
-    "rsi": 52.027024575632616,
-    "rsi_slope": 1.722861102941015,
-    "wave_strength": 1.0802203393294216,
-    "adx": 21.99626733759126,
-    "atr": 0.22786581031633438,
-    "obv_slope": 9815.785714285714,
+    "score_0_100": 61.88,
+    "score_0_10": 6.19,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0003301270131205458,
+    "macd_slope": 0.006501309580492254,
+    "rsi": 52.739722837283885,
+    "rsi_slope": 1.5879462079065776,
+    "wave_strength": 1.0241404322062546,
+    "adx": 21.638226371885803,
+    "atr": 0.22872589716578753,
+    "obv_slope": 10665.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 50196.05,
-    "last_close": 3.8499999046325684,
+    "avg_vol20": 47509.2,
+    "last_close": 3.7799999713897705,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 6.25,
-      "High": 6.38100004196167,
-      "Low": 6.170000076293945,
-      "Close": 6.170000076293945,
-      "Volume": 56500
-    },
     {
       "Date": "2024-02-21",
       "Open": 6.099999904632568,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-18",
       "Open": 3.7100000381469727,
       "High": 3.8499999046325684,
-      "Low": 3.646899938583374,
+      "Low": 3.6470000743865967,
       "Close": 3.8499999046325684,
-      "Volume": 17321
+      "Volume": 21300
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 3.7899999618530273,
+      "High": 3.790299892425537,
+      "Low": 3.609999895095825,
+      "Close": 3.7799999713897705,
+      "Volume": 16484
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "ALNY",
   "indicators": {
-    "score_0_100": 62.2,
-    "score_0_10": 6.22,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 1.375530291927741,
-    "macd_slope": 0.0925999057904554,
-    "rsi": 42.0636843781546,
-    "rsi_slope": -1.5953974193807774,
-    "wave_strength": 0.9997511491019113,
-    "adx": 20.77615494524012,
-    "atr": 15.355512577737967,
-    "obv_slope": 134609.0,
+    "score_0_100": 60.8,
+    "score_0_10": 6.08,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 1.6620457861052675,
+    "macd_slope": 0.24470327667668879,
+    "rsi": 56.151150535177536,
+    "rsi_slope": 0.7806069754679282,
+    "wave_strength": 1.0185601062807488,
+    "adx": 20.74360746099571,
+    "atr": 14.860119781259087,
+    "obv_slope": 238555.42857142858,
     "mom14": 0.0,
-    "avg_vol20": 1057801.3,
-    "last_close": 462.29998779296875,
+    "avg_vol20": 1056401.2,
+    "last_close": 460.760009765625,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 146.97999572753906,
-      "High": 150.05999755859375,
-      "Low": 145.80999755859375,
-      "Close": 149.69000244140625,
-      "Volume": 1338400
-    },
     {
       "Date": "2024-02-21",
       "Open": 150.30999755859375,
@@ -3539,7 +3531,15 @@
       "High": 469.1099853515625,
       "Low": 456.2699890136719,
       "Close": 462.29998779296875,
-      "Volume": 636926
+      "Volume": 668600
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 462.2699890136719,
+      "High": 465.32000732421875,
+      "Low": 456.8999938964844,
+      "Close": 460.760009765625,
+      "Volume": 890324
     }
   ]
 }

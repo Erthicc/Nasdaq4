@@ -1,34 +1,26 @@
 {
   "ticker": "DLPN",
   "indicators": {
-    "score_0_100": 62.15,
-    "score_0_10": 6.22,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0009498790874907931,
-    "macd_slope": -0.0019892833674491975,
-    "rsi": 47.422682261861745,
-    "rsi_slope": -1.1914197781165323,
-    "wave_strength": 1.0775216726217256,
-    "adx": 20.648247408230198,
-    "atr": 0.13974433240107664,
-    "obv_slope": 17222.571428571428,
+    "score_0_100": 60.52,
+    "score_0_10": 6.05,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.00038685852273524085,
+    "macd_slope": -0.0013682362308449695,
+    "rsi": 53.488374768258936,
+    "rsi_slope": -0.6436872870748351,
+    "wave_strength": 1.0695186893055473,
+    "adx": 19.873193214208932,
+    "atr": 0.14238300025980513,
+    "obv_slope": 18740.928571428572,
     "mom14": 0.0,
-    "avg_vol20": 43009.2,
-    "last_close": 1.7400000095367432,
+    "avg_vol20": 41951.35,
+    "last_close": 1.7300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 2.380000114440918,
-      "High": 2.7200000286102295,
-      "Low": 2.380000114440918,
-      "Close": 2.619999885559082,
-      "Volume": 14550
-    },
     {
       "Date": "2024-02-21",
       "Open": 2.5,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-18",
       "Open": 1.7999999523162842,
       "High": 1.7999999523162842,
-      "Low": 1.6971999406814575,
+      "Low": 1.690000057220459,
       "Close": 1.7400000095367432,
-      "Volume": 20684
+      "Volume": 21000
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 1.7000000476837158,
+      "High": 1.840000033378601,
+      "Low": 1.6699999570846558,
+      "Close": 1.7300000190734863,
+      "Volume": 16127
     }
   ]
 }
