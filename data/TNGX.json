@@ -1,34 +1,26 @@
 {
   "ticker": "TNGX",
   "indicators": {
-    "score_0_100": 60.66,
-    "score_0_10": 6.07,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.009282888440664189,
-    "macd_slope": 0.00968368176078226,
-    "rsi": 54.38108567979864,
-    "rsi_slope": -0.26602720269083385,
-    "wave_strength": 1.0339154743439614,
-    "adx": 15.334142531310436,
-    "atr": 0.6592703714078143,
-    "obv_slope": 992793.0,
+    "score_0_100": 63.3,
+    "score_0_10": 6.33,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.06159883601659073,
+    "macd_slope": 0.011775344277161473,
+    "rsi": 59.705159758859665,
+    "rsi_slope": 1.020380000145772,
+    "wave_strength": 1.0250298109971667,
+    "adx": 16.002555335139707,
+    "atr": 0.6682510482695696,
+    "obv_slope": 1052228.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 4785945.1,
-    "last_close": 8.28499984741211,
+    "avg_vol20": 3268084.8,
+    "last_close": 8.899999618530273,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 11.739999771118164,
-      "High": 11.800000190734863,
-      "Low": 10.65999984741211,
-      "Close": 11.0600004196167,
-      "Volume": 644100
-    },
     {
       "Date": "2024-02-22",
       "Open": 11.0,
@@ -3539,7 +3531,15 @@
       "High": 8.520000457763672,
       "Low": 7.829999923706055,
       "Close": 8.28499984741211,
-      "Volume": 5324202
+      "Volume": 5343700
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 8.5,
+      "High": 9.069999694824219,
+      "Low": 8.5,
+      "Close": 8.899999618530273,
+      "Volume": 3398396
     }
   ]
 }

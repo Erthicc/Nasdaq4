@@ -1,22 +1,22 @@
 {
   "ticker": "SIMA",
   "indicators": {
-    "score_0_100": 61.95,
-    "score_0_10": 6.19,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.0027953512605741297,
-    "macd_slope": 0.00019450085960655704,
-    "rsi": 60.00010659152044,
-    "rsi_slope": -0.37266934880738234,
-    "wave_strength": 1.0024944230683153,
-    "adx": 13.104260729334596,
-    "atr": 0.029573411116888524,
-    "obv_slope": 4312.785714285715,
+    "score_0_100": 60.71,
+    "score_0_10": 6.07,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.0014565377431763008,
+    "macd_slope": 0.00017377252864956682,
+    "rsi": 52.070389853658135,
+    "rsi_slope": 0.3579575143925986,
+    "wave_strength": 1.0071003794378985,
+    "adx": 12.668349724947458,
+    "atr": 0.03198246266232777,
+    "obv_slope": 4546.642857142857,
     "mom14": 0.0,
-    "avg_vol20": 5738.95,
-    "last_close": 10.640000343322754,
+    "avg_vol20": 5687.35,
+    "last_close": 10.576700210571289,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -2475,7 +2475,15 @@
       "High": 10.640000343322754,
       "Low": 10.600000381469727,
       "Close": 10.640000343322754,
-      "Volume": 3579.0
+      "Volume": 4000.0
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 10.576700210571289,
+      "High": 10.576700210571289,
+      "Low": 10.576700210571289,
+      "Close": 10.576700210571289,
+      "Volume": 547.0
     }
   ]
 }

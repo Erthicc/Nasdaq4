@@ -1,34 +1,26 @@
 {
   "ticker": "CHAI",
   "indicators": {
-    "score_0_100": 68.77,
-    "score_0_10": 6.88,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.025053544511981274,
-    "macd_slope": -0.0024941729461631806,
-    "rsi": 20.648965557686296,
-    "rsi_slope": -1.2619159693280417,
-    "wave_strength": 1.033957041294227,
-    "adx": 27.112230802479356,
-    "atr": 0.6106777971942579,
-    "obv_slope": -321771.28571428574,
+    "score_0_100": 70.25,
+    "score_0_10": 7.03,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.026620431977933734,
+    "macd_slope": -0.003931641788075146,
+    "rsi": 18.550722999987272,
+    "rsi_slope": -0.984417115532067,
+    "wave_strength": 1.0799073605075293,
+    "adx": 28.160893898212038,
+    "atr": 0.5910171314435281,
+    "obv_slope": -333498.35714285716,
     "mom14": 0.0,
-    "avg_vol20": 305324.9,
-    "last_close": 2.1700000762939453,
+    "avg_vol20": 295908.85,
+    "last_close": 2.049999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 2397.60009765625,
-      "High": 2397.60009765625,
-      "Low": 2268.0,
-      "Close": 2383.199951171875,
-      "Volume": 7
-    },
     {
       "Date": "2024-02-22",
       "Open": 2311.199951171875,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-19",
       "Open": 2.200000047683716,
       "High": 2.2899999618530273,
-      "Low": 2.049999952316284,
+      "Low": 2.0280001163482666,
       "Close": 2.1700000762939453,
-      "Volume": 93198
+      "Volume": 104100
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 2.1700000762939453,
+      "High": 2.3350000381469727,
+      "Low": 2.0199999809265137,
+      "Close": 2.049999952316284,
+      "Volume": 83177
     }
   ]
 }

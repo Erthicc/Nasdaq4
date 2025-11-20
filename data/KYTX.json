@@ -1,34 +1,26 @@
 {
   "ticker": "KYTX",
   "indicators": {
-    "score_0_100": 61.53,
-    "score_0_10": 6.15,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.06771105346121206,
-    "macd_slope": 0.010195879207309163,
-    "rsi": 62.758618270215344,
-    "rsi_slope": 0.8403744063718287,
-    "wave_strength": 1.0374354187826154,
-    "adx": 18.54240899150789,
-    "atr": 0.7292676843431328,
-    "obv_slope": 27623.071428571428,
+    "score_0_100": 60.64,
+    "score_0_10": 6.06,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 0.05040802308072312,
+    "macd_slope": 0.010128959910763766,
+    "rsi": 53.689170571468026,
+    "rsi_slope": 0.2395428920274745,
+    "wave_strength": 1.1563048226650472,
+    "adx": 18.397555693457093,
+    "atr": 0.752151638278513,
+    "obv_slope": -45701.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 826466.15,
-    "last_close": 8.229999542236328,
+    "avg_vol20": 845825.8,
+    "last_close": 7.440000057220459,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 28.010000228881836,
-      "High": 28.78499984741211,
-      "Low": 26.040000915527344,
-      "Close": 27.549999237060547,
-      "Volume": 677800
-    },
     {
       "Date": "2024-02-22",
       "Open": 27.190000534057617,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-19",
       "Open": 8.0,
-      "High": 8.244999885559082,
+      "High": 8.25,
       "Low": 7.559999942779541,
       "Close": 8.229999542236328,
-      "Volume": 748223
+      "Volume": 748400
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 8.40999984741211,
+      "High": 8.40999984741211,
+      "Low": 7.364999771118164,
+      "Close": 7.440000057220459,
+      "Volume": 658316
     }
   ]
 }

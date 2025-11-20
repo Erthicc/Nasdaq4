@@ -1,20 +1,20 @@
 {
   "ticker": "SSEA",
   "indicators": {
-    "score_0_100": 61.43,
-    "score_0_10": 6.14,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.0006964855878052534,
-    "macd_slope": 0.00015648663009893373,
-    "rsi": 53.846204477348756,
-    "rsi_slope": -0.439556223031724,
-    "wave_strength": 1.0024560304676744,
-    "adx": 35.281390387672296,
-    "atr": 0.012633284315562775,
-    "obv_slope": -38114.28571428572,
+    "score_0_100": 62.91,
+    "score_0_10": 6.29,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 0.0003495435850660762,
+    "macd_slope": 6.430860109984081e-05,
+    "rsi": 46.15378475351012,
+    "rsi_slope": -0.9890147747344835,
+    "wave_strength": 1.0014535514928091,
+    "adx": 33.540968980685044,
+    "atr": 0.01244520892743943,
+    "obv_slope": -40035.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 49080.0,
-    "last_close": 9.989999771118164,
+    "avg_vol20": 46019.8,
+    "last_close": 9.979999542236328,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -300,6 +300,14 @@
       "Low": 9.989999771118164,
       "Close": 9.989999771118164,
       "Volume": 3500.0
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 9.979999542236328,
+      "High": 9.979999542236328,
+      "Low": 9.979999542236328,
+      "Close": 9.979999542236328,
+      "Volume": 26796.0
     }
   ]
 }

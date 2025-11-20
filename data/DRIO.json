@@ -1,34 +1,26 @@
 {
   "ticker": "DRIO",
   "indicators": {
-    "score_0_100": 61.68,
-    "score_0_10": 6.17,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.013673968852037671,
-    "macd_slope": 0.021296407147174987,
-    "rsi": 51.41431000517259,
-    "rsi_slope": 0.627743652359562,
-    "wave_strength": 1.0379286183969036,
-    "adx": 13.891861624012106,
-    "atr": 1.5050711233134735,
-    "obv_slope": 9421.57142857143,
+    "score_0_100": 61.98,
+    "score_0_10": 6.2,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.07913160612325823,
+    "macd_slope": 0.027650902131907327,
+    "rsi": 49.283908685450356,
+    "rsi_slope": 0.25478895843530225,
+    "wave_strength": 1.044971077437255,
+    "adx": 12.956990448832505,
+    "atr": 1.5354232077368093,
+    "obv_slope": 5749.714285714285,
     "mom14": 0.0,
-    "avg_vol20": 31495.1,
-    "last_close": 14.0,
+    "avg_vol20": 31925.2,
+    "last_close": 13.819999694824219,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 49.599998474121094,
-      "High": 49.599998474121094,
-      "Low": 39.0,
-      "Close": 40.599998474121094,
-      "Volume": 14785
-    },
     {
       "Date": "2024-02-22",
       "Open": 40.400001525878906,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-19",
       "Open": 13.449999809265137,
       "High": 14.289999961853027,
-      "Low": 13.425000190734863,
+      "Low": 13.324999809265137,
       "Close": 14.0,
-      "Volume": 33102
+      "Volume": 34100
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 14.25,
+      "High": 14.770000457763672,
+      "Low": 12.84000015258789,
+      "Close": 13.819999694824219,
+      "Volume": 31404
     }
   ]
 }

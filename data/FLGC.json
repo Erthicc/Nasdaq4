@@ -1,34 +1,26 @@
 {
   "ticker": "FLGC",
   "indicators": {
-    "score_0_100": 60.59,
-    "score_0_10": 6.06,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.23387994583811134,
-    "macd_slope": 0.06978020709740797,
-    "rsi": 33.93940114118517,
-    "rsi_slope": 0.7650371322765851,
-    "wave_strength": 0.9130609931634519,
-    "adx": 29.739313056413163,
-    "atr": 1.3401596099045305,
-    "obv_slope": 1643.9285714285713,
+    "score_0_100": 65.85,
+    "score_0_10": 6.59,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.2300838069062885,
+    "macd_slope": 0.06642552267834412,
+    "rsi": 25.57498556320948,
+    "rsi_slope": 0.45040340477339363,
+    "wave_strength": 0.8517508244248407,
+    "adx": 30.30658216339751,
+    "atr": 1.3225487178901898,
+    "obv_slope": -24.857142857142858,
     "mom14": 0.0,
-    "avg_vol20": 19030.75,
-    "last_close": 7.650000095367432,
+    "avg_vol20": 17907.4,
+    "last_close": 6.875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 40.16999816894531,
-      "High": 41.72999954223633,
-      "Low": 37.479000091552734,
-      "Close": 39.779998779296875,
-      "Volume": 3797
-    },
     {
       "Date": "2024-02-22",
       "Open": 42.5099983215332,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-19",
       "Open": 7.699999809265137,
-      "High": 7.875500202178955,
+      "High": 8.0,
       "Low": 7.630000114440918,
       "Close": 7.650000095367432,
-      "Volume": 5915
+      "Volume": 5900
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 7.559999942779541,
+      "High": 7.78000020980835,
+      "Low": 6.802000045776367,
+      "Close": 6.875,
+      "Volume": 11848
     }
   ]
 }

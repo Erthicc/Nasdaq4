@@ -1,34 +1,26 @@
 {
   "ticker": "YDKG",
   "indicators": {
-    "score_0_100": 84.47,
-    "score_0_10": 8.45,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 11.7489187097189,
-    "macd_slope": 0.9813512798985587,
-    "rsi": 18.771930541629175,
-    "rsi_slope": 1.2274734967439846,
-    "wave_strength": 1.666865100433358,
-    "adx": 49.21384582346338,
-    "atr": 11.726630490810082,
-    "obv_slope": 413625.4285714286,
+    "score_0_100": 90.07,
+    "score_0_10": 9.01,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 11.45961262301396,
+    "macd_slope": 0.7323989438219846,
+    "rsi": 1.4862006349339651,
+    "rsi_slope": -0.09909732737325884,
+    "wave_strength": 0.3672532659575361,
+    "adx": 49.503690332079266,
+    "atr": 10.923286475519435,
+    "obv_slope": -86350.0,
     "mom14": 0.0,
-    "avg_vol20": 1848552.7,
-    "last_close": 1.440000057220459,
+    "avg_vol20": 1523055.35,
+    "last_close": 1.4299999475479126,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 90.0,
-      "High": 99.0,
-      "Low": 90.0,
-      "Close": 97.0,
-      "Volume": 155
-    },
     {
       "Date": "2024-02-22",
       "Open": 91.0,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-19",
       "Open": 1.350000023841858,
-      "High": 1.6002000570297241,
+      "High": 1.600000023841858,
       "Low": 1.25,
       "Close": 1.440000057220459,
-      "Volume": 735003
+      "Volume": 750500
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 1.4299999475479126,
+      "High": 1.909999966621399,
+      "Low": 1.4299999475479126,
+      "Close": 1.4299999475479126,
+      "Volume": 1102000
     }
   ]
 }

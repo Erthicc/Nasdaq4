@@ -1,34 +1,26 @@
 {
   "ticker": "PPCB",
   "indicators": {
-    "score_0_100": 65.4,
-    "score_0_10": 6.54,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.013700245597764837,
-    "macd_slope": -0.000210408318082734,
-    "rsi": 27.05541351254473,
-    "rsi_slope": -0.0033848569257577715,
-    "wave_strength": 1.0836673463109008,
-    "adx": 33.728772450668274,
-    "atr": 0.13832027814045378,
-    "obv_slope": -253178.7857142857,
+    "score_0_100": 65.5,
+    "score_0_10": 6.55,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.0200483970338885,
+    "macd_slope": 0.000499886700202294,
+    "rsi": 26.0429977655007,
+    "rsi_slope": 0.46109812452320603,
+    "wave_strength": 0.8140833901646896,
+    "adx": 34.292471726676446,
+    "atr": 0.13295454376959753,
+    "obv_slope": -261214.5,
     "mom14": 0.0,
-    "avg_vol20": 231829.85,
-    "last_close": 0.8598999977111816,
+    "avg_vol20": 230815.15,
+    "last_close": 0.8277000188827515,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 0.00860000029206276,
-      "High": 0.00860000029206276,
-      "Low": 0.006200000178068876,
-      "Close": 0.007199999876320362,
-      "Volume": 828300
-    },
     {
       "Date": "2024-02-22",
       "Open": 0.00800000037997961,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-19",
-      "Open": 0.8009999990463257,
+      "Open": 0.8299999833106995,
       "High": 0.8600000143051147,
       "Low": 0.8009999990463257,
       "Close": 0.8598999977111816,
-      "Volume": 38197
+      "Volume": 39700
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 0.8450000286102295,
+      "High": 0.8500000238418579,
+      "Low": 0.7967000007629395,
+      "Close": 0.8277000188827515,
+      "Volume": 46203
     }
   ]
 }

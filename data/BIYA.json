@@ -1,20 +1,20 @@
 {
   "ticker": "BIYA",
   "indicators": {
-    "score_0_100": 61.12,
-    "score_0_10": 6.11,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.006551607563394672,
-    "macd_slope": 0.001943231142737445,
-    "rsi": 52.82608796844613,
-    "rsi_slope": 2.6100266877597185,
-    "wave_strength": 1.0029325747450766,
-    "adx": 25.912490511832946,
-    "atr": 0.0669664587054853,
-    "obv_slope": 30569637.57142857,
+    "score_0_100": 62.67,
+    "score_0_10": 6.27,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.003090155282588554,
+    "macd_slope": 0.0015303190538867723,
+    "rsi": 47.285461865356524,
+    "rsi_slope": 2.210934386414199,
+    "wave_strength": 0.9888974214161282,
+    "adx": 24.888008807046003,
+    "atr": 0.07147038595018805,
+    "obv_slope": 30534821.57142857,
     "mom14": 0.0,
-    "avg_vol20": 23215856.3,
-    "last_close": 0.33000001311302185,
+    "avg_vol20": 23210089.9,
+    "last_close": 0.2750999927520752,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1367,11 +1367,19 @@
     },
     {
       "Date": "2025-11-19",
-      "Open": 0.313400000333786,
-      "High": 0.3319000005722046,
-      "Low": 0.3070000112056732,
+      "Open": 0.31299999356269836,
+      "High": 0.3319999873638153,
+      "Low": 0.3059999942779541,
       "Close": 0.33000001311302185,
-      "Volume": 299626.0
+      "Volume": 305700.0
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 0.3269999921321869,
+      "High": 0.3490000069141388,
+      "Low": 0.2199999988079071,
+      "Close": 0.2750999927520752,
+      "Volume": 644998.0
     }
   ]
 }

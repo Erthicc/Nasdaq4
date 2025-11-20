@@ -1,34 +1,26 @@
 {
   "ticker": "SLGL",
   "indicators": {
-    "score_0_100": 63.58,
-    "score_0_10": 6.36,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.044082895119837914,
-    "macd_slope": 0.07136339125024022,
-    "rsi": 47.59759980031378,
-    "rsi_slope": 0.42214651068266357,
-    "wave_strength": 1.0267716344389433,
-    "adx": 28.80573224071836,
-    "atr": 3.6339436334456,
-    "obv_slope": 2319.6428571428573,
+    "score_0_100": 61.86,
+    "score_0_10": 6.19,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.10637678752157875,
+    "macd_slope": 0.08788320664894782,
+    "rsi": 53.5171636263776,
+    "rsi_slope": 1.6919572756969465,
+    "wave_strength": 1.034032126638643,
+    "adx": 29.075999124458743,
+    "atr": 3.649383225967615,
+    "obv_slope": 1866.9285714285713,
     "mom14": 0.0,
-    "avg_vol20": 18373.75,
-    "last_close": 36.040000915527344,
+    "avg_vol20": 19348.15,
+    "last_close": 35.75,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-21",
-      "Open": 12.0,
-      "High": 12.100000381469727,
-      "Low": 11.0,
-      "Close": 11.100000381469727,
-      "Volume": 1600
-    },
     {
       "Date": "2024-02-22",
       "Open": 11.899999618530273,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-19",
-      "Open": 32.510101318359375,
+      "Open": 32.5099983215332,
       "High": 36.2400016784668,
-      "Low": 32.510101318359375,
+      "Low": 32.5099983215332,
       "Close": 36.040000915527344,
-      "Volume": 11375
+      "Volume": 14500
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 37.18000030517578,
+      "High": 37.95000076293945,
+      "Low": 34.099998474121094,
+      "Close": 35.75,
+      "Volume": 24363
     }
   ]
 }
