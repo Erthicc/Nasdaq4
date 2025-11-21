@@ -1,20 +1,20 @@
 {
   "ticker": "AZI",
   "indicators": {
-    "score_0_100": 69.59,
-    "score_0_10": 6.96,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0018521664713814744,
-    "macd_slope": 0.0007180967240840528,
-    "rsi": 34.29203254911455,
-    "rsi_slope": 2.0098704411617723,
-    "wave_strength": 0.9276437957991572,
-    "adx": 25.223960313404994,
-    "atr": 0.020311427993828686,
-    "obv_slope": 17706846.07142857,
+    "score_0_100": 74.38,
+    "score_0_10": 7.44,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.0015749138153351994,
+    "macd_slope": 0.0006194787843440645,
+    "rsi": 35.550453301908604,
+    "rsi_slope": 2.089374299774917,
+    "wave_strength": 0.952487687422929,
+    "adx": 23.72260315646804,
+    "atr": 0.01943816243209575,
+    "obv_slope": 17889165.0,
     "mom14": 0.0,
-    "avg_vol20": 58281852.75,
-    "last_close": 0.06960000097751617,
+    "avg_vol20": 59063054.5,
+    "last_close": 0.06679999828338623,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2496,10 +2496,18 @@
     {
       "Date": "2025-11-20",
       "Open": 0.07999999821186066,
-      "High": 0.0828000009059906,
-      "Low": 0.0681999996304512,
-      "Close": 0.06960000097751617,
-      "Volume": 40815255.0
+      "High": 0.08299999684095383,
+      "Low": 0.06800000369548798,
+      "Close": 0.07000000029802322,
+      "Volume": 43108700.0
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 0.06800000369548798,
+      "High": 0.06920000165700912,
+      "Low": 0.06210000067949295,
+      "Close": 0.06679999828338623,
+      "Volume": 18022390.0
     }
   ]
 }

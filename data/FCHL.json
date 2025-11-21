@@ -1,20 +1,20 @@
 {
   "ticker": "FCHL",
   "indicators": {
-    "score_0_100": 69.33,
-    "score_0_10": 6.93,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.06772770760026042,
-    "macd_slope": -0.005667602577810187,
-    "rsi": 19.191903847492114,
-    "rsi_slope": -1.7615656395808759,
-    "wave_strength": 0.8559549894408383,
-    "adx": 30.826496667677137,
-    "atr": 0.09067821272095536,
-    "obv_slope": -12141.785714285714,
+    "score_0_100": 70.01,
+    "score_0_10": 7.0,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.0656516324864585,
+    "macd_slope": -0.005501743781826206,
+    "rsi": 26.66665826614789,
+    "rsi_slope": -1.335297336435652,
+    "wave_strength": 0.8651588078876504,
+    "adx": 30.4602271344799,
+    "atr": 0.08684252414139002,
+    "obv_slope": 15158.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 416939.25,
-    "last_close": 0.34299999475479126,
+    "avg_vol20": 418335.8,
+    "last_close": 0.3610000014305115,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -463,11 +463,19 @@
     },
     {
       "Date": "2025-11-20",
-      "Open": 0.36649999022483826,
-      "High": 0.3817000091075897,
+      "Open": 0.367000013589859,
+      "High": 0.38199999928474426,
       "Low": 0.34299999475479126,
       "Close": 0.34299999475479126,
-      "Volume": 237285.0
+      "Volume": 239000.0
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 0.33799999952316284,
+      "High": 0.37220001220703125,
+      "Low": 0.33550000190734863,
+      "Close": 0.3610000014305115,
+      "Volume": 241616.0
     }
   ]
 }

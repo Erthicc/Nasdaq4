@@ -1,22 +1,22 @@
 {
   "ticker": "BCAX",
   "indicators": {
-    "score_0_100": 63.23,
-    "score_0_10": 6.32,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.04608901778428534,
-    "macd_slope": 0.02963776022561493,
-    "rsi": 49.542485427193,
-    "rsi_slope": 0.8098500653541046,
-    "wave_strength": 1.009465752467851,
-    "adx": 25.67544549046798,
-    "atr": 1.2057412409032295,
-    "obv_slope": 171415.2857142857,
+    "score_0_100": 68.91,
+    "score_0_10": 6.89,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.22061909851490846,
+    "macd_slope": 0.04256888005255371,
+    "rsi": 61.147196062929645,
+    "rsi_slope": 1.3453615990505885,
+    "wave_strength": 1.0065291673065364,
+    "adx": 25.433818738489485,
+    "atr": 1.285994410956075,
+    "obv_slope": 270013.28571428574,
     "mom14": 0.0,
-    "avg_vol20": 636425.7,
-    "last_close": 16.18000030517578,
+    "avg_vol20": 642654.3,
+    "last_close": 18.040000915527344,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -2408,10 +2408,18 @@
     {
       "Date": "2025-11-20",
       "Open": 15.460000038146973,
-      "High": 17.030000686645508,
+      "High": 17.040000915527344,
       "Low": 15.069999694824219,
       "Close": 16.18000030517578,
-      "Volume": 804414.0
+      "Volume": 811100.0
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 16.1299991607666,
+      "High": 18.149999618530273,
+      "Low": 15.829999923706055,
+      "Close": 18.040000915527344,
+      "Volume": 778586.0
     }
   ]
 }

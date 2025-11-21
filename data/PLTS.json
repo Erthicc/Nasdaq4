@@ -1,16 +1,16 @@
 {
   "ticker": "PLTS",
   "indicators": {
-    "score_0_100": 60.67,
-    "score_0_10": 6.07,
+    "score_0_100": 67.01,
+    "score_0_10": 6.7,
     "explanation": "strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": -0.1942253039210622,
-    "macd_slope": 0.011543076149024183,
+    "macd_hist": -0.18246679102072694,
+    "macd_slope": 0.012030426714640052,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 0.9771428789411273,
     "adx": 100.0,
-    "atr": 0.3078389856508538,
+    "atr": 0.2858504866757928,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -367,6 +367,14 @@
     },
     {
       "Date": "2025-11-19",
+      "Open": 17.5,
+      "High": 17.5,
+      "Low": 17.5,
+      "Close": 17.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-20",
       "Open": 17.5,
       "High": 17.5,
       "Low": 17.5,

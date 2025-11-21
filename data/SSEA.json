@@ -1,8 +1,8 @@
 {
   "ticker": "SSEA",
   "indicators": {
-    "score_0_100": 62.91,
-    "score_0_10": 6.29,
+    "score_0_100": 68.9,
+    "score_0_10": 6.89,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 0.0003495435850660762,
     "macd_slope": 6.430860109984081e-05,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0014535514928091,
     "adx": 33.540968980685044,
     "atr": 0.01244520892743943,
-    "obv_slope": -40035.42857142857,
+    "obv_slope": -41157.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 46019.8,
+    "avg_vol20": 46805.0,
     "last_close": 9.979999542236328,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -307,7 +307,7 @@
       "High": 9.979999542236328,
       "Low": 9.979999542236328,
       "Close": 9.979999542236328,
-      "Volume": 26796.0
+      "Volume": 42500.0
     }
   ]
 }

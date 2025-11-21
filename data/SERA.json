@@ -1,34 +1,26 @@
 {
   "ticker": "SERA",
   "indicators": {
-    "score_0_100": 61.82,
-    "score_0_10": 6.18,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.02219358129131386,
-    "macd_slope": 0.0018364112769802717,
-    "rsi": 46.23115816288432,
-    "rsi_slope": -0.6929319660143847,
-    "wave_strength": 1.0228544194015856,
-    "adx": 16.87678058288626,
-    "atr": 0.26137149729620923,
-    "obv_slope": 2287.5,
+    "score_0_100": 67.84,
+    "score_0_10": 6.78,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.03124751823714432,
+    "macd_slope": 0.003785797553100558,
+    "rsi": 50.74626777214226,
+    "rsi_slope": -0.047582888480053195,
+    "wave_strength": 1.0297667111984492,
+    "adx": 16.342452639691082,
+    "atr": 0.2669878298170436,
+    "obv_slope": 6044.285714285715,
     "mom14": 0.0,
-    "avg_vol20": 39353.75,
-    "last_close": 3.130000114440918,
+    "avg_vol20": 37751.0,
+    "last_close": 3.2300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 9.449999809265137,
-      "High": 9.501999855041504,
-      "Low": 8.5,
-      "Close": 8.600000381469727,
-      "Volume": 298600
-    },
     {
       "Date": "2024-02-23",
       "Open": 8.449999809265137,
@@ -3539,7 +3531,15 @@
       "High": 3.3399999141693115,
       "Low": 3.130000114440918,
       "Close": 3.130000114440918,
-      "Volume": 21175
+      "Volume": 21200
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 3.140000104904175,
+      "High": 3.4100000858306885,
+      "Low": 3.069999933242798,
+      "Close": 3.2300000190734863,
+      "Volume": 30820
     }
   ]
 }

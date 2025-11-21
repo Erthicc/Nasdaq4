@@ -1,34 +1,26 @@
 {
   "ticker": "DWTX",
   "indicators": {
-    "score_0_100": 61.76,
-    "score_0_10": 6.18,
-    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
-    "macd_hist": 0.02934736843027288,
-    "macd_slope": 0.0010194545525198746,
-    "rsi": 45.54794118421307,
-    "rsi_slope": -0.3494246045866681,
-    "wave_strength": 1.0515516981103956,
-    "adx": 13.718861033422721,
-    "atr": 0.5188492034037727,
-    "obv_slope": -7401.5,
+    "score_0_100": 67.2,
+    "score_0_10": 6.72,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.05759369011953297,
+    "macd_slope": 0.0033284007496782383,
+    "rsi": 51.81818672138994,
+    "rsi_slope": 0.15112898320842763,
+    "wave_strength": 1.0474325307600472,
+    "adx": 12.899903713624346,
+    "atr": 0.5146456915997156,
+    "obv_slope": -11487.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 60726.05,
-    "last_close": 5.949999809265137,
+    "avg_vol20": 55648.7,
+    "last_close": 6.340000152587891,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 9.649999618530273,
-      "High": 9.875,
-      "Low": 9.25,
-      "Close": 9.850000381469727,
-      "Volume": 4228
-    },
     {
       "Date": "2024-02-23",
       "Open": 9.725000381469727,
@@ -3539,7 +3531,15 @@
       "High": 6.21999979019165,
       "Low": 5.860000133514404,
       "Close": 5.949999809265137,
-      "Volume": 26721
+      "Volume": 27900
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 5.989999771118164,
+      "High": 6.400000095367432,
+      "Low": 5.940000057220459,
+      "Close": 6.340000152587891,
+      "Volume": 30474
     }
   ]
 }

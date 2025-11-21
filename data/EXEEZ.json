@@ -1,16 +1,16 @@
 {
   "ticker": "EXEEZ",
   "indicators": {
-    "score_0_100": 88.59,
-    "score_0_10": 8.86,
+    "score_0_100": 90.54,
+    "score_0_10": 9.05,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.0131379793170487,
-    "macd_slope": 0.0003316139461030485,
+    "macd_hist": 0.01259823658617553,
+    "macd_slope": 0.00015878725637970815,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.0,
-    "adx": 94.5869988392666,
-    "atr": 0.0036644667214798927,
+    "adx": 94.71350262640713,
+    "atr": 0.0034027190985170433,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -21,14 +21,6 @@
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 70.16999816894531,
-      "High": 70.16999816894531,
-      "Low": 70.01000213623047,
-      "Close": 70.05999755859375,
-      "Volume": 1400.0
-    },
     {
       "Date": "2024-02-23",
       "Open": 68.75,
@@ -3527,6 +3519,14 @@
     },
     {
       "Date": "2025-11-19",
+      "Open": 97.0,
+      "High": 97.0,
+      "Low": 97.0,
+      "Close": 97.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-20",
       "Open": 97.0,
       "High": 97.0,
       "Low": 97.0,

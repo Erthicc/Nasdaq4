@@ -1,34 +1,26 @@
 {
   "ticker": "KITT",
   "indicators": {
-    "score_0_100": 71.13,
-    "score_0_10": 7.11,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.024750531051314084,
-    "macd_slope": 0.004837611327194846,
-    "rsi": 17.392812749474075,
-    "rsi_slope": -0.32908511497104037,
-    "wave_strength": 1.0347745972435907,
-    "adx": 13.921206013551616,
-    "atr": 0.24570404208138902,
-    "obv_slope": -207373.64285714287,
+    "score_0_100": 74.62,
+    "score_0_10": 7.46,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.02082759625215841,
+    "macd_slope": 0.004548384916077155,
+    "rsi": 19.900492573186327,
+    "rsi_slope": 0.26392550124299013,
+    "wave_strength": 1.067137813235891,
+    "adx": 15.166849921268087,
+    "atr": 0.23639660741151738,
+    "obv_slope": -158872.64285714287,
     "mom14": 0.0,
-    "avg_vol20": 5271331.55,
-    "last_close": 0.9000999927520752,
+    "avg_vol20": 5249790.85,
+    "last_close": 0.875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 95.90399932861328,
-      "High": 99.79199981689453,
-      "Low": 87.80400085449219,
-      "Close": 90.72000122070312,
-      "Volume": 1281
-    },
     {
       "Date": "2024-02-23",
       "Open": 87.4800033569336,
@@ -3538,8 +3530,16 @@
       "Open": 1.0700000524520874,
       "High": 1.0700000524520874,
       "Low": 0.8999999761581421,
-      "Close": 0.9000999927520752,
-      "Volume": 662931
+      "Close": 0.8999999761581421,
+      "Volume": 686900
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 0.8999999761581421,
+      "High": 0.9398999810218811,
+      "Low": 0.8245000243186951,
+      "Close": 0.875,
+      "Volume": 491117
     }
   ]
 }

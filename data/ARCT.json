@@ -1,34 +1,26 @@
 {
   "ticker": "ARCT",
   "indicators": {
-    "score_0_100": 77.73,
-    "score_0_10": 7.77,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.020175291123702532,
-    "macd_slope": 0.07972915031136056,
-    "rsi": 9.702966287527872,
-    "rsi_slope": -1.282398799621998,
-    "wave_strength": 1.0296100439177502,
-    "adx": 41.59949331384296,
-    "atr": 1.0507663128268412,
-    "obv_slope": -740576.9285714285,
+    "score_0_100": 76.97,
+    "score_0_10": 7.7,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.07537516877645523,
+    "macd_slope": 0.07424868012704425,
+    "rsi": 17.932488252452075,
+    "rsi_slope": -0.1448065367719796,
+    "wave_strength": 1.0604504679064277,
+    "adx": 42.326344691199516,
+    "atr": 1.0181860504220779,
+    "obv_slope": -570158.6428571428,
     "mom14": 0.0,
-    "avg_vol20": 1318708.85,
-    "last_close": 5.900000095367432,
+    "avg_vol20": 1195198.95,
+    "last_close": 6.260000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 35.52000045776367,
-      "High": 37.810001373291016,
-      "Low": 34.7599983215332,
-      "Close": 37.439998626708984,
-      "Volume": 417300
-    },
     {
       "Date": "2024-02-23",
       "Open": 37.599998474121094,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-20",
       "Open": 6.230000019073486,
       "High": 6.380000114440918,
-      "Low": 5.855000019073486,
+      "Low": 5.849999904632568,
       "Close": 5.900000095367432,
-      "Volume": 992177
+      "Volume": 1013000
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 5.949999809265137,
+      "High": 6.489999771118164,
+      "Low": 5.900000095367432,
+      "Close": 6.260000228881836,
+      "Volume": 1371079
     }
   ]
 }

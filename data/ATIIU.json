@@ -1,16 +1,16 @@
 {
   "ticker": "ATIIU",
   "indicators": {
-    "score_0_100": 80.72,
-    "score_0_10": 8.07,
+    "score_0_100": 83.02,
+    "score_0_10": 8.3,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.00858883215545437,
-    "macd_slope": 0.0022809893626515444,
+    "macd_hist": 0.008340032396014163,
+    "macd_slope": 0.001680681161098336,
     "rsi": 0.0,
-    "rsi_slope": -4.587682844719439,
+    "rsi_slope": -7.1428565099457755,
     "wave_strength": 1.0,
-    "adx": 14.07234042724657,
-    "atr": 0.02904262772163068,
+    "adx": 13.595027769812436,
+    "atr": 0.026968154312942774,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 25.0,
@@ -1583,6 +1583,14 @@
     },
     {
       "Date": "2025-11-19",
+      "Open": 10.75,
+      "High": 10.75,
+      "Low": 10.75,
+      "Close": 10.75,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-20",
       "Open": 10.75,
       "High": 10.75,
       "Low": 10.75,

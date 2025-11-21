@@ -1,20 +1,20 @@
 {
   "ticker": "LGCL",
   "indicators": {
-    "score_0_100": 60.29,
-    "score_0_10": 6.03,
+    "score_0_100": 74.22,
+    "score_0_10": 7.42,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.17700215350391968,
-    "macd_slope": -0.012379569675008386,
-    "rsi": 34.73684079260438,
-    "rsi_slope": 1.359287804712087,
-    "wave_strength": 0.8599738127343067,
-    "adx": 38.376731023715024,
-    "atr": 0.43381392652722567,
-    "obv_slope": 729710.3571428572,
+    "macd_hist": 0.16457414777276613,
+    "macd_slope": -0.014663084907979986,
+    "rsi": 20.858891847204475,
+    "rsi_slope": -0.7354920840059782,
+    "wave_strength": 0.8715422371931143,
+    "adx": 38.56127017504251,
+    "atr": 0.4135415100158118,
+    "obv_slope": 4404.5,
     "mom14": 0.0,
-    "avg_vol20": 724937.75,
-    "last_close": 2.1600000858306885,
+    "avg_vol20": 724611.85,
+    "last_close": 2.109999895095825,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3475,7 +3475,15 @@
       "High": 2.3499999046325684,
       "Low": 2.130000114440918,
       "Close": 2.1600000858306885,
-      "Volume": 23955.0
+      "Volume": 24400.0
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 2.130000114440918,
+      "High": 2.159600019454956,
+      "Low": 2.009999990463257,
+      "Close": 2.109999895095825,
+      "Volume": 11737.0
     }
   ]
 }
