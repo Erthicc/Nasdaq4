@@ -1,34 +1,26 @@
 {
   "ticker": "ONDS",
   "indicators": {
-    "score_0_100": 69.68,
-    "score_0_10": 6.97,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.13276104788493603,
-    "macd_slope": 0.0334409005308948,
-    "rsi": 53.56924981655006,
-    "rsi_slope": 2.6100986806215487,
-    "wave_strength": 1.220233477728035,
-    "adx": 19.019738194330763,
-    "atr": 1.055874472759466,
-    "obv_slope": 20184739.14285714,
+    "score_0_100": 69.02,
+    "score_0_10": 6.9,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.2468718157012615,
+    "macd_slope": 0.04036606290780327,
+    "rsi": 63.8138151864294,
+    "rsi_slope": 3.1916697849320514,
+    "wave_strength": 1.2090369483348653,
+    "adx": 18.998211649420675,
+    "atr": 1.1325977328828274,
+    "obv_slope": 39439350.35714286,
     "mom14": 0.0,
-    "avg_vol20": 111292037.4,
-    "last_close": 6.735000133514404,
+    "avg_vol20": 117621280.25,
+    "last_close": 8.720000267028809,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 1.2799999713897705,
-      "High": 1.3300000429153442,
-      "Low": 1.218999981880188,
-      "Close": 1.2599999904632568,
-      "Volume": 148200
-    },
     {
       "Date": "2024-02-26",
       "Open": 1.2999999523162842,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-21",
-      "Open": 6.570000171661377,
+      "Open": 6.559999942779541,
       "High": 6.849999904632568,
       "Low": 5.929999828338623,
       "Close": 6.735000133514404,
-      "Volume": 129647948
+      "Volume": 130485600
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 6.784999847412109,
+      "High": 8.800000190734863,
+      "Low": 6.670000076293945,
+      "Close": 8.720000267028809,
+      "Volume": 174094105
     }
   ]
 }

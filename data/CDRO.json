@@ -1,34 +1,26 @@
 {
   "ticker": "CDRO",
   "indicators": {
-    "score_0_100": 68.43,
-    "score_0_10": 6.84,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
-    "macd_hist": 0.12913151908767942,
-    "macd_slope": 0.010266555715374439,
-    "rsi": 60.20067000120416,
-    "rsi_slope": 1.3282025235188542,
-    "wave_strength": 0.9535780245819185,
-    "adx": 15.660709073991256,
-    "atr": 0.5164503798565447,
-    "obv_slope": -1030.2142857142858,
+    "score_0_100": 63.75,
+    "score_0_10": 6.37,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.1604572525918002,
+    "macd_slope": 0.012463356199394227,
+    "rsi": 63.218385294047195,
+    "rsi_slope": 2.551314677365319,
+    "wave_strength": 0.9497183503071444,
+    "adx": 16.892376736529563,
+    "atr": 0.5138467826638011,
+    "obv_slope": 5854.571428571428,
     "mom14": 0.0,
-    "avg_vol20": 47973.85,
-    "last_close": 6.730000019073486,
+    "avg_vol20": 47088.2,
+    "last_close": 6.855000019073486,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 7.050000190734863,
-      "High": 7.300000190734863,
-      "Low": 6.739999771118164,
-      "Close": 7.150000095367432,
-      "Volume": 138000
-    },
     {
       "Date": "2024-02-26",
       "Open": 7.139999866485596,
@@ -3539,7 +3531,15 @@
       "High": 6.840000152587891,
       "Low": 6.360000133514404,
       "Close": 6.730000019073486,
-      "Volume": 29177
+      "Volume": 29300
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 6.75,
+      "High": 7.130000114440918,
+      "Low": 6.650000095367432,
+      "Close": 6.855000019073486,
+      "Volume": 28564
     }
   ]
 }

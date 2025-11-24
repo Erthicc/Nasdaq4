@@ -1,20 +1,20 @@
 {
   "ticker": "LPAA",
   "indicators": {
-    "score_0_100": 67.3,
-    "score_0_10": 6.73,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.000918791665012888,
-    "macd_slope": 0.00013813547665096534,
-    "rsi": 52.631627904253044,
-    "rsi_slope": -0.02209851486834629,
-    "wave_strength": 1.0013776020515102,
-    "adx": 22.86977425780403,
-    "atr": 0.021744734542188875,
-    "obv_slope": 3400.3571428571427,
+    "score_0_100": 64.7,
+    "score_0_10": 6.47,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.0005269406942788948,
+    "macd_slope": 0.0001134261316735574,
+    "rsi": 49.9999965000136,
+    "rsi_slope": -0.44642580888697936,
+    "wave_strength": 1.0013300386359054,
+    "adx": 22.274975678138446,
+    "atr": 0.020905841279336555,
+    "obv_slope": 3037.0714285714284,
     "mom14": 0.0,
-    "avg_vol20": 8505.25,
-    "last_close": 10.539999961853027,
+    "avg_vol20": 7544.05,
+    "last_close": 10.529999732971191,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2483,7 +2483,15 @@
       "High": 10.539999961853027,
       "Low": 10.529999732971191,
       "Close": 10.539999961853027,
-      "Volume": 2705.0
+      "Volume": 3400.0
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 10.529999732971191,
+      "High": 10.529999732971191,
+      "Low": 10.529999732971191,
+      "Close": 10.529999732971191,
+      "Volume": 1781.0
     }
   ]
 }

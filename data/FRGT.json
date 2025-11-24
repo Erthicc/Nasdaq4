@@ -1,34 +1,26 @@
 {
   "ticker": "FRGT",
   "indicators": {
-    "score_0_100": 68.44,
-    "score_0_10": 6.84,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.011451119389079542,
-    "macd_slope": 0.002486351254396336,
-    "rsi": 37.325907871394165,
-    "rsi_slope": 0.31532254768220824,
-    "wave_strength": 0.994365240544041,
-    "adx": 19.08399459781817,
-    "atr": 0.14095781296441182,
-    "obv_slope": 19139015.35714286,
+    "score_0_100": 63.45,
+    "score_0_10": 6.35,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.009946639171018734,
+    "macd_slope": 0.0032485827575548256,
+    "rsi": 43.01075532183392,
+    "rsi_slope": 1.1576165802896041,
+    "wave_strength": 1.0218621502978755,
+    "adx": 19.172917680060177,
+    "atr": 0.13823225572132153,
+    "obv_slope": 19127448.07142857,
     "mom14": 0.0,
-    "avg_vol20": 21822199.25,
-    "last_close": 0.828000009059906,
+    "avg_vol20": 20190781.35,
+    "last_close": 0.742900013923645,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 211.0,
-      "High": 214.0,
-      "Low": 202.0,
-      "Close": 208.0,
-      "Volume": 1504
-    },
     {
       "Date": "2024-02-26",
       "Open": 253.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-21",
-      "Open": 0.8395000100135803,
-      "High": 0.839900016784668,
+      "Open": 0.8399999737739563,
+      "High": 0.8399999737739563,
       "Low": 0.828000009059906,
       "Close": 0.828000009059906,
-      "Volume": 1455985
+      "Volume": 1483500
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 0.7720000147819519,
+      "High": 0.7950000166893005,
+      "Low": 0.7251999974250793,
+      "Close": 0.742900013923645,
+      "Volume": 703127
     }
   ]
 }

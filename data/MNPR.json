@@ -1,34 +1,26 @@
 {
   "ticker": "MNPR",
   "indicators": {
-    "score_0_100": 68.72,
-    "score_0_10": 6.87,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.21827353818403883,
-    "macd_slope": 0.10678525164946884,
-    "rsi": 60.24390080244123,
-    "rsi_slope": 1.96818133956798,
-    "wave_strength": 1.0503665572818717,
-    "adx": 14.197992609101737,
-    "atr": 7.341566762878368,
-    "obv_slope": 20255.785714285714,
+    "score_0_100": 63.89,
+    "score_0_10": 6.39,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.7052212167768279,
+    "macd_slope": 0.13909927456490437,
+    "rsi": 63.64130726441136,
+    "rsi_slope": 1.9229049247582612,
+    "wave_strength": 1.0431196742491624,
+    "adx": 15.432868334106852,
+    "atr": 7.568495444989219,
+    "obv_slope": 36998.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 166129.05,
-    "last_close": 91.55999755859375,
+    "avg_vol20": 167033.9,
+    "last_close": 92.75,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 6.300000190734863,
-      "High": 8.649999618530273,
-      "Low": 5.900000095367432,
-      "Close": 6.5,
-      "Volume": 12228600
-    },
     {
       "Date": "2024-02-26",
       "Open": 7.300000190734863,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-21",
       "Open": 82.54000091552734,
-      "High": 94.43000030517578,
+      "High": 94.44999694824219,
       "Low": 82.54000091552734,
       "Close": 91.55999755859375,
-      "Volume": 95981
+      "Volume": 97100
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 94.4000015258789,
+      "High": 100.5,
+      "Low": 90.0,
+      "Close": 92.75,
+      "Volume": 168978
     }
   ]
 }

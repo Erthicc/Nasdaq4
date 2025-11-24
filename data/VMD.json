@@ -1,34 +1,26 @@
 {
   "ticker": "VMD",
   "indicators": {
-    "score_0_100": 67.03,
-    "score_0_10": 6.7,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.01936718574340371,
-    "macd_slope": 0.004396012177974666,
-    "rsi": 53.191478760037306,
-    "rsi_slope": 1.107082709310353,
-    "wave_strength": 0.9757983406428148,
-    "adx": 17.074794999401337,
-    "atr": 0.20542292638326728,
-    "obv_slope": -26864.14285714286,
+    "score_0_100": 65.08,
+    "score_0_10": 6.51,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.04797734870030011,
+    "macd_slope": 0.0061883606071441105,
+    "rsi": 60.126590723182844,
+    "rsi_slope": 1.6631770214258113,
+    "wave_strength": 0.9764778635026994,
+    "adx": 17.604256956134286,
+    "atr": 0.21062129948310568,
+    "obv_slope": -3029.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 157380.1,
-    "last_close": 6.659999847412109,
+    "avg_vol20": 152939.2,
+    "last_close": 6.860000133514404,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 8.210000038146973,
-      "High": 8.65999984741211,
-      "Low": 8.210000038146973,
-      "Close": 8.59000015258789,
-      "Volume": 99800
-    },
     {
       "Date": "2024-02-26",
       "Open": 8.579999923706055,
@@ -3539,7 +3531,15 @@
       "High": 6.679999828338623,
       "Low": 6.309999942779541,
       "Close": 6.659999847412109,
-      "Volume": 178802
+      "Volume": 178800
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 6.690000057220459,
+      "High": 6.938199996948242,
+      "Low": 6.690000057220459,
+      "Close": 6.860000133514404,
+      "Volume": 152984
     }
   ]
 }

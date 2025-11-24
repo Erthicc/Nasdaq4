@@ -1,34 +1,26 @@
 {
   "ticker": "GNPX",
   "indicators": {
-    "score_0_100": 67.0,
-    "score_0_10": 6.7,
+    "score_0_100": 63.08,
+    "score_0_10": 6.31,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.018495428783691814,
-    "macd_slope": 0.0839369219119523,
-    "rsi": 31.97492038846623,
-    "rsi_slope": -0.8954220707695372,
-    "wave_strength": 0.9076008717825954,
-    "adx": 26.027001884451664,
-    "atr": 1.7357928077731575,
-    "obv_slope": -109886.0,
+    "macd_hist": 0.03839937925584813,
+    "macd_slope": 0.08105979455860748,
+    "rsi": 34.11371290809136,
+    "rsi_slope": 2.3525502093387822,
+    "wave_strength": 0.9665102780008247,
+    "adx": 25.208656364347934,
+    "atr": 1.6339433076676657,
+    "obv_slope": -108031.5,
     "mom14": 0.0,
-    "avg_vol20": 528480.2,
-    "last_close": 3.0,
+    "avg_vol20": 525797.05,
+    "last_close": 2.799999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 219.5,
-      "High": 220.0,
-      "Low": 209.5,
-      "Close": 218.0,
-      "Volume": 260
-    },
     {
       "Date": "2024-02-26",
       "Open": 215.5,
@@ -3539,7 +3531,15 @@
       "High": 3.1600000858306885,
       "Low": 2.8499999046325684,
       "Close": 3.0,
-      "Volume": 173604
+      "Volume": 176600
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 2.880000114440918,
+      "High": 3.0799999237060547,
+      "Low": 2.7701001167297363,
+      "Close": 2.799999952316284,
+      "Volume": 165741
     }
   ]
 }

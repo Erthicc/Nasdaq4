@@ -1,34 +1,26 @@
 {
   "ticker": "AIRG",
   "indicators": {
-    "score_0_100": 67.87,
-    "score_0_10": 6.79,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0512055985368655,
-    "macd_slope": 0.0022248061620875476,
-    "rsi": 51.291516253655374,
-    "rsi_slope": -0.22714359637614073,
-    "wave_strength": 1.0829564061832222,
-    "adx": 20.41508835792237,
-    "atr": 0.3539459526990091,
-    "obv_slope": 13344.07142857143,
+    "score_0_100": 64.96,
+    "score_0_10": 6.5,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04553172173112173,
+    "macd_slope": 0.002114357041576803,
+    "rsi": 49.999999748201375,
+    "rsi_slope": 2.0475902370467987e-08,
+    "wave_strength": 1.0802792993245667,
+    "adx": 21.19984261867733,
+    "atr": 0.354086572281112,
+    "obv_slope": 12167.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 65464.15,
-    "last_close": 4.289999961853027,
+    "avg_vol20": 64817.6,
+    "last_close": 4.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 3.884999990463257,
-      "High": 3.884999990463257,
-      "Low": 3.7100000381469727,
-      "Close": 3.8499999046325684,
-      "Volume": 6500
-    },
     {
       "Date": "2024-02-26",
       "Open": 3.759999990463257,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-21",
       "Open": 4.28000020980835,
       "High": 4.489999771118164,
-      "Low": 3.930000066757202,
+      "Low": 3.9049999713897705,
       "Close": 4.289999961853027,
-      "Volume": 61983
+      "Volume": 62800
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 4.289999961853027,
+      "High": 4.422800064086914,
+      "Low": 4.090099811553955,
+      "Close": 4.130000114440918,
+      "Volume": 26152
     }
   ]
 }

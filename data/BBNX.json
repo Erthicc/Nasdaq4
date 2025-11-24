@@ -1,20 +1,20 @@
 {
   "ticker": "BBNX",
   "indicators": {
-    "score_0_100": 67.59,
-    "score_0_10": 6.76,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.16439379246322394,
-    "macd_slope": -0.03954260301833622,
-    "rsi": 62.7619410195145,
-    "rsi_slope": -0.6293024441209683,
-    "wave_strength": 1.0031648889965756,
-    "adx": 32.53873510911778,
-    "atr": 2.062358625528217,
-    "obv_slope": 97579.28571428571,
+    "score_0_100": 64.3,
+    "score_0_10": 6.43,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.2678701476197214,
+    "macd_slope": -0.031121524734419315,
+    "rsi": 62.404978502706726,
+    "rsi_slope": -1.2195918937507082,
+    "wave_strength": 1.1435122452625675,
+    "adx": 33.801985402947004,
+    "atr": 2.0643330203181938,
+    "obv_slope": 10963.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 723260.5,
-    "last_close": 31.420000076293945,
+    "avg_vol20": 717475.4,
+    "last_close": 31.399999618530273,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1667,7 +1667,15 @@
       "High": 32.11000061035156,
       "Low": 28.010000228881836,
       "Close": 31.420000076293945,
-      "Volume": 671010.0
+      "Volume": 673200.0
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 31.420000076293945,
+      "High": 32.40999984741211,
+      "Low": 30.31999969482422,
+      "Close": 31.399999618530273,
+      "Volume": 665808.0
     }
   ]
 }
