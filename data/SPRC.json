@@ -1,34 +1,26 @@
 {
   "ticker": "SPRC",
   "indicators": {
-    "score_0_100": 64.62,
-    "score_0_10": 6.46,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.0023863084884815366,
-    "macd_slope": 0.007396263474600567,
-    "rsi": 28.985504198062273,
-    "rsi_slope": 0.08483363576454853,
-    "wave_strength": 0.8749777794351702,
-    "adx": 18.445104485061552,
-    "atr": 0.3064272998808798,
-    "obv_slope": -752.5,
+    "score_0_100": 61.18,
+    "score_0_10": 6.12,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.013680438467329581,
+    "macd_slope": 0.00819848058649787,
+    "rsi": 29.19707707196504,
+    "rsi_slope": -0.15026674980763083,
+    "wave_strength": 0.9019821814478713,
+    "adx": 18.647370890958655,
+    "atr": 0.2909682009070978,
+    "obv_slope": 1483.2142857142858,
     "mom14": 0.0,
-    "avg_vol20": 32413.25,
-    "last_close": 2.4800000190734863,
+    "avg_vol20": 30706.75,
+    "last_close": 2.440000057220459,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 77.91000366210938,
-      "High": 79.16999816894531,
-      "Low": 71.19000244140625,
-      "Close": 78.54000091552734,
-      "Volume": 12152
-    },
     {
       "Date": "2024-02-27",
       "Open": 82.73999786376953,
@@ -3531,15 +3523,23 @@
       "High": 2.5199999809265137,
       "Low": 2.319999933242798,
       "Close": 2.4100000858306885,
-      "Volume": 23200
+      "Volume": 23700
     },
     {
       "Date": "2025-11-24",
-      "Open": 2.309999942779541,
+      "Open": 2.299999952316284,
       "High": 2.569999933242798,
       "Low": 2.25,
       "Close": 2.4800000190734863,
-      "Volume": 29165
+      "Volume": 29400
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 2.390000104904175,
+      "High": 2.4700000286102295,
+      "Low": 2.390000104904175,
+      "Close": 2.440000057220459,
+      "Volume": 6135
     }
   ]
 }

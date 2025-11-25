@@ -1,22 +1,22 @@
 {
   "ticker": "FDSB",
   "indicators": {
-    "score_0_100": 65.34,
-    "score_0_10": 6.53,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.022718484050799764,
-    "macd_slope": 0.0017044155066999705,
-    "rsi": 52.52836337275337,
-    "rsi_slope": 1.202000020910773,
-    "wave_strength": 1.0019866287998211,
-    "adx": 40.30025325466181,
-    "atr": 0.13940426319409918,
-    "obv_slope": 6185.571428571428,
+    "score_0_100": 62.34,
+    "score_0_10": 6.23,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.048121057136541134,
+    "macd_slope": 0.003230505686826499,
+    "rsi": 61.666638131762475,
+    "rsi_slope": 0.9235170572389809,
+    "wave_strength": 1.001154770998034,
+    "adx": 39.11884480104849,
+    "atr": 0.14944679673697306,
+    "obv_slope": 6702.714285714285,
     "mom14": 0.0,
-    "avg_vol20": 17824.9,
-    "last_close": 13.369999885559082,
+    "avg_vol20": 18386.9,
+    "last_close": 13.619999885559082,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -2663,11 +2663,19 @@
     },
     {
       "Date": "2025-11-24",
-      "Open": 13.270000457763672,
+      "Open": 13.279999732971191,
       "High": 13.399999618530273,
       "Low": 13.260000228881836,
       "Close": 13.369999885559082,
-      "Volume": 22098.0
+      "Volume": 22100.0
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 13.399999618530273,
+      "High": 13.649999618530273,
+      "Low": 13.38010025024414,
+      "Close": 13.619999885559082,
+      "Volume": 12338.0
     }
   ]
 }

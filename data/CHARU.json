@@ -1,17 +1,17 @@
 {
   "ticker": "CHARU",
   "indicators": {
-    "score_0_100": 87.06,
-    "score_0_10": 8.71,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.006647027986287614,
-    "macd_slope": -0.0001374115920796675,
+    "score_0_100": 85.82,
+    "score_0_10": 8.58,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
+    "macd_hist": 0.005942358290872415,
+    "macd_slope": -0.0002383368655848711,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.1028571355910528,
-    "adx": 57.381657702155884,
-    "atr": 0.031862336888393475,
-    "obv_slope": 71.42857142857143,
+    "adx": 60.82479667778508,
+    "atr": 0.777473137419074,
+    "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 50.0,
     "last_close": 10.5,
@@ -2186,6 +2186,22 @@
       "Open": 10.5,
       "High": 10.5,
       "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 10.5,
+      "High": 10.5,
+      "Low": 10.5,
+      "Close": 10.5,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 0.0,
+      "High": 0.0,
+      "Low": 0.0,
       "Close": 10.5,
       "Volume": 0.0
     }

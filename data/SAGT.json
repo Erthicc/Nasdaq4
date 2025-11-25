@@ -1,20 +1,20 @@
 {
   "ticker": "SAGT",
   "indicators": {
-    "score_0_100": 64.72,
-    "score_0_10": 6.47,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.0048358590008480955,
-    "macd_slope": -0.001791287847337376,
-    "rsi": 48.96551795928408,
-    "rsi_slope": -1.276898711423813,
-    "wave_strength": 0.9838888126007435,
-    "adx": 24.931726596849614,
-    "atr": 0.186504970596197,
-    "obv_slope": 23117.5,
+    "score_0_100": 61.54,
+    "score_0_10": 6.15,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.021989802459894348,
+    "macd_slope": -0.0016561089364257558,
+    "rsi": 49.999999527027114,
+    "rsi_slope": -1.177811224102737,
+    "wave_strength": 0.9738283559679969,
+    "adx": 26.13355111825884,
+    "atr": 0.2017546223655709,
+    "obv_slope": 8921.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 1167747.25,
-    "last_close": 2.25,
+    "avg_vol20": 1173820.25,
+    "last_close": 2.299999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1475,7 +1475,15 @@
       "High": 2.259999990463257,
       "Low": 1.9900000095367432,
       "Close": 2.25,
-      "Volume": 88945.0
+      "Volume": 89000.0
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 2.450000047683716,
+      "High": 2.5,
+      "Low": 2.0999999046325684,
+      "Close": 2.299999952316284,
+      "Volume": 142605.0
     }
   ]
 }

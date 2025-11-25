@@ -1,34 +1,26 @@
 {
   "ticker": "TMDX",
   "indicators": {
-    "score_0_100": 64.04,
-    "score_0_10": 6.4,
+    "score_0_100": 61.37,
+    "score_0_10": 6.14,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 1.393543356027621,
-    "macd_slope": 0.08729425572173015,
-    "rsi": 63.45291711178832,
-    "rsi_slope": 0.17129251857700772,
-    "wave_strength": 1.0677301101944239,
-    "adx": 19.267651074281506,
-    "atr": 8.199270458505652,
-    "obv_slope": 175541.7142857143,
+    "macd_hist": 2.2626158915915817,
+    "macd_slope": 0.17496924878427042,
+    "rsi": 65.28960662810519,
+    "rsi_slope": 0.3560310117389877,
+    "wave_strength": 1.0608180164072671,
+    "adx": 21.051669456789995,
+    "atr": 8.23325135776825,
+    "obv_slope": 185526.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 1064429.2,
-    "last_close": 140.2100067138672,
+    "avg_vol20": 1075373.7,
+    "last_close": 146.0,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 82.0,
-      "High": 82.01000213623047,
-      "Low": 72.08000183105469,
-      "Close": 77.73999786376953,
-      "Volume": 2794300
-    },
     {
       "Date": "2024-02-27",
       "Open": 90.45500183105469,
@@ -3539,7 +3531,15 @@
       "High": 141.5,
       "Low": 133.13999938964844,
       "Close": 140.2100067138672,
-      "Volume": 1084984
+      "Volume": 1091800
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 142.91220092773438,
+      "High": 147.6750030517578,
+      "Low": 139.0,
+      "Close": 146.0,
+      "Volume": 1168074
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "ORKT",
   "indicators": {
-    "score_0_100": 69.54,
-    "score_0_10": 6.95,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.001323940893328407,
-    "macd_slope": 0.0019263434929026443,
-    "rsi": 24.264703771500436,
-    "rsi_slope": 0.40771476304407933,
-    "wave_strength": 0.9501187395942431,
-    "adx": 39.18406174965332,
-    "atr": 0.11893673504579685,
-    "obv_slope": -2109.5714285714284,
+    "score_0_100": 63.0,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.006703362530789403,
+    "macd_slope": 0.0025020191685024918,
+    "rsi": 29.457357684284943,
+    "rsi_slope": 0.6755257603208429,
+    "wave_strength": 0.9771986716053095,
+    "adx": 38.83845415861811,
+    "atr": 0.11680604605558942,
+    "obv_slope": 1618.0,
     "mom14": 0.0,
-    "avg_vol20": 28128.3,
-    "last_close": 0.9300000071525574,
+    "avg_vol20": 27787.6,
+    "last_close": 0.9549999833106995,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2699,15 +2699,23 @@
       "High": 0.9399999976158142,
       "Low": 0.9049999713897705,
       "Close": 0.9200000166893005,
-      "Volume": 24900.0
+      "Volume": 25500.0
     },
     {
       "Date": "2025-11-24",
       "Open": 0.8899999856948853,
-      "High": 1.01010000705719,
+      "High": 1.0099999904632568,
       "Low": 0.8899999856948853,
       "Close": 0.9300000071525574,
-      "Volume": 9766.0
+      "Volume": 13500.0
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 0.9581000208854675,
+      "High": 0.9991999864578247,
+      "Low": 0.9100000262260437,
+      "Close": 0.9549999833106995,
+      "Volume": 12452.0
     }
   ]
 }

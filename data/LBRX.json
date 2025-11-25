@@ -1,20 +1,20 @@
 {
   "ticker": "LBRX",
   "indicators": {
-    "score_0_100": 65.13,
-    "score_0_10": 6.51,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.03862435442298326,
-    "macd_slope": -0.001992603815375012,
-    "rsi": 48.00443081126527,
-    "rsi_slope": -0.12765936836056976,
-    "wave_strength": 1.0793017364705642,
-    "adx": 25.21872572012726,
-    "atr": 1.372884189237787,
-    "obv_slope": -1589.5714285714287,
+    "score_0_100": 62.01,
+    "score_0_10": 6.2,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.06118399546466502,
+    "macd_slope": 0.00064786099750946,
+    "rsi": 49.99999992027335,
+    "rsi_slope": 0.14342995286291174,
+    "wave_strength": 1.0805671741355365,
+    "adx": 25.284176731554755,
+    "atr": 1.3355353458257826,
+    "obv_slope": 10562.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 109627.3,
-    "last_close": 16.139999389648438,
+    "avg_vol20": 112253.8,
+    "last_close": 16.200000762939453,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -443,7 +443,15 @@
       "High": 16.844999313354492,
       "Low": 15.550000190734863,
       "Close": 16.139999389648438,
-      "Volume": 119746.0
+      "Volume": 122500.0
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 16.149999618530273,
+      "High": 16.59000015258789,
+      "Low": 15.739999771118164,
+      "Close": 16.200000762939453,
+      "Volume": 114976.0
     }
   ]
 }

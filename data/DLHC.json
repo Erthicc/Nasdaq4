@@ -1,34 +1,26 @@
 {
   "ticker": "DLHC",
   "indicators": {
-    "score_0_100": 64.08,
-    "score_0_10": 6.41,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.011880087140799064,
-    "macd_slope": -0.002868860889246611,
-    "rsi": 54.03225590388421,
-    "rsi_slope": -0.7265924921124872,
-    "wave_strength": 0.9828092506409062,
-    "adx": 44.14240669613929,
-    "atr": 0.253839130064284,
-    "obv_slope": -1632.7142857142858,
+    "score_0_100": 62.13,
+    "score_0_10": 6.21,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.04313567956873489,
+    "macd_slope": -0.0009884837704555508,
+    "rsi": 61.744980467965966,
+    "rsi_slope": -0.6221123164933314,
+    "wave_strength": 0.9767480864559378,
+    "adx": 45.81442848066457,
+    "atr": 0.2894608185047905,
+    "obv_slope": 1280.5,
     "mom14": 0.0,
-    "avg_vol20": 237157.1,
-    "last_close": 6.210000038146973,
+    "avg_vol20": 240416.35,
+    "last_close": 6.570000171661377,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 16.040000915527344,
-      "High": 16.670000076293945,
-      "Low": 15.699999809265137,
-      "Close": 16.209999084472656,
-      "Volume": 44600
-    },
     {
       "Date": "2024-02-27",
       "Open": 16.43000030517578,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-24",
-      "Open": 6.187399864196777,
+      "Open": 6.159999847412109,
       "High": 6.380000114440918,
-      "Low": 6.187399864196777,
+      "Low": 6.159999847412109,
       "Close": 6.210000038146973,
-      "Volume": 9042
+      "Volume": 9000
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 6.269999980926514,
+      "High": 6.860000133514404,
+      "Low": 6.132900238037109,
+      "Close": 6.570000171661377,
+      "Volume": 79727
     }
   ]
 }
