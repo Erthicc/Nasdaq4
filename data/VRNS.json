@@ -1,34 +1,26 @@
 {
   "ticker": "VRNS",
   "indicators": {
-    "score_0_100": 63.17,
-    "score_0_10": 6.32,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.480813207368989,
-    "macd_slope": 0.24573687625892005,
-    "rsi": 34.36341939926096,
-    "rsi_slope": 1.1017561115604653,
-    "wave_strength": 1.0584093075634704,
-    "adx": 53.09625613530591,
-    "atr": 1.9109514152260199,
-    "obv_slope": -611941.9285714285,
+    "score_0_100": 66.93,
+    "score_0_10": 6.69,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.6115450205007011,
+    "macd_slope": 0.23478260045411212,
+    "rsi": 37.97813317592658,
+    "rsi_slope": 1.4015080434827836,
+    "wave_strength": 0.960750425511193,
+    "adx": 52.94929423162246,
+    "atr": 1.8237405018145356,
+    "obv_slope": -559452.1428571428,
     "mom14": 0.0,
-    "avg_vol20": 3859800.65,
-    "last_close": 32.470001220703125,
+    "avg_vol20": 2456936.5,
+    "last_close": 32.349998474121094,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 50.849998474121094,
-      "High": 51.27000045776367,
-      "Low": 49.775001525878906,
-      "Close": 50.91999816894531,
-      "Volume": 1663900
-    },
     {
       "Date": "2024-02-28",
       "Open": 50.43000030517578,
@@ -3539,7 +3531,15 @@
       "High": 32.630001068115234,
       "Low": 31.549999237060547,
       "Close": 32.470001220703125,
-      "Volume": 1022013
+      "Volume": 1061100
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 32.52000045776367,
+      "High": 32.84000015258789,
+      "Low": 32.150001525878906,
+      "Close": 32.349998474121094,
+      "Volume": 1270330
     }
   ]
 }

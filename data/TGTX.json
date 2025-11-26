@@ -1,34 +1,26 @@
 {
   "ticker": "TGTX",
   "indicators": {
-    "score_0_100": 61.79,
-    "score_0_10": 6.18,
-    "explanation": "recent MACD bullish crossover",
-    "macd_hist": 0.15897173774797024,
-    "macd_slope": 0.020138270585631533,
-    "rsi": 44.17581802719587,
-    "rsi_slope": 0.0038559671014155583,
-    "wave_strength": 0.969796756154233,
-    "adx": 18.656553286889423,
-    "atr": 1.3712498281716237,
-    "obv_slope": -20145.0,
+    "score_0_100": 67.8,
+    "score_0_10": 6.78,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.26570184903382454,
+    "macd_slope": 0.029767228809253914,
+    "rsi": 50.85715149507945,
+    "rsi_slope": 0.7203490126490623,
+    "wave_strength": 0.970354568215624,
+    "adx": 18.285039554296453,
+    "atr": 1.3650891152922449,
+    "obv_slope": 196334.0,
     "mom14": 0.0,
-    "avg_vol20": 2295553.5,
-    "last_close": 32.97999954223633,
+    "avg_vol20": 2272203.8,
+    "last_close": 33.40999984741211,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 13.819999694824219,
-      "High": 14.0649995803833,
-      "Low": 13.350000381469727,
-      "Close": 13.90999984741211,
-      "Volume": 6059000
-    },
     {
       "Date": "2024-02-28",
       "Open": 16.18000030517578,
@@ -3539,7 +3531,15 @@
       "High": 33.04999923706055,
       "Low": 32.279998779296875,
       "Close": 32.97999954223633,
-      "Volume": 1815370
+      "Volume": 1818300
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 32.869998931884766,
+      "High": 33.78499984741211,
+      "Low": 32.5,
+      "Close": 33.40999984741211,
+      "Volume": 1531076
     }
   ]
 }

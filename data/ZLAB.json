@@ -1,34 +1,26 @@
 {
   "ticker": "ZLAB",
   "indicators": {
-    "score_0_100": 81.79,
-    "score_0_10": 8.18,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.02077268388788278,
-    "macd_slope": 0.010743689130621277,
-    "rsi": 2.8846432393609973,
-    "rsi_slope": -1.699265422617248,
-    "wave_strength": 0.9097565960375886,
-    "adx": 47.426790505199016,
-    "atr": 0.9370204552695627,
-    "obv_slope": -679261.2142857143,
+    "score_0_100": 68.48,
+    "score_0_10": 6.85,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred)",
+    "macd_hist": 0.07295273575727279,
+    "macd_slope": 0.021212621352708343,
+    "rsi": 6.07737715282164,
+    "rsi_slope": -1.2564749695123336,
+    "wave_strength": 0.9206862605523674,
+    "adx": 47.56024586964899,
+    "atr": 0.9029475001364059,
+    "obv_slope": -331362.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 933792.85,
-    "last_close": 19.899999618530273,
+    "avg_vol20": 1004691.55,
+    "last_close": 19.969999313354492,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 22.739999771118164,
-      "High": 22.88800048828125,
-      "Low": 22.0,
-      "Close": 22.489999771118164,
-      "Volume": 1192300
-    },
     {
       "Date": "2024-02-28",
       "Open": 21.799999237060547,
@@ -3539,7 +3531,15 @@
       "High": 20.020000457763672,
       "Low": 19.719999313354492,
       "Close": 19.899999618530273,
-      "Volume": 552857
+      "Volume": 555900
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 19.690000534057617,
+      "High": 20.149999618530273,
+      "Low": 19.690000534057617,
+      "Close": 19.969999313354492,
+      "Volume": 2409531
     }
   ]
 }

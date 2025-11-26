@@ -1,34 +1,26 @@
 {
   "ticker": "DUOL",
   "indicators": {
-    "score_0_100": 75.3,
-    "score_0_10": 7.53,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.09241794094991462,
-    "macd_slope": 0.4460999591117475,
-    "rsi": 14.744767669452912,
-    "rsi_slope": -0.17906054839598998,
-    "wave_strength": 0.8324219525529757,
-    "adx": 43.57415092331406,
-    "atr": 13.720957154626706,
-    "obv_slope": -1515812.642857143,
+    "score_0_100": 69.58,
+    "score_0_10": 6.96,
+    "explanation": "recent MACD bullish crossover; strong ADX trend",
+    "macd_hist": 2.034053482422056,
+    "macd_slope": 0.839594883146406,
+    "rsi": 45.97054721547865,
+    "rsi_slope": 2.4910028700352513,
+    "wave_strength": 0.8496826768211084,
+    "adx": 42.670924928808645,
+    "atr": 13.898746408350151,
+    "obv_slope": -390803.28571428574,
     "mom14": 0.0,
-    "avg_vol20": 2725081.15,
-    "last_close": 175.75999450683594,
+    "avg_vol20": 2743002.7,
+    "last_close": 188.42999267578125,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 188.0,
-      "High": 198.0749969482422,
-      "Low": 187.5,
-      "Close": 194.57000732421875,
-      "Volume": 1259800
-    },
     {
       "Date": "2024-02-28",
       "Open": 194.5399932861328,
@@ -3539,7 +3531,15 @@
       "High": 177.5500030517578,
       "Low": 167.47000122070312,
       "Close": 175.75999450683594,
-      "Volume": 1328723
+      "Volume": 1340400
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 178.22999572753906,
+      "High": 191.97000122070312,
+      "Low": 177.82000732421875,
+      "Close": 188.42999267578125,
+      "Volume": 2678954
     }
   ]
 }

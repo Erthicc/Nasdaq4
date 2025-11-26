@@ -1,22 +1,22 @@
 {
   "ticker": "QSEA",
   "indicators": {
-    "score_0_100": 63.66,
-    "score_0_10": 6.37,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.000801601556705037,
-    "macd_slope": 1.5558698128743894e-05,
-    "rsi": 62.96286188590081,
-    "rsi_slope": -0.5026513224680917,
-    "wave_strength": 1.002019254919316,
-    "adx": 74.30423846908447,
-    "atr": 0.009380903607099521,
-    "obv_slope": 3268.0,
+    "score_0_100": 69.82,
+    "score_0_10": 6.98,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.00017022864280754474,
+    "macd_slope": -9.730607331966e-05,
+    "rsi": 50.335381028132616,
+    "rsi_slope": -1.994668033904157,
+    "wave_strength": 1.002777032390713,
+    "adx": 69.58314362930767,
+    "atr": 0.01581541104847399,
+    "obv_slope": 3171.3571428571427,
     "mom14": 0.0,
-    "avg_vol20": 3927.6,
-    "last_close": 10.218500137329102,
+    "avg_vol20": 3505.05,
+    "last_close": 10.199999809265137,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -1119,11 +1119,19 @@
     },
     {
       "Date": "2025-11-25",
-      "Open": 10.218500137329102,
-      "High": 10.218500137329102,
-      "Low": 10.218500137329102,
-      "Close": 10.218500137329102,
-      "Volume": 1352.0
+      "Open": 10.199999809265137,
+      "High": 10.218999862670898,
+      "Low": 10.199999809265137,
+      "Close": 10.218999862670898,
+      "Volume": 2500.0
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 10.130000114440918,
+      "High": 10.199999809265137,
+      "Low": 10.119999885559082,
+      "Close": 10.199999809265137,
+      "Volume": 1101.0
     }
   ]
 }

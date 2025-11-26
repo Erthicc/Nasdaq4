@@ -1,19 +1,19 @@
 {
   "ticker": "SOCAU",
   "indicators": {
-    "score_0_100": 62.42,
-    "score_0_10": 6.24,
+    "score_0_100": 68.0,
+    "score_0_10": 6.8,
     "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": -0.005840960339109268,
     "macd_slope": -0.001264291764257179,
     "rsi": 0.0,
     "rsi_slope": -7.113328928481991,
     "wave_strength": 0.9838397421819814,
-    "adx": 71.86715645980708,
-    "atr": 0.7701860649416095,
-    "obv_slope": 121.5,
+    "adx": 66.63745769087207,
+    "atr": 0.029471787401675102,
+    "obv_slope": 121.42857142857143,
     "mom14": 0.0,
-    "avg_vol20": 170.05,
+    "avg_vol20": 170.0,
     "last_close": 10.369999885559082,
     "macd_bull": 0,
     "bb_breakout": 0,
@@ -767,11 +767,11 @@
     },
     {
       "Date": "2025-11-25",
-      "Open": 0.0,
-      "High": 0.0,
-      "Low": 0.0,
+      "Open": 10.369999885559082,
+      "High": 10.369999885559082,
+      "Low": 10.369999885559082,
       "Close": 10.369999885559082,
-      "Volume": 1.0
+      "Volume": 0.0
     }
   ]
 }
