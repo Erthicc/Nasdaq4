@@ -1,7 +1,7 @@
 {
   "ticker": "KPLT",
   "indicators": {
-    "score_0_100": 74.66,
+    "score_0_100": 74.67,
     "score_0_10": 7.47,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.09848367496322075,
@@ -11,9 +11,9 @@
     "wave_strength": 0.8058445737072935,
     "adx": 46.63615422774884,
     "atr": 0.9378954811474974,
-    "obv_slope": -101686.28571428571,
+    "obv_slope": -101707.14285714286,
     "mom14": 0.0,
-    "avg_vol20": 135795.4,
+    "avg_vol20": 135810.0,
     "last_close": 6.210000038146973,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 6.869999885559082,
       "Low": 6.199999809265137,
       "Close": 6.210000038146973,
-      "Volume": 139908
+      "Volume": 140200
     }
   ]
 }

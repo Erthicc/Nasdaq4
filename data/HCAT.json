@@ -1,7 +1,7 @@
 {
   "ticker": "HCAT",
   "indicators": {
-    "score_0_100": 67.56,
+    "score_0_100": 67.57,
     "score_0_10": 6.76,
     "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
     "macd_hist": 0.0432360374735358,
@@ -11,9 +11,9 @@
     "wave_strength": 1.070523020286656,
     "adx": 16.633161869220636,
     "atr": 0.2382392113030272,
-    "obv_slope": -178742.64285714287,
+    "obv_slope": -178742.85714285713,
     "mom14": 0.0,
-    "avg_vol20": 786180.15,
+    "avg_vol20": 786180.0,
     "last_close": 2.9200000762939453,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 2.944999933242798,
       "Low": 2.7100000381469727,
       "Close": 2.9200000762939453,
-      "Volume": 1002703
+      "Volume": 1002700
     }
   ]
 }

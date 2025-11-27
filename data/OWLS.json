@@ -1,7 +1,7 @@
 {
   "ticker": "OWLS",
   "indicators": {
-    "score_0_100": 83.47,
+    "score_0_100": 83.48,
     "score_0_10": 8.35,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 1.4141621074986697,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9548257833914917,
     "adx": 72.42098148007541,
     "atr": 3.7122143348083374,
-    "obv_slope": -17135.0,
+    "obv_slope": -17135.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 64345.5,
+    "avg_vol20": 64345.0,
     "last_close": 7.110000133514404,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -259,7 +259,7 @@
       "High": 7.494999885559082,
       "Low": 6.900000095367432,
       "Close": 7.110000133514404,
-      "Volume": 58110.0
+      "Volume": 58100.0
     }
   ]
 }

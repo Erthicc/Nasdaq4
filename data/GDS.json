@@ -1,7 +1,7 @@
 {
   "ticker": "GDS",
   "indicators": {
-    "score_0_100": 67.62,
+    "score_0_100": 67.63,
     "score_0_10": 6.76,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.4380156709528107,
@@ -11,9 +11,9 @@
     "wave_strength": 1.028355105632391,
     "adx": 17.724238889282244,
     "atr": 1.7785778139957704,
-    "obv_slope": 298364.35714285716,
+    "obv_slope": 331878.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 1638360.05,
+    "avg_vol20": 1661820.0,
     "last_close": 34.099998474121094,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 34.529998779296875,
       "Low": 33.880001068115234,
       "Close": 34.099998474121094,
-      "Volume": 997701
+      "Volume": 1466900
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "ACHC",
   "indicators": {
-    "score_0_100": 69.01,
+    "score_0_100": 69.02,
     "score_0_10": 6.9,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.12186762368006909,
@@ -10,10 +10,10 @@
     "rsi_slope": 1.871785377221271,
     "wave_strength": 1.026333549493073,
     "adx": 52.79054052674384,
-    "atr": 0.9812573840490184,
-    "obv_slope": -252009.7857142857,
+    "atr": 0.9809001648979302,
+    "obv_slope": -237757.14285714287,
     "mom14": 0.0,
-    "avg_vol20": 2749398.15,
+    "avg_vol20": 2759375.0,
     "last_close": 17.149999618530273,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3537,9 +3537,9 @@
       "Date": "2025-11-26",
       "Open": 16.56999969482422,
       "High": 17.579999923706055,
-      "Low": 16.424999237060547,
+      "Low": 16.43000030517578,
       "Close": 17.149999618530273,
-      "Volume": 2743463
+      "Volume": 2943000
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "FISV",
   "indicators": {
-    "score_0_100": 74.34,
-    "score_0_10": 7.43,
+    "score_0_100": 74.35,
+    "score_0_10": 7.44,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 1.7914513172569109,
     "macd_slope": 0.5596580220661658,
@@ -10,10 +10,10 @@
     "rsi_slope": 1.4605473822803643,
     "wave_strength": 0.9615475855420905,
     "adx": 64.08220271549524,
-    "atr": 3.1656584750439225,
-    "obv_slope": 134146.42857142858,
+    "atr": 3.1663729133460987,
+    "obv_slope": 156371.42857142858,
     "mom14": 0.0,
-    "avg_vol20": 18520802.5,
+    "avg_vol20": 18536360.0,
     "last_close": 60.79999923706055,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3529,9 +3529,9 @@
       "Date": "2025-11-26",
       "Open": 60.84000015258789,
       "High": 61.58000183105469,
-      "Low": 60.61000061035156,
+      "Low": 60.599998474121094,
       "Close": 60.79999923706055,
-      "Volume": 7572050.0
+      "Volume": 7883200.0
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "SYNA",
   "indicators": {
-    "score_0_100": 68.03,
+    "score_0_100": 68.04,
     "score_0_10": 6.8,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 0.2784574026055815,
@@ -11,9 +11,9 @@
     "wave_strength": 0.912006304467124,
     "adx": 25.886501805561327,
     "atr": 2.836834434335573,
-    "obv_slope": -112551.5,
+    "obv_slope": -111335.71428571429,
     "mom14": 0.0,
-    "avg_vol20": 485038.95,
+    "avg_vol20": 485890.0,
     "last_close": 67.73999786376953,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 68.3499984741211,
       "Low": 66.48999786376953,
       "Close": 67.73999786376953,
-      "Volume": 307379
+      "Volume": 324400
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "LBRDA",
   "indicators": {
-    "score_0_100": 66.49,
+    "score_0_100": 66.5,
     "score_0_10": 6.65,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.20804804296632984,
@@ -10,10 +10,10 @@
     "rsi_slope": 1.053666974992669,
     "wave_strength": 0.9591244700461672,
     "adx": 41.1142753010668,
-    "atr": 1.5897955545211564,
-    "obv_slope": -17791.35714285714,
+    "atr": 1.5905099928233326,
+    "obv_slope": -21971.428571428572,
     "mom14": 0.0,
-    "avg_vol20": 131073.95,
+    "avg_vol20": 134000.0,
     "last_close": 46.060001373291016,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 46.459999084472656,
+      "Open": 46.68000030517578,
       "High": 46.68000030517578,
-      "Low": 45.86000061035156,
+      "Low": 45.849998474121094,
       "Close": 46.060001373291016,
-      "Volume": 75179
+      "Volume": 133700
     }
   ]
 }

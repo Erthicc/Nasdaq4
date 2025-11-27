@@ -1,7 +1,7 @@
 {
   "ticker": "NTLA",
   "indicators": {
-    "score_0_100": 76.15,
+    "score_0_100": 76.16,
     "score_0_10": 7.62,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.15367738675251497,
@@ -11,9 +11,9 @@
     "wave_strength": 0.858455302977871,
     "adx": 39.36663210332226,
     "atr": 1.175371322469831,
-    "obv_slope": -1821017.4285714286,
+    "obv_slope": -1822135.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 8286332.2,
+    "avg_vol20": 8287115.0,
     "last_close": 8.520000457763672,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 8.630000114440918,
       "Low": 8.399999618530273,
       "Close": 8.520000457763672,
-      "Volume": 3125644
+      "Volume": 3141300
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "SHOP",
   "indicators": {
-    "score_0_100": 68.46,
+    "score_0_100": 68.47,
     "score_0_10": 6.85,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.5620565801480328,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9388222331980767,
     "adx": 17.659220886249756,
     "atr": 7.35218286173688,
-    "obv_slope": 515254.21428571426,
+    "obv_slope": 563528.5714285715,
     "mom14": 0.0,
-    "avg_vol20": 10265062.95,
+    "avg_vol20": 10298855.0,
     "last_close": 159.33999633789062,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 158.7899932861328,
+      "Open": 158.32000732421875,
       "High": 160.5800018310547,
       "Low": 157.4199981689453,
       "Close": 159.33999633789062,
-      "Volume": 4563259
+      "Volume": 5239100
     }
   ]
 }

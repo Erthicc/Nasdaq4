@@ -1,20 +1,20 @@
 {
   "ticker": "SARK",
   "indicators": {
-    "score_0_100": 66.54,
+    "score_0_100": 66.55,
     "score_0_10": 6.65,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0071092201137596955,
-    "macd_slope": -0.023415751919306865,
-    "rsi": 53.67052392358918,
-    "rsi_slope": -0.2782062510187104,
-    "wave_strength": 1.104957518562029,
+    "macd_hist": 0.00709643924770742,
+    "macd_slope": -0.023416664838310598,
+    "rsi": 53.669215820174415,
+    "rsi_slope": -0.2782996869769079,
+    "wave_strength": 1.1049578804890943,
     "adx": 31.745855332562282,
     "atr": 1.1850838748676455,
-    "obv_slope": 744864.1428571428,
+    "obv_slope": 726107.1428571428,
     "mom14": 0.0,
-    "avg_vol20": 1270495.1,
-    "last_close": 30.70319938659668,
+    "avg_vol20": 1283625.0,
+    "last_close": 30.702999114990234,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3538,8 +3538,8 @@
       "Open": 30.8799991607666,
       "High": 31.09000015258789,
       "Low": 30.600000381469727,
-      "Close": 30.70319938659668,
-      "Volume": 231402
+      "Close": 30.702999114990234,
+      "Volume": 494000
     }
   ]
 }

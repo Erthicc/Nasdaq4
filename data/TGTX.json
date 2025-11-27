@@ -1,7 +1,7 @@
 {
   "ticker": "TGTX",
   "indicators": {
-    "score_0_100": 67.8,
+    "score_0_100": 67.81,
     "score_0_10": 6.78,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.26570184903382454,
@@ -11,9 +11,9 @@
     "wave_strength": 0.970354568215624,
     "adx": 18.285039554296453,
     "atr": 1.3650891152922449,
-    "obv_slope": 196334.0,
+    "obv_slope": 201807.14285714287,
     "mom14": 0.0,
-    "avg_vol20": 2272203.8,
+    "avg_vol20": 2276035.0,
     "last_close": 33.40999984741211,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 33.78499984741211,
       "Low": 32.5,
       "Close": 33.40999984741211,
-      "Volume": 1531076
+      "Volume": 1607700
     }
   ]
 }

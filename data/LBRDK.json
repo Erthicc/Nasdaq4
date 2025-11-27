@@ -1,7 +1,7 @@
 {
   "ticker": "LBRDK",
   "indicators": {
-    "score_0_100": 67.4,
+    "score_0_100": 67.41,
     "score_0_10": 6.74,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.19487378638217923,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9563032599821581,
     "adx": 41.143770073192975,
     "atr": 1.7119633101236638,
-    "obv_slope": -247487.92857142858,
+    "obv_slope": -251371.42857142858,
     "mom14": 0.0,
-    "avg_vol20": 1261426.55,
+    "avg_vol20": 1264145.0,
     "last_close": 46.209999084472656,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 46.41999816894531,
       "Low": 45.95000076293945,
       "Close": 46.209999084472656,
-      "Volume": 1362831
+      "Volume": 1417200
     }
   ]
 }

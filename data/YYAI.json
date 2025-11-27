@@ -2,7 +2,7 @@
   "ticker": "YYAI",
   "indicators": {
     "score_0_100": 68.95,
-    "score_0_10": 6.89,
+    "score_0_10": 6.9,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 2.7463991796267404,
     "macd_slope": -0.09242886269028196,
@@ -11,9 +11,9 @@
     "wave_strength": 0.7411316604741305,
     "adx": 40.10214873389666,
     "atr": 2.6880707567366575,
-    "obv_slope": -746186.9285714285,
+    "obv_slope": -741035.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 2478804.15,
+    "avg_vol20": 2482410.0,
     "last_close": 1.0800000429153442,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 1.2000000476837158,
       "Low": 0.9900000095367432,
       "Close": 1.0800000429153442,
-      "Volume": 2837583
+      "Volume": 2909700
     }
   ]
 }

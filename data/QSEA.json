@@ -1,7 +1,7 @@
 {
   "ticker": "QSEA",
   "indicators": {
-    "score_0_100": 69.82,
+    "score_0_100": 69.83,
     "score_0_10": 6.98,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.00017022864280754474,
@@ -11,9 +11,9 @@
     "wave_strength": 1.002777032390713,
     "adx": 69.58314362930767,
     "atr": 0.01581541104847399,
-    "obv_slope": 3171.3571428571427,
+    "obv_slope": 3135.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 3505.05,
+    "avg_vol20": 3530.0,
     "last_close": 10.199999809265137,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1131,7 +1131,7 @@
       "High": 10.199999809265137,
       "Low": 10.119999885559082,
       "Close": 10.199999809265137,
-      "Volume": 1101.0
+      "Volume": 1600.0
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "CERT",
   "indicators": {
-    "score_0_100": 68.84,
+    "score_0_100": 68.85,
     "score_0_10": 6.88,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.10259208510267948,
@@ -11,9 +11,9 @@
     "wave_strength": 0.8802760803862946,
     "adx": 32.58521368975738,
     "atr": 0.5197687613549572,
-    "obv_slope": -1110665.2857142857,
+    "obv_slope": -1102078.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 2835474.3,
+    "avg_vol20": 2841485.0,
     "last_close": 9.140000343322754,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 9.279999732971191,
       "Low": 9.010000228881836,
       "Close": 9.140000343322754,
-      "Volume": 1804786
+      "Volume": 1925000
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "LSE",
   "indicators": {
-    "score_0_100": 69.01,
+    "score_0_100": 69.0,
     "score_0_10": 6.9,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.012647949875377928,
-    "macd_slope": 0.002178228161077788,
-    "rsi": 61.21151443733803,
-    "rsi_slope": 1.543102349202488,
-    "wave_strength": 0.9965262722804367,
+    "macd_hist": 0.012679841179241959,
+    "macd_slope": 0.0021805061113537904,
+    "rsi": 61.23044372031006,
+    "rsi_slope": 1.5444544408433474,
+    "wave_strength": 0.9965215523146318,
     "adx": 44.89897089608921,
     "atr": 0.1521971260789797,
-    "obv_slope": -453.14285714285717,
+    "obv_slope": -392.85714285714283,
     "mom14": 0.0,
-    "avg_vol20": 2752.8,
-    "last_close": 5.489500045776367,
+    "avg_vol20": 2795.0,
+    "last_close": 5.489999771118164,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -1895,11 +1895,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 5.276100158691406,
+      "Open": 5.276000022888184,
       "High": 5.53000020980835,
-      "Low": 5.276100158691406,
-      "Close": 5.489500045776367,
-      "Volume": 1156.0
+      "Low": 5.276000022888184,
+      "Close": 5.489999771118164,
+      "Volume": 2000.0
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "HBIO",
   "indicators": {
-    "score_0_100": 67.72,
+    "score_0_100": 67.71,
     "score_0_10": 6.77,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.009514227638263005,
-    "macd_slope": -0.0006970317778590173,
-    "rsi": 69.195221914511,
-    "rsi_slope": 0.3059243682853666,
-    "wave_strength": 1.0877153368018766,
+    "macd_hist": 0.009552516982811489,
+    "macd_slope": -0.0006942968246769827,
+    "rsi": 69.23076472168783,
+    "rsi_slope": 0.30846314022656934,
+    "wave_strength": 1.0876623653868163,
     "adx": 45.507229719665936,
     "atr": 0.07973878104006707,
-    "obv_slope": 669847.7142857143,
+    "obv_slope": 670685.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 18890623.4,
-    "last_close": 0.7494000196456909,
+    "avg_vol20": 18891210.0,
+    "last_close": 0.75,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 0.7484999895095825,
+      "Open": 0.75,
       "High": 0.7699999809265137,
       "Low": 0.699999988079071,
-      "Close": 0.7494000196456909,
-      "Volume": 1072868
+      "Close": 0.75,
+      "Volume": 1084600
     }
   ]
 }

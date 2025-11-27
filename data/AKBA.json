@@ -1,7 +1,7 @@
 {
   "ticker": "AKBA",
   "indicators": {
-    "score_0_100": 67.94,
+    "score_0_100": 67.95,
     "score_0_10": 6.79,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.00760420365673492,
@@ -11,9 +11,9 @@
     "wave_strength": 0.8762744866034576,
     "adx": 42.197145911587484,
     "atr": 0.14516407652558477,
-    "obv_slope": -1546003.5714285714,
+    "obv_slope": -1543678.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 5558072.5,
+    "avg_vol20": 5559700.0,
     "last_close": 1.590000033378601,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 1.600000023841858,
       "Low": 1.5199999809265137,
       "Close": 1.590000033378601,
-      "Volume": 2383950
+      "Volume": 2416500
     }
   ]
 }

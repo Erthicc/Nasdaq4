@@ -1,20 +1,20 @@
 {
   "ticker": "ETS",
   "indicators": {
-    "score_0_100": 68.38,
+    "score_0_100": 68.4,
     "score_0_10": 6.84,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.01307692767478763,
-    "macd_slope": -0.00013507685960647216,
-    "rsi": 32.58428242628237,
-    "rsi_slope": 1.3235872694963373,
-    "wave_strength": 0.9233829928396887,
+    "macd_hist": 0.01307054484941983,
+    "macd_slope": -0.00013553277570417223,
+    "rsi": 32.558147976274796,
+    "rsi_slope": 1.3217205230672247,
+    "wave_strength": 0.9233908453711471,
     "adx": 59.67790845159336,
     "atr": 0.041694771777626725,
-    "obv_slope": -5633.071428571428,
+    "obv_slope": -4985.714285714285,
     "mom14": 0.0,
-    "avg_vol20": 93241.85,
-    "last_close": 0.5501000285148621,
+    "avg_vol20": 93695.0,
+    "last_close": 0.550000011920929,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -570,8 +570,8 @@
       "Open": 0.531000018119812,
       "High": 0.5600000023841858,
       "Low": 0.531000018119812,
-      "Close": 0.5501000285148621,
-      "Volume": 31137.0
+      "Close": 0.550000011920929,
+      "Volume": 40200.0
     }
   ]
 }

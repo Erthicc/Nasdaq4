@@ -1,20 +1,20 @@
 {
   "ticker": "WXM",
   "indicators": {
-    "score_0_100": 73.58,
+    "score_0_100": 73.56,
     "score_0_10": 7.36,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.03470940447467019,
-    "macd_slope": 0.019995107268747033,
-    "rsi": 21.957501226258955,
-    "rsi_slope": 0.6236923339968276,
-    "wave_strength": 0.46025576903995713,
+    "macd_hist": 0.034741314797680056,
+    "macd_slope": 0.01999738657753345,
+    "rsi": 22.007723965836732,
+    "rsi_slope": 0.6272796725380972,
+    "wave_strength": 0.4602454252654969,
     "adx": 53.084525170164866,
     "atr": 0.18516569073163172,
-    "obv_slope": -220048.85714285713,
+    "obv_slope": -219435.7142857143,
     "mom14": 0.0,
-    "avg_vol20": 574690.8,
-    "last_close": 0.5444999933242798,
+    "avg_vol20": 575120.0,
+    "last_close": 0.5450000166893005,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1354,8 +1354,8 @@
       "Open": 0.5400000214576721,
       "High": 0.5799999833106995,
       "Low": 0.5400000214576721,
-      "Close": 0.5444999933242798,
-      "Volume": 197216.0
+      "Close": 0.5450000166893005,
+      "Volume": 205800.0
     }
   ]
 }

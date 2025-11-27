@@ -1,20 +1,20 @@
 {
   "ticker": "PSTV",
   "indicators": {
-    "score_0_100": 67.63,
-    "score_0_10": 6.76,
+    "score_0_100": 67.55,
+    "score_0_10": 6.75,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.009972663104500436,
-    "macd_slope": 0.0017322255166779318,
-    "rsi": 62.675853042024876,
-    "rsi_slope": 2.027866456883942,
-    "wave_strength": 1.0893757475122527,
+    "macd_hist": 0.010081155920436492,
+    "macd_slope": 0.0017399750035305072,
+    "rsi": 62.85714642496397,
+    "rsi_slope": 2.0408159842367346,
+    "wave_strength": 1.089201852079186,
     "adx": 13.231505078018884,
     "atr": 0.056150782121828335,
-    "obv_slope": 2586023.714285714,
+    "obv_slope": 2589814.285714286,
     "mom14": 0.0,
-    "avg_vol20": 5704136.6,
-    "last_close": 0.5982999801635742,
+    "avg_vol20": 5706790.0,
+    "last_close": 0.6000000238418579,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 0.5697000026702881,
+      "Open": 0.5699999928474426,
       "High": 0.6299999952316284,
-      "Low": 0.5670999884605408,
-      "Close": 0.5982999801635742,
-      "Volume": 8418032
+      "Low": 0.5699999928474426,
+      "Close": 0.6000000238418579,
+      "Volume": 8471100
     }
   ]
 }

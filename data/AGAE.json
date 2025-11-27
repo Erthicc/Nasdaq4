@@ -1,7 +1,7 @@
 {
   "ticker": "AGAE",
   "indicators": {
-    "score_0_100": 66.88,
+    "score_0_100": 66.89,
     "score_0_10": 6.69,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.00414170849874429,
@@ -10,10 +10,10 @@
     "rsi_slope": 0.6753435251051008,
     "wave_strength": 0.8335881169196524,
     "adx": 28.915568404184448,
-    "atr": 0.056501868315645874,
-    "obv_slope": -232787.64285714287,
+    "atr": 0.056473296403425334,
+    "obv_slope": -232628.57142857142,
     "mom14": 0.0,
-    "avg_vol20": 371178.65,
+    "avg_vol20": 371290.0,
     "last_close": 0.4000000059604645,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 0.3702999949455261,
-      "High": 0.41440001130104065,
+      "Open": 0.3700000047683716,
+      "High": 0.414000004529953,
       "Low": 0.3700000047683716,
       "Close": 0.4000000059604645,
-      "Volume": 379773
+      "Volume": 382000
     }
   ]
 }

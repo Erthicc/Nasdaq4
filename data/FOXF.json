@@ -1,7 +1,7 @@
 {
   "ticker": "FOXF",
   "indicators": {
-    "score_0_100": 74.0,
+    "score_0_100": 74.01,
     "score_0_10": 7.4,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.10876026586161247,
@@ -10,10 +10,10 @@
     "rsi_slope": -1.7977333175992807,
     "wave_strength": 0.845908867311071,
     "adx": 47.17602273395989,
-    "atr": 1.0267493155437075,
-    "obv_slope": -497997.64285714284,
+    "atr": 1.0267421629863345,
+    "obv_slope": -496628.5714285714,
     "mom14": 0.0,
-    "avg_vol20": 1206846.65,
+    "avg_vol20": 1207805.0,
     "last_close": 14.6899995803833,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3537,9 +3537,9 @@
       "Date": "2025-11-26",
       "Open": 14.470000267028809,
       "High": 14.885000228881836,
-      "Low": 14.386899948120117,
+      "Low": 14.38700008392334,
       "Close": 14.6899995803833,
-      "Volume": 841933
+      "Volume": 861100
     }
   ]
 }

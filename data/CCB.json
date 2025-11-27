@@ -1,7 +1,7 @@
 {
   "ticker": "CCB",
   "indicators": {
-    "score_0_100": 66.84,
+    "score_0_100": 66.85,
     "score_0_10": 6.68,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.6542256919275735,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9760400820452639,
     "adx": 14.2205920169374,
     "atr": 4.014137289235019,
-    "obv_slope": 39651.0,
+    "obv_slope": 39814.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 108790.7,
+    "avg_vol20": 108905.0,
     "last_close": 111.62000274658203,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -3539,7 +3539,7 @@
       "High": 111.98999786376953,
       "Low": 108.0,
       "Close": 111.62000274658203,
-      "Volume": 146514
+      "Volume": 148800
     }
   ]
 }

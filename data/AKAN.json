@@ -1,7 +1,7 @@
 {
   "ticker": "AKAN",
   "indicators": {
-    "score_0_100": 67.26,
+    "score_0_100": 67.27,
     "score_0_10": 6.73,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
     "macd_hist": 0.04011155455076676,
@@ -11,9 +11,9 @@
     "wave_strength": 1.1026878053131135,
     "adx": 16.849037419854106,
     "atr": 0.1954952916761097,
-    "obv_slope": -668090.5714285715,
+    "obv_slope": -667900.0,
     "mom14": 0.0,
-    "avg_vol20": 604766.6,
+    "avg_vol20": 604900.0,
     "last_close": 1.0700000524520874,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 1.1299999952316284,
       "Low": 1.0299999713897705,
       "Close": 1.0700000524520874,
-      "Volume": 163632
+      "Volume": 166300
     }
   ]
 }

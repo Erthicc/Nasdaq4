@@ -1,7 +1,7 @@
 {
   "ticker": "AHCO",
   "indicators": {
-    "score_0_100": 68.19,
+    "score_0_100": 68.2,
     "score_0_10": 6.82,
     "explanation": "recent MACD bullish crossover; strong ADX trend",
     "macd_hist": 0.022095208664462324,
@@ -11,9 +11,9 @@
     "wave_strength": 1.0416776434593102,
     "adx": 30.306887431296918,
     "atr": 0.4166657022490802,
-    "obv_slope": -55238.57142857143,
+    "obv_slope": -62057.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 1199702.0,
+    "avg_vol20": 1204475.0,
     "last_close": 9.609999656677246,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 9.845000267028809,
       "Low": 9.59000015258789,
       "Close": 9.609999656677246,
-      "Volume": 1080740
+      "Volume": 1176200
     }
   ]
 }

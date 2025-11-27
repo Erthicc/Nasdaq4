@@ -1,7 +1,7 @@
 {
   "ticker": "DVLT",
   "indicators": {
-    "score_0_100": 70.87,
+    "score_0_100": 70.86,
     "score_0_10": 7.09,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
     "macd_hist": 0.044298135426449795,
@@ -11,9 +11,9 @@
     "wave_strength": 1.3724434499814828,
     "adx": 24.42319128462676,
     "atr": 0.4028423246479779,
-    "obv_slope": 8106927.857142857,
+    "obv_slope": 8035528.571428572,
     "mom14": 0.0,
-    "avg_vol20": 53008255.5,
+    "avg_vol20": 53058235.0,
     "last_close": 2.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 2.2899999618530273,
       "Low": 2.069999933242798,
       "Close": 2.130000114440918,
-      "Volume": 24424210
+      "Volume": 25423800
     }
   ]
 }

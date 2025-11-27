@@ -1,7 +1,7 @@
 {
   "ticker": "MCGA",
   "indicators": {
-    "score_0_100": 75.55,
+    "score_0_100": 75.56,
     "score_0_10": 7.56,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.002999840782150015,
@@ -10,10 +10,10 @@
     "rsi_slope": -0.9072144831160155,
     "wave_strength": 0.9901958289432162,
     "adx": 46.340592521191766,
-    "atr": 0.05973722060460561,
-    "obv_slope": -66222.0,
+    "atr": 0.05987298295550544,
+    "obv_slope": -66221.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 143089.6,
+    "avg_vol20": 143090.0,
     "last_close": 10.130000114440918,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -719,11 +719,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 10.130000114440918,
-      "High": 10.138099670410156,
+      "Open": 10.140000343322754,
+      "High": 10.140000343322754,
       "Low": 10.130000114440918,
       "Close": 10.130000114440918,
-      "Volume": 178892.0
+      "Volume": 178900.0
     }
   ]
 }

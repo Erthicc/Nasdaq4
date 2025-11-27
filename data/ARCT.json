@@ -1,7 +1,7 @@
 {
   "ticker": "ARCT",
   "indicators": {
-    "score_0_100": 68.26,
+    "score_0_100": 68.27,
     "score_0_10": 6.83,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
     "macd_hist": 0.28073459399317535,
@@ -9,11 +9,11 @@
     "rsi": 32.55269375551504,
     "rsi_slope": 1.0368939683402374,
     "wave_strength": 1.1284621319734411,
-    "adx": 42.78485701124099,
-    "atr": 0.8898705375187824,
-    "obv_slope": -143418.35714285713,
+    "adx": 42.777389530818944,
+    "atr": 0.8902276885502766,
+    "obv_slope": -142700.0,
     "mom14": 0.0,
-    "avg_vol20": 1020777.15,
+    "avg_vol20": 1021280.0,
     "last_close": 6.800000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-11-26",
       "Open": 6.829999923706055,
-      "High": 6.894999980926514,
+      "High": 6.900000095367432,
       "Low": 6.599999904632568,
       "Close": 6.800000190734863,
-      "Volume": 705443
+      "Volume": 715500
     }
   ]
 }

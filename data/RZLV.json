@@ -1,7 +1,7 @@
 {
   "ticker": "RZLV",
   "indicators": {
-    "score_0_100": 71.0,
+    "score_0_100": 71.01,
     "score_0_10": 7.1,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.035060450558403566,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9341702049315388,
     "adx": 25.582258388526935,
     "atr": 0.36491284871859403,
-    "obv_slope": -7453161.0,
+    "obv_slope": -7491621.428571428,
     "mom14": 0.0,
-    "avg_vol20": 13493727.7,
+    "avg_vol20": 13520650.0,
     "last_close": 2.9800000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 3.059999942779541,
       "Low": 2.930000066757202,
       "Close": 2.9800000190734863,
-      "Volume": 11735954
+      "Volume": 12274400
     }
   ]
 }

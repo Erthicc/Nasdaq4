@@ -1,7 +1,7 @@
 {
   "ticker": "VRNS",
   "indicators": {
-    "score_0_100": 66.93,
+    "score_0_100": 66.94,
     "score_0_10": 6.69,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.6115450205007011,
@@ -11,9 +11,9 @@
     "wave_strength": 0.960750425511193,
     "adx": 52.94929423162246,
     "atr": 1.8237405018145356,
-    "obv_slope": -559452.1428571428,
+    "obv_slope": -562307.1428571428,
     "mom14": 0.0,
-    "avg_vol20": 2456936.5,
+    "avg_vol20": 2458935.0,
     "last_close": 32.349998474121094,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 32.52000045776367,
+      "Open": 32.540000915527344,
       "High": 32.84000015258789,
       "Low": 32.150001525878906,
       "Close": 32.349998474121094,
-      "Volume": 1270330
+      "Volume": 1310300
     }
   ]
 }

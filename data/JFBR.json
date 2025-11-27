@@ -2,7 +2,7 @@
   "ticker": "JFBR",
   "indicators": {
     "score_0_100": 76.75,
-    "score_0_10": 7.67,
+    "score_0_10": 7.68,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.010789478756991988,
     "macd_slope": 0.005093436519545497,
@@ -10,10 +10,10 @@
     "rsi_slope": -0.0923876143210539,
     "wave_strength": 0.7573149517827151,
     "adx": 32.62228631066823,
-    "atr": 0.22786427084662256,
-    "obv_slope": -54281.0,
+    "atr": 0.227935694240962,
+    "obv_slope": -54278.57142857143,
     "mom14": 0.0,
-    "avg_vol20": 63208.3,
+    "avg_vol20": 63210.0,
     "last_close": 1.5499999523162842,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 1.51010000705719,
+      "Open": 1.5099999904632568,
       "High": 1.5800000429153442,
-      "Low": 1.4809999465942383,
+      "Low": 1.4800000190734863,
       "Close": 1.5499999523162842,
-      "Volume": 22866
+      "Volume": 22900
     }
   ]
 }

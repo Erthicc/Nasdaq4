@@ -1,20 +1,20 @@
 {
   "ticker": "NVVE",
   "indicators": {
-    "score_0_100": 68.9,
+    "score_0_100": 68.86,
     "score_0_10": 6.89,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.006689326706958142,
-    "macd_slope": 0.0004036571582821496,
-    "rsi": 53.889294542336714,
-    "rsi_slope": 1.0516163666960818,
-    "wave_strength": 1.2195673280016357,
-    "adx": 31.33192025428728,
-    "atr": 0.06461968754896531,
-    "obv_slope": 95007860.42857143,
+    "macd_hist": 0.006702090455779163,
+    "macd_slope": 0.00040456885462650824,
+    "rsi": 53.90243849414108,
+    "rsi_slope": 1.0525552203963937,
+    "wave_strength": 1.219512242727397,
+    "adx": 31.333348741114076,
+    "atr": 0.06464825733244854,
+    "obv_slope": 94959292.85714285,
     "mom14": 0.0,
-    "avg_vol20": 128309802.7,
-    "last_close": 0.2558000087738037,
+    "avg_vol20": 128343800.0,
+    "last_close": 0.25600001215934753,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-11-26",
       "Open": 0.25999999046325684,
-      "High": 0.2948000133037567,
-      "Low": 0.2531999945640564,
-      "Close": 0.2558000087738037,
-      "Volume": 13992654
+      "High": 0.29499998688697815,
+      "Low": 0.2529999911785126,
+      "Close": 0.25600001215934753,
+      "Volume": 14672600
     }
   ]
 }

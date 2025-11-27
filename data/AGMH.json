@@ -1,7 +1,7 @@
 {
   "ticker": "AGMH",
   "indicators": {
-    "score_0_100": 71.36,
+    "score_0_100": 71.37,
     "score_0_10": 7.14,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
     "macd_hist": 0.029744428605427364,
@@ -11,9 +11,9 @@
     "wave_strength": 0.8963671299645655,
     "adx": 19.309685942665745,
     "atr": 0.33860531769583463,
-    "obv_slope": -8172.785714285715,
+    "obv_slope": -8350.0,
     "mom14": 0.0,
-    "avg_vol20": 32035.95,
+    "avg_vol20": 32160.0,
     "last_close": 2.865000009536743,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 2.9800000190734863,
       "Low": 2.865000009536743,
       "Close": 2.865000009536743,
-      "Volume": 6019
+      "Volume": 8500
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "CGTX",
   "indicators": {
-    "score_0_100": 67.21,
+    "score_0_100": 67.22,
     "score_0_10": 6.72,
     "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
     "macd_hist": 0.00023836229237239603,
@@ -11,9 +11,9 @@
     "wave_strength": 0.965604279039479,
     "adx": 13.670433550236245,
     "atr": 0.15123726700084753,
-    "obv_slope": 93011.21428571429,
+    "obv_slope": 94864.28571428571,
     "mom14": 0.0,
-    "avg_vol20": 1043757.85,
+    "avg_vol20": 1045055.0,
     "last_close": 1.649999976158142,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 1.6699999570846558,
       "Low": 1.4800000190734863,
       "Close": 1.649999976158142,
-      "Volume": 1038557
+      "Volume": 1064500
     }
   ]
 }

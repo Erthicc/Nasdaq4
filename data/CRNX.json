@@ -1,7 +1,7 @@
 {
   "ticker": "CRNX",
   "indicators": {
-    "score_0_100": 69.01,
+    "score_0_100": 69.02,
     "score_0_10": 6.9,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
     "macd_hist": 0.2124625064775174,
@@ -11,9 +11,9 @@
     "wave_strength": 1.014085837866854,
     "adx": 21.842635083095985,
     "atr": 2.1296210078202176,
-    "obv_slope": -77744.28571428571,
+    "obv_slope": -77742.85714285714,
     "mom14": 0.0,
-    "avg_vol20": 1558999.0,
+    "avg_vol20": 1559000.0,
     "last_close": 46.029998779296875,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -3539,7 +3539,7 @@
       "High": 46.400001525878906,
       "Low": 44.5,
       "Close": 46.029998779296875,
-      "Volume": 990580
+      "Volume": 990600
     }
   ]
 }

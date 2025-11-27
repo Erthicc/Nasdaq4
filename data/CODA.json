@@ -2,7 +2,7 @@
   "ticker": "CODA",
   "indicators": {
     "score_0_100": 67.95,
-    "score_0_10": 6.79,
+    "score_0_10": 6.8,
     "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
     "macd_hist": 0.009602178943256073,
     "macd_slope": 0.01148253073291337,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9307650573011167,
     "adx": 26.23338443055082,
     "atr": 0.46784807627918595,
-    "obv_slope": 6598.857142857143,
+    "obv_slope": 6600.0,
     "mom14": 0.0,
-    "avg_vol20": 55059.2,
+    "avg_vol20": 55060.0,
     "last_close": 8.770000457763672,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 8.854999542236328,
       "Low": 8.609999656677246,
       "Close": 8.770000457763672,
-      "Volume": 22284
+      "Volume": 22300
     }
   ]
 }

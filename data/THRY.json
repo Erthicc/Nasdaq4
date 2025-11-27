@@ -1,7 +1,7 @@
 {
   "ticker": "THRY",
   "indicators": {
-    "score_0_100": 75.22,
+    "score_0_100": 75.23,
     "score_0_10": 7.52,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.11436524429017658,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9134309005344055,
     "adx": 45.395102252339406,
     "atr": 0.43102200538950247,
-    "obv_slope": -311413.21428571426,
+    "obv_slope": -323121.4285714286,
     "mom14": 0.0,
-    "avg_vol20": 1421984.25,
+    "avg_vol20": 1430180.0,
     "last_close": 5.619999885559082,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -3539,7 +3539,7 @@
       "High": 5.730000019073486,
       "Low": 5.599999904632568,
       "Close": 5.619999885559082,
-      "Volume": 986985
+      "Volume": 1150900
     }
   ]
 }

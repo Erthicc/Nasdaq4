@@ -1,7 +1,7 @@
 {
   "ticker": "SHPU",
   "indicators": {
-    "score_0_100": 66.87,
+    "score_0_100": 66.88,
     "score_0_10": 6.69,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.2286994771713533,
@@ -11,9 +11,9 @@
     "wave_strength": 0.8688486485643189,
     "adx": 18.765291119196668,
     "atr": 2.9268187100065512,
-    "obv_slope": 3330.785714285714,
+    "obv_slope": 3335.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 53641.55,
+    "avg_vol20": 53645.0,
     "last_close": 34.540000915527344,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -659,7 +659,7 @@
       "High": 34.96500015258789,
       "Low": 33.939998626708984,
       "Close": 34.540000915527344,
-      "Volume": 20631.0
+      "Volume": 20700.0
     }
   ]
 }

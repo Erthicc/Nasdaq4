@@ -1,7 +1,7 @@
 {
   "ticker": "SINT",
   "indicators": {
-    "score_0_100": 68.07,
+    "score_0_100": 68.08,
     "score_0_10": 6.81,
     "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
     "macd_hist": 0.07545202214632547,
@@ -11,9 +11,9 @@
     "wave_strength": 0.9896178145097773,
     "adx": 16.607556789239844,
     "atr": 0.32255115158997416,
-    "obv_slope": 960.5714285714286,
+    "obv_slope": 1442.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 62187.4,
+    "avg_vol20": 62525.0,
     "last_close": 3.884999990463257,
     "macd_bull": 1,
     "bb_breakout": 1,
@@ -3535,11 +3535,11 @@
     },
     {
       "Date": "2025-11-26",
-      "Open": 3.759999990463257,
+      "Open": 3.700000047683716,
       "High": 3.950000047683716,
       "Low": 3.5799999237060547,
       "Close": 3.884999990463257,
-      "Volume": 60948
+      "Volume": 67700
     }
   ]
 }
