@@ -1,34 +1,26 @@
 {
   "ticker": "VIVK",
   "indicators": {
-    "score_0_100": 66.86,
-    "score_0_10": 6.69,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.005231622106921137,
-    "macd_slope": 0.00016671775220462474,
-    "rsi": 44.07939640888665,
-    "rsi_slope": 0.46616415901412267,
-    "wave_strength": 0.8854037914503005,
-    "adx": 29.02123809067759,
-    "atr": 0.04015329922131737,
-    "obv_slope": 5600964.285714285,
+    "score_0_100": 65.91,
+    "score_0_10": 6.59,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.0050770342249140815,
+    "macd_slope": 0.00022309849164038758,
+    "rsi": 34.6607689991947,
+    "rsi_slope": -0.1314507450639013,
+    "wave_strength": 0.91538730373843,
+    "adx": 28.118049868158074,
+    "atr": 0.03806377771762103,
+    "obv_slope": 1928246.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 32954630.0,
-    "last_close": 0.12950000166893005,
+    "avg_vol20": 26852562.6,
+    "last_close": 0.1225999966263771,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 0.8365569710731506,
-      "High": 0.8626689910888672,
-      "Low": 0.8365569710731506,
-      "Close": 0.8365569710731506,
-      "Volume": 1758
-    },
     {
       "Date": "2024-02-29",
       "Open": 0.878337025642395,
@@ -3540,6 +3532,14 @@
       "Low": 0.1274999976158142,
       "Close": 0.12950000166893005,
       "Volume": 13926800
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 0.1289999932050705,
+      "High": 0.13099999725818634,
+      "Low": 0.1200999990105629,
+      "Close": 0.1225999966263771,
+      "Volume": 13697452
     }
   ]
 }

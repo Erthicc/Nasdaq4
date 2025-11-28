@@ -1,34 +1,26 @@
 {
   "ticker": "VSME",
   "indicators": {
-    "score_0_100": 75.19,
-    "score_0_10": 7.52,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.04815018358632006,
-    "macd_slope": 0.009035158440074104,
-    "rsi": 19.62963006307605,
-    "rsi_slope": -0.14779030328468679,
-    "wave_strength": 0.48518400101935394,
-    "adx": 53.65574703383527,
-    "atr": 0.11188664300935788,
-    "obv_slope": -1163864.2857142857,
+    "score_0_100": 72.37,
+    "score_0_10": 7.24,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.05197105393070889,
+    "macd_slope": 0.009182574778637246,
+    "rsi": 21.457490445319152,
+    "rsi_slope": 0.41587976584501163,
+    "wave_strength": 0.610944547874466,
+    "adx": 54.12270904517965,
+    "atr": 0.10553759721525012,
+    "obv_slope": 307101.28571428574,
     "mom14": 0.0,
-    "avg_vol20": 3961335.0,
-    "last_close": 0.16300000250339508,
+    "avg_vol20": 3971759.1,
+    "last_close": 0.15399999916553497,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 3.703000068664551,
-      "High": 3.7100000381469727,
-      "Low": 3.1500000953674316,
-      "Close": 3.318000078201294,
-      "Volume": 56271
-    },
     {
       "Date": "2024-02-29",
       "Open": 3.5,
@@ -3540,6 +3532,14 @@
       "Low": 0.15600000321865082,
       "Close": 0.16300000250339508,
       "Volume": 1589400
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 0.14000000059604645,
+      "High": 0.15800000727176666,
+      "Low": 0.14000000059604645,
+      "Close": 0.15399999916553497,
+      "Volume": 953782
     }
   ]
 }

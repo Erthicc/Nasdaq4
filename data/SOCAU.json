@@ -1,8 +1,8 @@
 {
   "ticker": "SOCAU",
   "indicators": {
-    "score_0_100": 67.8,
-    "score_0_10": 6.78,
+    "score_0_100": 64.92,
+    "score_0_10": 6.49,
     "explanation": "strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": -0.006723020856707215,
     "macd_slope": -0.0015793773107455403,

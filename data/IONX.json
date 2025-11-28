@@ -1,20 +1,20 @@
 {
   "ticker": "IONX",
   "indicators": {
-    "score_0_100": 68.2,
-    "score_0_10": 6.82,
+    "score_0_100": 65.9,
+    "score_0_10": 6.59,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.0496451518221086,
-    "macd_slope": 0.2538611469166158,
-    "rsi": 30.0572645883167,
-    "rsi_slope": -0.756936957602789,
-    "wave_strength": 0.7715290938049608,
-    "adx": 33.740549315544875,
-    "atr": 14.41007185700951,
-    "obv_slope": 157600.0,
+    "macd_hist": 0.9528548836376416,
+    "macd_slope": 0.2363020718097146,
+    "rsi": 29.860538444596372,
+    "rsi_slope": -1.197857816675409,
+    "wave_strength": 0.794299464661489,
+    "adx": 33.42447584592019,
+    "atr": 13.839352307862068,
+    "obv_slope": 37307.71428571428,
     "mom14": 0.0,
-    "avg_vol20": 1234615.0,
-    "last_close": 53.540000915527344,
+    "avg_vol20": 1217725.4,
+    "last_close": 58.63999938964844,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1468,6 +1468,14 @@
       "Low": 51.34000015258789,
       "Close": 53.540000915527344,
       "Volume": 599300.0
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 55.20000076293945,
+      "High": 59.959999084472656,
+      "Low": 54.72999954223633,
+      "Close": 58.63999938964844,
+      "Volume": 273908.0
     }
   ]
 }

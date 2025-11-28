@@ -1,8 +1,8 @@
 {
   "ticker": "GSHRU",
   "indicators": {
-    "score_0_100": 86.54,
-    "score_0_10": 8.65,
+    "score_0_100": 85.33,
+    "score_0_10": 8.53,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0001153889475046294,
     "macd_slope": -1.5337650194320505e-05,

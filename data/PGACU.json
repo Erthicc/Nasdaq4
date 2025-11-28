@@ -1,8 +1,8 @@
 {
   "ticker": "PGACU",
   "indicators": {
-    "score_0_100": 88.71,
-    "score_0_10": 8.87,
+    "score_0_100": 87.7,
+    "score_0_10": 8.77,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.00312782230167449,
     "macd_slope": 0.0013286881733674029,

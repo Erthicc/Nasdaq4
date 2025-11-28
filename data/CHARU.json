@@ -1,8 +1,8 @@
 {
   "ticker": "CHARU",
   "indicators": {
-    "score_0_100": 88.09,
-    "score_0_10": 8.81,
+    "score_0_100": 87.02,
+    "score_0_10": 8.7,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
     "macd_hist": 0.005602204174447498,
     "macd_slope": -0.00027185953967556097,

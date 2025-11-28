@@ -1,8 +1,8 @@
 {
   "ticker": "QSEAU",
   "indicators": {
-    "score_0_100": 86.59,
-    "score_0_10": 8.66,
+    "score_0_100": 85.4,
+    "score_0_10": 8.54,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.0003691496941902871,
     "macd_slope": -1.664759243868626e-05,

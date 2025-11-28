@@ -1,34 +1,26 @@
 {
   "ticker": "MTC",
   "indicators": {
-    "score_0_100": 73.12,
-    "score_0_10": 7.31,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
-    "macd_hist": 0.004730077981948411,
-    "macd_slope": -0.011644222826091523,
-    "rsi": 41.040466317678934,
-    "rsi_slope": -2.7709722304119273,
-    "wave_strength": 1.2769153587861921,
-    "adx": 56.73582983626595,
-    "atr": 0.43553674452317104,
-    "obv_slope": -1079742.857142857,
+    "score_0_100": 69.31,
+    "score_0_10": 6.93,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.013082189110126041,
+    "macd_slope": -0.01422650652797086,
+    "rsi": 53.8888904565742,
+    "rsi_slope": -1.5219460855213751,
+    "wave_strength": 1.214864206412857,
+    "adx": 57.65900519844666,
+    "atr": 0.4315698253701696,
+    "obv_slope": 1072224.5,
     "mom14": 0.0,
-    "avg_vol20": 26704100.0,
-    "last_close": 2.4600000381469727,
+    "avg_vol20": 26706257.15,
+    "last_close": 2.7200000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 9.359999656677246,
-      "High": 12.640000343322754,
-      "Low": 8.640000343322754,
-      "Close": 11.600000381469727,
-      "Volume": 65538
-    },
     {
       "Date": "2024-02-29",
       "Open": 11.760000228881836,
@@ -3540,6 +3532,14 @@
       "Low": 2.4200000762939453,
       "Close": 2.4600000381469727,
       "Volume": 87300
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 2.4700000286102295,
+      "High": 2.799999952316284,
+      "Low": 2.4200000762939453,
+      "Close": 2.7200000286102295,
+      "Volume": 191043
     }
   ]
 }

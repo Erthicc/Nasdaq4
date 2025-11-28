@@ -1,34 +1,26 @@
 {
   "ticker": "TLN",
   "indicators": {
-    "score_0_100": 68.81,
-    "score_0_10": 6.88,
+    "score_0_100": 66.57,
+    "score_0_10": 6.66,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 2.0865525156812126,
-    "macd_slope": 0.23081618332998483,
-    "rsi": 52.39007820021788,
-    "rsi_slope": 0.6776776485817807,
-    "wave_strength": 0.9948777214422638,
-    "adx": 21.253863246797287,
-    "atr": 20.73485707974155,
-    "obv_slope": 53935.71428571428,
+    "macd_hist": 2.94864744617235,
+    "macd_slope": 0.31795668335063304,
+    "rsi": 52.81062237446991,
+    "rsi_slope": 0.7006747304382708,
+    "wave_strength": 0.9945591624012594,
+    "adx": 19.95394720770562,
+    "atr": 19.848794900723522,
+    "obv_slope": 13708.285714285714,
     "mom14": 0.0,
-    "avg_vol20": 886280.0,
-    "last_close": 392.4200134277344,
+    "avg_vol20": 873065.8,
+    "last_close": 394.2699890136719,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 72.80000305175781,
-      "High": 75.5,
-      "Low": 72.5,
-      "Close": 74.5,
-      "Volume": 243200
-    },
     {
       "Date": "2024-02-29",
       "Open": 74.5,
@@ -3540,6 +3532,14 @@
       "Low": 381.25,
       "Close": 392.4200134277344,
       "Volume": 663800
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 393.5,
+      "High": 397.0,
+      "Low": 388.6700134277344,
+      "Close": 394.2699890136719,
+      "Volume": 279716
     }
   ]
 }

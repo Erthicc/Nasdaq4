@@ -1,8 +1,8 @@
 {
   "ticker": "ALDFU",
   "indicators": {
-    "score_0_100": 83.72,
-    "score_0_10": 8.37,
+    "score_0_100": 82.26,
+    "score_0_10": 8.23,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
     "macd_hist": 0.0019382313686323593,
     "macd_slope": 0.001581856258877423,

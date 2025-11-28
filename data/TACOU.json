@@ -1,8 +1,8 @@
 {
   "ticker": "TACOU",
   "indicators": {
-    "score_0_100": 78.06,
-    "score_0_10": 7.81,
+    "score_0_100": 76.09,
+    "score_0_10": 7.61,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
     "macd_hist": 0.008313112222342295,
     "macd_slope": 0.004487045609149451,

@@ -1,20 +1,20 @@
 {
   "ticker": "IONL",
   "indicators": {
-    "score_0_100": 67.56,
-    "score_0_10": 6.76,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.029059663606750163,
-    "macd_slope": 0.18117011439920017,
-    "rsi": 30.461669205565443,
-    "rsi_slope": -0.754588764999084,
-    "wave_strength": 0.7782689376838476,
-    "adx": 33.17685656888127,
-    "atr": 10.32610678586084,
-    "obv_slope": 23135.714285714286,
+    "score_0_100": 64.72,
+    "score_0_10": 6.47,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.6973527681822684,
+    "macd_slope": 0.17028632104817198,
+    "rsi": 30.813643336562833,
+    "rsi_slope": -1.1576081095383468,
+    "wave_strength": 0.8003395255047695,
+    "adx": 32.826720208782625,
+    "atr": 9.93567063046732,
+    "obv_slope": -7186.928571428572,
     "mom14": 0.0,
-    "avg_vol20": 332525.0,
-    "last_close": 39.22999954223633,
+    "avg_vol20": 329099.15,
+    "last_close": 43.20000076293945,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1388,6 +1388,14 @@
       "Low": 37.689998626708984,
       "Close": 39.22999954223633,
       "Volume": 195600.0
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 40.56999969482422,
+      "High": 44.09000015258789,
+      "Low": 40.369998931884766,
+      "Close": 43.20000076293945,
+      "Volume": 76683.0
     }
   ]
 }

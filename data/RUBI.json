@@ -1,20 +1,20 @@
 {
   "ticker": "RUBI",
   "indicators": {
-    "score_0_100": 71.24,
-    "score_0_10": 7.12,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.05695316656995397,
-    "macd_slope": 0.014269426735828915,
-    "rsi": 48.974942797254194,
-    "rsi_slope": 3.4553101979622114,
-    "wave_strength": 0.6871451442725904,
-    "adx": 18.112227651904814,
-    "atr": 0.13677705589355982,
-    "obv_slope": 66853042.85714286,
+    "score_0_100": 70.8,
+    "score_0_10": 7.08,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.05972722979402628,
+    "macd_slope": 0.013697979979336047,
+    "rsi": 31.00393428334803,
+    "rsi_slope": 1.8500516016772437,
+    "wave_strength": 0.8445764651290256,
+    "adx": 17.099838246559223,
+    "atr": 0.13196440993638653,
+    "obv_slope": 39810981.35714286,
     "mom14": 0.0,
-    "avg_vol20": 84364545.0,
-    "last_close": 0.2160000056028366,
+    "avg_vol20": 86950798.05,
+    "last_close": 0.15960000455379486,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -676,6 +676,14 @@
       "Low": 0.20200000703334808,
       "Close": 0.2160000056028366,
       "Volume": 46531400.0
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 0.1599999964237213,
+      "High": 0.17710000276565552,
+      "Low": 0.14659999310970306,
+      "Close": 0.15960000455379486,
+      "Volume": 51805761.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "FTEK",
   "indicators": {
-    "score_0_100": 69.87,
-    "score_0_10": 6.99,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.011825569278413883,
-    "macd_slope": 0.005804422948924645,
+    "score_0_100": 66.61,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.021326912630723283,
+    "macd_slope": 0.006704398720256304,
     "rsi": 28.767120275281215,
-    "rsi_slope": 0.665905627096724,
-    "wave_strength": 1.3079019668980696,
-    "adx": 39.295937040308424,
-    "atr": 0.18657612959133635,
-    "obv_slope": -104928.57142857143,
+    "rsi_slope": 1.1024131105780555,
+    "wave_strength": 0.9139106049081164,
+    "adx": 39.31781609932831,
+    "atr": 0.17682069687417173,
+    "obv_slope": -69265.42857142857,
     "mom14": 0.0,
-    "avg_vol20": 273300.0,
-    "last_close": 1.809999942779541,
+    "avg_vol20": 266620.8,
+    "last_close": 1.7999999523162842,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 1.1100000143051147,
-      "High": 1.1100000143051147,
-      "Low": 1.0800000429153442,
-      "Close": 1.1100000143051147,
-      "Volume": 115000
-    },
     {
       "Date": "2024-02-29",
       "Open": 1.100000023841858,
@@ -3540,6 +3532,14 @@
       "Low": 1.7999999523162842,
       "Close": 1.809999942779541,
       "Volume": 49900
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 1.809999942779541,
+      "High": 1.850000023841858,
+      "Low": 1.7999999523162842,
+      "Close": 1.7999999523162842,
+      "Volume": 21916
     }
   ]
 }

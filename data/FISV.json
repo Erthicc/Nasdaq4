@@ -1,34 +1,26 @@
 {
   "ticker": "FISV",
   "indicators": {
-    "score_0_100": 74.35,
-    "score_0_10": 7.44,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 1.7914513172569109,
-    "macd_slope": 0.5596580220661658,
-    "rsi": 35.964906072433166,
-    "rsi_slope": 1.4605473822803643,
-    "wave_strength": 0.9615475855420905,
-    "adx": 64.08220271549524,
-    "atr": 3.1663729133460987,
-    "obv_slope": 156371.42857142858,
+    "score_0_100": 68.84,
+    "score_0_10": 6.88,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 2.0047196579054862,
+    "macd_slope": 0.5351148360038154,
+    "rsi": 49.17525851238853,
+    "rsi_slope": 2.724226004220234,
+    "wave_strength": 0.9685353410115063,
+    "adx": 63.96267081363984,
+    "atr": 3.0573465055715863,
+    "obv_slope": 1749658.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 18536360.0,
-    "last_close": 60.79999923706055,
+    "avg_vol20": 13600640.65,
+    "last_close": 61.470001220703125,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 150.7899932861328,
-      "High": 151.97000122070312,
-      "Low": 146.00999450683594,
-      "Close": 147.9499969482422,
-      "Volume": 5774600.0
-    },
     {
       "Date": "2024-02-29",
       "Open": 148.58999633789062,
@@ -3532,6 +3524,14 @@
       "Low": 60.599998474121094,
       "Close": 60.79999923706055,
       "Volume": 7883200.0
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 61.119998931884766,
+      "High": 62.400001525878906,
+      "Low": 60.7599983215332,
+      "Close": 61.470001220703125,
+      "Volume": 4739813.0
     }
   ]
 }

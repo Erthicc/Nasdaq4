@@ -1,20 +1,20 @@
 {
   "ticker": "RAY",
   "indicators": {
-    "score_0_100": 72.77,
-    "score_0_10": 7.28,
+    "score_0_100": 66.94,
+    "score_0_10": 6.69,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.2239695038038425,
-    "macd_slope": 0.003994127221396994,
-    "rsi": 23.28936744361303,
-    "rsi_slope": 0.26843714317046924,
-    "wave_strength": 0.797405319054664,
-    "adx": 44.91925783063613,
-    "atr": 0.5639469193854721,
-    "obv_slope": 24192.85714285714,
+    "macd_hist": 0.2297487475629787,
+    "macd_slope": 0.005195939237421597,
+    "rsi": 28.607595559083634,
+    "rsi_slope": 0.7554316084220838,
+    "wave_strength": 0.8153953262776092,
+    "adx": 44.25018562130989,
+    "atr": 0.5286650003814414,
+    "obv_slope": 38067.28571428572,
     "mom14": 0.0,
-    "avg_vol20": 567641.3,
-    "last_close": 1.840000033378601,
+    "avg_vol20": 556652.95,
+    "last_close": 1.7799999713897705,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -3108,6 +3108,14 @@
       "Low": 1.7710000276565552,
       "Close": 1.840000033378601,
       "Volume": 18900.0
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 1.8200000524520874,
+      "High": 1.840000033378601,
+      "Low": 1.7699999809265137,
+      "Close": 1.7799999713897705,
+      "Volume": 13658.0
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "ticker": "MIMI",
   "indicators": {
-    "score_0_100": 70.75,
-    "score_0_10": 7.07,
+    "score_0_100": 67.12,
+    "score_0_10": 6.71,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.17143424761595583,
-    "macd_slope": 0.05425788399081583,
-    "rsi": 28.667415335651086,
-    "rsi_slope": 1.5825074722466337,
-    "wave_strength": 0.4297405418692397,
-    "adx": 56.85625885288149,
-    "atr": 0.4402253280324591,
-    "obv_slope": 931428.5714285715,
+    "macd_hist": 0.199412478206892,
+    "macd_slope": 0.05626111541601808,
+    "rsi": 30.613671616384295,
+    "rsi_slope": 1.8316359343639266,
+    "wave_strength": 0.5261308666568227,
+    "adx": 56.952103251577846,
+    "atr": 0.4123378052112395,
+    "obv_slope": 1064049.357142857,
     "mom14": 0.0,
-    "avg_vol20": 2680290.0,
-    "last_close": 0.5189999938011169,
+    "avg_vol20": 2680464.55,
+    "last_close": 0.5264000296592712,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1796,6 +1796,14 @@
       "Low": 0.44999998807907104,
       "Close": 0.5189999938011169,
       "Volume": 1344700.0
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 0.5199999809265137,
+      "High": 0.5400000214576721,
+      "Low": 0.490200012922287,
+      "Close": 0.5264000296592712,
+      "Volume": 437891.0
     }
   ]
 }

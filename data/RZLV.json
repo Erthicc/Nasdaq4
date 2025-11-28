@@ -1,34 +1,26 @@
 {
   "ticker": "RZLV",
   "indicators": {
-    "score_0_100": 71.01,
-    "score_0_10": 7.1,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.035060450558403566,
-    "macd_slope": 0.007536418389467951,
-    "rsi": 25.9668530294598,
-    "rsi_slope": -0.3967770172625689,
-    "wave_strength": 0.9341702049315388,
-    "adx": 25.582258388526935,
-    "atr": 0.36491284871859403,
-    "obv_slope": -7491621.428571428,
+    "score_0_100": 66.58,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.048114094301679455,
+    "macd_slope": 0.008083061171098456,
+    "rsi": 29.0322574325033,
+    "rsi_slope": -0.08997900729121357,
+    "wave_strength": 0.9485697484294577,
+    "adx": 24.730320872343928,
+    "atr": 0.3488476357016088,
+    "obv_slope": -6410338.285714285,
     "mom14": 0.0,
-    "avg_vol20": 13520650.0,
-    "last_close": 2.9800000190734863,
+    "avg_vol20": 13153013.2,
+    "last_close": 3.049999952316284,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 10.989999771118164,
-      "High": 10.989999771118164,
-      "Low": 10.989999771118164,
-      "Close": 10.989999771118164,
-      "Volume": 0
-    },
     {
       "Date": "2024-02-29",
       "Open": 10.989999771118164,
@@ -3540,6 +3532,14 @@
       "Low": 2.930000066757202,
       "Close": 2.9800000190734863,
       "Volume": 12274400
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 3.0199999809265137,
+      "High": 3.119999885559082,
+      "Low": 3.0,
+      "Close": 3.049999952316284,
+      "Volume": 5220264
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DJCO",
   "indicators": {
-    "score_0_100": 75.3,
-    "score_0_10": 7.53,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
-    "macd_hist": 9.510498448719186,
-    "macd_slope": 0.6467108035938846,
-    "rsi": 69.37268700620723,
-    "rsi_slope": 1.9149328580398333,
-    "wave_strength": 1.15334881642071,
-    "adx": 25.648332081899348,
-    "atr": 25.810776040860578,
-    "obv_slope": -181171.42857142858,
+    "score_0_100": 66.56,
+    "score_0_10": 6.66,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 9.571984978209876,
+    "macd_slope": 0.6254835631978598,
+    "rsi": 67.70208380611601,
+    "rsi_slope": 1.4764726951770462,
+    "wave_strength": 1.1444951087250728,
+    "adx": 26.232197718396776,
+    "atr": 25.146793084669678,
+    "obv_slope": -221201.92857142858,
     "mom14": 0.0,
-    "avg_vol20": 445970.0,
-    "last_close": 459.510009765625,
+    "avg_vol20": 427901.35,
+    "last_close": 458.3900146484375,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 327.0,
-      "High": 336.9700012207031,
-      "Low": 327.0,
-      "Close": 335.4100036621094,
-      "Volume": 6900
-    },
     {
       "Date": "2024-02-29",
       "Open": 339.9700012207031,
@@ -3540,6 +3532,14 @@
       "Low": 452.19000244140625,
       "Close": 459.510009765625,
       "Volume": 78100
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 451.489990234375,
+      "High": 468.0050048828125,
+      "Low": 451.489990234375,
+      "Close": 458.3900146484375,
+      "Volume": 19527
     }
   ]
 }

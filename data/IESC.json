@@ -1,34 +1,26 @@
 {
   "ticker": "IESC",
   "indicators": {
-    "score_0_100": 67.52,
-    "score_0_10": 6.75,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 3.8623106242178973,
-    "macd_slope": 0.35434780800246074,
-    "rsi": 58.2534575973979,
-    "rsi_slope": 0.4429222858146297,
-    "wave_strength": 0.957209398069525,
-    "adx": 15.857306482281283,
-    "atr": 23.979769036200143,
-    "obv_slope": 17114.285714285714,
+    "score_0_100": 66.29,
+    "score_0_10": 6.63,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20",
+    "macd_hist": 4.909797245938863,
+    "macd_slope": 0.42758628976350627,
+    "rsi": 56.54212167143745,
+    "rsi_slope": 0.37607189431935545,
+    "wave_strength": 1.0850476207018183,
+    "adx": 15.87295684509905,
+    "atr": 23.276929436982787,
+    "obv_slope": -1467.7142857142858,
     "mom14": 0.0,
-    "avg_vol20": 160250.0,
-    "last_close": 420.75,
+    "avg_vol20": 154357.4,
+    "last_close": 418.57000732421875,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 105.68000030517578,
-      "High": 108.20999908447266,
-      "Low": 105.31999969482422,
-      "Close": 107.08000183105469,
-      "Volume": 87700
-    },
     {
       "Date": "2024-02-29",
       "Open": 108.55000305175781,
@@ -3540,6 +3532,14 @@
       "Low": 411.44000244140625,
       "Close": 420.75,
       "Volume": 154000
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 425.7200012207031,
+      "High": 428.0400085449219,
+      "Low": 413.8999938964844,
+      "Close": 418.57000732421875,
+      "Volume": 80648
     }
   ]
 }

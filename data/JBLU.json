@@ -1,34 +1,26 @@
 {
   "ticker": "JBLU",
   "indicators": {
-    "score_0_100": 69.97,
-    "score_0_10": 7.0,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.04480079441744565,
-    "macd_slope": 0.004353322566664528,
-    "rsi": 60.975608116523624,
-    "rsi_slope": 1.8527941586812717,
-    "wave_strength": 0.973367925510956,
-    "adx": 14.160896140556291,
-    "atr": 0.2055641455717974,
-    "obv_slope": 1265150.0,
+    "score_0_100": 68.99,
+    "score_0_10": 6.9,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; RSI above 50 (penalized)",
+    "macd_hist": 0.05842315267336383,
+    "macd_slope": 0.0038831590186439416,
+    "rsi": 56.75675952401102,
+    "rsi_slope": 1.0661929332600764,
+    "wave_strength": 0.9683470352182979,
+    "adx": 14.581673948629996,
+    "atr": 0.1971809989201123,
+    "obv_slope": -76746.92857142857,
     "mom14": 0.0,
-    "avg_vol20": 17791680.0,
-    "last_close": 4.519999980926514,
+    "avg_vol20": 16729577.15,
+    "last_close": 4.570000171661377,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 6.420000076293945,
-      "High": 6.579999923706055,
-      "Low": 6.380000114440918,
-      "Close": 6.420000076293945,
-      "Volume": 7444900
-    },
     {
       "Date": "2024-02-29",
       "Open": 6.449999809265137,
@@ -3540,6 +3532,14 @@
       "Low": 4.369999885559082,
       "Close": 4.519999980926514,
       "Volume": 14822000
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 4.519999980926514,
+      "High": 4.599999904632568,
+      "Low": 4.5117998123168945,
+      "Close": 4.570000171661377,
+      "Volume": 5712343
     }
   ]
 }

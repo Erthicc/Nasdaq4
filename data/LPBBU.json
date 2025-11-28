@@ -1,8 +1,8 @@
 {
   "ticker": "LPBBU",
   "indicators": {
-    "score_0_100": 93.12,
-    "score_0_10": 9.31,
+    "score_0_100": 92.51,
+    "score_0_10": 9.25,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
     "macd_hist": 0.0011794520942862777,
     "macd_slope": -0.0013477333971976166,
