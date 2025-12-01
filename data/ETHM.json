@@ -1,19 +1,19 @@
 {
   "ticker": "ETHM",
   "indicators": {
-    "score_0_100": 75.97,
-    "score_0_10": 7.6,
+    "score_0_100": 75.7,
+    "score_0_10": 7.57,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.006754203340153503,
-    "macd_slope": 0.000977344094626854,
+    "macd_hist": 0.007518014302140566,
+    "macd_slope": 0.0009152424994948399,
     "rsi": 11.111344857423248,
-    "rsi_slope": -1.5872710285094453,
-    "wave_strength": 0.9969135134048687,
-    "adx": 18.279833607448666,
-    "atr": 0.05541727181403165,
-    "obv_slope": 31862.928571428572,
+    "rsi_slope": -1.2800566292959903,
+    "wave_strength": 0.9975923637366301,
+    "adx": 18.276131312993126,
+    "atr": 0.05217319731887481,
+    "obv_slope": 37844.71428571428,
     "mom14": 0.0,
-    "avg_vol20": 238925.95,
+    "avg_vol20": 237516.3,
     "last_close": 10.25,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1971,7 +1971,15 @@
       "High": 10.26099967956543,
       "Low": 10.25,
       "Close": 10.25,
-      "Volume": 35719.0
+      "Volume": 47900.0
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 10.25,
+      "High": 10.260000228881836,
+      "Low": 10.25,
+      "Close": 10.25,
+      "Volume": 201026.0
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DVLT",
   "indicators": {
-    "score_0_100": 71.26,
-    "score_0_10": 7.13,
+    "score_0_100": 71.08,
+    "score_0_10": 7.11,
     "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.03148890308747277,
-    "macd_slope": 0.015712282179168993,
-    "rsi": 56.53845982326279,
-    "rsi_slope": 1.0922470094761019,
-    "wave_strength": 1.3907826181791376,
-    "adx": 23.980895190614604,
-    "atr": 0.3954964409071119,
-    "obv_slope": 1938471.5,
+    "macd_hist": 0.012526430303119979,
+    "macd_slope": 0.01355617926763766,
+    "rsi": 54.85074611490229,
+    "rsi_slope": 1.1266482887709814,
+    "wave_strength": 1.3961127453320548,
+    "adx": 23.222936275446184,
+    "atr": 0.3822466893425692,
+    "obv_slope": 4071174.714285714,
     "mom14": 0.0,
-    "avg_vol20": 52130154.95,
-    "last_close": 2.0299999713897705,
+    "avg_vol20": 47288832.7,
+    "last_close": 1.8899999856948853,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 6.0,
-      "High": 6.0,
-      "Low": 6.0,
-      "Close": 6.0,
-      "Volume": 48477
-    },
     {
       "Date": "2024-03-01",
       "Open": 6.0,
@@ -3539,7 +3531,15 @@
       "High": 2.240000009536743,
       "Low": 1.940000057220459,
       "Close": 2.0299999713897705,
-      "Volume": 22780899
+      "Volume": 23671600
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 1.9006999731063843,
+      "High": 1.9700000286102295,
+      "Low": 1.8200000524520874,
+      "Close": 1.8899999856948853,
+      "Volume": 19435754
     }
   ]
 }

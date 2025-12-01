@@ -1,34 +1,26 @@
 {
   "ticker": "AMTX",
   "indicators": {
-    "score_0_100": 66.37,
-    "score_0_10": 6.64,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0006221743383734712,
-    "macd_slope": 0.004942290918544772,
-    "rsi": 28.73564715617053,
-    "rsi_slope": 0.36423498306592095,
-    "wave_strength": 1.152307338429494,
-    "adx": 31.767474037888597,
-    "atr": 0.1702241707986234,
-    "obv_slope": 47450.71428571428,
+    "score_0_100": 67.55,
+    "score_0_10": 6.75,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.004745161050774216,
+    "macd_slope": 0.003935616033058886,
+    "rsi": 25.531929623624364,
+    "rsi_slope": 0.037995520925382005,
+    "wave_strength": 0.9348824867920067,
+    "adx": 32.051167640300015,
+    "atr": 0.1673581594595809,
+    "obv_slope": -53038.857142857145,
     "mom14": 0.0,
-    "avg_vol20": 1024960.5,
-    "last_close": 1.7300000190734863,
+    "avg_vol20": 994717.2,
+    "last_close": 1.649999976158142,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 3.509999990463257,
-      "High": 3.674999952316284,
-      "Low": 3.490000009536743,
-      "Close": 3.630000114440918,
-      "Volume": 253800
-    },
     {
       "Date": "2024-03-01",
       "Open": 3.5899999141693115,
@@ -3539,7 +3531,15 @@
       "High": 1.7599999904632568,
       "Low": 1.7000000476837158,
       "Close": 1.7300000190734863,
-      "Volume": 337410
+      "Volume": 349300
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 1.7300000190734863,
+      "High": 1.7800999879837036,
+      "Low": 1.649999976158142,
+      "Close": 1.649999976158142,
+      "Volume": 486744
     }
   ]
 }

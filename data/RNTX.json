@@ -1,34 +1,26 @@
 {
   "ticker": "RNTX",
   "indicators": {
-    "score_0_100": 65.5,
-    "score_0_10": 6.55,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.012699464403097521,
-    "macd_slope": -0.0003613709714350175,
-    "rsi": 48.148148951202,
-    "rsi_slope": -0.9486015703375656,
-    "wave_strength": 1.027573208549593,
-    "adx": 32.20138749825356,
-    "atr": 0.15005518763128162,
-    "obv_slope": -59941.07142857143,
+    "score_0_100": 65.16,
+    "score_0_10": 6.52,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.011474418633875855,
+    "macd_slope": 1.8683503455697264e-05,
+    "rsi": 47.56097692521049,
+    "rsi_slope": -0.8102235775503307,
+    "wave_strength": 1.077926567994605,
+    "adx": 31.647220261105993,
+    "atr": 0.15113593960905816,
+    "obv_slope": -53172.142857142855,
     "mom14": 0.0,
-    "avg_vol20": 2584741.25,
-    "last_close": 1.5700000524520874,
+    "avg_vol20": 2588770.5,
+    "last_close": 1.5,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 5.0,
-      "High": 5.03000020980835,
-      "Low": 4.769999980926514,
-      "Close": 4.940000057220459,
-      "Volume": 35000
-    },
     {
       "Date": "2024-03-01",
       "Open": 4.789999961853027,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-28",
       "Open": 1.5199999809265137,
       "High": 1.5800000429153442,
-      "Low": 1.4651999473571777,
+      "Low": 1.465000033378601,
       "Close": 1.5700000524520874,
-      "Volume": 85025
+      "Volume": 85000
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 1.5700000524520874,
+      "High": 1.5700000524520874,
+      "Low": 1.4049999713897705,
+      "Close": 1.5,
+      "Volume": 145710
     }
   ]
 }

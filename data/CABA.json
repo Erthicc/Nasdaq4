@@ -1,34 +1,26 @@
 {
   "ticker": "CABA",
   "indicators": {
-    "score_0_100": 65.32,
-    "score_0_10": 6.53,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized)",
-    "macd_hist": 0.00026481884343401707,
-    "macd_slope": 0.003432754597326365,
-    "rsi": 50.714284477290164,
-    "rsi_slope": 0.330523473093849,
-    "wave_strength": 0.927419341852526,
-    "adx": 25.699608802149907,
-    "atr": 0.27124706578923663,
-    "obv_slope": -784327.7142857143,
+    "score_0_100": 65.24,
+    "score_0_10": 6.52,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20",
+    "macd_hist": 0.007931026031774618,
+    "macd_slope": 0.004796606018085503,
+    "rsi": 49.99999950704229,
+    "rsi_slope": 0.31723289379163433,
+    "wave_strength": 1.0615447921717993,
+    "adx": 26.0015452986905,
+    "atr": 0.2640151209208386,
+    "obv_slope": -597196.4285714285,
     "mom14": 0.0,
-    "avg_vol20": 5207445.6,
-    "last_close": 2.569999933242798,
+    "avg_vol20": 3489837.5,
+    "last_close": 2.430000066757202,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 23.559999465942383,
-      "High": 24.040000915527344,
-      "Low": 22.559999465942383,
-      "Close": 22.8799991607666,
-      "Volume": 685400
-    },
     {
       "Date": "2024-03-01",
       "Open": 23.09000015258789,
@@ -3539,7 +3531,15 @@
       "High": 2.690000057220459,
       "Low": 2.3399999141693115,
       "Close": 2.569999933242798,
-      "Volume": 2609012
+      "Volume": 2609000
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 2.5,
+      "High": 2.505000114440918,
+      "Low": 2.4000000953674316,
+      "Close": 2.430000066757202,
+      "Volume": 1558050
     }
   ]
 }

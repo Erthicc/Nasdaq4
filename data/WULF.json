@@ -1,34 +1,26 @@
 {
   "ticker": "WULF",
   "indicators": {
-    "score_0_100": 69.52,
-    "score_0_10": 6.95,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.2583173664836683,
-    "macd_slope": 0.029095725365164787,
-    "rsi": 57.39868237979401,
-    "rsi_slope": 0.4981255012942591,
-    "wave_strength": 0.9153506122307522,
-    "adx": 22.397617003391392,
-    "atr": 1.4798713853291203,
-    "obv_slope": 8440335.785714285,
+    "score_0_100": 70.23,
+    "score_0_10": 7.02,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.3233143434881669,
+    "macd_slope": 0.03583124354948153,
+    "rsi": 54.780114196181586,
+    "rsi_slope": -0.06313911494705644,
+    "wave_strength": 1.161710748430259,
+    "adx": 23.07015720697994,
+    "atr": 1.4425948708899254,
+    "obv_slope": 3347011.8571428573,
     "mom14": 0.0,
-    "avg_vol20": 47011785.05,
-    "last_close": 15.510000228881836,
+    "avg_vol20": 46024891.7,
+    "last_close": 15.300000190734863,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 2.190000057220459,
-      "High": 2.200000047683716,
-      "Low": 1.850000023841858,
-      "Close": 1.8799999952316284,
-      "Volume": 26393900
-    },
     {
       "Date": "2024-03-01",
       "Open": 1.899999976158142,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-28",
       "Open": 15.130000114440918,
       "High": 16.1299991607666,
-      "Low": 15.130000114440918,
+      "Low": 15.119999885559082,
       "Close": 15.510000228881836,
-      "Volume": 30679401
+      "Volume": 31145300
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 14.854999542236328,
+      "High": 15.760000228881836,
+      "Low": 14.802000045776367,
+      "Close": 15.300000190734863,
+      "Volume": 28604334
     }
   ]
 }

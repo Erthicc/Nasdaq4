@@ -1,20 +1,20 @@
 {
   "ticker": "TDIC",
   "indicators": {
-    "score_0_100": 65.34,
-    "score_0_10": 6.53,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.11297379708695826,
-    "macd_slope": -0.00037743999960541356,
-    "rsi": 30.75822363399861,
-    "rsi_slope": -0.4162241524125275,
-    "wave_strength": 1.208825138568366,
-    "adx": 39.76332440573518,
-    "atr": 0.14991498093470318,
-    "obv_slope": -76246.71428571429,
+    "score_0_100": 65.61,
+    "score_0_10": 6.56,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
+    "macd_hist": 0.109934269983063,
+    "macd_slope": -0.0014883796655356107,
+    "rsi": 28.708130704508093,
+    "rsi_slope": -0.5754695807963317,
+    "wave_strength": 0.8994668973054214,
+    "adx": 39.585306660399446,
+    "atr": 0.14177003306803845,
+    "obv_slope": -82645.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 331302.3,
-    "last_close": 0.3555000126361847,
+    "avg_vol20": 326401.55,
+    "last_close": 0.3248000144958496,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -743,11 +743,19 @@
     },
     {
       "Date": "2025-11-28",
-      "Open": 0.33629998564720154,
-      "High": 0.3555000126361847,
-      "Low": 0.3237000107765198,
-      "Close": 0.3555000126361847,
-      "Volume": 334646.0
+      "Open": 0.3240000009536743,
+      "High": 0.35600000619888306,
+      "Low": 0.3240000009536743,
+      "Close": 0.35600000619888306,
+      "Volume": 340500.0
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 0.34769999980926514,
+      "High": 0.3506999909877777,
+      "Low": 0.32030001282691956,
+      "Close": 0.3248000144958496,
+      "Volume": 241731.0
     }
   ]
 }

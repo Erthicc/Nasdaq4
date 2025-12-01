@@ -1,34 +1,26 @@
 {
   "ticker": "SOFI",
   "indicators": {
-    "score_0_100": 68.13,
-    "score_0_10": 6.81,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.04294196369772654,
-    "macd_slope": 0.01838104819095132,
-    "rsi": 54.422965463859946,
-    "rsi_slope": 0.41922312763053426,
-    "wave_strength": 0.9390760158588898,
-    "adx": 12.397883759505737,
-    "atr": 1.9543986103013766,
-    "obv_slope": 12301254.92857143,
+    "score_0_100": 69.13,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
+    "macd_hist": 0.10839877194865127,
+    "macd_slope": 0.014935990926533515,
+    "rsi": 45.106932042728296,
+    "rsi_slope": -0.6948782876378569,
+    "wave_strength": 1.0457056194043737,
+    "adx": 12.670839878878303,
+    "atr": 1.889798655091404,
+    "obv_slope": 2371217.3571428573,
     "mom14": 0.0,
-    "avg_vol20": 75824373.45,
-    "last_close": 29.719999313354492,
+    "avg_vol20": 74799457.85,
+    "last_close": 29.030000686645508,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 9.069999694824219,
-      "High": 9.138999938964844,
-      "Low": 8.819999694824219,
-      "Close": 8.979999542236328,
-      "Volume": 29742200
-    },
     {
       "Date": "2024-03-01",
       "Open": 8.989999771118164,
@@ -3539,7 +3531,15 @@
       "High": 29.75,
       "Low": 28.454999923706055,
       "Close": 29.719999313354492,
-      "Volume": 26427269
+      "Volume": 26903900
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 28.860000610351562,
+      "High": 29.700000762939453,
+      "Low": 28.670000076293945,
+      "Close": 29.030000686645508,
+      "Volume": 45949057
     }
   ]
 }
