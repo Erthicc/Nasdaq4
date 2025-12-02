@@ -1,34 +1,26 @@
 {
   "ticker": "NTGR",
   "indicators": {
-    "score_0_100": 65.0,
-    "score_0_10": 6.5,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.018948663222626116,
-    "macd_slope": 0.04469231081958184,
-    "rsi": 29.744142789567633,
-    "rsi_slope": -0.533391817348552,
-    "wave_strength": 0.9690597398656515,
-    "adx": 36.334469229900726,
-    "atr": 1.3347577628814633,
-    "obv_slope": -4987.785714285715,
+    "score_0_100": 65.34,
+    "score_0_10": 6.53,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.05751452339315444,
+    "macd_slope": 0.04477272008063794,
+    "rsi": 29.999999954838728,
+    "rsi_slope": -0.5312093519417473,
+    "wave_strength": 0.9800107853766303,
+    "adx": 35.899358114755564,
+    "atr": 1.2801321865925241,
+    "obv_slope": 987.2857142857143,
     "mom14": 0.0,
-    "avg_vol20": 483871.45,
-    "last_close": 25.829999923706055,
+    "avg_vol20": 471343.9,
+    "last_close": 25.549999237060547,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 15.140000343322754,
-      "High": 15.210000038146973,
-      "Low": 14.949999809265137,
-      "Close": 15.119999885559082,
-      "Volume": 214700
-    },
     {
       "Date": "2024-03-04",
       "Open": 15.119999885559082,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-01",
       "Open": 26.059999465942383,
-      "High": 26.334999084472656,
+      "High": 26.34000015258789,
       "Low": 25.719999313354492,
       "Close": 25.829999923706055,
-      "Volume": 269829
+      "Volume": 281600
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 26.0,
+      "High": 26.049999237060547,
+      "Low": 25.479999542236328,
+      "Close": 25.549999237060547,
+      "Volume": 260378
     }
   ]
 }
