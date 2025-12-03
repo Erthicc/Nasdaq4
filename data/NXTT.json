@@ -1,34 +1,26 @@
 {
   "ticker": "NXTT",
   "indicators": {
-    "score_0_100": 75.53,
-    "score_0_10": 7.55,
+    "score_0_100": 74.7,
+    "score_0_10": 7.47,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.5115574019441045,
-    "macd_slope": -0.09563679024808648,
-    "rsi": 13.536117867002957,
-    "rsi_slope": -0.43855756774865895,
-    "wave_strength": 0.6971677211447976,
-    "adx": 42.014262263300786,
-    "atr": 2.4185409400485858,
-    "obv_slope": 52163.78571428572,
+    "macd_hist": 0.5774053060773179,
+    "macd_slope": -0.08565565775851873,
+    "rsi": 14.977304409837316,
+    "rsi_slope": -0.09748196804882017,
+    "wave_strength": 0.7261206152547196,
+    "adx": 40.81880432277632,
+    "atr": 2.3150737489849766,
+    "obv_slope": 57886.71428571428,
     "mom14": 0.0,
-    "avg_vol20": 128379.65,
-    "last_close": 6.889999866485596,
+    "avg_vol20": 129465.7,
+    "last_close": 7.090000152587891,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 700.0,
-      "High": 734.0,
-      "Low": 660.2000122070312,
-      "Close": 720.0,
-      "Volume": 82
-    },
     {
       "Date": "2024-03-05",
       "Open": 730.0,
@@ -3539,7 +3531,15 @@
       "High": 7.03000020980835,
       "Low": 6.0,
       "Close": 6.889999866485596,
-      "Volume": 150793
+      "Volume": 152500
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 6.599999904632568,
+      "High": 7.570000171661377,
+      "Low": 6.599999904632568,
+      "Close": 7.090000152587891,
+      "Volume": 64414
     }
   ]
 }

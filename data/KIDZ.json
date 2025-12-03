@@ -1,20 +1,20 @@
 {
   "ticker": "KIDZ",
   "indicators": {
-    "score_0_100": 67.4,
-    "score_0_10": 6.74,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
-    "macd_hist": 0.006246098822297624,
-    "macd_slope": 0.00015289810696330182,
-    "rsi": 24.310516967069915,
-    "rsi_slope": -0.5117357771686945,
-    "wave_strength": 0.8940097087118113,
-    "adx": 14.858896886481515,
-    "atr": 0.07242339836145854,
-    "obv_slope": 300164.71428571426,
+    "score_0_100": 71.15,
+    "score_0_10": 7.11,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
+    "macd_hist": 0.007058855104945333,
+    "macd_slope": -0.00026692389058071857,
+    "rsi": 18.322295820404022,
+    "rsi_slope": -1.4808565193579024,
+    "wave_strength": 0.9156468516239866,
+    "adx": 15.748096702041076,
+    "atr": 0.0691936647384419,
+    "obv_slope": -593659.5,
     "mom14": 0.0,
-    "avg_vol20": 1486444.7,
-    "last_close": 0.320499986410141,
+    "avg_vol20": 1479588.35,
+    "last_close": 0.3330000042915344,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1344,10 +1344,18 @@
     {
       "Date": "2025-12-02",
       "Open": 0.33000001311302185,
-      "High": 0.3458999991416931,
-      "Low": 0.30979999899864197,
-      "Close": 0.320499986410141,
-      "Volume": 659894.0
+      "High": 0.34599998593330383,
+      "Low": 0.3100000023841858,
+      "Close": 0.32100000977516174,
+      "Volume": 679100.0
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 0.3102000057697296,
+      "High": 0.33730000257492065,
+      "Low": 0.3100000023841858,
+      "Close": 0.3330000042915344,
+      "Volume": 264667.0
     }
   ]
 }

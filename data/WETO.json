@@ -1,19 +1,19 @@
 {
   "ticker": "WETO",
   "indicators": {
-    "score_0_100": 68.28,
-    "score_0_10": 6.83,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.026275868517177087,
-    "macd_slope": 0.0021388565455144814,
-    "rsi": 24.08537241581766,
-    "rsi_slope": -0.8963067439984458,
-    "wave_strength": 1.1033919469826066,
-    "adx": 24.61234522533044,
-    "atr": 0.10026162425121936,
-    "obv_slope": -494.92857142857144,
+    "score_0_100": 65.81,
+    "score_0_10": 6.58,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.029269926837846155,
+    "macd_slope": 0.00229632978365858,
+    "rsi": 27.915207552233028,
+    "rsi_slope": -0.832641779575073,
+    "wave_strength": 1.129352752181194,
+    "adx": 23.395672790159164,
+    "atr": 0.09568579605537572,
+    "obv_slope": 2291.1428571428573,
     "mom14": 0.0,
-    "avg_vol20": 22073.55,
+    "avg_vol20": 11768.8,
     "last_close": 0.9100000262260437,
     "macd_bull": 1,
     "bb_breakout": 0,
@@ -1560,10 +1560,18 @@
     {
       "Date": "2025-12-02",
       "Open": 0.9160000085830688,
-      "High": 0.9300000071525574,
+      "High": 0.9340000152587891,
+      "Low": 0.8999999761581421,
+      "Close": 0.9100000262260437,
+      "Volume": 34900.0
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 0.9100000262260437,
+      "High": 0.9332000017166138,
       "Low": 0.9100000262260437,
       "Close": 0.9100000262260437,
-      "Volume": 15771.0
+      "Volume": 1476.0
     }
   ]
 }

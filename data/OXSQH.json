@@ -1,22 +1,22 @@
 {
   "ticker": "OXSQH",
   "indicators": {
-    "score_0_100": 65.45,
-    "score_0_10": 6.55,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 0.011373338987016517,
-    "macd_slope": 0.0025122028015411935,
-    "rsi": 61.20284111401829,
-    "rsi_slope": 0.9975153910076676,
-    "wave_strength": 1.0065936804422786,
-    "adx": 35.04624061382185,
-    "atr": 0.10376433912228426,
-    "obv_slope": 3771.9285714285716,
+    "score_0_100": 65.44,
+    "score_0_10": 6.54,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.006568102051135925,
+    "macd_slope": 0.001997878018919463,
+    "rsi": 50.9823385515939,
+    "rsi_slope": 0.43039793459852405,
+    "wave_strength": 1.0081079423100832,
+    "adx": 35.4860350829828,
+    "atr": 0.10849546320597434,
+    "obv_slope": 3184.8571428571427,
     "mom14": 0.0,
-    "avg_vol20": 5335.35,
-    "last_close": 25.290000915527344,
+    "avg_vol20": 5210.6,
+    "last_close": 25.1200008392334,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
@@ -647,11 +647,19 @@
     },
     {
       "Date": "2025-12-02",
-      "Open": 25.237499237060547,
+      "Open": 25.238000869750977,
       "High": 25.329999923706055,
       "Low": 25.219999313354492,
       "Close": 25.290000915527344,
-      "Volume": 3907.0
+      "Volume": 4300.0
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 25.229999542236328,
+      "High": 25.229999542236328,
+      "Low": 25.1200008392334,
+      "Close": 25.1200008392334,
+      "Volume": 2212.0
     }
   ]
 }

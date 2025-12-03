@@ -1,34 +1,26 @@
 {
   "ticker": "IZM",
   "indicators": {
-    "score_0_100": 76.51,
-    "score_0_10": 7.65,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.027559729646444264,
-    "macd_slope": 0.006042745939915354,
-    "rsi": 14.843746546630882,
-    "rsi_slope": -1.2720939306339543,
-    "wave_strength": 0.9354281790124462,
-    "adx": 57.486501985346955,
-    "atr": 0.12741200064586172,
-    "obv_slope": -23218.071428571428,
+    "score_0_100": 69.14,
+    "score_0_10": 6.91,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.02941747430223468,
+    "macd_slope": 0.006307785614412133,
+    "rsi": 26.388882573661377,
+    "rsi_slope": 0.026951401501059586,
+    "wave_strength": 0.9580503857948188,
+    "adx": 54.5053577445687,
+    "atr": 0.12658257366499268,
+    "obv_slope": 6820.857142857143,
     "mom14": 0.0,
-    "avg_vol20": 672422.35,
-    "last_close": 0.9399999976158142,
+    "avg_vol20": 674115.4,
+    "last_close": 0.9300000071525574,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 8.850000381469727,
-      "High": 8.869999885559082,
-      "Low": 8.609999656677246,
-      "Close": 8.75,
-      "Volume": 214900
-    },
     {
       "Date": "2024-03-05",
       "Open": 8.65999984741211,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-02",
-      "Open": 0.9200999736785889,
+      "Open": 0.9399999976158142,
       "High": 0.9399999976158142,
       "Low": 0.8999999761581421,
       "Close": 0.9399999976158142,
-      "Volume": 11247
+      "Volume": 15800
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 0.8999999761581421,
+      "High": 0.9900000095367432,
+      "Low": 0.8741999864578247,
+      "Close": 0.9300000071525574,
+      "Volume": 35908
     }
   ]
 }
