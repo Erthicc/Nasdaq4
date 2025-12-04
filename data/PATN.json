@@ -1,20 +1,20 @@
 {
   "ticker": "PATN",
   "indicators": {
-    "score_0_100": 66.76,
-    "score_0_10": 6.68,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.009993270554684741,
-    "macd_slope": 0.005238374551733839,
-    "rsi": 36.26961067637385,
-    "rsi_slope": -1.4596110822923762,
-    "wave_strength": 0.9981377896180023,
-    "adx": 22.04562508098217,
-    "atr": 0.2895830780172117,
-    "obv_slope": -646.5714285714286,
+    "score_0_100": 62.99,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
+    "macd_hist": 0.03883017652358853,
+    "macd_slope": 0.008704601080074875,
+    "rsi": 50.102944675321154,
+    "rsi_slope": 0.26601392869282187,
+    "wave_strength": 0.9984576549303941,
+    "adx": 20.637536298663772,
+    "atr": 0.28318434121148844,
+    "obv_slope": -293.57142857142856,
     "mom14": 0.0,
-    "avg_vol20": 4242.4,
-    "last_close": 26.809999465942383,
+    "avg_vol20": 4049.5,
+    "last_close": 27.010000228881836,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -2459,7 +2459,15 @@
       "High": 26.809999465942383,
       "Low": 26.6299991607666,
       "Close": 26.809999465942383,
-      "Volume": 2348.0
+      "Volume": 2400.0
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 26.90999984741211,
+      "High": 27.010000228881836,
+      "Low": 26.90999984741211,
+      "Close": 27.010000228881836,
+      "Volume": 2290.0
     }
   ]
 }

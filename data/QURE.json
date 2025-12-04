@@ -1,34 +1,26 @@
 {
   "ticker": "QURE",
   "indicators": {
-    "score_0_100": 77.17,
-    "score_0_10": 7.72,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.2761023706821035,
-    "macd_slope": 0.31608283635191964,
-    "rsi": 15.165144621658186,
-    "rsi_slope": -0.8725706602759027,
-    "wave_strength": 0.997431478668462,
-    "adx": 39.22133054663117,
-    "atr": 3.2799409011964955,
-    "obv_slope": -609585.1428571428,
+    "score_0_100": 63.01,
+    "score_0_10": 6.3,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; recent volume spike (penalized); RSI oversold (preferred)",
+    "macd_hist": 0.1752335512238865,
+    "macd_slope": 0.2609250042120406,
+    "rsi": 8.605655172673096,
+    "rsi_slope": -1.221107267790508,
+    "wave_strength": 0.9143759292108764,
+    "adx": 39.87116750575347,
+    "atr": 3.365659375528295,
+    "obv_slope": -1413935.0,
     "mom14": 0.0,
-    "avg_vol20": 2934665.4,
-    "last_close": 25.479999542236328,
+    "avg_vol20": 2941674.5,
+    "last_close": 22.739999771118164,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 5.110000133514404,
-      "High": 5.255000114440918,
-      "Low": 5.005000114440918,
-      "Close": 5.039999961853027,
-      "Volume": 913600
-    },
     {
       "Date": "2024-03-06",
       "Open": 5.03000020980835,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-03",
-      "Open": 25.209999084472656,
+      "Open": 24.979999542236328,
       "High": 25.790000915527344,
-      "Low": 24.969999313354492,
+      "Low": 24.770000457763672,
       "Close": 25.479999542236328,
-      "Volume": 2198908
+      "Volume": 2202000
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 21.25,
+      "High": 23.979999542236328,
+      "Low": 21.0,
+      "Close": 22.739999771118164,
+      "Volume": 9074190
     }
   ]
 }

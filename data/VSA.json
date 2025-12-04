@@ -1,34 +1,26 @@
 {
   "ticker": "VSA",
   "indicators": {
-    "score_0_100": 69.9,
-    "score_0_10": 6.99,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.03612315937431165,
-    "macd_slope": 0.017933051204632868,
-    "rsi": 26.919476255190517,
-    "rsi_slope": 0.7355610370743447,
-    "wave_strength": 0.3101849431723162,
-    "adx": 46.0800453329242,
-    "atr": 0.182927156023753,
-    "obv_slope": -2143479.785714286,
+    "score_0_100": 65.95,
+    "score_0_10": 6.59,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.049595108356574436,
+    "macd_slope": 0.021575204121531907,
+    "rsi": 31.45488900562728,
+    "rsi_slope": 1.110110184358763,
+    "wave_strength": 0.38658864708742,
+    "adx": 46.890239391488976,
+    "atr": 0.1705466447668751,
+    "obv_slope": 847499.5,
     "mom14": 0.0,
-    "avg_vol20": 17613180.85,
-    "last_close": 0.09279999881982803,
+    "avg_vol20": 18378254.65,
+    "last_close": 0.0940999984741211,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 1.5800000429153442,
-      "High": 1.7000000476837158,
-      "Low": 1.5,
-      "Close": 1.6799999475479126,
-      "Volume": 171400
-    },
     {
       "Date": "2024-03-06",
       "Open": 1.7699999809265137,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-03",
-      "Open": 0.0940999984741211,
-      "High": 0.10209999978542328,
-      "Low": 0.09210000187158585,
-      "Close": 0.09279999881982803,
-      "Volume": 8383617
+      "Open": 0.10000000149011612,
+      "High": 0.10199999809265137,
+      "Low": 0.09200000017881393,
+      "Close": 0.09300000220537186,
+      "Volume": 8741700
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 0.09799999743700027,
+      "High": 0.09969999641180038,
+      "Low": 0.09009999781847,
+      "Close": 0.0940999984741211,
+      "Volume": 14986693
     }
   ]
 }

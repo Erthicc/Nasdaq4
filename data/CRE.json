@@ -1,20 +1,20 @@
 {
   "ticker": "CRE",
   "indicators": {
-    "score_0_100": 71.29,
-    "score_0_10": 7.13,
-    "explanation": "recent MACD bullish crossover; RSI oversold (preferred)",
-    "macd_hist": 0.008273065772827673,
-    "macd_slope": -0.0006889742859371657,
-    "rsi": 17.61363140274382,
-    "rsi_slope": -1.8637616198636948,
-    "wave_strength": 0.9325182726225355,
-    "adx": 15.263845151035033,
-    "atr": 0.047998420646773156,
-    "obv_slope": -9350.214285714286,
+    "score_0_100": 67.3,
+    "score_0_10": 6.73,
+    "explanation": "recent MACD bullish crossover; RSI oversold (preferred); rising OBV (confirmation)",
+    "macd_hist": 0.008356892737835075,
+    "macd_slope": -0.0008033302642279311,
+    "rsi": 21.250715940522383,
+    "rsi_slope": -1.8513635806964968,
+    "wave_strength": 0.9406700719610399,
+    "adx": 15.358589075368297,
+    "atr": 0.046368942271282076,
+    "obv_slope": 2629.785714285714,
     "mom14": 0.0,
-    "avg_vol20": 105730.15,
-    "last_close": 0.3700000047683716,
+    "avg_vol20": 107540.85,
+    "last_close": 0.3756999969482422,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -767,11 +767,19 @@
     },
     {
       "Date": "2025-12-03",
-      "Open": 0.3702000081539154,
-      "High": 0.384799987077713,
+      "Open": 0.3700000047683716,
+      "High": 0.38499999046325684,
       "Low": 0.3700000047683716,
       "Close": 0.3700000047683716,
-      "Volume": 31903.0
+      "Volume": 43900.0
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 0.3799000084400177,
+      "High": 0.39500001072883606,
+      "Low": 0.3700999915599823,
+      "Close": 0.3756999969482422,
+      "Volume": 133417.0
     }
   ]
 }

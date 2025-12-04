@@ -1,34 +1,26 @@
 {
   "ticker": "CETY",
   "indicators": {
-    "score_0_100": 65.33,
-    "score_0_10": 6.53,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.0533761349900162,
-    "macd_slope": 0.008270839961554219,
-    "rsi": 49.8181817221941,
-    "rsi_slope": 3.015946070366092,
-    "wave_strength": 1.705882308340815,
-    "adx": 29.391051956599718,
-    "atr": 0.33128745389200853,
-    "obv_slope": 20431819.14285714,
+    "score_0_100": 62.89,
+    "score_0_10": 6.29,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.04173626724960233,
+    "macd_slope": 0.007270846969464221,
+    "rsi": 51.94346302756203,
+    "rsi_slope": 3.1694631777431863,
+    "wave_strength": 1.7226656307194235,
+    "adx": 27.76384813458001,
+    "atr": 0.3183383483157443,
+    "obv_slope": 20490166.92857143,
     "mom14": 0.0,
-    "avg_vol20": 18355486.6,
-    "last_close": 1.1200000047683716,
+    "avg_vol20": 18387586.85,
+    "last_close": 1.2200000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 9.824999809265137,
-      "High": 10.125,
-      "Low": 9.149999618530273,
-      "Close": 10.095000267028809,
-      "Volume": 9353
-    },
     {
       "Date": "2024-03-06",
       "Open": 10.095000267028809,
@@ -3539,7 +3531,15 @@
       "High": 1.2100000381469727,
       "Low": 1.090000033378601,
       "Close": 1.1200000047683716,
-      "Volume": 738932
+      "Volume": 765300
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 1.100000023841858,
+      "High": 1.25,
+      "Low": 1.100000023841858,
+      "Close": 1.2200000286102295,
+      "Volume": 755537
     }
   ]
 }

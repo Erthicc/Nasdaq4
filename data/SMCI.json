@@ -1,34 +1,26 @@
 {
   "ticker": "SMCI",
   "indicators": {
-    "score_0_100": 66.23,
-    "score_0_10": 6.62,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred)",
-    "macd_hist": 0.33441882890019947,
-    "macd_slope": 0.1344971072065486,
-    "rsi": 37.00061941668842,
-    "rsi_slope": 0.5869452106882734,
-    "wave_strength": 0.9541527204581463,
-    "adx": 38.006162084392486,
-    "atr": 2.1606866410692884,
-    "obv_slope": -2097781.0,
+    "score_0_100": 62.82,
+    "score_0_10": 6.28,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
+    "macd_hist": 0.476901864425467,
+    "macd_slope": 0.14886842201600303,
+    "rsi": 46.928570038714106,
+    "rsi_slope": 1.5910140327559985,
+    "wave_strength": 0.9647584956104304,
+    "adx": 37.519316784367724,
+    "atr": 2.101670033023339,
+    "obv_slope": 1779940.0714285714,
     "mom14": 0.0,
-    "avg_vol20": 28441708.3,
-    "last_close": 33.68000030517578,
+    "avg_vol20": 26211858.05,
+    "last_close": 34.22999954223633,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 103.5,
-      "High": 109.75,
-      "Low": 97.61000061035156,
-      "Close": 109.08300018310547,
-      "Volume": 133044000
-    },
     {
       "Date": "2024-03-06",
       "Open": 115.80000305175781,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-03",
-      "Open": 32.9900016784668,
-      "High": 33.70500183105469,
-      "Low": 32.6697998046875,
+      "Open": 33.0,
+      "High": 33.709999084472656,
+      "Low": 32.66999816894531,
       "Close": 33.68000030517578,
-      "Volume": 16117966
+      "Volume": 16253200
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 33.5,
+      "High": 34.40999984741211,
+      "Low": 33.08000183105469,
+      "Close": 34.22999954223633,
+      "Volume": 16681361
     }
   ]
 }
