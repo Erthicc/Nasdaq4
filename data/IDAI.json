@@ -1,34 +1,26 @@
 {
   "ticker": "IDAI",
   "indicators": {
-    "score_0_100": 63.32,
-    "score_0_10": 6.33,
-    "explanation": "recent MACD bullish crossover; strong ADX trend",
-    "macd_hist": 0.018022466798392242,
-    "macd_slope": -0.0002511202375876227,
-    "rsi": 46.96969836261705,
-    "rsi_slope": -0.7893315637482152,
-    "wave_strength": 1.0020375943890596,
-    "adx": 30.24265363235705,
-    "atr": 0.4156383903342312,
-    "obv_slope": -4797.785714285715,
+    "score_0_100": 63.14,
+    "score_0_10": 6.31,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.02312704599088214,
+    "macd_slope": 0.000983620291866478,
+    "rsi": 48.62744693685177,
+    "rsi_slope": -0.3061341922220185,
+    "wave_strength": 1.0727056037360163,
+    "adx": 30.679892172574633,
+    "atr": 0.4100315776286098,
+    "obv_slope": 273.7857142857143,
     "mom14": 0.0,
-    "avg_vol20": 199996.55,
-    "last_close": 4.5,
+    "avg_vol20": 198033.35,
+    "last_close": 4.369999885559082,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 1.0800000429153442,
-      "High": 1.1100000143051147,
-      "Low": 1.0399999618530273,
-      "Close": 1.0499999523162842,
-      "Volume": 145000
-    },
     {
       "Date": "2024-03-07",
       "Open": 1.0399999618530273,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-04",
       "Open": 4.380000114440918,
-      "High": 4.590000152587891,
+      "High": 4.630000114440918,
       "Low": 4.25,
       "Close": 4.5,
-      "Volume": 113131
+      "Volume": 113200
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 4.491399765014648,
+      "High": 4.630000114440918,
+      "Low": 4.329999923706055,
+      "Close": 4.369999885559082,
+      "Volume": 127567
     }
   ]
 }

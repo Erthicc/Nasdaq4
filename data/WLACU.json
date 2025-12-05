@@ -1,16 +1,16 @@
 {
   "ticker": "WLACU",
   "indicators": {
-    "score_0_100": 63.53,
-    "score_0_10": 6.35,
+    "score_0_100": 62.89,
+    "score_0_10": 6.29,
     "explanation": "recent MACD bullish crossover; strong ADX trend; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.016633863575106933,
-    "macd_slope": 0.005642627380090235,
+    "macd_hist": 0.07339932634369989,
+    "macd_slope": 0.004092764364952133,
     "rsi": 39.3162398952986,
-    "rsi_slope": -1.424501832062761,
-    "wave_strength": 1.0756676618744012,
-    "adx": 28.126713303346,
-    "atr": 0.5213682010821986,
+    "rsi_slope": -1.809301514498311,
+    "wave_strength": 1.0750695164060515,
+    "adx": 28.862924720485353,
+    "atr": 0.484127615290613,
     "obv_slope": -17.5,
     "mom14": 0.0,
     "avg_vol20": 248.1,
@@ -2156,6 +2156,14 @@
       "Low": 14.0,
       "Close": 14.0,
       "Volume": 116.0
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 14.0,
+      "High": 14.0,
+      "Low": 14.0,
+      "Close": 14.0,
+      "Volume": 0.0
     }
   ]
 }

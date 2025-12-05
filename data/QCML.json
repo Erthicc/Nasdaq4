@@ -1,20 +1,20 @@
 {
   "ticker": "QCML",
   "indicators": {
-    "score_0_100": 62.7,
-    "score_0_10": 6.27,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.20705661090859323,
-    "macd_slope": 0.025872739308086458,
-    "rsi": 49.36199557744489,
-    "rsi_slope": -0.24444983945056872,
-    "wave_strength": 0.9485495839830621,
-    "adx": 18.433603588343885,
-    "atr": 1.2103018960176863,
-    "obv_slope": 8288.57142857143,
+    "score_0_100": 62.08,
+    "score_0_10": 6.21,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.25959605756883564,
+    "macd_slope": 0.030114829673547897,
+    "rsi": 51.202851421538995,
+    "rsi_slope": 1.2259180699599586,
+    "wave_strength": 0.9477625930180291,
+    "adx": 18.562844251781517,
+    "atr": 1.1717802982291043,
+    "obv_slope": 19937.0,
     "mom14": 0.0,
-    "avg_vol20": 114932.0,
-    "last_close": 22.249000549316406,
+    "avg_vol20": 102525.9,
+    "last_close": 22.37779998779297,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1375,11 +1375,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 22.325000762939453,
+      "Open": 22.25,
       "High": 22.3799991607666,
       "Low": 22.0,
       "Close": 22.249000549316406,
-      "Volume": 61240.0
+      "Volume": 83400.0
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 22.3799991607666,
+      "High": 22.920000076293945,
+      "Low": 22.360000610351562,
+      "Close": 22.37779998779297,
+      "Volume": 56118.0
     }
   ]
 }

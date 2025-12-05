@@ -1,20 +1,20 @@
 {
   "ticker": "QCMU",
   "indicators": {
-    "score_0_100": 62.71,
-    "score_0_10": 6.27,
-    "explanation": "recent MACD bullish crossover; rising OBV (confirmation)",
-    "macd_hist": 0.2620820004257937,
-    "macd_slope": 0.034009386816511326,
-    "rsi": 49.43678760488674,
-    "rsi_slope": -0.2166363418919894,
-    "wave_strength": 0.948691390479831,
-    "adx": 17.880792114760144,
-    "atr": 1.466911309623296,
-    "obv_slope": 5464.357142857143,
+    "score_0_100": 62.28,
+    "score_0_10": 6.23,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.3311169679546215,
+    "macd_slope": 0.03923738344109451,
+    "rsi": 50.8625394973529,
+    "rsi_slope": 1.2016061791105892,
+    "wave_strength": 0.9480795343221579,
+    "adx": 18.19024673308328,
+    "atr": 1.4274992203163586,
+    "obv_slope": 8649.714285714286,
     "mom14": 0.0,
-    "avg_vol20": 36640.05,
-    "last_close": 28.582399368286133,
+    "avg_vol20": 29734.8,
+    "last_close": 28.76930046081543,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -927,11 +927,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 28.410600662231445,
-      "High": 28.709999084472656,
+      "Open": 28.549999237060547,
+      "High": 28.75,
       "Low": 28.389999389648438,
-      "Close": 28.582399368286133,
-      "Volume": 10601.0
+      "Close": 28.582000732421875,
+      "Volume": 10600.0
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 28.809999465942383,
+      "High": 29.459999084472656,
+      "Low": 28.76930046081543,
+      "Close": 28.76930046081543,
+      "Volume": 19996.0
     }
   ]
 }

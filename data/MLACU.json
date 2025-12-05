@@ -1,16 +1,16 @@
 {
   "ticker": "MLACU",
   "indicators": {
-    "score_0_100": 83.42,
-    "score_0_10": 8.34,
+    "score_0_100": 83.17,
+    "score_0_10": 8.32,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20",
-    "macd_hist": 0.0005612259599424886,
-    "macd_slope": 0.001688524959112468,
+    "macd_hist": 0.0008716391904563005,
+    "macd_slope": 0.0014390710935002066,
     "rsi": 0.0,
     "rsi_slope": 0.0,
     "wave_strength": 1.203636342828924,
-    "adx": 17.263615695000542,
-    "atr": 0.03664413914377575,
+    "adx": 17.05535080514791,
+    "atr": 0.03402670063350605,
     "obv_slope": 0.0,
     "mom14": 0.0,
     "avg_vol20": 0.0,
@@ -1959,6 +1959,14 @@
     },
     {
       "Date": "2025-12-03",
+      "Open": 11.0,
+      "High": 11.0,
+      "Low": 11.0,
+      "Close": 11.0,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-12-04",
       "Open": 11.0,
       "High": 11.0,
       "Low": 11.0,

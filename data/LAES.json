@@ -1,34 +1,26 @@
 {
   "ticker": "LAES",
   "indicators": {
-    "score_0_100": 64.7,
-    "score_0_10": 6.47,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized)",
-    "macd_hist": 0.0712125541130681,
-    "macd_slope": 0.024179291804538157,
-    "rsi": 52.932961282138095,
-    "rsi_slope": 1.4833069679678519,
-    "wave_strength": 0.9574296788259283,
-    "adx": 20.636548162245667,
-    "atr": 0.56681148115453,
-    "obv_slope": -159423.42857142858,
+    "score_0_100": 63.3,
+    "score_0_10": 6.33,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.09237195101531959,
+    "macd_slope": 0.028343575796662683,
+    "rsi": 55.409362430048056,
+    "rsi_slope": 1.727113639159801,
+    "wave_strength": 1.1016535549416353,
+    "adx": 20.039491078156225,
+    "atr": 0.5556106501729284,
+    "obv_slope": 858163.2857142857,
     "mom14": 0.0,
-    "avg_vol20": 16510928.6,
-    "last_close": 5.079999923706055,
+    "avg_vol20": 16192070.7,
+    "last_close": 4.860000133514404,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 1.909999966621399,
-      "High": 2.0390000343322754,
-      "Low": 1.8700000047683716,
-      "Close": 1.9500000476837158,
-      "Volume": 791100
-    },
     {
       "Date": "2024-03-07",
       "Open": 2.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 4.679999828338623,
+      "Open": 4.690000057220459,
       "High": 5.099999904632568,
       "Low": 4.599999904632568,
       "Close": 5.079999923706055,
-      "Volume": 11163572
+      "Volume": 11627900
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 4.960000038146973,
+      "High": 4.974699974060059,
+      "Low": 4.670000076293945,
+      "Close": 4.860000133514404,
+      "Volume": 9880714
     }
   ]
 }

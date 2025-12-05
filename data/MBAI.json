@@ -1,34 +1,26 @@
 {
   "ticker": "MBAI",
   "indicators": {
-    "score_0_100": 62.56,
-    "score_0_10": 6.26,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.026806546709876047,
-    "macd_slope": -0.0006332686958751466,
-    "rsi": 51.621619559081,
-    "rsi_slope": -0.06402621458968534,
-    "wave_strength": 1.1569992193146883,
-    "adx": 22.05920103216157,
-    "atr": 0.2029009637302929,
-    "obv_slope": 655550.0,
+    "score_0_100": 62.21,
+    "score_0_10": 6.22,
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 0.021409834997547884,
+    "macd_slope": -0.002500267889033315,
+    "rsi": 40.55690036521745,
+    "rsi_slope": -1.5103732084996362,
+    "wave_strength": 1.0677893632459012,
+    "adx": 22.512876929360292,
+    "atr": 0.1966514020885298,
+    "obv_slope": 637617.6428571428,
     "mom14": 0.0,
-    "avg_vol20": 604490.0,
-    "last_close": 1.75,
+    "avg_vol20": 604977.65,
+    "last_close": 1.6629999876022339,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 1.9199999570846558,
-      "High": 1.9550000429153442,
-      "Low": 1.899999976158142,
-      "Close": 1.899999976158142,
-      "Volume": 47000
-    },
     {
       "Date": "2024-03-07",
       "Open": 1.909999966621399,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-04",
       "Open": 1.600000023841858,
-      "High": 1.7870999574661255,
+      "High": 1.7869999408721924,
       "Low": 1.600000023841858,
       "Close": 1.75,
-      "Volume": 87600
+      "Volume": 90900
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 1.7200000286102295,
+      "High": 1.7654999494552612,
+      "Low": 1.649999976158142,
+      "Close": 1.6629999876022339,
+      "Volume": 43853
     }
   ]
 }

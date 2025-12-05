@@ -1,20 +1,20 @@
 {
   "ticker": "SKBL",
   "indicators": {
-    "score_0_100": 63.18,
-    "score_0_10": 6.32,
-    "explanation": "recent MACD bullish crossover; strong ADX trend; rising OBV (confirmation)",
-    "macd_hist": 0.0121385264775698,
-    "macd_slope": 0.006169629341530787,
-    "rsi": 48.45815077640178,
-    "rsi_slope": -0.02509797159117864,
-    "wave_strength": 0.903795208365695,
-    "adx": 26.10437546013744,
-    "atr": 0.45178281183698094,
-    "obv_slope": 26624.785714285714,
+    "score_0_100": 62.26,
+    "score_0_10": 6.23,
+    "explanation": "recent MACD bullish crossover; strong ADX trend; RSI above 50 (penalized); rising OBV (confirmation)",
+    "macd_hist": 0.03883201746180348,
+    "macd_slope": 0.010435127009477671,
+    "rsi": 50.67264484646315,
+    "rsi_slope": 0.08397590429951052,
+    "wave_strength": 0.9092523259466055,
+    "adx": 25.102190233796982,
+    "atr": 0.43109220117583025,
+    "obv_slope": 62653.07142857143,
     "mom14": 0.0,
-    "avg_vol20": 377277.35,
-    "last_close": 2.940000057220459,
+    "avg_vol20": 353917.15,
+    "last_close": 2.9700000286102295,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
@@ -1616,10 +1616,18 @@
     {
       "Date": "2025-12-04",
       "Open": 2.690000057220459,
-      "High": 2.9488000869750977,
+      "High": 2.950000047683716,
       "Low": 2.619999885559082,
       "Close": 2.940000057220459,
-      "Volume": 376747.0
+      "Volume": 377100.0
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 2.9800000190734863,
+      "High": 3.0,
+      "Low": 2.8389999866485596,
+      "Close": 2.9700000286102295,
+      "Volume": 317143.0
     }
   ]
 }

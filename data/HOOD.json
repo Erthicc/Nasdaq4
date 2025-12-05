@@ -1,34 +1,26 @@
 {
   "ticker": "HOOD",
   "indicators": {
-    "score_0_100": 65.35,
-    "score_0_10": 6.53,
-    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); rising OBV (confirmation)",
-    "macd_hist": 2.2730791997454913,
-    "macd_slope": 0.3175624801675654,
-    "rsi": 61.71815977990861,
-    "rsi_slope": 1.6495490480097186,
-    "wave_strength": 1.03984077696227,
-    "adx": 18.158541035217546,
-    "atr": 8.365400243642847,
-    "obv_slope": 9841371.357142856,
+    "score_0_100": 67.52,
+    "score_0_10": 6.75,
+    "explanation": "recent MACD bullish crossover; RSI above 50 (penalized); strong wave vs SMA20; rising OBV (confirmation)",
+    "macd_hist": 2.2292276554899297,
+    "macd_slope": 0.33004506362379465,
+    "rsi": 56.70117258439053,
+    "rsi_slope": 1.5886683101358448,
+    "wave_strength": 1.1071759009271198,
+    "adx": 16.9348691995261,
+    "atr": 8.277769548600078,
+    "obv_slope": 5938324.214285715,
     "mom14": 0.0,
-    "avg_vol20": 31309709.95,
-    "last_close": 137.0800018310547,
+    "avg_vol20": 29953003.05,
+    "last_close": 131.9499969482422,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 16.100000381469727,
-      "High": 16.59000015258789,
-      "Low": 15.770000457763672,
-      "Close": 16.399999618530273,
-      "Volume": 13102400
-    },
     {
       "Date": "2024-03-07",
       "Open": 16.6200008392334,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 133.22500610351562,
-      "High": 137.33999633789062,
+      "Open": 133.2100067138672,
+      "High": 137.36000061035156,
       "Low": 132.77000427246094,
       "Close": 137.0800018310547,
-      "Volume": 20189699
+      "Volume": 20572100
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 135.0749969482422,
+      "High": 135.24000549316406,
+      "Low": 130.41000366210938,
+      "Close": 131.9499969482422,
+      "Volume": 22961261
     }
   ]
 }

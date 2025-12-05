@@ -1,16 +1,16 @@
 {
   "ticker": "CCIXU",
   "indicators": {
-    "score_0_100": 81.78,
-    "score_0_10": 8.18,
+    "score_0_100": 81.5,
+    "score_0_10": 8.15,
     "explanation": "recent MACD bullish crossover; RSI oversold (preferred); strong wave vs SMA20; rising OBV (confirmation)",
-    "macd_hist": 0.003009765310760723,
-    "macd_slope": 0.001448898118114916,
+    "macd_hist": 0.002689790760056823,
+    "macd_slope": 0.0009218333237344627,
     "rsi": 0.0,
     "rsi_slope": -2.14286117002499,
-    "wave_strength": 1.0811513436323548,
-    "adx": 9.600511836236578,
-    "atr": 0.022958662051122677,
+    "wave_strength": 1.0803989737942379,
+    "adx": 9.41392285552776,
+    "atr": 0.021318757618899627,
     "obv_slope": 200.0,
     "mom14": 0.0,
     "avg_vol20": 150.0,
@@ -3207,6 +3207,14 @@
     },
     {
       "Date": "2025-12-03",
+      "Open": 10.800000190734863,
+      "High": 10.800000190734863,
+      "Low": 10.800000190734863,
+      "Close": 10.800000190734863,
+      "Volume": 0.0
+    },
+    {
+      "Date": "2025-12-04",
       "Open": 10.800000190734863,
       "High": 10.800000190734863,
       "Low": 10.800000190734863,
